@@ -4,7 +4,7 @@
 ## To use 
 - Make sure you have these installed
     - Python3
-    - Your browser of choice webdrivers
+    - Webdrivers for your browser of choice 
         - Google Chrome:  https://chromedriver.chromium.org/downloads
             - NOTE: Lastest version of chrome doesn't have stable webdrivers 
             - Check here for lastest update: https://googlechromelabs.github.io/chrome-for-testing/
@@ -20,7 +20,7 @@
             - Then Safari > Develop > Select Allow Remote Automation
             - Need Help?  https://www.youtube.com/watch?v=URt4t4e4Hs0 
 - Create a virtual environment if you choose to do so
-    - In in the /GSUR folder
+    - In the /GSUR folder
     - `python -m venv myenv`
     - On Windows `myenv/Scripts/activate`
     - On macOS and Linux `source myenv/bin/activate`

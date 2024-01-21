@@ -479,3 +479,36 @@ JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 37
 1705021950466	Marionette	INFO	Stopped listening on port 61553
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1705604268395	geckodriver	INFO	Listening on 127.0.0.1:54249
+1705604268646	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/75/nvc7h7s969bbxs9h7nyk5d8c0000gn/T/rust_mozprofileNpVWYY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705604269253	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705604269707	Marionette	INFO	Listening on port 54257
+WebDriver BiDi listening on ws://127.0.0.1:54250
+1705604269766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54250/devtools/browser/429b863d-bcae-43a3-8645-b50886e2a111
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://emma-back.mse.psych.wsu.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://emma-back.mse.psych.wsu.edu."
+1705604299940	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1705604339976	Marionette	INFO	Stopped listening on port 54257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1705613096848	geckodriver	INFO	Listening on 127.0.0.1:55564
+1705613097073	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/75/nvc7h7s969bbxs9h7nyk5d8c0000gn/T/rust_mozprofilegmSirt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705613097653	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705613098221	Marionette	INFO	Listening on port 55572
+WebDriver BiDi listening on ws://127.0.0.1:55565
+1705613098276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55565/devtools/browser/373f468e-a097-4387-8fa3-712abf2112c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://emma-back.mse.psych.wsu.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://emma-back.mse.psych.wsu.edu."
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1705613110209	Marionette	INFO	Stopped listening on port 55572
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."

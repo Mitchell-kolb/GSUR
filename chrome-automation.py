@@ -88,6 +88,7 @@ except Exception as e:
 #Prints clipboard
 #isCopied = pyperclip.paste()
 #print("Clipboard:\t", isCopied)
+#Looping
 
 #Waits until the browser window is closed then closes the script and driver
 try:

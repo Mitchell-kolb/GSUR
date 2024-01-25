@@ -1,4 +1,4 @@
-import os
+""" import os
 
 # Get the current working directory (where the script is located)
 current_directory = os.path.dirname(os.path.realpath(__file__))
@@ -9,3 +9,6 @@ if not os.path.exists(dir_path):
     os.makedirs(dir_path)
 else:
     print("Already exists")
+ """
+
+

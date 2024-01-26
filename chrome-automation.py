@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from time import sleep
 import pyperclip, os
+from dotenv import load_dotenv
 
 # Sets up driver and opens browser
 driver = webdriver.Chrome()  ### NEED CHROME WEBDRIVERS TO BE RELEASED
@@ -22,10 +23,14 @@ driver.set_window_position(screen_width // 2, 0)
 WebDriverWait(driver, 10).until(lambda d: d.execute_script('return document.readyState') == 'complete')
 
 #Login Credentials
+load_dotenv()
+env_username = os.getenv("USERNAME")
+env_password = os.getenv("PASSWORD")
+#print(env_password, env_username)
 signInBoxUsername = driver.find_element(By.ID, 'inputUsername')
-signInBoxUsername.send_keys('mitchellk1')
+signInBoxUsername.send_keys(env_username)
 signInBoxPassword = driver.find_element(By.ID, 'inputPassword')
-signInBoxPassword.send_keys('mitchellk1')
+signInBoxPassword.send_keys(env_password)
 signInButton = driver.find_element(By.XPATH, '/html/body/div/form[1]/button')
 signInButton.click()
 

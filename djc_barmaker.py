@@ -176,9 +176,13 @@ def do_calc(path, output_name):
     m_forward_l.append(m_forward)
     #REPEATED QUESTIONS: supress trailing logs except those that are different
     #dont allow two hints in a row
-    
+    print("1")
     df_data = pd.DataFrame({'skill quiz incorrect':sq_incorrect,'skill quiz correct':sq_correct,'prev_page':prev_page,'next_page':next_page,'skill quiz hint':sq_hint,'incorrect':incorrect,'correct':correct,'hint':hint,'m_forward':m_forward,'m_back':[m_back]})
-    df_data.to_csv('/Users/mitchellkolb/Downloads/GSUR/Codebase/People/results_by_mod.csv', index=False)
+    fileTitle = "results_by_mod"
+    results_to_csv = os.path.join(output_name, f"{fileTitle}.csv")
+    print(results_to_csv)
+    #df_data.to_csv('/Users/mitchellkolb/Downloads/GSUR/Codebase/People/results_by_mod.csv', index=False)
+    df_data.to_csv(results_to_csv, index=False)
     
     data = [sq_incorrect, sq_correct, sq_hint,incorrect,correct, hint, next_page, prev_page]
     #print("Data is:", data)
@@ -231,7 +235,7 @@ def do_calc(path, output_name):
 
     df_data['Seconds'] = [seconds]
 
-    df_data.to_csv(str(output_name)+'.csv', index=False)
+    df_data.to_csv(str(output_name)+'FinalResults.csv', index=False)
         
     #print(score_list)
 
@@ -293,7 +297,7 @@ def DJC_python_code(df):
     values are the result of a  sample calculation (in this case, double the value found in old_column.
     A bar chart is created of the dataframe and the expanded dataframe is returned.
     """
-    df = pd.read_csv(filename, delimiter=',')
+    df = pd.read_csv(filename1, delimiter=',')
     df['new_column'] = df['old_column'].apply(lambda x: x * 2)
     DJC_create_bar_chart(df)
     return df
@@ -317,20 +321,27 @@ if(__name__ == "__main__"):
     '''
     Place the file you want to verify in './people', and write its name in "filename"
     '''
-    filename="ABtest1_2023-02-01 12-51-21"
+    filename1="ABtest1_2023-02-01 12:51:21"
+    filename2="ARtest1_2023-01-31 16:35:10"
+    filename3="ARtest1_2023-01-31 16:37:22"
+    filename4="ARtest1_2023-01-31 16:46:39"
+    filename5="ARtest1_2023-01-31 16:48:13"
+    
     #DJC_code(filename)
 
-    #
-    dat_path = "./Desktop/People/"
-    test_path_txt = "./Desktop/People/"+filename+".txt"
-    test_path = "./Desktop/People/"+filename+".csv"
+    rawDataFilePath = "/Users/mitchellkolb/Downloads/GSUR/People/"+filename5+".txt"
+    outputFilePath = "/Users/mitchellkolb/Downloads/GSUR/Results/"
+    outputFile = "/Users/mitchellkolb/Downloads/GSUR/Results/FinalResults.csv"
 
-    test_path_txt = "/Users/mitchellkolb/Downloads/GSUR/Codebase/People/"+filename+".txt"
-    test_path = "/Users/mitchellkolb/Downloads/GSUR/Codebase/People/"+filename+".csv"
-    do_calc(test_path_txt, test_path)
-    '''
-    try:
-        conv_csv(test_path_txt, test_path)
-    except:
-        print("Error, no text file by that name")
-    '''
+    # Get the current working directory (where the script is located)
+    current_directory = os.path.dirname(os.path.realpath(__file__))
+    print("Current directory:", current_directory)
+    # Checks/creates a the People folder in this directory.
+    dir_path = current_directory + "/Results"
+    if not os.path.exists(dir_path):
+        os.makedirs(dir_path)
+    else:
+        print("Results folder already exists")
+
+    do_calc(rawDataFilePath, outputFilePath)
+

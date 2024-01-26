@@ -29,6 +29,12 @@
     - Make sure to upgrade pip `python -m pip install --upgrade pip`
 - Install packages from requirements.txt before running the Living Atlas
     - `pip install -r requirements.txt`
+- For logging into the site you have to have your username and password setup for the automation to use
+    - Create a new file `.env` in the same directory as the chrome_automation.py file and have it contain this:
+        ```
+        USERNAME = "your_username"
+        PASSWORD = "your_password"
+        ```
 
 
 ### To Run the GSUR Web Automation

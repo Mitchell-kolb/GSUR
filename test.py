@@ -1,17 +1,40 @@
 
 
-
 import os
 
 # Get the current working directory (where the script is located)
 current_directory = os.path.dirname(os.path.realpath(__file__))
-print("Current directory:", current_directory)
-# Checks/creates a the People folder in this directory.
-dir_path = current_directory + "/Spotify"
-if not os.path.exists(dir_path):
-    os.makedirs(dir_path)
+print("Main directory:", current_directory)
+
+# Checks/creates the Results folder in this directory
+results_dir_path = os.path.join(current_directory, "Results")
+if not os.path.exists(results_dir_path):
+    os.makedirs(results_dir_path)
+
+people_dir_path = os.path.join(current_directory, "People")
+txt_files = []  # Initialize an empty list to store the full paths of .txt files
+
+# Check if the People directory exists
+if os.path.exists(people_dir_path) and os.path.isdir(people_dir_path):
+    # List all files in the directory and sort them
+    files = sorted(os.listdir(people_dir_path))
+    # Append the full path of .txt files to the list
+    for file in files:
+        if file.endswith('.txt'):
+            full_path = os.path.join(people_dir_path, file)
+            txt_files.append(full_path)
 else:
-    print("Already exists")
+    print("The provided directory does not exist or is not a directory.")
+
+print(txt_files)
+
+for item in txt_files:
+    print(item)
+#print(txt_files)
+
+
+
+
 
 
 """ 

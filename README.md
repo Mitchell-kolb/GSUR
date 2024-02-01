@@ -1,30 +1,36 @@
 # GSUR
 
+---
+# Installation
 
-## To use 
-- Make sure you have these installed
-    - Python3
-    - Webdrivers for your browser of choice 
-        - Google Chrome:  https://chromedriver.chromium.org/downloads
-            - NOTE: Lastest version of chrome doesn't have stable webdrivers but you can download test previous chrome version that can work. As long as the version and webdriver match
-            - Check here for lastest update: https://googlechromelabs.github.io/chrome-for-testing/
-                - Need Help?  
-                    - MacOS: https://www.youtube.com/watch?v=m4-Z5KqDHpU
-                    - Windows: NA
-        - Firefox:  https://github.com/mozilla/geckodriver/releases
-            - Need Help?  
-                - MacOS: https://www.youtube.com/watch?v=SlC1pd8EBNY or https://www.youtube.com/watch?v=J2GssX9NMOk 
-                - Windows: https://www.youtube.com/watch?v=VSDWqbc8wig 
-        - Safari: Safari has webdrivers built into the browser you just have to enable them
-            - Safari > Preferences > Advanced Tab > Show Developer Menu in Menu Bar
-            - Then Safari > Develop > Select Allow Remote Automation
-            - Need Help?  https://www.youtube.com/watch?v=URt4t4e4Hs0 
-- Create a virtual environment if you choose to do so
+Frameworks
+Python 3
+Webdrivers are required to run automated browser software 
+
+    - Browser: Google Chrome
+    - How to check your chrome browser version
+            - Open a new tab in Chrome
+            - Click the three dot button in the top right
+            - Click the "Help" button that is second from the bottom
+            - Click "About Google Chrome" 
+            - The tab will reload and you should be able to see your browser version number listed and the option to update the browser if you have not
+            ![About Google Chrome Version Image](images/chrome_version_number.jpg "Chrome Version")
+
+    - [Webdriver Download](https://googlechromelabs.github.io/chrome-for-testing/ "Chrome Webdriver")
+    - NOTE: If the Lastest version of chrome doesn't have stable webdrivers but you can download previous chrome browser versions along with their drivers that are certified to work from the site above. As long as the browser and webdriver version match everything will work.
+    - How to install:
+       1. 
+        - Need Help?  
+            - MacOS: https://www.youtube.com/watch?v=m4-Z5KqDHpU
+            - Windows: NA
+
+
+- ***(OPTIONAL)*** Create a virtual environment if you choose to do so
     - In the /GSUR folder
     - `python -m venv myenv`
     - On Windows `myenv/Scripts/activate`
     - On macOS and Linux `source myenv/bin/activate`
-- Managing the virtual environment
+- ***(OPTIONAL)*** Managing the virtual environment
     - When you want to leave use `deactivate`
     - Make sure to upgrade pip `python -m pip install --upgrade pip`
 - Install packages from requirements.txt before running the Living Atlas
@@ -40,5 +46,3 @@
 ### To Run the GSUR Web Automation
 - In 1st terminal navigate to the /GSUR folder 
     - Use `python3 chrome-automation.py` to run the chrome code
-    - Use `python3 firefox-automation.py` to run the firefox code
-    - Use `python3 safari-automation.py` to run the safari code

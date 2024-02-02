@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">GSUR Data Automation Tool</h1>
 Automate the Process of Downloading and Analyzing Patient Data 
-<img align="center" width="50%" src="images/wsu_logo.jpg">
+<img align="center" width="60%" src="images/wsu_logo.jpg">
 </div>
 
 ---

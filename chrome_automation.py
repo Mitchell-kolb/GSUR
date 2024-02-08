@@ -8,6 +8,9 @@ from time import sleep
 import pyperclip, os
 from dotenv import load_dotenv
 
+#LastTwoFeatures
+def nice():
+    print("nice")
 
 def test_selenium():
     
@@ -121,7 +124,6 @@ def automation():
     #Prints clipboard
     #isCopied = pyperclip.paste()
     #print("Clipboard:\t", isCopied)
-    #Looping
 
     #Waits until the browser window is closed then closes the script and driver
     # try:

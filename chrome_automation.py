@@ -5,9 +5,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from time import sleep
-import pyperclip, os
+import os
 from dotenv import load_dotenv
 
+#LastTwoFeatures
 
 def test_selenium():
     
@@ -30,8 +31,23 @@ def test_selenium():
     driver.quit()
 
 
+def edit_credentials():
+    # Prompt the user for username and password
+    username = input("Enter your username: ")
+    password = input("Enter your password: ")
+    # Prepare the content to write to the .env file
+    content = f'USERNAME = "{username}"\nPASSWORD = "{password}"'
 
-def automation():
+    # Define the path to the .env file
+    env_file_path = '.env'
+    # Write (or overwrite) the .env file with the new content
+    with open(env_file_path, 'w') as file:
+        file.write(content)
+
+    print("The credentials has been updated.")
+
+
+def automation(amountOfFiles):
 
     # Sets up driver and opens browser
     driver = webdriver.Chrome()  ### NEED CHROME WEBDRIVERS TO BE RELEASED
@@ -59,25 +75,39 @@ def automation():
     signInButton = driver.find_element(By.XPATH, '/html/body/div/form[1]/button')
     signInButton.click()
 
+    #Wait a bit for the page to react to the login attempt
+    sleep(1)
+    #Check for the presence of the alert indicating incorrect credentials
+    try:
+        alert_div = driver.find_element(By.CLASS_NAME, 'alert-danger')
+        if "Email could not be found" in alert_div.text or "Invalid credentials." in alert_div.text:
+            print("The credentials are incorrect.")
+            driver.close()
+    except NoSuchElementException:
+        # If the element is not found, it means login might have been successful or the page didn't show the error as expected
+        print("Login attempt completed.")
+
     #Goes to the training files tab of the website
-    sleep(2)
+    sleep(1)
     try:
         trainingButton = driver.find_element(By.PARTIAL_LINK_TEXT, 'Training Files')
         trainingButton.click()
     except NoSuchElementException:
         print("Element not found. Please check your Xpath selector.")
+        driver.quit()
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
+        driver.quit()
 
     #Loops through files and prints them
     try:
         #Gets title of the first item
         title = driver.find_element(By.XPATH, '/html/body/div/div/div/table/tbody/tr[2]').text
-        print(title)
+        print(f"First item is: {title}")
 
         #Counts all file items in the list
         rows = len(driver.find_elements(By.XPATH, '/html/body/div/div/div/table/tbody/tr'))
-        print(rows-1)
+        print(f"Total number of patient data: {rows-1}")
 
         #Get the current working directory (where the web script is located)
         currentDirectory = os.path.dirname(os.path.realpath(__file__))
@@ -87,9 +117,24 @@ def automation():
         if not os.path.exists(dirPath):
             os.makedirs(dirPath)
 
+        
+        if amountOfFiles == "all":
+            amountOfFiles = rows
+        else:
+            # Check if amountOfFiles is a digit and its integer value is >= rows
+            if amountOfFiles.isdigit():
+                amountOfFiles_int = int(amountOfFiles)  # Convert to integer
+                if amountOfFiles_int >= rows:
+                    amountOfFiles = rows
+                else:
+                    amountOfFiles = amountOfFiles_int
+            else:
+                # Handle the case where amountOfFiles is neither "all" nor a digit
+                print("Invalid input")
+
 
         #Loops through files and downloads them
-        for r in range(2, 7):
+        for r in range(2, (amountOfFiles+2)):
             # Find the file list on webpage
             xpath = f'/html/body/div/div/div/table/tbody/tr[{r}]'
             fileCurrent = driver.find_element(By.XPATH, xpath)
@@ -118,10 +163,6 @@ def automation():
     sleep(3)
     print('Session Ended')
     driver.quit()
-    #Prints clipboard
-    #isCopied = pyperclip.paste()
-    #print("Clipboard:\t", isCopied)
-    #Looping
 
     #Waits until the browser window is closed then closes the script and driver
     # try:

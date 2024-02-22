@@ -1,7 +1,2 @@
-patient_name,date,time_taken,quiz_name,quiz_attempt,skill quiz incorrect,skill quiz correct,prev_page,next_page,skill quiz hint,incorrect,correct,hint,m_forward,m_back,Hours,Minutes,Seconds
-ABtest1,2023-02-01,12:51:21,Skills Quiz-1,000,0,6,6,41,3,3,6,2,0,0,0.0,36.0,6.0
+patient_name,date,time_taken,quiz_name,quiz_attempt,skill quiz incorrect,skill quiz correct,prev_page,next_page,skill quiz hint,incorrect,correct,hint,m_forward,m_back,Hours,Minutes,SecondsABtest1,2023-02-01,12:51:21,Skills Quiz-1,000,0,6,6,41,3,3,6,2,0,0,0.0,36.0,6.0
 ARtest1,2023-01-31,16:35:10,Skills Quiz-1,000,1,5,2,38,0,0,5,0,0,0,0.0,14.0,12.0
-ARtest1,2023-01-31,16:37:22,Skills Quiz-3,000,2,11,0,5,0,3,3,0,0,0,0.0,1.0,48.0
-ARtest1,2023-01-31,16:46:39,Skills Quiz-5,000,3,7,0,32,0,3,3,0,0,0,0.0,9.0,3.0
-ARtest1,2023-01-31,16:48:13,Skills Quiz-7,000,1,12,0,3,0,0,1,0,0,0,0.0,1.0,13.0
-ARtest1,2023-01-31,16:53:53,Skills Quiz-9,000,5,21,0,7,2,0,2,0,0,0,0.0,4.0,52.0

@@ -82,8 +82,8 @@ def download_files():
                     print(str(amount) + "   -<-------<------<--")
                     amount += 1
 
-                    if amount == 6:
-                        return(f"Downloaded {amount} TXT files\ninto the local 'People' folder.")
+                    #if amount == 6:
+                    #    return(f"Downloaded {amount} TXT files\ninto the local 'People' folder.")
 
                     #The url cannot contain spaces which is how they are saved on the site before
                     modified_name = name.replace(" ", "%20")
@@ -127,7 +127,7 @@ def download_files():
                             else:
                                 print(f"No data found in {csv_url}")
 
-                return(f"Downloaded {amount} TXT files into the 'People' folder completed.")
+                return(f"Downloaded {amount} TXT files \ninto the 'People' folder.")
 
             else:
                 return("CSRF token input element not found.")

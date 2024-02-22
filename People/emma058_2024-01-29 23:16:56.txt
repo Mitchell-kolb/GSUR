@@ -1,4 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-119344,413,502,"2024-01-29 23:14:02",page-load,video
-119345,413,502,"2024-01-29 23:16:50",page-load,video
-0,0,0,"2024-01-29 23:16:56",module_end,none

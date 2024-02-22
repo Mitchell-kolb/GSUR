@@ -1,4 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-28150,250,235,"2023-03-09 09:04:17",page-load,video
-28151,250,236,"2023-03-09 09:11:22",page-load,"web form: question"
-0,0,0,"2023-03-09 09:11:39",module_end,none

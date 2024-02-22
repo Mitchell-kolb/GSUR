@@ -1,3 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-53135,326,140,"2023-05-15 23:37:58",click,previous-page
-0,0,0,"2023-05-15 23:37:58",module_end,none

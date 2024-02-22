@@ -1,9 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-31704,221,222,"2023-03-22 14:04:55",click,next-page
-31705,221,0,"2023-03-22 14:05:00","Skills Quiz-14 Step-1 Correct",Lists
-31706,221,0,"2023-03-22 14:05:02","Skills Quiz-14 Step-2 Correct","Add New Note"
-31707,221,0,"2023-03-22 14:05:03","Skills Quiz-14 Step-3 Correct",modal-note-title
-31708,221,0,"2023-03-22 14:05:09","Skills Quiz-14 Step-5 Correct",modal-note-content
-31709,221,0,"2023-03-22 14:05:26","Skills Quiz-14 Step-7 Correct"," SAVE"
-31710,221,0,"2023-03-22 14:05:27","Skills Quiz-14 Step-8 Correct",Close
-0,0,0,"2023-03-22 14:05:27",module_end,none

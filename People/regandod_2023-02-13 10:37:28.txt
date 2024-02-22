@@ -1,4 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-17615,223,21,"2023-02-13 10:37:24",page-load,"web form: what would you like to do next"
-17616,223,21,"2023-02-13 10:37:27",page-load,"web form: what would you like to do next"
-0,0,0,"2023-02-13 10:37:28",module_end,none

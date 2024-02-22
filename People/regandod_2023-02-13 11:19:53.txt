@@ -1,7 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-18500,223,26,"2023-02-13 11:19:11",page-load,video
-18501,223,204,"2023-02-13 11:19:18",page-load,video
-18502,223,204,"2023-02-13 11:19:46",page-load,video
-18503,223,204,"2023-02-13 11:19:48",page-load,video
-18504,223,257,"2023-02-13 11:19:50",page-load,"end of lesson: 4"
-0,0,0,"2023-02-13 11:19:53",module_end,none

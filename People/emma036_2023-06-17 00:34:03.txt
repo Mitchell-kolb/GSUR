@@ -1,3 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-68177,343,0,"2023-06-17 00:34:02","Skills Quiz-9 Step-30 Incorrect","60 min"
-0,0,0,"2023-06-17 00:34:03",module_end,none

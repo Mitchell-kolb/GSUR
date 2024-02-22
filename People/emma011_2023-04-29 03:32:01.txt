@@ -1,5 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-46187,308,526,"2023-04-29 03:31:56",click,"skills quiz hint"
-46188,308,0,"2023-04-29 03:31:58","Skills Quiz-27 Step-11 Correct","View Progress"
-46189,308,0,"2023-04-29 03:32:01","Skills Quiz-27 Step-12 Correct",Close
-0,0,0,"2023-04-29 03:32:01",module_end,none

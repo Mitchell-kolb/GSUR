@@ -1,8 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-37098,299,232,"2023-04-03 13:24:02",page-load,"skills quiz preview"
-37099,299,232,"2023-04-03 13:24:25",click,next-page
-37100,299,0,"2023-04-03 13:24:29","Skills Quiz-16 Step-1 Correct",Relevant
-37101,299,0,"2023-04-03 13:24:30","Skills Quiz-16 Step-2 Correct","A - Z"
-37102,299,0,"2023-04-03 13:24:37","Skills Quiz-16 Step-3 Correct","Holiday GiftsEdit"
-37103,299,0,"2023-04-03 13:24:44","Skills Quiz-16 Step-4 Correct",note-search
-0,0,0,"2023-04-03 13:25:00",module_end,none

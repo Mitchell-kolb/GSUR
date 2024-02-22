@@ -1,9 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-73826,346,0,"2023-06-26 18:53:55","Skills Quiz-2 Step-1 Correct",TODAY
-73827,346,0,"2023-06-26 18:53:56","Skills Quiz-2 Step-2 Correct","Add Entry/Event"
-73828,346,0,"2023-06-26 18:54:00","Skills Quiz-2 Step-3 Correct","June 10, 2021"
-73829,346,0,"2023-06-26 18:54:01","Skills Quiz-2 Step-4 Correct",right-arrow
-73830,346,0,"2023-06-26 18:54:02","Skills Quiz-2 Step-0 Correct",right-arrow
-73832,346,0,"2023-06-26 18:54:04","Skills Quiz-2 Step-5 Correct",21
-73833,346,0,"2023-06-26 18:54:06","Skills Quiz-2 Step-6 Correct",OK
-0,0,0,"2023-06-26 18:54:06",module_end,none

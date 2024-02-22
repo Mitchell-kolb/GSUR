@@ -1,4 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-6450,1,434,"2023-01-20 14:48:24",page-load,video
-6451,1,435,"2023-01-20 14:48:30",page-load,"goal setting: preview"
-0,0,0,"2023-01-20 14:48:35",module_end,none

@@ -1,4 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-46228,308,0,"2023-04-29 03:34:41","Skills Quiz-28 Step-11 Correct","View Progress"
-46229,308,0,"2023-04-29 03:34:44","Skills Quiz-28 Step-12 Correct",Close
-0,0,0,"2023-04-29 03:34:44",module_end,none

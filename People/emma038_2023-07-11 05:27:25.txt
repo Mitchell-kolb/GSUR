@@ -1,6 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-76317,344,0,"2023-07-11 05:26:59","Skills Quiz-16 Step-1 Correct",Relevant
-76318,344,0,"2023-07-11 05:27:01","Skills Quiz-16 Step-2 Correct","A - Z"
-76319,344,0,"2023-07-11 05:27:06","Skills Quiz-16 Step-3 Correct","Holiday GiftsEdit"
-76320,344,0,"2023-07-11 05:27:12","Skills Quiz-16 Step-4 Correct",note-search
-0,0,0,"2023-07-11 05:27:25",module_end,none

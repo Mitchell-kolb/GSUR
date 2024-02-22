@@ -1,8 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-27668,239,244,"2023-03-06 15:40:43",page-load,video
-27669,239,246,"2023-03-06 15:40:48",page-load,"goal setting: example plan"
-27670,239,400,"2023-03-06 15:42:14",page-load,video
-27671,239,440,"2023-03-06 15:42:18",page-load,"goal setting: where"
-27672,239,431,"2023-03-06 15:42:31",page-load,"skills quiz preview"
-27673,239,437,"2023-03-06 15:42:40",page-load,"goal setting: pick one strategy"
-0,0,0,"2023-03-06 15:42:56",module_end,none

@@ -1,8 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-121070,219,521,"2024-02-06 23:42:02",page-load,video
-121073,219,522,"2024-02-06 23:42:07",page-load,"web form: question"
-121076,219,522,"2024-02-06 23:42:09",click,"correct-option: 1"
-121077,219,522,"2024-02-06 23:42:10",click,next-page
-121079,219,523,"2024-02-06 23:42:11",page-load,video
-121083,219,525,"2024-02-06 23:42:16",page-load,"skills quiz preview"
-0,0,0,"2024-02-06 23:42:21",module_end,none

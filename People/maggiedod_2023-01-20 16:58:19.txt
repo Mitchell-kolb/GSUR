@@ -1,2 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-0,0,0,"2023-01-20 16:58:19",module_end,none

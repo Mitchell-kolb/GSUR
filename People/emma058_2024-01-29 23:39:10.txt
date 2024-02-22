@@ -1,4 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-119418,413,531,"2024-01-29 23:39:05",page-load,"goal setting: preview"
-119419,413,531,"2024-01-29 23:39:10",click,previous-page
-0,0,0,"2024-01-29 23:39:10",module_end,none

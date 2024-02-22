@@ -1,9 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-4260,1,26,"2023-01-17 09:56:38",page-load,video
-4261,1,12,"2023-01-17 10:12:56",page-load,"web form: scheduling choices"
-5012,1,434,"2023-01-17 16:05:03",page-load,video
-5013,1,434,"2023-01-17 16:56:45",page-load,video
-5014,1,435,"2023-01-17 16:56:52",page-load,"goal setting: preview"
-6416,1,435,"2023-01-20 14:46:25",page-load,"goal setting: preview"
-6417,1,435,"2023-01-20 14:46:45",page-load,"goal setting: preview"
-0,0,0,"2023-01-20 14:47:24",module_end,none

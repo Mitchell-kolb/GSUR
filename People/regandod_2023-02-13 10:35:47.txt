@@ -1,8 +1,0 @@
-id,user_id,page_id,time_stamp,action,object_clicked
-17606,223,204,"2023-02-13 10:29:33",page-load,video
-17607,223,204,"2023-02-13 10:35:08",page-load,video
-17608,223,204,"2023-02-13 10:35:14",page-load,video
-17609,223,209,"2023-02-13 10:35:15",page-load,"skills quiz preview"
-17610,223,20,"2023-02-13 10:35:45",page-load,"web form: question"
-17611,223,204,"2023-02-13 10:35:46",page-load,video
-0,0,0,"2023-02-13 10:35:47",module_end,none

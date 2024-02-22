@@ -1,0 +1,54 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+11185,253,434,"2023-01-31 14:35:00",page-load,video
+11186,253,435,"2023-01-31 14:35:06",page-load,"goal setting: preview"
+11187,253,435,"2023-01-31 14:35:28",click,next-page
+11188,253,436,"2023-01-31 14:35:29",page-load,"goal setting: example plan"
+11189,253,436,"2023-01-31 14:35:32",click,next-page
+11190,253,437,"2023-01-31 14:35:33",page-load,"goal setting: pick one strategy"
+11191,253,437,"2023-01-31 14:35:36",click,next-page
+11192,253,438,"2023-01-31 14:35:37",page-load,"goal setting: top strategy display"
+11193,253,438,"2023-01-31 14:35:38",click,next-page
+11194,253,439,"2023-01-31 14:35:38",page-load,"goal setting: when"
+11195,253,439,"2023-01-31 14:35:45",click,next-page
+11196,253,440,"2023-01-31 14:35:46",page-load,"goal setting: where"
+11197,253,440,"2023-01-31 14:35:51",click,next-page
+11198,253,441,"2023-01-31 14:35:52",page-load,"goal setting: with whom"
+11199,253,441,"2023-01-31 14:35:56",click,next-page
+11200,253,442,"2023-01-31 14:35:57",page-load,"goal setting: how"
+11201,253,442,"2023-01-31 14:36:09",click,next-page
+11202,253,443,"2023-01-31 14:36:10",page-load,"goal setting: barriers and alternatives"
+11203,253,443,"2023-01-31 14:36:32",click,next-page
+11204,253,444,"2023-01-31 14:36:33",page-load,"goal setting: motivation"
+11205,253,444,"2023-01-31 14:36:36",click,next-page
+11206,253,445,"2023-01-31 14:36:36",page-load,"goal setting: confidence"
+11207,253,445,"2023-01-31 14:36:37",click,next-page
+11208,253,446,"2023-01-31 14:36:38",page-load,"goal setting: plan"
+11209,253,446,"2023-01-31 14:36:39",click,next-page
+11210,253,447,"2023-01-31 14:36:39",page-load,"end of lesson: 5"
+11211,253,500,"2023-01-31 14:36:42",page-load,video
+11212,253,501,"2023-01-31 14:37:23",page-load,"web form: scheduling choices"
+11213,253,501,"2023-01-31 14:37:46",tracked,"reduce stress"
+11214,253,501,"2023-01-31 14:37:47",tracked,"better relationships"
+11215,253,501,"2023-01-31 14:37:47",click,next-page
+11216,253,502,"2023-01-31 14:37:48",page-load,video
+11217,253,503,"2023-01-31 14:37:59",page-load,"web form: scheduling choices"
+11218,253,503,"2023-01-31 14:38:08",tracked,"Reading a book"
+11219,253,503,"2023-01-31 14:38:09",click,next-page
+11220,253,504,"2023-01-31 14:38:10",page-load,video
+11221,253,505,"2023-01-31 14:38:19",page-load,"web form: what would you like to do next"
+11222,253,505,"2023-01-31 14:38:21",click,next-page
+11223,253,506,"2023-01-31 14:38:21",page-load,"skills quiz preview"
+11224,253,506,"2023-01-31 14:38:23",click,next-page
+11225,253,0,"2023-01-31 14:38:28","Skills Quiz-25 Step-1 Correct",TODAY
+11226,253,0,"2023-01-31 14:38:32","Skills Quiz-25 Step-2 Correct","Walk to Library12:30 PM - 1:15 PM"
+11227,253,0,"2023-01-31 14:38:33","Skills Quiz-25 Step-3 Correct","Tap Here"
+11228,253,0,"2023-01-31 14:38:34","Skills Quiz-25 Step-4 Correct",3
+11229,253,0,"2023-01-31 14:38:35","Skills Quiz-25 Step-5 Correct",0
+11230,253,0,"2023-01-31 14:38:35","Skills Quiz-25 Step-6 Correct","                              Save            "
+11231,253,0,"2023-01-31 14:38:40","Skills Quiz-25 Step-7 Correct",Save
+11232,253,0,"2023-01-31 14:38:42","Skills Quiz-25 Step-8 Correct","Gratitude Journal2:00 PM - 2:30 PM"
+11233,253,0,"2023-01-31 14:38:43","Skills Quiz-25 Step-9 Correct","Tap Here"
+11234,253,0,"2023-01-31 14:38:44","Skills Quiz-25 Step-10 Correct",1
+11235,253,0,"2023-01-31 14:38:45","Skills Quiz-25 Step-11 Correct","                              Save            "
+11236,253,0,"2023-01-31 14:38:46","Skills Quiz-25 Step-12 Correct",Save
+0,0,0,"2023-01-31 14:38:47",module_end,none

@@ -1,0 +1,20 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+76274,344,215,"2023-07-11 05:03:15",page-load,video
+76275,344,216,"2023-07-11 05:08:28",page-load,"web form: question"
+76276,344,216,"2023-07-11 05:08:31",click,"correct-option: 1"
+76277,344,216,"2023-07-11 05:08:37",click,next-page
+76278,344,217,"2023-07-11 05:08:38",page-load,video
+76279,344,218,"2023-07-11 05:11:13",page-load,"web form: what would you like to do next"
+76280,344,218,"2023-07-11 05:11:16",click,next-page
+76281,344,219,"2023-07-11 05:11:17",page-load,"skills quiz preview"
+76282,344,0,"2023-07-11 05:12:33","Skills Quiz-13 Step-1 Correct",Lists
+76283,344,0,"2023-07-11 05:12:38","Skills Quiz-13 Step-2 Correct","Add New Note"
+76284,344,0,"2023-07-11 05:12:41","Skills Quiz-13 Step-3 Correct",modal-note-title
+76285,344,0,"2023-07-11 05:13:11","Skills Quiz 30 second Hint",30time
+76286,344,220,"2023-07-11 05:13:25",click,"skills quiz hint"
+76287,344,0,"2023-07-11 05:13:41","Skills Quiz-13 Step-5 Correct",modal-note-content
+76288,344,0,"2023-07-11 05:14:11","Skills Quiz 30 second Hint",30time
+76289,344,0,"2023-07-11 05:14:23","Skills Quiz-13 Step-7 Correct"," SAVE"
+76290,344,220,"2023-07-11 05:14:31",click,"skills quiz hint"
+76291,344,0,"2023-07-11 05:14:34","Skills Quiz-13 Step-8 Correct",Close
+0,0,0,"2023-07-11 05:14:34",module_end,none

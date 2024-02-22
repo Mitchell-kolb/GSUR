@@ -1,0 +1,38 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+13680,250,26,"2023-02-09 09:08:14",page-load,video
+13681,250,300,"2023-02-09 09:10:38",page-load,video
+13682,250,10,"2023-02-09 09:10:43",page-load,video
+13683,250,11,"2023-02-09 09:12:10",page-load,video
+13684,250,12,"2023-02-09 09:14:33",page-load,"web form: scheduling choices"
+13685,250,12,"2023-02-09 09:14:49",tracked,"Managing medications"
+13686,250,12,"2023-02-09 09:14:49",tracked,"Scheduling time to work towards goals"
+13687,250,12,"2023-02-09 09:14:50",tracked,"Managing finances"
+13688,250,12,"2023-02-09 09:14:50",tracked,"Planning steps to accomplish a task"
+13689,250,12,"2023-02-09 09:14:53",click,next-page
+13690,250,13,"2023-02-09 09:14:54",page-load,video
+13691,250,14,"2023-02-09 09:15:56",page-load,"web form: what would you like to do next"
+13692,250,15,"2023-02-09 09:16:34",page-load,video
+13693,250,16,"2023-02-09 09:18:00",page-load,"web form: question"
+13694,250,16,"2023-02-09 09:18:04",click,"incorrect-option: Blue"
+13695,250,16,"2023-02-09 09:18:05",click,"correct-option: Grey"
+13696,250,16,"2023-02-09 09:18:06",click,next-page
+13697,250,17,"2023-02-09 09:18:06",page-load,video
+13698,250,18,"2023-02-09 09:18:30",page-load,"web form: question"
+13699,250,18,"2023-02-09 09:18:50",click,"correct-option: 1:30 PM"
+13700,250,18,"2023-02-09 09:18:51",click,next-page
+13701,250,19,"2023-02-09 09:18:52",page-load,video
+13702,250,20,"2023-02-09 09:24:22",page-load,"web form: question"
+13703,250,20,"2023-02-09 09:25:42",click,"incorrect-option: Red"
+13704,250,20,"2023-02-09 09:25:43",click,"correct-option: Blue"
+13705,250,20,"2023-02-09 09:25:43",click,next-page
+13706,250,21,"2023-02-09 09:25:44",page-load,"web form: what would you like to do next"
+13707,250,21,"2023-02-09 09:25:48",click,next-page
+13708,250,0,"2023-02-09 09:25:53","Skills Quiz-1 Step-1 Incorrect",note-list
+13709,250,0,"2023-02-09 09:25:54","Skills Quiz-1 Step-1 Correct",TODAY
+13710,250,0,"2023-02-09 09:25:57","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+13711,250,0,"2023-02-09 09:26:01","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+13712,250,0,"2023-02-09 09:26:03","Skills Quiz-1 Step-4 Correct",right-arrow
+13713,250,0,"2023-02-09 09:26:04","Skills Quiz-1 Step-5 Incorrect",7
+13714,250,0,"2023-02-09 09:26:05","Skills Quiz-1 Step-5 Correct",14
+13715,250,0,"2023-02-09 09:26:06","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-02-09 09:26:06",module_end,none

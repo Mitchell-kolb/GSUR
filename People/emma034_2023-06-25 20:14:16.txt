@@ -1,0 +1,23 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+72568,341,421,"2023-06-25 20:12:31",page-load,"skills quiz preview"
+72569,341,421,"2023-06-25 20:12:49",click,next-page
+72570,341,0,"2023-06-25 20:12:53","Skills Quiz-22 Step-1 Incorrect",HEALTH
+72571,341,0,"2023-06-25 20:12:55","Skills Quiz-22 Step-2 Correct","Tracked Health Activities"
+72572,341,0,"2023-06-25 20:12:59","Skills Quiz-22 Step-3 Correct","Daily Medications"
+72573,341,0,"2023-06-25 20:13:05","Skills Quiz-22 Step-4 Correct",descriptionMorning
+72574,341,0,"2023-06-25 20:13:35","Skills Quiz 30 second Hint",30time
+72575,341,0,"2023-06-25 20:13:46","Skills Quiz-22 Step-6 Correct","8:00 AM"
+72576,341,0,"2023-06-25 20:13:49","Skills Quiz-22 Step-7 Correct",9
+72577,341,0,"2023-06-25 20:13:52","Skills Quiz-22 Step-8 Correct",00
+72578,341,0,"2023-06-25 20:13:53","Skills Quiz-22 Step-9 Incorrect",AMPM
+72579,341,0,"2023-06-25 20:13:55","Skills Quiz-22 Step-9 Incorrect",Save
+72580,341,0,"2023-06-25 20:13:56","Skills Quiz-22 Step-9 Incorrect",Save
+72581,341,0,"2023-06-25 20:13:59","Skills Quiz-22 Step-9 Correct",AM
+72582,341,0,"2023-06-25 20:14:01","Skills Quiz-22 Step-10 Correct",Save
+72583,341,0,"2023-06-25 20:14:03","Skills Quiz-22 Step-11 Correct",checkMorning
+72584,341,0,"2023-06-25 20:14:04","Skills Quiz-22 Step-12 Incorrect","Turn On (green)"
+72585,341,0,"2023-06-25 20:14:05","Skills Quiz-22 Step-12 Incorrect","Turn On (green)"
+72586,341,0,"2023-06-25 20:14:06","Skills Quiz-22 Step-12 Incorrect",titleMorning
+72587,341,0,"2023-06-25 20:14:12","Skills Quiz-22 Step-12 Incorrect","Turn On (green)"
+72588,341,0,"2023-06-25 20:14:15","Skills Quiz-22 Step-12 Correct"," Save"
+0,0,0,"2023-06-25 20:14:16",module_end,none

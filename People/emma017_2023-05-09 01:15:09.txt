@@ -1,0 +1,92 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+51035,316,410,"2023-05-09 01:08:14",page-load,video
+51036,316,411,"2023-05-09 01:08:34",page-load,"web form: scheduling choices"
+51037,316,411,"2023-05-09 01:08:43",tracked,Mood
+51038,316,411,"2023-05-09 01:08:50",tracked,Medications
+51039,316,411,"2023-05-09 01:08:51",click,next-page
+51040,316,412,"2023-05-09 01:08:52",page-load,video
+51041,316,413,"2023-05-09 01:10:04",page-load,"web form: question"
+51042,316,413,"2023-05-09 01:10:08",click,"correct-option: 4"
+51043,316,413,"2023-05-09 01:10:10",click,next-page
+51044,316,414,"2023-05-09 01:10:10",page-load,video
+51045,316,415,"2023-05-09 01:10:30",page-load,"web form: question"
+51046,316,415,"2023-05-09 01:10:40",click,"correct-option: False"
+51047,316,415,"2023-05-09 01:10:42",click,next-page
+51048,316,416,"2023-05-09 01:10:42",page-load,video
+51049,316,417,"2023-05-09 01:13:12",page-load,"web form: what would you like to do next"
+51050,316,417,"2023-05-09 01:13:16",click,next-page
+51051,316,418,"2023-05-09 01:13:16",page-load,"skills quiz preview"
+51052,316,418,"2023-05-09 01:13:27",click,next-page
+51053,316,0,"2023-05-09 01:13:32","Skills Quiz-21 Step-1 Incorrect",HEALTH
+51054,316,0,"2023-05-09 01:13:35","Skills Quiz-21 Step-2 Incorrect","Medical Information"
+51055,316,0,"2023-05-09 01:13:37","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+51056,316,0,"2023-05-09 01:13:40","Skills Quiz-21 Step-3 Correct","Daily Medications"
+51057,316,0,"2023-05-09 01:13:51","Skills Quiz-21 Step-4 Incorrect",titleMorning
+51058,316,0,"2023-05-09 01:13:53","Skills Quiz-21 Step-4 Correct",descriptionMorning
+51059,316,0,"2023-05-09 01:14:06","Skills Quiz-21 Step-6 Correct","8:00 AM"
+51060,316,0,"2023-05-09 01:14:06","Skills Quiz-21 Step-7 Incorrect","Tracked Health Activities"
+51061,316,0,"2023-05-09 01:14:09","Skills Quiz-21 Step-7 Incorrect",00
+51062,316,0,"2023-05-09 01:14:10","Skills Quiz-21 Step-8 Correct",00
+51063,316,0,"2023-05-09 01:14:10","Skills Quiz-21 Step-7 Incorrect",AM
+51064,316,0,"2023-05-09 01:14:10","Skills Quiz-21 Step-9 Correct",AM
+51065,316,0,"2023-05-09 01:14:11","Skills Quiz-21 Step-7 Incorrect",AM
+51066,316,0,"2023-05-09 01:14:12","Skills Quiz-21 Step-7 Incorrect", 
+51067,316,0,"2023-05-09 01:14:13","Skills Quiz-21 Step-7 Incorrect",AM
+51068,316,0,"2023-05-09 01:14:16","Skills Quiz-21 Step-7 Incorrect",AM
+51069,316,0,"2023-05-09 01:14:16","Skills Quiz-21 Step-7 Incorrect",AM
+51070,316,0,"2023-05-09 01:14:18","Skills Quiz-21 Step-7 Incorrect",Save
+51071,316,0,"2023-05-09 01:14:19","Skills Quiz-21 Step-7 Incorrect",123456789101112
+51072,316,0,"2023-05-09 01:14:22","Skills Quiz-21 Step-7 Incorrect",123456789101112
+51073,316,0,"2023-05-09 01:14:22","Skills Quiz-21 Step-7 Incorrect",123456789101112
+51074,316,0,"2023-05-09 01:14:23","Skills Quiz-21 Step-7 Incorrect",123456789101112
+51075,316,0,"2023-05-09 01:14:24","Skills Quiz-21 Step-7 Incorrect",123456789101112
+51076,316,0,"2023-05-09 01:14:27","Skills Quiz-21 Step-7 Incorrect",AM
+51077,316,0,"2023-05-09 01:14:28","Skills Quiz-21 Step-7 Incorrect",AMPM
+51078,316,0,"2023-05-09 01:14:29","Skills Quiz-21 Step-7 Incorrect", 
+51079,316,0,"2023-05-09 01:14:30","Skills Quiz-21 Step-7 Incorrect",Save
+51080,316,0,"2023-05-09 01:14:35","Skills Quiz-21 Step-7 Incorrect",AM
+51081,316,0,"2023-05-09 01:14:36","Skills Quiz-21 Step-7 Incorrect",Save
+51082,316,0,"2023-05-09 01:14:37","Skills Quiz-21 Step-7 Incorrect","Please Choose a Start TimeSelected Time:Hour123456789101112Minute000510152025303540455055 AMPM CancelSave"
+51083,316,0,"2023-05-09 01:14:41","Skills Quiz-21 Step-7 Incorrect","Daily Medications"
+51084,316,0,"2023-05-09 01:14:44","Skills Quiz-21 Step-7 Incorrect",titleMorning
+51085,316,0,"2023-05-09 01:14:44","Skills Quiz-21 Step-10 Incorrect",titleMorning
+51086,316,0,"2023-05-09 01:14:45","Skills Quiz-21 Step-7 Incorrect","8:00 AM"
+51087,316,0,"2023-05-09 01:14:45","Skills Quiz-21 Step-10 Incorrect","8:00 AM"
+51088,316,0,"2023-05-09 01:14:47","Skills Quiz-21 Step-10 Incorrect",123456789101112
+51089,316,0,"2023-05-09 01:14:47","Skills Quiz-21 Step-7 Incorrect",123456789101112
+51090,316,0,"2023-05-09 01:14:47","Skills Quiz-21 Step-11 Incorrect",123456789101112
+51091,316,0,"2023-05-09 01:14:51","Skills Quiz-21 Step-7 Incorrect",123456789101112
+51092,316,0,"2023-05-09 01:14:51","Skills Quiz-21 Step-10 Incorrect",123456789101112
+51093,316,0,"2023-05-09 01:14:51","Skills Quiz-21 Step-11 Incorrect",123456789101112
+51094,316,0,"2023-05-09 01:14:52","Skills Quiz-21 Step-7 Incorrect",123456789101112
+51095,316,0,"2023-05-09 01:14:52","Skills Quiz-21 Step-10 Incorrect",123456789101112
+51096,316,0,"2023-05-09 01:14:52","Skills Quiz-21 Step-11 Incorrect",123456789101112
+51097,316,0,"2023-05-09 01:14:53","Skills Quiz-21 Step-10 Incorrect",123456789101112
+51098,316,0,"2023-05-09 01:14:53","Skills Quiz-21 Step-11 Incorrect",123456789101112
+51099,316,0,"2023-05-09 01:14:53","Skills Quiz-21 Step-7 Incorrect",123456789101112
+51100,316,0,"2023-05-09 01:14:54","Skills Quiz-21 Step-11 Incorrect",Save
+51101,316,0,"2023-05-09 01:14:54","Skills Quiz-21 Step-7 Incorrect",Save
+51102,316,0,"2023-05-09 01:14:54","Skills Quiz-21 Step-10 Correct",Save
+51103,316,0,"2023-05-09 01:14:54","Skills Quiz-21 Step-7 Incorrect",AMPM
+51104,316,0,"2023-05-09 01:14:54","Skills Quiz-21 Step-11 Incorrect",AMPM
+51105,316,0,"2023-05-09 01:14:54","Skills Quiz-21 Step-12 Incorrect",AMPM
+51106,316,0,"2023-05-09 01:14:55","Skills Quiz-21 Step-7 Incorrect",AMPM
+51107,316,0,"2023-05-09 01:14:55","Skills Quiz-21 Step-11 Incorrect",AMPM
+51108,316,0,"2023-05-09 01:14:55","Skills Quiz-21 Step-12 Incorrect",AMPM
+51109,316,0,"2023-05-09 01:14:56","Skills Quiz-21 Step-7 Incorrect",AMPM
+51110,316,0,"2023-05-09 01:14:56","Skills Quiz-21 Step-12 Incorrect",AMPM
+51111,316,0,"2023-05-09 01:14:56","Skills Quiz-21 Step-11 Incorrect",AMPM
+51112,316,0,"2023-05-09 01:14:56","Skills Quiz-21 Step-7 Incorrect",PM
+51113,316,0,"2023-05-09 01:14:56","Skills Quiz-21 Step-11 Incorrect",PM
+51114,316,0,"2023-05-09 01:14:56","Skills Quiz-21 Step-12 Incorrect",PM
+51115,316,0,"2023-05-09 01:14:57","Skills Quiz-21 Step-7 Incorrect",CancelSave
+51116,316,0,"2023-05-09 01:14:57","Skills Quiz-21 Step-12 Incorrect",CancelSave
+51117,316,0,"2023-05-09 01:14:57","Skills Quiz-21 Step-11 Incorrect",CancelSave
+51118,316,0,"2023-05-09 01:14:57","Skills Quiz-21 Step-11 Incorrect",000510152025303540455055
+51119,316,0,"2023-05-09 01:14:57","Skills Quiz-21 Step-12 Incorrect",000510152025303540455055
+51120,316,0,"2023-05-09 01:14:57","Skills Quiz-21 Step-7 Incorrect",000510152025303540455055
+51121,316,419,"2023-05-09 01:15:07",click,"skills quiz hint"
+51122,316,0,"2023-05-09 01:15:08","Skills Quiz-21 Step-7 Incorrect",Save
+51123,316,0,"2023-05-09 01:15:08","Skills Quiz-21 Step-11 Incorrect",Save
+51124,316,0,"2023-05-09 01:15:08","Skills Quiz-21 Step-12 Incorrect",Save
+0,0,0,"2023-05-09 01:15:09",module_end,none

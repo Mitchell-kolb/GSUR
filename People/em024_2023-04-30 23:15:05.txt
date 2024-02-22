@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+46848,322,119,"2023-04-30 23:13:25",click,"skills quiz hint"
+46849,322,119,"2023-04-30 23:13:27",click,"skills quiz hint"
+46850,322,0,"2023-04-30 23:13:34","Skills Quiz-6 Step-1 Correct",CALENDAR
+46851,322,0,"2023-04-30 23:13:38","Skills Quiz-6 Step-2 Incorrect","JUNE 2021"
+46852,322,0,"2023-04-30 23:13:38","Skills Quiz-6 Step-2 Incorrect","JUNE 2021"
+46853,322,0,"2023-04-30 23:13:39","Skills Quiz-6 Step-2 Correct",right-arrow
+46854,322,0,"2023-04-30 23:13:41","Skills Quiz-6 Step-2 Correct",right-arrow
+46855,322,0,"2023-04-30 23:13:57","Skills Quiz-6 Step-3 Incorrect",CALENDAR
+46856,322,0,"2023-04-30 23:14:01","Skills Quiz-6 Step-3 Correct",3
+46857,322,0,"2023-04-30 23:14:06","Skills Quiz-6 Step-4 Correct",Edit
+46858,322,119,"2023-04-30 23:14:20",click,"skills quiz hint"
+46859,322,119,"2023-04-30 23:14:23",click,"skills quiz hint"
+46860,322,119,"2023-04-30 23:14:24",click,"skills quiz hint"
+46861,322,0,"2023-04-30 23:14:29","Skills Quiz-6 Step-4 Incorrect",undefined
+46862,322,0,"2023-04-30 23:14:31","Skills Quiz-6 Step-4 Incorrect",Date:
+46863,322,0,"2023-04-30 23:14:36","Skills Quiz-6 Step-4 Incorrect",Cancel
+46864,322,0,"2023-04-30 23:14:37","Skills Quiz-6 Step-4 Incorrect","Breakfast with John12:30 PM - 1:30 PM"
+46865,322,0,"2023-04-30 23:14:38","Skills Quiz-6 Step-4 Incorrect",undefined
+46866,322,0,"2023-04-30 23:14:40","Skills Quiz-6 Step-4 Incorrect",undefined
+46867,322,0,"2023-04-30 23:14:43","Skills Quiz-6 Step-4 Incorrect",Cancel
+46868,322,0,"2023-04-30 23:14:45","Skills Quiz-6 Step-4 Incorrect",undefined
+46869,322,0,"2023-04-30 23:14:52","Skills Quiz-6 Step-4 Incorrect","Entry/Event DetailsDate:Title:Breakfast with JohnDescription:CancelDeleteEdit"
+46870,322,0,"2023-04-30 23:14:53","Skills Quiz-6 Step-4 Incorrect","Entry/Event DetailsDate:Title:Breakfast with JohnDescription:CancelDeleteEdit"
+46871,322,0,"2023-04-30 23:14:54","Skills Quiz-6 Step-4 Correct",Edit
+46872,322,0,"2023-04-30 23:14:56","Skills Quiz-6 Step-5 Incorrect",undefined
+46873,322,0,"2023-04-30 23:14:59","Skills Quiz-6 Step-5 Correct",YES
+46874,322,0,"2023-04-30 23:15:03","Skills Quiz-6 Step-6 Correct","60 min"
+46875,322,0,"2023-04-30 23:15:04","Skills Quiz-6 Step-7 Correct",Save
+0,0,0,"2023-04-30 23:15:05",module_end,none

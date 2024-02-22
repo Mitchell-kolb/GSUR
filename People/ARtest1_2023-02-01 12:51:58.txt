@@ -1,0 +1,68 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+12311,250,512,"2023-02-01 12:46:44",page-load,video
+12312,250,513,"2023-02-01 12:47:05",page-load,"web form: question"
+12313,250,513,"2023-02-01 12:47:08",click,"correct-option: at the same time every time and limiting distractions."
+12314,250,513,"2023-02-01 12:47:10",click,next-page
+12315,250,514,"2023-02-01 12:47:10",page-load,video
+12316,250,515,"2023-02-01 12:47:23",page-load,"web form: question"
+12317,250,515,"2023-02-01 12:48:13",click,"incorrect-option: The instructions are displayed when you begin the test."
+12318,250,515,"2023-02-01 12:48:13",click,"correct-option: On the help page"
+12319,250,515,"2023-02-01 12:48:14",click,next-page
+12320,250,516,"2023-02-01 12:48:15",page-load,video
+12321,250,517,"2023-02-01 12:48:45",page-load,"web form: question"
+12322,250,517,"2023-02-01 12:48:47",click,"incorrect-option: 30 minutes"
+12323,250,517,"2023-02-01 12:48:48",click,"incorrect-option: 20 minutes"
+12324,250,517,"2023-02-01 12:48:49",click,"correct-option: 45 seconds"
+12325,250,517,"2023-02-01 12:48:50",click,next-page
+12326,250,518,"2023-02-01 12:48:50",page-load,video
+12330,250,519,"2023-02-01 12:49:02",page-load,"web form: question"
+12332,250,519,"2023-02-01 12:49:08",click,"incorrect-option: True"
+12333,250,519,"2023-02-01 12:49:09",click,"correct-option: False"
+12334,250,519,"2023-02-01 12:49:10",click,next-page
+12335,250,520,"2023-02-01 12:49:11",page-load,"web form: what would you like to do next"
+12336,250,520,"2023-02-01 12:49:12",click,next-page
+12337,250,521,"2023-02-01 12:49:13",page-load,video
+12338,250,522,"2023-02-01 12:49:23",page-load,"web form: question"
+12339,250,522,"2023-02-01 12:49:26",click,"correct-option: 1"
+12340,250,522,"2023-02-01 12:49:27",click,next-page
+12341,250,523,"2023-02-01 12:49:28",page-load,video
+12342,250,524,"2023-02-01 12:49:39",page-load,"web form: what would you like to do next"
+12343,250,524,"2023-02-01 12:49:40",click,next-page
+12344,250,525,"2023-02-01 12:49:40",page-load,"skills quiz preview"
+12345,250,525,"2023-02-01 12:49:47",click,next-page
+12346,250,0,"2023-02-01 12:49:58","Skills Quiz-27 Step-1 Incorrect",Edit
+12347,250,0,"2023-02-01 12:49:58","Skills Quiz-27 Step-2 Correct",Edit
+12348,250,0,"2023-02-01 12:50:07","Skills Quiz-27 Step-3 Incorrect",undefined
+12349,250,0,"2023-02-01 12:50:08","Skills Quiz-27 Step-3 Correct",YES
+12351,250,0,"2023-02-01 12:50:15","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12352,250,0,"2023-02-01 12:50:15","Skills Quiz-27 Step-4 Incorrect","WeightBlood PressureMedications"
+12353,250,0,"2023-02-01 12:50:17","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12354,250,0,"2023-02-01 12:50:18","Skills Quiz-27 Step-4 Incorrect","WeightBlood PressureMedications"
+12355,250,0,"2023-02-01 12:50:19","Skills Quiz-27 Step-4 Incorrect","WeightBlood PressureMedications"
+12356,250,0,"2023-02-01 12:50:19","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12357,250,0,"2023-02-01 12:50:20","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12358,250,0,"2023-02-01 12:50:21","Skills Quiz-27 Step-4 Incorrect",Close
+12359,250,0,"2023-02-01 12:50:22","Skills Quiz-27 Step-4 Incorrect","WeightBlood PressureMedications"
+12360,250,0,"2023-02-01 12:50:22","Skills Quiz-27 Step-4 Incorrect","Cognitive TestingHealth RatingEmotion Rating"
+12361,250,0,"2023-02-01 12:50:23","Skills Quiz-27 Step-4 Incorrect","WeightBlood PressureMedicationsPhysical ExerciseCognitive ExerciseWell-being ExerciseCognitive TestingHealth RatingEmotion Rating"
+12362,250,0,"2023-02-01 12:50:25","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12363,250,0,"2023-02-01 12:50:26","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12364,250,0,"2023-02-01 12:50:26","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12365,250,0,"2023-02-01 12:50:29","Skills Quiz-27 Step-4 Incorrect","WeightBlood PressureMedications"
+12370,250,0,"2023-02-01 12:51:05","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+12379,250,0,"2023-02-01 12:51:33","Skills Quiz-27 Step-5 Correct",Optimism
+12380,250,0,"2023-02-01 12:51:34","Skills Quiz-27 Step-6 Incorrect",Optimism
+12381,250,0,"2023-02-01 12:51:36","Skills Quiz-27 Step-6 Correct","                  Select               "
+12382,250,0,"2023-02-01 12:51:36","Skills Quiz-27 Step-7 Incorrect","                  Select               "
+12383,250,0,"2023-02-01 12:51:39","Skills Quiz-27 Step-7 Correct",Save
+12384,250,0,"2023-02-01 12:51:45","Skills Quiz-27 Step-8 Incorrect",undefined
+12385,250,0,"2023-02-01 12:51:46","Skills Quiz-27 Step-9 Incorrect","Rate your level of optimism:LowHigh12345"
+12386,250,0,"2023-02-01 12:51:46","Skills Quiz-27 Step-8 Incorrect","Rate your level of optimism:LowHigh12345"
+12387,250,0,"2023-02-01 12:51:48","Skills Quiz-27 Step-9 Correct",4
+12388,250,0,"2023-02-01 12:51:48","Skills Quiz-27 Step-8 Incorrect",4
+12389,250,0,"2023-02-01 12:51:49","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+12390,250,0,"2023-02-01 12:51:50","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+12391,250,0,"2023-02-01 12:51:55","Skills Quiz-27 Step-11 Correct","View Progress"
+12392,250,0,"2023-02-01 12:51:55","Skills Quiz-27 Step-12 Incorrect",Close
+12393,250,0,"2023-02-01 12:51:58","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2023-02-01 12:51:58",module_end,none

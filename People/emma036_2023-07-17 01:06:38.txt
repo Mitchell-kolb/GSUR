@@ -1,0 +1,107 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+77004,343,435,"2023-07-13 22:59:22",page-load,"goal setting: preview"
+77005,343,436,"2023-07-13 23:00:41",page-load,"goal setting: example plan"
+77006,343,437,"2023-07-13 23:01:22",page-load,"goal setting: pick one strategy"
+77007,343,437,"2023-07-13 23:04:38",click,next-page
+77008,343,437,"2023-07-13 23:04:38",click,next-page
+77009,343,438,"2023-07-13 23:04:39",page-load,"goal setting: top strategy display"
+77010,343,438,"2023-07-13 23:05:09",click,next-page
+77011,343,439,"2023-07-13 23:05:09",page-load,"goal setting: when"
+77012,343,439,"2023-07-13 23:05:51",click,next-page
+77013,343,439,"2023-07-13 23:05:51",click,next-page
+77014,343,440,"2023-07-13 23:05:53",page-load,"goal setting: where"
+77015,343,440,"2023-07-13 23:05:54",click,next-page
+77016,343,440,"2023-07-13 23:05:58",click,hint
+77017,343,440,"2023-07-13 23:06:13",click,hint
+77018,343,440,"2023-07-13 23:06:32",click,next-page
+77019,343,441,"2023-07-13 23:06:33",page-load,"goal setting: with whom"
+77020,343,441,"2023-07-13 23:07:28",click,next-page
+77021,343,442,"2023-07-13 23:07:29",page-load,"goal setting: how"
+77322,343,442,"2023-07-16 23:58:31",page-load,"goal setting: how"
+77323,343,441,"2023-07-16 23:59:36",page-load,"goal setting: with whom"
+77324,343,440,"2023-07-16 23:59:55",page-load,"goal setting: where"
+77325,343,441,"2023-07-17 00:00:05",click,previous-page
+77326,343,440,"2023-07-17 00:00:15",click,previous-page
+77327,343,439,"2023-07-17 00:00:26",page-load,"goal setting: when"
+77328,343,438,"2023-07-17 00:01:46",page-load,"goal setting: top strategy display"
+77329,343,438,"2023-07-17 00:01:54",click,previous-page
+77330,343,437,"2023-07-17 00:03:01",page-load,"goal setting: pick one strategy"
+77331,343,437,"2023-07-17 00:03:23",click,next-page
+77332,343,438,"2023-07-17 00:04:14",page-load,"goal setting: top strategy display"
+77333,343,439,"2023-07-17 00:04:26",page-load,"goal setting: when"
+77334,343,439,"2023-07-17 00:10:32",click,next-page
+77335,343,439,"2023-07-17 00:10:40",click,next-page
+77336,343,440,"2023-07-17 00:10:41",page-load,"goal setting: where"
+77337,343,440,"2023-07-17 00:11:40",click,next-page
+77338,343,441,"2023-07-17 00:11:44",page-load,"goal setting: with whom"
+77339,343,442,"2023-07-17 00:16:47",page-load,"goal setting: how"
+77340,343,442,"2023-07-17 00:32:07",page-load,"goal setting: how"
+77341,343,442,"2023-07-17 00:34:05",click,next-page
+77342,343,443,"2023-07-17 00:34:15",page-load,"goal setting: barriers and alternatives"
+77343,343,443,"2023-07-17 00:38:09",click,next-page
+77344,343,443,"2023-07-17 00:38:18",click,hint
+77345,343,443,"2023-07-17 00:38:18",click,next-page
+77346,343,444,"2023-07-17 00:38:35",page-load,"goal setting: motivation"
+77347,343,445,"2023-07-17 00:39:51",page-load,"goal setting: confidence"
+77348,343,447,"2023-07-17 00:43:51",page-load,"end of lesson: 5"
+77349,343,500,"2023-07-17 00:44:05",page-load,video
+77350,343,501,"2023-07-17 00:50:12",page-load,"web form: scheduling choices"
+77351,343,501,"2023-07-17 00:50:19",tracked,"reduce stress"
+77352,343,501,"2023-07-17 00:50:21",tracked,"better relationships"
+77353,343,501,"2023-07-17 00:50:22",tracked,"improve memory"
+77354,343,501,"2023-07-17 00:50:23",tracked,"improve my quality of life"
+77355,343,501,"2023-07-17 00:50:25",tracked,"improve emotion regulation/mood"
+77356,343,501,"2023-07-17 00:50:26",tracked,"improve emotion regulation/mood"
+77357,343,501,"2023-07-17 00:50:27",tracked,"improve emotion regulation/mood"
+77358,343,501,"2023-07-17 00:50:30",tracked,"improve emotion regulation/mood"
+77359,343,501,"2023-07-17 00:50:32",tracked,"improve emotion regulation/mood"
+77360,343,501,"2023-07-17 00:50:34",tracked,"make me a better friend"
+77361,343,501,"2023-07-17 00:50:35",tracked,"stay mobile and active"
+77362,343,501,"2023-07-17 00:50:36",tracked,"It has always been important to me to be healthy"
+77363,343,501,"2023-07-17 00:51:12",tracked,"reduce stress"
+77364,343,501,"2023-07-17 00:51:14",tracked,"stay mobile and active"
+77365,343,501,"2023-07-17 00:51:38",tracked,"make me a better friend"
+77366,343,501,"2023-07-17 00:51:39",tracked,"better relationships"
+77367,343,501,"2023-07-17 00:51:40",tracked,"make me a better friend"
+77368,343,501,"2023-07-17 00:51:56",click,next-page
+77369,343,502,"2023-07-17 00:51:57",page-load,video
+77370,343,503,"2023-07-17 00:59:41",page-load,"web form: scheduling choices"
+77371,343,503,"2023-07-17 00:59:56",tracked,"Helping your children/ grandchildren with homework"
+77372,343,503,"2023-07-17 00:59:57",tracked,"Going to a museum"
+77373,343,503,"2023-07-17 00:59:58",tracked,"Helping your children/ grandchildren with homework"
+77374,343,503,"2023-07-17 01:00:03",tracked,"Reading a book"
+77375,343,503,"2023-07-17 01:00:04",tracked,"Watching a TED talk"
+77376,343,503,"2023-07-17 01:00:06",tracked,"Socialize with family and friends"
+77377,343,503,"2023-07-17 01:00:12",click,next-page
+77378,343,504,"2023-07-17 01:00:13",page-load,video
+77379,343,505,"2023-07-17 01:04:29",page-load,"web form: what would you like to do next"
+77380,343,505,"2023-07-17 01:04:39",click,next-page
+77381,343,506,"2023-07-17 01:04:40",page-load,"skills quiz preview"
+77382,343,506,"2023-07-17 01:05:08",click,next-page
+77383,343,0,"2023-07-17 01:05:27","Skills Quiz-25 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+77384,343,0,"2023-07-17 01:05:34","Skills Quiz-25 Step-1 Correct",TODAY
+77385,343,0,"2023-07-17 01:05:46","Skills Quiz-25 Step-2 Incorrect","Walk to Library"
+77386,343,0,"2023-07-17 01:05:49","Skills Quiz-25 Step-3 Correct","Tap Here"
+77387,343,0,"2023-07-17 01:05:49","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+77388,343,0,"2023-07-17 01:05:51","Skills Quiz-25 Step-2 Incorrect",3
+77389,343,0,"2023-07-17 01:05:51","Skills Quiz-25 Step-4 Correct",3
+77390,343,0,"2023-07-17 01:05:52","Skills Quiz-25 Step-2 Incorrect",0
+77391,343,0,"2023-07-17 01:05:52","Skills Quiz-25 Step-5 Correct",0
+77392,343,0,"2023-07-17 01:05:58","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+77393,343,0,"2023-07-17 01:05:58","Skills Quiz-25 Step-6 Correct","                              Save            "
+77394,343,0,"2023-07-17 01:06:04","Skills Quiz-25 Step-2 Incorrect",Save
+77395,343,0,"2023-07-17 01:06:04","Skills Quiz-25 Step-7 Correct",Save
+77396,343,0,"2023-07-17 01:06:24","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal"
+77397,343,0,"2023-07-17 01:06:24","Skills Quiz-25 Step-8 Incorrect","Gratitude Journal"
+77398,343,0,"2023-07-17 01:06:27","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+77399,343,0,"2023-07-17 01:06:27","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+77400,343,0,"2023-07-17 01:06:27","Skills Quiz-25 Step-9 Correct","Tap Here"
+77401,343,0,"2023-07-17 01:06:28","Skills Quiz-25 Step-2 Incorrect",1
+77402,343,0,"2023-07-17 01:06:28","Skills Quiz-25 Step-10 Correct",1
+77403,343,0,"2023-07-17 01:06:28","Skills Quiz-25 Step-8 Incorrect",1
+77404,343,0,"2023-07-17 01:06:32","Skills Quiz-25 Step-11 Correct","                              Save            "
+77405,343,0,"2023-07-17 01:06:32","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+77406,343,0,"2023-07-17 01:06:32","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+77407,343,0,"2023-07-17 01:06:37","Skills Quiz-25 Step-8 Incorrect",Save
+77408,343,0,"2023-07-17 01:06:37","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2023-07-17 01:06:38",module_end,none

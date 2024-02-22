@@ -1,0 +1,140 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+53976,329,37,"2023-05-17 00:20:07",page-load,video
+53989,329,38,"2023-05-17 00:20:44",page-load,"goal setting: importance"
+53992,329,38,"2023-05-17 00:21:00",click,next-page
+53993,329,39,"2023-05-17 00:21:00",page-load,video
+53997,329,40,"2023-05-17 00:21:45",page-load,"goal setting: pick three strategies"
+53998,329,40,"2023-05-17 00:22:43",click,next-page
+53999,329,41,"2023-05-17 00:22:44",page-load,"goal setting: pick top strategy"
+54002,329,41,"2023-05-17 00:22:58",click,next-page
+54003,329,42,"2023-05-17 00:22:59",page-load,"goal setting: top strategy display"
+54006,329,42,"2023-05-17 00:23:14",click,next-page
+54007,329,43,"2023-05-17 00:23:14",page-load,"goal setting: summary page one"
+54008,329,44,"2023-05-17 00:23:49",page-load,"goal setting: summary page two"
+54011,329,45,"2023-05-17 00:24:39",page-load,"goal setting: summary page two"
+54014,329,45,"2023-05-17 00:24:55",click,next-page
+54015,329,46,"2023-05-17 00:24:55",page-load,"goal setting: example plan"
+54017,329,47,"2023-05-17 00:25:45",page-load,"goal setting: when"
+54018,329,47,"2023-05-17 00:26:30",click,hint
+54019,329,47,"2023-05-17 00:27:11",click,next-page
+54020,329,47,"2023-05-17 00:27:13",click,next-page
+54021,329,47,"2023-05-17 00:27:14",click,next-page
+54022,329,47,"2023-05-17 00:27:20",click,hint
+54023,329,47,"2023-05-17 00:27:37",click,hint
+54026,329,47,"2023-05-17 00:28:50",click,hint
+54041,329,47,"2023-05-17 00:30:29",click,next-page
+54042,329,48,"2023-05-17 00:30:30",page-load,"goal setting: plan"
+54047,329,48,"2023-05-17 00:30:39",click,next-page
+54049,329,49,"2023-05-17 00:30:39",page-load,"goal setting: where"
+54050,329,49,"2023-05-17 00:31:34",click,next-page
+54051,329,50,"2023-05-17 00:31:37",page-load,"goal setting: plan"
+54052,329,50,"2023-05-17 00:31:40",click,next-page
+54053,329,51,"2023-05-17 00:31:40",page-load,"goal setting: with whom"
+54058,329,51,"2023-05-17 00:32:35",click,next-page
+54059,329,52,"2023-05-17 00:32:37",page-load,"goal setting: plan"
+54060,329,52,"2023-05-17 00:32:37",click,next-page
+54061,329,53,"2023-05-17 00:32:37",page-load,"goal setting: how"
+54062,329,53,"2023-05-17 00:32:39",click,previous-page
+54063,329,52,"2023-05-17 00:32:40",page-load,"goal setting: plan"
+54064,329,52,"2023-05-17 00:32:45",click,next-page
+54065,329,53,"2023-05-17 00:32:46",page-load,"goal setting: how"
+54070,329,53,"2023-05-17 00:33:26",click,hint
+54071,329,53,"2023-05-17 00:34:07",click,hint
+54076,329,53,"2023-05-17 00:36:36",click,next-page
+54077,329,54,"2023-05-17 00:36:37",page-load,"goal setting: plan"
+54078,329,54,"2023-05-17 00:36:41",click,next-page
+54079,329,55,"2023-05-17 00:36:41",page-load,"goal setting: barriers and alternatives"
+54080,329,55,"2023-05-17 00:36:48",click,hint
+54081,329,55,"2023-05-17 00:36:58",click,previous-page
+54082,329,54,"2023-05-17 00:36:58",page-load,"goal setting: plan"
+54083,329,54,"2023-05-17 00:37:01",click,next-page
+54084,329,55,"2023-05-17 00:37:02",page-load,"goal setting: barriers and alternatives"
+54085,329,55,"2023-05-17 00:38:25",click,next-page
+54086,329,56,"2023-05-17 00:38:25",page-load,"goal setting: motivation"
+54087,329,56,"2023-05-17 00:38:30",click,next-page
+54088,329,57,"2023-05-17 00:38:31",page-load,"goal setting: confidence"
+54089,329,57,"2023-05-17 00:38:36",click,next-page
+54090,329,58,"2023-05-17 00:38:36",page-load,"goal setting: plan"
+54091,329,58,"2023-05-17 00:38:43",click,next-page
+54092,329,59,"2023-05-17 00:38:43",page-load,"end of lesson: 2"
+55702,329,104,"2023-05-23 18:21:30",page-load,video
+55710,329,104,"2023-05-23 23:51:19",page-load,video
+56160,329,104,"2023-05-24 19:35:00",page-load,video
+56161,329,105,"2023-05-24 19:37:58",page-load,"web form: question"
+56162,329,105,"2023-05-24 19:38:09",click,"incorrect-option: Trips"
+56163,329,105,"2023-05-24 19:38:11",click,next-page
+56164,329,106,"2023-05-24 19:38:11",page-load,video
+56165,329,107,"2023-05-24 19:38:31",page-load,"web form: question"
+56166,329,107,"2023-05-24 19:38:36",click,"incorrect-option: Daily Medication"
+56167,329,107,"2023-05-24 19:38:38",click,next-page
+56168,329,108,"2023-05-24 19:38:38",page-load,"web form: what would you like to do next"
+56169,329,108,"2023-05-24 19:38:41",click,next-page
+56170,329,109,"2023-05-24 19:38:41",page-load,video
+56171,329,110,"2023-05-24 19:43:16",page-load,"web form: question"
+56172,329,110,"2023-05-24 19:43:25",click,next-page
+56173,329,111,"2023-05-24 19:43:25",page-load,"web form: what would you like to do next"
+56174,329,111,"2023-05-24 19:43:28",click,next-page
+56175,329,112,"2023-05-24 19:43:28",page-load,video
+56176,329,113,"2023-05-24 19:44:19",page-load,"web form: question"
+56177,329,113,"2023-05-24 19:44:28",click,"incorrect-option: A. View"
+56178,329,113,"2023-05-24 19:44:34",click,"incorrect-option: C. The event listed on the Time Schedule"
+56179,329,113,"2023-05-24 19:44:40",click,hint
+56180,329,113,"2023-05-24 19:44:45",click,next-page
+56181,329,114,"2023-05-24 19:44:45",page-load,video
+56182,329,115,"2023-05-24 19:46:23",page-load,"web form: question"
+56183,329,115,"2023-05-24 19:46:31",click,hint
+56184,329,115,"2023-05-24 19:46:35",click,"correct-option: 30 minutes before"
+56185,329,115,"2023-05-24 19:46:37",click,next-page
+56186,329,116,"2023-05-24 19:46:38",page-load,"web form: what would you like to do next"
+56187,329,117,"2023-05-24 19:47:46",click,"skills quiz hint"
+56188,329,0,"2023-05-24 19:47:52","Skills Quiz-5 Step-1 Correct",CALENDAR
+56189,329,0,"2023-05-24 19:47:58","Skills Quiz-5 Step-2 Incorrect","JUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930"
+56190,329,0,"2023-05-24 19:48:03","Skills Quiz-5 Step-2 Incorrect","JUNE 2021"
+56191,329,0,"2023-05-24 19:48:04","Skills Quiz-5 Step-2 Correct",right-arrow
+56192,329,117,"2023-05-24 19:48:13",click,"skills quiz hint"
+56193,329,0,"2023-05-24 19:48:34","Skills Quiz 30 second Hint",30time
+56194,329,0,"2023-05-24 19:48:39","Skills Quiz-5 Step-3 Correct",3
+56195,329,0,"2023-05-24 19:48:48","Skills Quiz-5 Step-4 Incorrect",undefined
+56196,329,0,"2023-05-24 19:49:00","Skills Quiz-5 Step-4 Correct",Edit
+56197,329,0,"2023-05-24 19:49:30","Skills Quiz 30 second Hint",30time
+56198,329,0,"2023-05-24 19:49:35","Skills Quiz-5 Step-5 Incorrect","60 min"
+56199,329,0,"2023-05-24 19:49:36","Skills Quiz-5 Step-5 Incorrect","60 min"
+56200,329,117,"2023-05-24 19:49:43",click,"skills quiz hint"
+56201,329,117,"2023-05-24 19:49:45",click,"skills quiz hint"
+56202,329,117,"2023-05-24 19:49:46",click,"skills quiz hint"
+56203,329,0,"2023-05-24 19:49:50","Skills Quiz-5 Step-5 Correct",YES
+56204,329,0,"2023-05-24 19:49:58","Skills Quiz-5 Step-6 Incorrect","60 min"
+56205,329,0,"2023-05-24 19:50:01","Skills Quiz-5 Step-6 Incorrect",Save
+56206,329,0,"2023-05-24 19:50:05","Skills Quiz-5 Step-6 Incorrect",Save
+56207,329,0,"2023-05-24 19:50:06","Skills Quiz-5 Step-6 Incorrect",Save
+56208,329,0,"2023-05-24 19:50:17","Skills Quiz-5 Step-6 Incorrect",undefined
+56209,329,0,"2023-05-24 19:50:18","Skills Quiz-5 Step-6 Incorrect",undefined
+56210,329,0,"2023-05-24 19:50:19","Skills Quiz-5 Step-6 Incorrect",undefined
+56211,329,0,"2023-05-24 19:50:19","Skills Quiz-5 Step-6 Incorrect",undefined
+56364,329,0,"2023-05-26 18:37:41","Skills Quiz 30 second Hint",30time
+56365,329,0,"2023-05-26 18:45:02","Skills Quiz-5 Step-2 Correct",right-arrow
+56366,329,117,"2023-05-26 18:45:20",click,"skills quiz hint"
+56367,329,117,"2023-05-26 18:45:23",click,"skills quiz hint"
+56368,329,0,"2023-05-26 18:45:32","Skills Quiz 30 second Hint",30time
+56369,329,117,"2023-05-26 18:45:37",click,"skills quiz hint"
+56370,329,0,"2023-05-26 18:45:44","Skills Quiz-5 Step-3 Correct",3
+56371,329,0,"2023-05-26 18:45:56","Skills Quiz-5 Step-4 Incorrect",CALENDAR
+56372,329,0,"2023-05-26 18:45:57","Skills Quiz-5 Step-4 Incorrect",CALENDAR
+56373,329,0,"2023-05-26 18:45:58","Skills Quiz-5 Step-4 Incorrect",CALENDAR
+56374,329,0,"2023-05-26 18:46:01","Skills Quiz-5 Step-4 Incorrect",TODAY
+56375,329,0,"2023-05-26 18:46:02","Skills Quiz-5 Step-4 Incorrect",CALENDAR
+56376,329,0,"2023-05-26 18:46:19","Skills Quiz-5 Step-4 Incorrect",CALENDAR
+56377,329,0,"2023-05-26 18:46:21","Skills Quiz-5 Step-4 Incorrect",CALENDAR
+56378,329,0,"2023-05-26 18:46:24","Skills Quiz-5 Step-4 Incorrect",undefined
+56379,329,0,"2023-05-26 18:46:35","Skills Quiz-5 Step-4 Incorrect","Entry/Event DetailsDate:Title:Lunch with MaryDescription:CancelDeleteEdit"
+56380,329,0,"2023-05-26 18:46:40","Skills Quiz-5 Step-4 Incorrect","Entry/Event DetailsDate:Title:Lunch with MaryDescription:CancelDeleteEdit"
+56381,329,0,"2023-05-26 18:46:50","Skills Quiz-5 Step-4 Incorrect",Date:
+56382,329,0,"2023-05-26 18:47:37","Skills Quiz-5 Step-5 Correct",YES
+56383,329,0,"2023-05-26 18:47:49","Skills Quiz-5 Step-6 Incorrect",nos-time-check
+56384,329,0,"2023-05-26 18:48:01","Skills Quiz-5 Step-6 Incorrect",nos-time-check
+56385,329,0,"2023-05-26 18:48:07","Skills Quiz-5 Step-6 Incorrect",undefined
+56386,329,0,"2023-05-26 18:48:09","Skills Quiz-5 Step-6 Incorrect",undefined
+56387,329,0,"2023-05-26 18:48:09","Skills Quiz-5 Step-6 Incorrect",undefined
+56388,329,0,"2023-05-26 18:48:26","Skills Quiz-5 Step-6 Correct","60 min"
+56389,329,0,"2023-05-26 18:48:54","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-05-26 18:48:54",module_end,none

@@ -1,0 +1,66 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+80668,329,503,"2023-07-30 21:11:17",page-load,"web form: scheduling choices"
+80669,329,503,"2023-07-30 21:11:27",tracked,"Doing a crossword puzzle"
+80670,329,503,"2023-07-30 21:11:31",tracked,"Reading a book"
+80671,329,503,"2023-07-30 21:11:41",tracked,"Helping your children/ grandchildren with homework"
+80672,329,503,"2023-07-30 21:11:42",click,next-page
+80673,329,504,"2023-07-30 21:11:43",page-load,video
+80674,329,505,"2023-07-30 21:17:29",page-load,"web form: what would you like to do next"
+80675,329,505,"2023-07-30 21:17:32",click,take-a-break
+80676,329,505,"2023-07-30 22:29:02",page-load,"web form: what would you like to do next"
+80677,329,505,"2023-07-30 22:29:04",click,next-page
+80678,329,506,"2023-07-30 22:29:04",page-load,"skills quiz preview"
+80679,329,507,"2023-07-30 22:29:53",click,"skills quiz hint"
+80680,329,0,"2023-07-30 22:29:55","Skills Quiz-25 Step-1 Correct",TODAY
+80681,329,507,"2023-07-30 22:30:00",click,"skills quiz hint"
+80682,329,0,"2023-07-30 22:30:03","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewMorning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+80683,329,0,"2023-07-30 22:30:04","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewMorning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+80684,329,0,"2023-07-30 22:30:04","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewMorning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+80685,329,0,"2023-07-30 22:30:05","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewMorning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+80686,329,0,"2023-07-30 22:30:07","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewMorning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+80687,329,0,"2023-07-30 22:30:08","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewMorning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+80688,329,0,"2023-07-30 22:30:08","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewMorning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+80689,329,0,"2023-07-30 22:30:12","Skills Quiz-25 Step-2 Incorrect","Walk to Library"
+80690,329,0,"2023-07-30 22:30:19","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+80691,329,0,"2023-07-30 22:30:20","Skills Quiz-25 Step-2 Incorrect",3
+80692,329,0,"2023-07-30 22:30:21","Skills Quiz-25 Step-2 Incorrect",0
+80693,329,507,"2023-07-30 22:30:24",click,"skills quiz hint"
+80694,329,507,"2023-07-30 22:30:27",click,"skills quiz hint"
+80695,329,507,"2023-07-30 22:30:27",click,"skills quiz hint"
+80696,329,507,"2023-07-30 22:30:27",click,"skills quiz hint"
+80697,329,0,"2023-07-30 22:30:30","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+80698,329,0,"2023-07-30 22:30:36","Skills Quiz-25 Step-2 Incorrect",Save
+80699,329,507,"2023-07-30 22:30:45",click,"skills quiz hint"
+80700,329,507,"2023-07-30 22:30:47",click,"skills quiz hint"
+80701,329,507,"2023-07-30 22:30:52",click,"skills quiz hint"
+80881,329,507,"2023-07-31 19:39:09",click,"skills quiz hint"
+80882,329,0,"2023-07-31 19:39:12","Skills Quiz-25 Step-1 Correct",TODAY
+80883,329,0,"2023-07-31 19:39:21","Skills Quiz-25 Step-2 Incorrect",undefined
+80884,329,0,"2023-07-31 19:39:24","Skills Quiz-25 Step-3 Correct","Tap Here"
+80885,329,0,"2023-07-31 19:39:24","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+80886,329,0,"2023-07-31 19:39:25","Skills Quiz-25 Step-4 Correct",3
+80887,329,0,"2023-07-31 19:39:25","Skills Quiz-25 Step-2 Incorrect",3
+80888,329,0,"2023-07-31 19:39:26","Skills Quiz-25 Step-5 Correct",0
+80889,329,0,"2023-07-31 19:39:26","Skills Quiz-25 Step-2 Incorrect",0
+80890,329,0,"2023-07-31 19:39:33","Skills Quiz-25 Step-6 Correct","                              Save            "
+80891,329,0,"2023-07-31 19:39:33","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+80892,329,507,"2023-07-31 19:39:38",click,"skills quiz hint"
+80893,329,0,"2023-07-31 19:39:40","Skills Quiz-25 Step-7 Correct",Save
+80894,329,0,"2023-07-31 19:39:40","Skills Quiz-25 Step-2 Incorrect",Save
+80895,329,507,"2023-07-31 19:39:51",click,"skills quiz hint"
+80896,329,0,"2023-07-31 19:39:52","Skills Quiz-25 Step-2 Incorrect",undefined
+80897,329,0,"2023-07-31 19:39:52","Skills Quiz-25 Step-8 Incorrect",undefined
+80898,329,0,"2023-07-31 19:39:59","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+80899,329,0,"2023-07-31 19:39:59","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+80900,329,0,"2023-07-31 19:39:59","Skills Quiz-25 Step-9 Correct","Tap Here"
+80901,329,0,"2023-07-31 19:40:00","Skills Quiz-25 Step-2 Incorrect",1
+80902,329,0,"2023-07-31 19:40:00","Skills Quiz-25 Step-8 Incorrect",1
+80903,329,0,"2023-07-31 19:40:00","Skills Quiz-25 Step-10 Correct",1
+80904,329,507,"2023-07-31 19:40:04",click,"skills quiz hint"
+80905,329,0,"2023-07-31 19:40:05","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+80906,329,0,"2023-07-31 19:40:05","Skills Quiz-25 Step-11 Correct","                              Save            "
+80907,329,0,"2023-07-31 19:40:05","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+80908,329,507,"2023-07-31 19:40:15",click,"skills quiz hint"
+80909,329,0,"2023-07-31 19:40:17","Skills Quiz-25 Step-8 Incorrect",Save
+80910,329,0,"2023-07-31 19:40:17","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2023-07-31 19:40:17",module_end,none

@@ -1,0 +1,33 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+16578,250,509,"2023-02-10 16:19:01",page-load,"skills quiz preview"
+16579,250,509,"2023-02-10 16:19:03",click,next-page
+16580,250,0,"2023-02-10 16:19:10","Skills Quiz-26 Step-1 Incorrect","Sort by:RelevantSearchClear"
+16581,250,0,"2023-02-10 16:19:11","Skills Quiz-26 Step-1 Correct",TODAY
+16582,250,0,"2023-02-10 16:19:15","Skills Quiz-26 Step-2 Incorrect",undefined
+16583,250,0,"2023-02-10 16:19:17","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+16584,250,0,"2023-02-10 16:19:17","Skills Quiz-26 Step-3 Correct","Tap Here"
+16585,250,0,"2023-02-10 16:19:18","Skills Quiz-26 Step-4 Correct",1
+16586,250,0,"2023-02-10 16:19:18","Skills Quiz-26 Step-2 Incorrect",1
+16587,250,0,"2023-02-10 16:19:19","Skills Quiz-26 Step-2 Incorrect",3
+16588,250,0,"2023-02-10 16:19:19","Skills Quiz-26 Step-5 Correct",3
+16589,250,0,"2023-02-10 16:19:19","Skills Quiz-26 Step-2 Incorrect",0
+16590,250,0,"2023-02-10 16:19:19","Skills Quiz-26 Step-6 Correct",0
+16591,250,0,"2023-02-10 16:19:20","Skills Quiz-26 Step-7 Correct","                              Save            "
+16592,250,0,"2023-02-10 16:19:20","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+16593,250,0,"2023-02-10 16:19:21","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+16594,250,0,"2023-02-10 16:19:21","Skills Quiz-26 Step-8 Correct","Tap Here"
+16595,250,0,"2023-02-10 16:19:23","Skills Quiz-26 Step-2 Incorrect",8
+16596,250,0,"2023-02-10 16:19:23","Skills Quiz-26 Step-9 Correct",8
+16597,250,0,"2023-02-10 16:19:24","Skills Quiz-26 Step-10 Correct",0
+16598,250,0,"2023-02-10 16:19:24","Skills Quiz-26 Step-2 Incorrect",0
+16599,250,0,"2023-02-10 16:19:24","Skills Quiz-26 Step-11 Correct","                              Save            "
+16600,250,0,"2023-02-10 16:19:24","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+16601,250,0,"2023-02-10 16:19:27","Skills Quiz-26 Step-12 Correct",Save
+16602,250,0,"2023-02-10 16:19:27","Skills Quiz-26 Step-2 Incorrect",Save
+16603,250,0,"2023-02-10 16:19:33","Skills Quiz-26 Step-13 Correct","Morning Medications7:00 AM - 7:30 AM"
+16604,250,0,"2023-02-10 16:19:33","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AM"
+16605,250,0,"2023-02-10 16:19:35","Skills Quiz-26 Step-14 Correct",Yes
+16606,250,0,"2023-02-10 16:19:35","Skills Quiz-26 Step-2 Incorrect",Yes
+16607,250,0,"2023-02-10 16:19:36","Skills Quiz-26 Step-2 Incorrect",Save
+16608,250,0,"2023-02-10 16:19:36","Skills Quiz-26 Step-15 Correct",Save
+0,0,0,"2023-02-10 16:19:37",module_end,none

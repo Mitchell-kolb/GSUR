@@ -1,0 +1,60 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+33483,302,121,"2023-03-24 22:49:47",page-load,video
+33484,302,0,"2023-03-24 22:51:47","Skills Quiz-6 Step-2 Correct",right-arrow
+33485,302,0,"2023-03-24 22:51:52","Skills Quiz-6 Step-2 Incorrect","JULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031"
+33486,302,0,"2023-03-24 22:51:57","Skills Quiz-6 Step-2 Correct",right-arrow
+33487,302,0,"2023-03-24 22:52:00","Skills Quiz-6 Step-3 Correct",3
+33488,302,0,"2023-03-24 22:53:02","Skills Quiz-6 Step-5 Incorrect","No Specific Time "
+33489,302,0,"2023-03-24 22:53:04","Skills Quiz-6 Step-5 Incorrect","No Specific Time "
+33490,302,0,"2023-03-24 22:53:07","Skills Quiz-6 Step-5 Incorrect",undefined
+33491,302,0,"2023-03-24 22:53:30","Skills Quiz-6 Step-5 Incorrect","No Specific Time "
+33492,302,0,"2023-03-24 22:53:31","Skills Quiz-6 Step-5 Incorrect",nos-time-check
+33493,302,0,"2023-03-24 22:53:32","Skills Quiz-6 Step-5 Incorrect",nos-time-check
+33494,302,0,"2023-03-24 22:53:37","Skills Quiz-6 Step-5 Incorrect","No Specific Time "
+33495,302,0,"2023-03-24 22:53:47","Skills Quiz-6 Step-5 Incorrect",undefined
+33496,302,0,"2023-03-24 22:53:48","Skills Quiz-6 Step-5 Incorrect",undefined
+33497,302,10,"2023-03-24 22:54:03",page-load,video
+33498,302,104,"2023-03-24 22:54:10",page-load,video
+33499,302,104,"2023-03-24 22:54:40",page-load,video
+33500,302,104,"2023-03-24 22:54:44",page-load,video
+33501,302,104,"2023-03-24 22:55:33",page-load,video
+33502,302,104,"2023-03-24 22:55:45",page-load,video
+33503,302,105,"2023-03-24 22:56:27",page-load,"web form: question"
+33504,302,105,"2023-03-24 22:56:39",click,"incorrect-option: Anniversaries"
+33505,302,105,"2023-03-24 22:56:53",click,next-page
+33506,302,106,"2023-03-24 22:56:54",page-load,video
+33507,302,107,"2023-03-24 22:57:34",page-load,"web form: question"
+33508,302,107,"2023-03-24 22:57:39",click,"incorrect-option: Daily Medication"
+33509,302,107,"2023-03-24 22:57:56",click,next-page
+33510,302,108,"2023-03-24 22:57:56",page-load,"web form: what would you like to do next"
+33511,302,108,"2023-03-24 22:57:59",click,take-a-break
+33512,302,108,"2023-03-24 22:59:20",page-load,"web form: what would you like to do next"
+33513,302,108,"2023-03-24 22:59:22",click,take-a-break
+33514,302,108,"2023-03-26 17:07:49",page-load,"web form: what would you like to do next"
+33515,302,108,"2023-03-26 17:08:03",click,next-page
+33516,302,109,"2023-03-26 17:08:04",page-load,video
+33517,302,110,"2023-03-26 17:12:53",page-load,"web form: question"
+33518,302,110,"2023-03-26 17:13:09",click,next-page
+33519,302,111,"2023-03-26 17:13:09",page-load,"web form: what would you like to do next"
+33520,302,111,"2023-03-26 17:13:13",click,next-page
+33521,302,112,"2023-03-26 17:13:13",page-load,video
+33522,302,113,"2023-03-26 17:14:09",page-load,"web form: question"
+33523,302,113,"2023-03-26 17:14:21",click,"correct-option: D. Both A and C"
+33524,302,113,"2023-03-26 17:14:23",click,next-page
+33525,302,114,"2023-03-26 17:14:23",page-load,video
+33526,302,115,"2023-03-26 17:16:05",page-load,"web form: question"
+33527,302,115,"2023-03-26 17:16:24",click,"correct-option: 30 minutes before"
+33528,302,115,"2023-03-26 17:16:29",click,next-page
+33529,302,116,"2023-03-26 17:16:29",page-load,"web form: what would you like to do next"
+33530,302,117,"2023-03-26 17:17:30",click,"skills quiz hint"
+33531,302,0,"2023-03-26 17:17:36","Skills Quiz-5 Step-1 Incorrect",undefined
+33532,302,0,"2023-03-26 17:17:42","Skills Quiz-5 Step-1 Correct",CALENDAR
+33533,302,0,"2023-03-26 17:17:51","Skills Quiz-5 Step-2 Correct",right-arrow
+33534,302,0,"2023-03-26 17:18:05","Skills Quiz-5 Step-3 Correct",3
+33535,302,0,"2023-03-26 17:18:15","Skills Quiz-5 Step-4 Correct",Edit
+33536,302,0,"2023-03-26 17:18:21","Skills Quiz-5 Step-5 Correct",YES
+33537,302,0,"2023-03-26 17:18:23","Skills Quiz-5 Step-6 Incorrect","30 min"
+33538,302,0,"2023-03-26 17:18:31","Skills Quiz-5 Step-6 Incorrect","30 min"
+33539,302,0,"2023-03-26 17:18:39","Skills Quiz-5 Step-6 Correct","60 min"
+33540,302,0,"2023-03-26 17:18:48","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-03-26 17:18:49",module_end,none

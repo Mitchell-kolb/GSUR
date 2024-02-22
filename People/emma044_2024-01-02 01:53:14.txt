@@ -1,0 +1,91 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+111343,411,434,"2024-01-01 22:20:30",page-load,video
+111344,411,435,"2024-01-01 22:20:36",page-load,"goal setting: preview"
+111345,411,436,"2024-01-01 22:22:00",page-load,"goal setting: example plan"
+111346,411,436,"2024-01-01 22:22:00",click,next-page
+111347,411,437,"2024-01-01 22:22:01",page-load,"goal setting: pick one strategy"
+111348,411,437,"2024-01-01 22:22:56",click,next-page
+111349,411,438,"2024-01-01 22:22:56",page-load,"goal setting: top strategy display"
+111350,411,438,"2024-01-01 22:23:12",click,next-page
+111351,411,439,"2024-01-01 22:23:12",page-load,"goal setting: when"
+111352,411,439,"2024-01-01 22:23:13",click,next-page
+111353,411,439,"2024-01-01 22:24:25",click,next-page
+111354,411,440,"2024-01-01 22:24:26",page-load,"goal setting: where"
+111355,411,440,"2024-01-01 22:25:17",click,next-page
+111356,411,441,"2024-01-01 22:25:18",page-load,"goal setting: with whom"
+111357,411,441,"2024-01-01 22:25:35",click,next-page
+111358,411,442,"2024-01-01 22:25:35",page-load,"goal setting: how"
+111359,411,442,"2024-01-01 22:29:07",click,next-page
+111360,411,443,"2024-01-01 22:29:08",page-load,"goal setting: barriers and alternatives"
+111361,411,443,"2024-01-01 22:29:08",click,next-page
+111362,411,443,"2024-01-01 22:32:33",click,next-page
+111363,411,443,"2024-01-01 22:32:34",click,next-page
+111364,411,444,"2024-01-01 22:32:34",page-load,"goal setting: motivation"
+111365,411,444,"2024-01-01 22:32:35",click,next-page
+111366,411,444,"2024-01-01 22:32:46",click,next-page
+111367,411,445,"2024-01-01 22:32:47",page-load,"goal setting: confidence"
+111368,411,445,"2024-01-01 22:32:55",click,next-page
+111369,411,446,"2024-01-01 22:32:56",page-load,"goal setting: plan"
+111370,411,447,"2024-01-01 22:33:36",page-load,"end of lesson: 5"
+111372,411,447,"2024-01-02 01:11:21",page-load,"end of lesson: 5"
+111373,411,500,"2024-01-02 01:11:35",page-load,video
+111374,411,501,"2024-01-02 01:15:06",page-load,"web form: scheduling choices"
+111375,411,501,"2024-01-02 01:15:31",tracked,"reduce stress"
+111376,411,501,"2024-01-02 01:15:36",tracked,"improve emotion regulation/mood"
+111377,411,501,"2024-01-02 01:15:38",tracked,"better relationships"
+111378,411,501,"2024-01-02 01:15:43",tracked,"improve memory"
+111379,411,501,"2024-01-02 01:15:53",tracked,"improve my quality of life"
+111380,411,501,"2024-01-02 01:16:26",tracked,"improve emotion regulation/mood"
+111381,411,501,"2024-01-02 01:16:35",tracked,"stay mobile and active"
+111382,411,501,"2024-01-02 01:16:37",tracked,"improve emotion regulation/mood"
+111383,411,501,"2024-01-02 01:16:37",tracked,"improve emotion regulation/mood"
+111384,411,501,"2024-01-02 01:16:42",click,next-page
+111385,411,502,"2024-01-02 01:16:43",page-load,video
+111386,411,503,"2024-01-02 01:26:11",page-load,"web form: scheduling choices"
+111387,411,503,"2024-01-02 01:26:43",tracked,"Doing a crossword puzzle"
+111388,411,503,"2024-01-02 01:26:47",tracked,"Reading a book"
+111389,411,503,"2024-01-02 01:26:50",tracked,"Socialize with family and friends"
+111390,411,503,"2024-01-02 01:26:59",tracked,"Cooking a new recipe"
+111391,411,503,"2024-01-02 01:27:01",click,next-page
+111392,411,504,"2024-01-02 01:27:01",page-load,video
+111393,411,505,"2024-01-02 01:36:05",page-load,"web form: what would you like to do next"
+111394,411,505,"2024-01-02 01:39:02",click,take-a-break
+111395,411,506,"2024-01-02 01:49:50",page-load,"skills quiz preview"
+111396,411,0,"2024-01-02 01:51:17","Skills Quiz-25 Step-1 Incorrect",GoalsLists
+111397,411,0,"2024-01-02 01:51:18","Skills Quiz-25 Step-1 Incorrect",GoalsLists
+111398,411,0,"2024-01-02 01:51:23","Skills Quiz-25 Step-1 Correct",TODAY
+111399,411,0,"2024-01-02 01:51:48","Skills Quiz-25 Step-2 Incorrect","Walk to Library12:30 PM - 1:15 PM"
+111400,411,0,"2024-01-02 01:51:50","Skills Quiz-25 Step-3 Correct","Tap Here"
+111401,411,0,"2024-01-02 01:51:50","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+111402,411,0,"2024-01-02 01:51:55","Skills Quiz-25 Step-2 Incorrect",3
+111403,411,0,"2024-01-02 01:51:55","Skills Quiz-25 Step-4 Correct",3
+111404,411,0,"2024-01-02 01:51:58","Skills Quiz-25 Step-2 Incorrect",0
+111405,411,0,"2024-01-02 01:51:58","Skills Quiz-25 Step-5 Correct",0
+111406,411,0,"2024-01-02 01:52:00","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+111407,411,0,"2024-01-02 01:52:00","Skills Quiz-25 Step-6 Correct","                              Save            "
+111408,411,0,"2024-01-02 01:52:01","Skills Quiz-25 Step-2 Incorrect",Save
+111409,411,0,"2024-01-02 01:52:01","Skills Quiz-25 Step-7 Correct",Save
+111410,411,0,"2024-01-02 01:52:09","Skills Quiz-25 Step-8 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+111411,411,0,"2024-01-02 01:52:09","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+111412,411,0,"2024-01-02 01:52:13","Skills Quiz-25 Step-8 Correct","Gratitude Journal2:00 PM - 2:30 PM"
+111413,411,0,"2024-01-02 01:52:13","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+111414,411,0,"2024-01-02 01:52:25","Skills Quiz-25 Step-9 Correct","Tap Here"
+111415,411,0,"2024-01-02 01:52:25","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+111416,411,0,"2024-01-02 01:52:41","Skills Quiz-25 Step-10 Incorrect",123
+111417,411,0,"2024-01-02 01:52:41","Skills Quiz-25 Step-2 Incorrect",123
+111418,411,0,"2024-01-02 01:52:48","Skills Quiz-25 Step-2 Incorrect",CancelSave
+111419,411,0,"2024-01-02 01:52:48","Skills Quiz-25 Step-10 Incorrect",CancelSave
+111420,411,0,"2024-01-02 01:52:50","Skills Quiz-25 Step-10 Incorrect",CancelSave
+111421,411,0,"2024-01-02 01:52:50","Skills Quiz-25 Step-2 Incorrect",CancelSave
+111422,411,0,"2024-01-02 01:52:52","Skills Quiz-25 Step-2 Incorrect",CancelSave
+111423,411,0,"2024-01-02 01:52:52","Skills Quiz-25 Step-10 Incorrect",CancelSave
+111424,411,0,"2024-01-02 01:52:53","Skills Quiz-25 Step-2 Incorrect",CancelSave
+111425,411,0,"2024-01-02 01:52:53","Skills Quiz-25 Step-10 Incorrect",CancelSave
+111426,411,0,"2024-01-02 01:52:57","Skills Quiz-25 Step-10 Correct",1
+111427,411,0,"2024-01-02 01:52:57","Skills Quiz-25 Step-2 Incorrect",1
+111428,411,0,"2024-01-02 01:53:00","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+111429,411,0,"2024-01-02 01:53:00","Skills Quiz-25 Step-11 Correct","                              Save            "
+111430,411,0,"2024-01-02 01:53:06","Skills Quiz-25 Step-12 Incorrect","CancelSave and View GraphSave"
+111431,411,0,"2024-01-02 01:53:06","Skills Quiz-25 Step-2 Incorrect","CancelSave and View GraphSave"
+111432,411,0,"2024-01-02 01:53:14","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2024-01-02 01:53:14",module_end,none

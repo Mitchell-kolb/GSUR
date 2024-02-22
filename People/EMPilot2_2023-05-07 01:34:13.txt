@@ -1,0 +1,57 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+50176,241,410,"2023-05-07 01:24:51",page-load,video
+50177,241,411,"2023-05-07 01:25:08",page-load,"web form: scheduling choices"
+50178,241,411,"2023-05-07 01:25:41",tracked,Weight
+50179,241,411,"2023-05-07 01:25:42",tracked,"Well-being activities"
+50180,241,411,"2023-05-07 01:25:42",tracked,Fatigue
+50181,241,411,"2023-05-07 01:25:44",tracked,"Physical Exercise"
+50182,241,411,"2023-05-07 01:25:46",tracked,Mood
+50183,241,411,"2023-05-07 01:25:47",tracked,Mood
+50184,241,411,"2023-05-07 01:25:48",tracked,"Cognitive Activity"
+50185,241,411,"2023-05-07 01:25:52",tracked,Medications
+50186,241,411,"2023-05-07 01:25:54",click,next-page
+50187,241,412,"2023-05-07 01:25:55",page-load,video
+50188,241,413,"2023-05-07 01:26:56",page-load,"web form: question"
+50189,241,413,"2023-05-07 01:26:59",click,"correct-option: 4"
+50190,241,413,"2023-05-07 01:27:01",click,next-page
+50191,241,414,"2023-05-07 01:27:02",page-load,video
+50192,241,415,"2023-05-07 01:27:17",page-load,"web form: question"
+50193,241,415,"2023-05-07 01:27:20",click,"correct-option: False"
+50194,241,415,"2023-05-07 01:27:21",click,next-page
+50195,241,416,"2023-05-07 01:27:22",page-load,video
+50196,241,417,"2023-05-07 01:29:13",page-load,"web form: what would you like to do next"
+50197,241,417,"2023-05-07 01:29:17",click,previous-page
+50198,241,412,"2023-05-07 01:29:18",page-load,video
+50199,241,413,"2023-05-07 01:30:12",page-load,"web form: question"
+50200,241,413,"2023-05-07 01:30:16",click,"correct-option: 4"
+50201,241,413,"2023-05-07 01:30:18",click,next-page
+50202,241,414,"2023-05-07 01:30:18",page-load,video
+50203,241,415,"2023-05-07 01:30:34",page-load,"web form: question"
+50204,241,415,"2023-05-07 01:30:37",click,"correct-option: False"
+50205,241,415,"2023-05-07 01:30:38",click,next-page
+50206,241,416,"2023-05-07 01:30:39",page-load,video
+50207,241,417,"2023-05-07 01:32:34",page-load,"web form: what would you like to do next"
+50208,241,417,"2023-05-07 01:32:37",click,next-page
+50209,241,418,"2023-05-07 01:32:37",page-load,"skills quiz preview"
+50210,241,418,"2023-05-07 01:32:41",click,next-page
+50211,241,0,"2023-05-07 01:32:48","Skills Quiz-21 Step-1 Incorrect",HEALTH
+50212,241,0,"2023-05-07 01:32:50","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+50213,241,0,"2023-05-07 01:32:55","Skills Quiz-21 Step-3 Correct","Daily Medications"
+50214,241,0,"2023-05-07 01:33:16","Skills Quiz-21 Step-4 Incorrect",titleMorning
+50215,241,0,"2023-05-07 01:33:17","Skills Quiz-21 Step-4 Incorrect","Turn On (green)"
+50216,241,0,"2023-05-07 01:33:19","Skills Quiz-21 Step-4 Incorrect","Turn On (green)"
+50217,241,0,"2023-05-07 01:33:20","Skills Quiz-21 Step-4 Incorrect","Turn On (green)"
+50218,241,0,"2023-05-07 01:33:21","Skills Quiz-21 Step-4 Incorrect","Turn On (green)"
+50219,241,0,"2023-05-07 01:33:21","Skills Quiz-21 Step-4 Incorrect","Turn On (green)"
+50220,241,0,"2023-05-07 01:33:22","Skills Quiz-21 Step-4 Incorrect","Turn On (green)"
+50221,241,0,"2023-05-07 01:33:22","Skills Quiz-21 Step-4 Incorrect","Turn On (green)"
+50222,241,0,"2023-05-07 01:33:27","Skills Quiz-21 Step-4 Correct",descriptionMorning
+50223,241,0,"2023-05-07 01:33:58","Skills Quiz-21 Step-6 Correct","8:00 AM"
+50224,241,0,"2023-05-07 01:34:00","Skills Quiz-21 Step-7 Correct",7
+50225,241,0,"2023-05-07 01:34:02","Skills Quiz-21 Step-8 Correct",00
+50226,241,0,"2023-05-07 01:34:02","Skills Quiz-21 Step-9 Correct",AM
+50227,241,0,"2023-05-07 01:34:03","Skills Quiz-21 Step-10 Correct",Save
+50228,241,0,"2023-05-07 01:34:05","Skills Quiz-21 Step-11 Incorrect",CloseSave
+50229,241,0,"2023-05-07 01:34:09","Skills Quiz-21 Step-11 Correct",checkMorning
+50230,241,0,"2023-05-07 01:34:13","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-05-07 01:34:13",module_end,none

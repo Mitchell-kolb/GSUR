@@ -1,0 +1,79 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+121040,354,528,"2024-02-06 23:40:30",page-load,"skills quiz preview"
+121043,354,529,"2024-02-06 23:41:25",click,"skills quiz hint"
+121047,354,529,"2024-02-06 23:41:34",click,"skills quiz hint"
+121048,354,0,"2024-02-06 23:41:36","Skills Quiz-28 Step-1 Incorrect",Edit
+121049,354,0,"2024-02-06 23:41:36","Skills Quiz-28 Step-2 Correct",Edit
+121056,354,529,"2024-02-06 23:41:43",click,"skills quiz hint"
+121059,354,0,"2024-02-06 23:41:46","Skills Quiz-28 Step-3 Correct",YES
+121063,354,529,"2024-02-06 23:41:52",click,"skills quiz hint"
+121065,354,0,"2024-02-06 23:41:54","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+121068,354,529,"2024-02-06 23:41:57",click,"skills quiz hint"
+121069,354,0,"2024-02-06 23:41:59","Skills Quiz-28 Step-5 Correct",Loneliness
+121071,354,529,"2024-02-06 23:42:03",click,"skills quiz hint"
+121072,354,0,"2024-02-06 23:42:05","Skills Quiz-28 Step-6 Correct","                  Select               "
+121074,354,529,"2024-02-06 23:42:08",click,"skills quiz hint"
+121078,354,0,"2024-02-06 23:42:10","Skills Quiz-28 Step-7 Correct",Save
+121080,354,529,"2024-02-06 23:42:14",click,"skills quiz hint"
+121081,354,529,"2024-02-06 23:42:15",click,"skills quiz hint"
+121082,354,529,"2024-02-06 23:42:16",click,"skills quiz hint"
+121084,354,529,"2024-02-06 23:42:19",click,"skills quiz hint"
+121086,354,0,"2024-02-06 23:42:41","Skills Quiz 30 second Hint",30time
+121087,354,529,"2024-02-06 23:42:56",click,"skills quiz hint"
+121088,354,529,"2024-02-06 23:43:13",click,"skills quiz hint"
+121089,354,0,"2024-02-06 23:43:31","Skills Quiz-28 Step-8 Incorrect",Edit
+121090,354,529,"2024-02-06 23:43:54",click,"skills quiz hint"
+121091,354,0,"2024-02-06 23:43:57","Skills Quiz-28 Step-3 Correct",YES
+121092,354,529,"2024-02-06 23:44:00",click,"skills quiz hint"
+121093,354,0,"2024-02-06 23:44:03","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+121094,354,529,"2024-02-06 23:44:05",click,"skills quiz hint"
+121095,354,0,"2024-02-06 23:44:07","Skills Quiz-28 Step-5 Correct",Loneliness
+121096,354,0,"2024-02-06 23:44:12","Skills Quiz-28 Step-6 Correct","                  Select               "
+121097,354,0,"2024-02-06 23:44:17","Skills Quiz-28 Step-7 Correct",Save
+121098,354,528,"2024-02-06 23:44:57",click,next-page
+121099,354,529,"2024-02-06 23:45:07",click,"skills quiz hint"
+121101,354,529,"2024-02-06 23:45:15",click,"skills quiz hint"
+121102,354,0,"2024-02-06 23:45:17","Skills Quiz-28 Step-1 Incorrect",Edit
+121103,354,0,"2024-02-06 23:45:17","Skills Quiz-28 Step-2 Correct",Edit
+121104,354,529,"2024-02-06 23:45:22",click,"skills quiz hint"
+121105,354,0,"2024-02-06 23:45:26","Skills Quiz-28 Step-3 Correct",YES
+121106,354,529,"2024-02-06 23:45:30",click,"skills quiz hint"
+121107,354,0,"2024-02-06 23:45:32","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+121108,354,529,"2024-02-06 23:45:43",click,"skills quiz hint"
+121109,354,0,"2024-02-06 23:45:45","Skills Quiz-28 Step-5 Correct",Loneliness
+121110,354,0,"2024-02-06 23:45:48","Skills Quiz-28 Step-6 Correct","                  Select               "
+121115,354,0,"2024-02-06 23:45:54","Skills Quiz-28 Step-7 Incorrect",undefined
+121119,354,0,"2024-02-06 23:46:01","Skills Quiz-28 Step-7 Incorrect",undefined
+121120,354,0,"2024-02-06 23:46:03","Skills Quiz-28 Step-7 Incorrect",undefined
+121121,354,0,"2024-02-06 23:46:16","Skills Quiz-28 Step-7 Incorrect",undefined
+121128,354,529,"2024-02-06 23:47:23",click,"skills quiz hint"
+121129,354,0,"2024-02-06 23:47:49","Skills Quiz-28 Step-1 Incorrect","Rate how lonely I felt today"
+121130,354,0,"2024-02-06 23:47:49","Skills Quiz-28 Step-2 Incorrect","Rate how lonely I felt today"
+121131,354,0,"2024-02-06 23:47:54","Skills Quiz-28 Step-1 Incorrect","Entry/Event DetailsDate:Title:Loneliness RatingDescription:Rate how lonely I felt todayCancelDeleteEdit"
+121132,354,0,"2024-02-06 23:47:54","Skills Quiz-28 Step-2 Incorrect","Entry/Event DetailsDate:Title:Loneliness RatingDescription:Rate how lonely I felt todayCancelDeleteEdit"
+121133,354,529,"2024-02-06 23:48:04",click,"skills quiz hint"
+121134,354,0,"2024-02-06 23:48:06","Skills Quiz-28 Step-2 Correct",Edit
+121135,354,0,"2024-02-06 23:48:06","Skills Quiz-28 Step-1 Incorrect",Edit
+121136,354,529,"2024-02-06 23:48:10",click,"skills quiz hint"
+121137,354,0,"2024-02-06 23:48:13","Skills Quiz-28 Step-3 Correct",YES
+121138,354,529,"2024-02-06 23:48:16",click,"skills quiz hint"
+121139,354,0,"2024-02-06 23:48:19","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+121140,354,529,"2024-02-06 23:48:22",click,"skills quiz hint"
+121141,354,0,"2024-02-06 23:48:25","Skills Quiz-28 Step-5 Correct",Loneliness
+121142,354,0,"2024-02-06 23:48:31","Skills Quiz-28 Step-6 Correct","                  Select               "
+121143,354,529,"2024-02-06 23:48:35",click,"skills quiz hint"
+121144,354,0,"2024-02-06 23:48:39","Skills Quiz-28 Step-7 Incorrect",undefined
+121145,354,0,"2024-02-06 23:48:44","Skills Quiz-28 Step-7 Correct",Save
+121146,354,529,"2024-02-06 23:48:49",click,"skills quiz hint"
+121147,354,0,"2024-02-06 23:48:53","Skills Quiz-28 Step-8 Incorrect",undefined
+121148,354,529,"2024-02-06 23:48:56",click,"skills quiz hint"
+121149,354,0,"2024-02-06 23:48:58","Skills Quiz-28 Step-9 Correct",2
+121150,354,0,"2024-02-06 23:48:58","Skills Quiz-28 Step-8 Incorrect",2
+121151,354,529,"2024-02-06 23:49:01",click,"skills quiz hint"
+121152,354,0,"2024-02-06 23:49:04","Skills Quiz-28 Step-8 Incorrect","Save and View Graph"
+121153,354,0,"2024-02-06 23:49:04","Skills Quiz-28 Step-10 Correct","Save and View Graph"
+121154,354,529,"2024-02-06 23:49:11",click,"skills quiz hint"
+121155,354,0,"2024-02-06 23:49:13","Skills Quiz-28 Step-11 Correct","View Progress"
+121156,354,529,"2024-02-06 23:49:18",click,"skills quiz hint"
+121157,354,0,"2024-02-06 23:49:19","Skills Quiz-28 Step-12 Correct",Close
+0,0,0,"2024-02-06 23:49:20",module_end,none

@@ -1,0 +1,38 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+14922,233,140,"2023-02-10 14:44:16",page-load,"skills quiz 10: preview"
+14923,233,140,"2023-02-10 14:44:18",click,next-page
+14924,233,141,"2023-02-10 14:44:21",click,"skills quiz hint"
+14925,233,0,"2023-02-10 14:44:26","Skills Quiz-10 Step-1 Correct",Edit
+14926,233,0,"2023-02-10 14:44:29","Skills Quiz-10 Step-2 Incorrect",undefined
+14927,233,0,"2023-02-10 14:44:30","Skills Quiz-10 Step-2 Correct",nos-time-check
+14928,233,0,"2023-02-10 14:44:30","Skills Quiz-10 Step-3 Correct",start-time
+14930,233,141,"2023-02-10 14:44:45",click,"skills quiz hint"
+14934,233,0,"2023-02-10 14:44:51","Skills Quiz-10 Step-6 Correct",end-time
+14938,233,0,"2023-02-10 14:44:58","Skills Quiz-10 Step-9 Correct",Save
+14942,233,141,"2023-02-10 14:45:01",click,"skills quiz hint"
+14944,233,0,"2023-02-10 14:45:03","Skills Quiz-10 Step-10 Correct",CALENDAR
+14945,233,141,"2023-02-10 14:45:06",click,"skills quiz hint"
+14946,233,0,"2023-02-10 14:45:07","Skills Quiz-10 Step-11 Correct",9
+14947,233,0,"2023-02-10 14:45:10","Skills Quiz-10 Step-12 Incorrect","Entry/Event DetailsDate:Title:Pick up prescriptionDescription:CancelDeleteEdit"
+14948,233,0,"2023-02-10 14:45:10","Skills Quiz-10 Step-12 Correct",Edit
+14949,233,141,"2023-02-10 14:45:11",click,"skills quiz hint"
+14950,233,141,"2023-02-10 14:45:12",click,"skills quiz hint"
+14951,233,0,"2023-02-10 14:45:16","Skills Quiz-10 Step-13 Correct","June 9, 2021"
+14952,233,0,"2023-02-10 14:45:17","Skills Quiz-10 Step-14 Correct",10
+14953,233,0,"2023-02-10 14:45:18","Skills Quiz-10 Step-15 Correct",OK
+14954,233,0,"2023-02-10 14:45:23","Skills Quiz-10 Step-16 Incorrect",undefined
+14955,233,0,"2023-02-10 14:45:23","Skills Quiz-10 Step-16 Correct",nos-time-check
+14956,233,0,"2023-02-10 14:45:24","Skills Quiz-10 Step-17 Correct",start-time
+14957,233,0,"2023-02-10 14:45:28","Skills Quiz-10 Step-20 Correct",end-time
+14959,233,0,"2023-02-10 14:45:35","Skills Quiz-10 Step-23 Correct",Save
+14961,233,141,"2023-02-10 14:45:38",click,"skills quiz hint"
+14963,233,0,"2023-02-10 14:45:40","Skills Quiz-10 Step-24 Correct",CALENDAR
+14964,233,141,"2023-02-10 14:45:41",click,"skills quiz hint"
+14965,233,0,"2023-02-10 14:45:43","Skills Quiz-10 Step-25 Correct",10
+14966,233,141,"2023-02-10 14:45:45",click,"skills quiz hint"
+14969,233,0,"2023-02-10 14:45:47","Skills Quiz-10 Step-26 Correct",Edit
+14974,233,141,"2023-02-10 14:45:50",click,"skills quiz hint"
+14975,233,0,"2023-02-10 14:45:52","Skills Quiz-10 Step-27 Correct",event-description
+14979,233,0,"2023-02-10 14:45:56","Skills Quiz-10 Step-29 Correct","60 min"
+14981,233,0,"2023-02-10 14:45:58","Skills Quiz-10 Step-30 Correct",Save
+0,0,0,"2023-02-10 14:45:59",module_end,none

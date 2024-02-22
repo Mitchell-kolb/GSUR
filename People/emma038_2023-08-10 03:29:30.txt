@@ -1,0 +1,45 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+82631,344,204,"2023-08-06 04:17:33",page-load,video
+82634,344,0,"2023-08-06 04:18:15","Skills Quiz-12 Step-9 Incorrect","Jim’s Birthday ShoppingEdit"
+82635,344,0,"2023-08-06 04:18:31","Skills Quiz-12 Step-9 Incorrect",Goals
+82636,344,0,"2023-08-06 04:18:34","Skills Quiz-12 Step-9 Incorrect",Lists
+82637,344,200,"2023-08-06 04:18:56",page-load,video
+82638,344,201,"2023-08-06 04:21:46",page-load,"web form: question"
+82639,344,201,"2023-08-06 04:21:51",click,"correct-option: D. All of the above"
+82640,344,201,"2023-08-06 04:21:54",click,next-page
+82641,344,202,"2023-08-06 04:21:56",page-load,video
+82642,344,203,"2023-08-06 04:22:28",page-load,"web form: scheduling choices"
+82643,344,203,"2023-08-06 04:22:38",tracked,"Travel checklist"
+82644,344,203,"2023-08-06 04:22:41",tracked,"List of current books/movie list"
+82645,344,203,"2023-08-06 04:22:48",tracked,"Address book"
+82646,344,203,"2023-08-06 04:23:29",click,next-page
+82647,344,204,"2023-08-06 04:23:29",page-load,video
+83923,344,400,"2023-08-10 03:17:57",page-load,video
+83924,344,401,"2023-08-10 03:20:50",page-load,"web form: question"
+83925,344,401,"2023-08-10 03:20:54",click,"correct-option: False"
+83926,344,401,"2023-08-10 03:20:57",click,next-page
+83927,344,402,"2023-08-10 03:20:58",page-load,video
+83928,344,403,"2023-08-10 03:24:41",page-load,"web form: what would you like to do next"
+83929,344,403,"2023-08-10 03:24:55",click,next-page
+83930,344,404,"2023-08-10 03:24:55",page-load,"skills quiz preview"
+83931,344,404,"2023-08-10 03:25:02",click,next-page
+83932,344,0,"2023-08-10 03:25:14","Skills Quiz-19 Step-1 Incorrect",NOTES
+83933,344,0,"2023-08-10 03:25:21","Skills Quiz-19 Step-1 Incorrect",HEALTH
+83934,344,0,"2023-08-10 03:25:24","Skills Quiz-19 Step-2 Correct","Medical Information"
+83935,344,0,"2023-08-10 03:25:28","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+83936,344,0,"2023-08-10 03:25:32","Skills Quiz-19 Step-3 Correct","Add New Note"
+83937,344,0,"2023-08-10 03:25:35","Skills Quiz-19 Step-4 Correct",noteSpecialty
+83938,344,0,"2023-08-10 03:26:05","Skills Quiz 30 second Hint",30time
+83939,344,0,"2023-08-10 03:26:25","Skills Quiz-19 Step-6 Incorrect",Specialty
+83940,344,0,"2023-08-10 03:26:27","Skills Quiz-19 Step-6 Correct",noteName
+83941,344,0,"2023-08-10 03:26:57","Skills Quiz 30 second Hint",30time
+83942,344,0,"2023-08-10 03:27:05","Skills Quiz-19 Step-8 Correct",notePhone
+83943,344,0,"2023-08-10 03:27:35","Skills Quiz 30 second Hint",30time
+83944,344,0,"2023-08-10 03:28:03","Skills Quiz-19 Step-10 Incorrect","Phone Number"
+83945,344,0,"2023-08-10 03:28:08","Skills Quiz-19 Step-10 Correct",noteAddress
+83946,344,0,"2023-08-10 03:28:40","Skills Quiz-19 Step-12 Correct",noteDetails
+83947,344,0,"2023-08-10 03:29:09","Skills Quiz 30 second Hint",30time
+83948,344,0,"2023-08-10 03:29:15","Skills Quiz-19 Step-14 Correct"," SAVE"
+83949,344,405,"2023-08-10 03:29:27",click,"skills quiz hint"
+83950,344,0,"2023-08-10 03:29:30","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-08-10 03:29:30",module_end,none

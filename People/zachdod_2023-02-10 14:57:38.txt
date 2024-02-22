@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+15427,233,407,"2023-02-10 14:56:01",page-load,"skills quiz preview"
+15428,233,407,"2023-02-10 14:56:09",click,next-page
+15429,233,408,"2023-02-10 14:56:11",click,"skills quiz hint"
+15430,233,0,"2023-02-10 14:56:13","Skills Quiz-20 Step-1 Incorrect",HEALTH
+15431,233,408,"2023-02-10 14:56:14",click,"skills quiz hint"
+15432,233,408,"2023-02-10 14:56:15",click,"skills quiz hint"
+15434,233,0,"2023-02-10 14:56:18","Skills Quiz-20 Step-2 Correct","Medical Information"
+15436,233,408,"2023-02-10 14:56:19",click,"skills quiz hint"
+15437,233,408,"2023-02-10 14:56:20",click,"skills quiz hint"
+15438,233,408,"2023-02-10 14:56:21",click,"skills quiz hint"
+15439,233,0,"2023-02-10 14:56:23","Skills Quiz-20 Step-3 Correct","Add New Note"
+15440,233,0,"2023-02-10 14:56:25","Skills Quiz-20 Step-4 Correct",noteSpecialty
+15443,233,408,"2023-02-10 14:56:28",click,"skills quiz hint"
+15447,233,0,"2023-02-10 14:56:41","Skills Quiz-20 Step-6 Incorrect","Close  SAVE"
+15448,233,0,"2023-02-10 14:56:42","Skills Quiz-20 Step-6 Correct",noteName
+15458,233,0,"2023-02-10 14:56:49","Skills Quiz 30 second Hint",30time
+15459,233,0,"2023-02-10 14:56:53","Skills Quiz-20 Step-8 Correct",notePhone
+15460,233,0,"2023-02-10 14:56:55","Skills Quiz 30 second Hint",30time
+15461,233,0,"2023-02-10 14:57:00","Skills Quiz-20 Step-10 Incorrect",Details
+15462,233,0,"2023-02-10 14:57:01","Skills Quiz-20 Step-10 Correct",noteAddress
+15464,233,0,"2023-02-10 14:57:12","Skills Quiz 30 second Hint",30time
+15471,233,0,"2023-02-10 14:57:20","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+15472,233,0,"2023-02-10 14:57:20","Skills Quiz-20 Step-12 Correct",noteDetails
+15473,233,0,"2023-02-10 14:57:23","Skills Quiz 30 second Hint",30time
+15474,233,0,"2023-02-10 14:57:31","Skills Quiz 30 second Hint",30time
+15475,233,0,"2023-02-10 14:57:34","Skills Quiz-20 Step-14 Incorrect","Close  SAVE"
+15477,233,0,"2023-02-10 14:57:36","Skills Quiz-20 Step-14 Correct"," SAVE"
+15478,233,0,"2023-02-10 14:57:38","Skills Quiz-20 Step-14 Correct",Close
+0,0,0,"2023-02-10 14:57:38",module_end,none

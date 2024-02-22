@@ -1,0 +1,16 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+87710,355,222,"2023-08-17 17:30:01",page-load,"skills quiz preview"
+87711,355,0,"2023-08-17 17:30:43","Skills Quiz-14 Step-1 Incorrect",folder-title-2
+87712,355,0,"2023-08-17 17:30:49","Skills Quiz-14 Step-2 Correct","Add New Note"
+87713,355,0,"2023-08-17 17:30:49","Skills Quiz-14 Step-1 Incorrect","Add New Note"
+87714,355,0,"2023-08-17 17:30:51","Skills Quiz-14 Step-1 Incorrect",modal-note-title
+87715,355,0,"2023-08-17 17:30:51","Skills Quiz-14 Step-3 Correct",modal-note-title
+87716,355,0,"2023-08-17 17:31:07","Skills Quiz-14 Step-1 Incorrect",Next
+87717,355,0,"2023-08-17 17:31:13","Skills Quiz-14 Step-5 Correct",modal-note-content
+87718,355,0,"2023-08-17 17:31:13","Skills Quiz-14 Step-1 Incorrect",modal-note-content
+87719,355,0,"2023-08-17 17:31:46","Skills Quiz-14 Step-1 Incorrect",Next
+87720,355,0,"2023-08-17 17:31:52","Skills Quiz-14 Step-1 Incorrect",SAVE
+87721,355,0,"2023-08-17 17:31:52","Skills Quiz-14 Step-7 Correct",SAVE
+87722,355,0,"2023-08-17 17:31:57","Skills Quiz-14 Step-1 Incorrect",Close
+87723,355,0,"2023-08-17 17:31:57","Skills Quiz-14 Step-8 Correct",Close
+0,0,0,"2023-08-17 17:32:00",module_end,none

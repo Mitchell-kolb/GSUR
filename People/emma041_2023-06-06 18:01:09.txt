@@ -1,0 +1,63 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+63011,338,26,"2023-06-06 17:47:37",page-load,video
+63055,338,27,"2023-06-06 17:49:56",page-load,"web form: question"
+63056,338,27,"2023-06-06 17:50:07",click,"correct-option: True"
+63057,338,27,"2023-06-06 17:50:12",click,next-page
+63058,338,28,"2023-06-06 17:50:12",page-load,"web form: question"
+63059,338,28,"2023-06-06 17:50:18",click,"correct-option: True"
+63060,338,28,"2023-06-06 17:50:24",click,next-page
+63061,338,29,"2023-06-06 17:50:25",page-load,video
+63062,338,30,"2023-06-06 17:52:38",page-load,"web form: question"
+63063,338,30,"2023-06-06 17:52:46",click,"incorrect-option: Who else is involved in the activity"
+63064,338,30,"2023-06-06 17:52:51",click,"incorrect-option: Where the activity will take place (address or room number)"
+63065,338,30,"2023-06-06 17:52:55",click,"incorrect-option: A list of the items you need to bring to the event"
+63066,338,30,"2023-06-06 17:52:57",click,"correct-option: All of the above"
+63067,338,30,"2023-06-06 17:52:59",click,next-page
+63068,338,31,"2023-06-06 17:53:00",page-load,video
+63069,338,32,"2023-06-06 17:57:02",page-load,"web form: what would you like to do next"
+63070,338,0,"2023-06-06 17:58:02","Skills Quiz-3 Step-1 Correct",TODAY
+63071,338,0,"2023-06-06 17:58:04","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+63072,338,0,"2023-06-06 17:58:10","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+63073,338,0,"2023-06-06 17:58:13","Skills Quiz-3 Step-4 Incorrect","Please choose a Date for the TaskJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+63074,338,0,"2023-06-06 17:58:18","Skills Quiz-3 Step-4 Correct",right-arrow
+63075,338,0,"2023-06-06 17:58:20","Skills Quiz-3 Step-5 Correct",14
+63076,338,0,"2023-06-06 17:58:23","Skills Quiz-3 Step-6 Correct",OK
+63077,338,0,"2023-06-06 17:58:28","Skills Quiz-3 Step-7 Correct","Tap Here"
+63078,338,0,"2023-06-06 17:58:38","Skills Quiz-3 Step-10 Correct","Tap Here"
+63079,338,0,"2023-06-06 17:58:50","Skills Quiz-3 Step-13 Correct",event-title
+63080,338,0,"2023-06-06 17:59:17","Skills Quiz-3 Step-15 Incorrect",undefined
+63081,338,0,"2023-06-06 17:59:19","Skills Quiz-3 Step-15 Incorrect",undefined
+63082,338,0,"2023-06-06 17:59:20","Skills Quiz-3 Step-15 Incorrect",undefined
+63083,338,0,"2023-06-06 17:59:20","Skills Quiz-3 Step-15 Incorrect",undefined
+63084,338,0,"2023-06-06 17:59:24","Skills Quiz-3 Step-15 Incorrect",Cancel
+63085,338,0,"2023-06-06 17:59:26","Skills Quiz-3 Step-15 Incorrect",undefined
+63086,338,0,"2023-06-06 17:59:27","Skills Quiz-3 Step-15 Incorrect",Cancel
+63087,338,0,"2023-06-06 17:59:28","Skills Quiz-3 Step-15 Incorrect",undefined
+63088,338,0,"2023-06-06 17:59:39","Skills Quiz-3 Step-15 Correct",event-description
+63089,338,0,"2023-06-06 17:59:51","Skills Quiz-3 Step-17 Incorrect",undefined
+63090,338,0,"2023-06-06 17:59:54","Skills Quiz-3 Step-17 Incorrect",undefined
+63091,338,0,"2023-06-06 17:59:55","Skills Quiz-3 Step-17 Incorrect",undefined
+63092,338,0,"2023-06-06 17:59:59","Skills Quiz-3 Step-17 Incorrect",Cancel
+63093,338,0,"2023-06-06 18:00:01","Skills Quiz-3 Step-17 Incorrect",undefined
+63094,338,0,"2023-06-06 18:00:01","Skills Quiz-3 Step-17 Incorrect",undefined
+63095,338,33,"2023-06-06 18:00:03",click,"skills quiz hint"
+63096,338,33,"2023-06-06 18:00:05",click,"skills quiz hint"
+63097,338,0,"2023-06-06 18:00:17","Skills Quiz-3 Step-17 Incorrect",undefined
+63098,338,0,"2023-06-06 18:00:18","Skills Quiz-3 Step-17 Incorrect",undefined
+63099,338,0,"2023-06-06 18:00:19","Skills Quiz-3 Step-17 Incorrect",undefined
+63101,338,0,"2023-06-06 18:00:29","Skills Quiz-3 Step-17 Incorrect",undefined
+63102,338,0,"2023-06-06 18:00:39","Skills Quiz-3 Step-17 Incorrect",Title
+63103,338,0,"2023-06-06 18:00:43","Skills Quiz-3 Step-17 Incorrect",undefined
+63104,338,0,"2023-06-06 18:00:44","Skills Quiz-3 Step-17 Incorrect",undefined
+63105,338,0,"2023-06-06 18:00:46","Skills Quiz-3 Step-17 Incorrect",undefined
+63106,338,0,"2023-06-06 18:00:47","Skills Quiz-3 Step-17 Incorrect",undefined
+63107,338,33,"2023-06-06 18:00:53",click,"skills quiz hint"
+63108,338,33,"2023-06-06 18:00:54",click,"skills quiz hint"
+63109,338,0,"2023-06-06 18:00:58","Skills Quiz-3 Step-17 Incorrect",undefined
+63110,338,0,"2023-06-06 18:00:59","Skills Quiz-3 Step-17 Incorrect",undefined
+63111,338,0,"2023-06-06 18:01:00","Skills Quiz-3 Step-17 Incorrect",undefined
+63112,338,0,"2023-06-06 18:01:02","Skills Quiz-3 Step-17 Incorrect",undefined
+63113,338,0,"2023-06-06 18:01:02","Skills Quiz-3 Step-17 Incorrect",undefined
+63114,338,0,"2023-06-06 18:01:03","Skills Quiz-3 Step-17 Incorrect",undefined
+63115,338,0,"2023-06-06 18:01:09","Skills Quiz-3 Step-17 Correct",Save
+0,0,0,"2023-06-06 18:01:09",module_end,none

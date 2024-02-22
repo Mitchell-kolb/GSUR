@@ -1,0 +1,51 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+65287,329,411,"2023-06-12 21:24:32",page-load,"web form: scheduling choices"
+65288,329,411,"2023-06-12 21:24:54",click,hint
+65289,329,411,"2023-06-12 21:24:57",tracked,Weight
+65290,329,411,"2023-06-12 21:25:01",tracked,Medications
+65291,329,411,"2023-06-12 21:25:05",tracked,"Cognitive Activity"
+65292,329,411,"2023-06-12 21:25:06",click,next-page
+65293,329,412,"2023-06-12 21:25:07",page-load,video
+65294,329,413,"2023-06-12 21:26:53",page-load,"web form: question"
+65295,329,413,"2023-06-12 21:27:00",click,"correct-option: 4"
+65296,329,413,"2023-06-12 21:27:02",click,next-page
+65297,329,414,"2023-06-12 21:27:02",page-load,video
+65298,329,415,"2023-06-12 21:27:35",page-load,"web form: question"
+65299,329,415,"2023-06-12 21:27:41",click,hint
+65300,329,415,"2023-06-12 21:27:48",click,"correct-option: False"
+65301,329,415,"2023-06-12 21:27:50",click,next-page
+65302,329,416,"2023-06-12 21:27:51",page-load,video
+65303,329,417,"2023-06-12 21:31:35",page-load,"web form: what would you like to do next"
+65304,329,417,"2023-06-12 21:31:37",click,next-page
+65305,329,418,"2023-06-12 21:31:38",page-load,"skills quiz preview"
+65306,329,418,"2023-06-12 21:31:50",click,next-page
+65307,329,419,"2023-06-12 21:32:03",click,"skills quiz hint"
+65308,329,0,"2023-06-12 21:32:04","Skills Quiz-21 Step-1 Incorrect",HEALTH
+65309,329,419,"2023-06-12 21:32:09",click,"skills quiz hint"
+65310,329,0,"2023-06-12 21:32:12","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+65311,329,419,"2023-06-12 21:32:17",click,"skills quiz hint"
+65312,329,0,"2023-06-12 21:32:20","Skills Quiz-21 Step-3 Correct","Daily Medications"
+65313,329,419,"2023-06-12 21:32:26",click,"skills quiz hint"
+65314,329,0,"2023-06-12 21:32:30","Skills Quiz-21 Step-4 Correct",descriptionMorning
+65315,329,0,"2023-06-12 21:33:00","Skills Quiz 30 second Hint",30time
+65316,329,419,"2023-06-12 21:33:08",click,"skills quiz hint"
+65317,329,0,"2023-06-12 21:33:10","Skills Quiz-21 Step-1 Incorrect",HEALTH
+65318,329,0,"2023-06-12 21:33:16","Skills Quiz-21 Step-2 Incorrect","Medical Information"
+65319,329,0,"2023-06-12 21:33:17","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+65320,329,0,"2023-06-12 21:33:26","Skills Quiz-21 Step-3 Correct","Daily Medications"
+65321,329,419,"2023-06-12 21:33:33",click,"skills quiz hint"
+65322,329,0,"2023-06-12 21:33:50","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+65323,329,0,"2023-06-12 21:33:55","Skills Quiz-21 Step-4 Correct",descriptionMorning
+65324,329,419,"2023-06-12 21:34:06",click,"skills quiz hint"
+65325,329,0,"2023-06-12 21:34:25","Skills Quiz 30 second Hint",30time
+65326,329,419,"2023-06-12 21:34:34",click,"skills quiz hint"
+65327,329,0,"2023-06-12 21:34:37","Skills Quiz-21 Step-6 Correct","8:00 AM"
+65328,329,0,"2023-06-12 21:34:43","Skills Quiz-21 Step-7 Correct",7
+65329,329,0,"2023-06-12 21:34:45","Skills Quiz-21 Step-8 Correct",00
+65330,329,0,"2023-06-12 21:34:47","Skills Quiz-21 Step-9 Correct",AM
+65331,329,0,"2023-06-12 21:34:48","Skills Quiz-21 Step-10 Correct",Save
+65332,329,419,"2023-06-12 21:34:59",click,"skills quiz hint"
+65333,329,0,"2023-06-12 21:35:03","Skills Quiz-21 Step-11 Incorrect",undefined
+65334,329,419,"2023-06-12 21:35:07",click,"skills quiz hint"
+65335,329,0,"2023-06-12 21:35:09","Skills Quiz-21 Step-11 Incorrect"," Save"
+0,0,0,"2023-06-12 21:35:09",module_end,none

@@ -1,0 +1,35 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+83274,355,0,"2023-08-08 02:34:14","Skills Quiz 30 second Hint",30time
+83275,355,0,"2023-08-08 02:39:33","Skills Quiz-6 Step-2 Incorrect","JUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930"
+83276,355,0,"2023-08-08 02:39:39","Skills Quiz-6 Step-2 Correct",right-arrow
+83277,355,0,"2023-08-08 02:39:41","Skills Quiz-6 Step-2 Correct",right-arrow
+83278,355,0,"2023-08-08 02:39:43","Skills Quiz-6 Step-3 Correct",3
+83279,355,0,"2023-08-08 02:39:53","Skills Quiz-6 Step-4 Correct",Edit
+83280,355,0,"2023-08-08 02:40:07","Skills Quiz-6 Step-5 Incorrect","12:30 PM"
+83281,355,0,"2023-08-08 02:40:12","Skills Quiz-6 Step-5 Incorrect",Date
+83282,355,0,"2023-08-08 02:40:37","Skills Quiz-6 Step-5 Incorrect","12:30 PM"
+83283,355,0,"2023-08-08 02:40:39","Skills Quiz-6 Step-5 Incorrect","12:30 PM"
+83284,355,0,"2023-08-08 02:40:39","Skills Quiz-6 Step-5 Incorrect","12:30 PM"
+83285,355,0,"2023-08-08 02:40:40","Skills Quiz-6 Step-5 Incorrect","12:30 PM"
+83286,355,0,"2023-08-08 02:40:40","Skills Quiz-6 Step-5 Incorrect","12:30 PM"
+83287,355,117,"2023-08-08 02:41:17",click,"skills quiz hint"
+83288,355,0,"2023-08-08 02:41:17","Skills Quiz 30 second Hint",30time
+83289,355,117,"2023-08-08 02:41:19",click,"skills quiz hint"
+83290,355,117,"2023-08-08 02:41:31",click,"skills quiz hint"
+83291,355,117,"2023-08-08 02:41:32",click,"skills quiz hint"
+83292,355,0,"2023-08-08 02:41:50","Skills Quiz-6 Step-1 Correct",CALENDAR
+83293,355,0,"2023-08-08 02:41:59","Skills Quiz-6 Step-2 Correct",right-arrow
+83294,355,0,"2023-08-08 02:42:02","Skills Quiz-6 Step-2 Correct",right-arrow
+83295,355,0,"2023-08-08 02:42:04","Skills Quiz-6 Step-3 Correct",3
+83296,355,0,"2023-08-08 02:42:08","Skills Quiz-6 Step-4 Incorrect",undefined
+83297,355,0,"2023-08-08 02:42:24","Skills Quiz-6 Step-4 Correct",Edit
+83298,355,0,"2023-08-08 02:42:39","Skills Quiz-6 Step-5 Incorrect","12:30 PM"
+83299,355,119,"2023-08-08 02:42:54",click,"skills quiz hint"
+83300,355,119,"2023-08-08 02:42:55",click,"skills quiz hint"
+83301,355,119,"2023-08-08 02:42:56",click,"skills quiz hint"
+83302,355,119,"2023-08-08 02:42:56",click,"skills quiz hint"
+83303,355,0,"2023-08-08 02:43:02","Skills Quiz-6 Step-5 Correct",YES
+83304,355,0,"2023-08-08 02:43:32","Skills Quiz 30 second Hint",30time
+83305,355,0,"2023-08-08 02:43:36","Skills Quiz-6 Step-6 Correct","60 min"
+83306,355,0,"2023-08-08 02:43:42","Skills Quiz-6 Step-7 Correct",Save
+0,0,0,"2023-08-08 02:43:43",module_end,none

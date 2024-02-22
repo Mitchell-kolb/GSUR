@@ -1,0 +1,18 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+83573,352,0,"2023-08-08 18:21:17","Skills Quiz-6 Step-1 Correct",CALENDAR
+83574,352,0,"2023-08-08 18:21:28","Skills Quiz-6 Step-2 Correct",right-arrow
+83575,352,0,"2023-08-08 18:21:30","Skills Quiz-6 Step-2 Correct",right-arrow
+83576,352,0,"2023-08-08 18:21:38","Skills Quiz-6 Step-3 Correct",3
+83577,352,0,"2023-08-08 18:22:09","Skills Quiz 30 second Hint",30time
+83578,352,0,"2023-08-08 18:22:13","Skills Quiz-6 Step-4 Correct",Edit
+83579,352,0,"2023-08-08 18:22:30","Skills Quiz-6 Step-5 Incorrect","10 min"
+83580,352,0,"2023-08-08 18:22:40","Skills Quiz-6 Step-5 Incorrect","60 min"
+83581,352,0,"2023-08-08 18:22:43","Skills Quiz-6 Step-5 Incorrect","60 min"
+83582,352,0,"2023-08-08 18:22:44","Skills Quiz-6 Step-5 Incorrect",Yearly
+83583,352,0,"2023-08-08 18:22:54","Skills Quiz-6 Step-5 Incorrect","60 min"
+83584,352,0,"2023-08-08 18:22:58","Skills Quiz-6 Step-5 Incorrect","60 min"
+83585,352,0,"2023-08-08 18:22:59","Skills Quiz-6 Step-5 Incorrect",Yearly
+83586,352,0,"2023-08-08 18:23:09","Skills Quiz-6 Step-5 Correct",YES
+83587,352,0,"2023-08-08 18:23:14","Skills Quiz-6 Step-6 Correct","60 min"
+83588,352,0,"2023-08-08 18:23:20","Skills Quiz-6 Step-7 Correct",Save
+0,0,0,"2023-08-08 18:23:20",module_end,none

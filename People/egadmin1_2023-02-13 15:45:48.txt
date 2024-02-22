@@ -1,0 +1,9 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+19313,254,400,"2023-02-13 15:45:34",page-load,video
+19314,254,40,"2023-02-13 15:45:39",page-load,"goal setting: pick three strategies"
+19315,254,401,"2023-02-13 15:45:39",page-load,"web form: question"
+19316,254,401,"2023-02-13 15:45:41",click,"correct-option: False"
+19317,254,401,"2023-02-13 15:45:41",click,next-page
+19318,254,402,"2023-02-13 15:45:42",page-load,video
+19319,254,40,"2023-02-13 15:45:47",page-load,"goal setting: pick three strategies"
+0,0,0,"2023-02-13 15:45:48",module_end,none

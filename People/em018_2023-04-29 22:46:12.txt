@@ -1,0 +1,28 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+46383,315,140,"2023-04-29 22:43:21",click,next-page
+46384,315,0,"2023-04-29 22:43:31","Skills Quiz-10 Step-1 Correct",Edit
+46385,315,0,"2023-04-29 22:43:35","Skills Quiz-10 Step-2 Incorrect",undefined
+46386,315,0,"2023-04-29 22:43:36","Skills Quiz-10 Step-2 Correct",nos-time-check
+46387,315,0,"2023-04-29 22:43:37","Skills Quiz-10 Step-3 Correct",start-time
+46388,315,0,"2023-04-29 22:43:46","Skills Quiz-10 Step-6 Correct",end-time
+46389,315,0,"2023-04-29 22:44:04","Skills Quiz-10 Step-9 Correct",Save
+46390,315,0,"2023-04-29 22:44:10","Skills Quiz-10 Step-10 Correct",CALENDAR
+46391,315,0,"2023-04-29 22:44:12","Skills Quiz-10 Step-11 Correct",9
+46392,315,0,"2023-04-29 22:44:20","Skills Quiz-10 Step-12 Correct",Edit
+46393,315,0,"2023-04-29 22:44:22","Skills Quiz-10 Step-13 Correct","June 9, 2021"
+46394,315,0,"2023-04-29 22:44:23","Skills Quiz-10 Step-14 Correct",10
+46395,315,0,"2023-04-29 22:44:25","Skills Quiz-10 Step-15 Correct",OK
+46396,315,0,"2023-04-29 22:44:27","Skills Quiz-10 Step-16 Incorrect",undefined
+46397,315,0,"2023-04-29 22:44:29","Skills Quiz-10 Step-16 Correct",nos-time-check
+46398,315,0,"2023-04-29 22:44:30","Skills Quiz-10 Step-17 Correct",start-time
+46399,315,0,"2023-04-29 22:44:42","Skills Quiz-10 Step-20 Correct",end-time
+46400,315,0,"2023-04-29 22:44:51","Skills Quiz-10 Step-23 Correct",Save
+46401,315,0,"2023-04-29 22:44:54","Skills Quiz-10 Step-24 Correct",CALENDAR
+46402,315,0,"2023-04-29 22:44:57","Skills Quiz-10 Step-25 Correct",10
+46403,315,0,"2023-04-29 22:45:07","Skills Quiz-10 Step-26 Correct",Edit
+46404,315,0,"2023-04-29 22:45:11","Skills Quiz-10 Step-27 Incorrect","60 min"
+46405,315,0,"2023-04-29 22:45:14","Skills Quiz-10 Step-27 Correct",event-description
+46406,315,0,"2023-04-29 22:45:44","Skills Quiz 30 second Hint",30time
+46407,315,0,"2023-04-29 22:46:04","Skills Quiz-10 Step-29 Incorrect",Next
+46408,315,0,"2023-04-29 22:46:12","Skills Quiz-10 Step-29 Incorrect",Next
+0,0,0,"2023-04-29 22:46:12",module_end,none

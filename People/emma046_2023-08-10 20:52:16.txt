@@ -1,0 +1,69 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+81449,353,143,"2023-08-01 14:27:55",page-load,video
+81450,353,144,"2023-08-01 14:29:15",page-load,"goal setting: pick three strategies"
+81451,353,144,"2023-08-01 14:29:50",click,next-page
+81452,353,145,"2023-08-01 14:29:52",page-load,"goal setting: pick top strategy"
+81453,353,145,"2023-08-01 14:30:30",click,next-page
+81454,353,145,"2023-08-01 14:30:41",click,next-page
+81455,353,146,"2023-08-01 14:30:41",page-load,"goal setting: top strategy display"
+81456,353,146,"2023-08-01 14:31:00",click,next-page
+81457,353,147,"2023-08-01 14:31:00",page-load,"goal setting: example plan"
+81458,353,148,"2023-08-01 14:32:34",page-load,"goal setting: when"
+81459,353,148,"2023-08-01 14:33:51",click,next-page
+81460,353,149,"2023-08-01 14:33:52",page-load,"goal setting: plan"
+81461,353,149,"2023-08-01 14:33:54",click,next-page
+81462,353,150,"2023-08-01 14:33:54",page-load,"goal setting: where"
+81463,353,150,"2023-08-01 14:34:50",click,next-page
+81464,353,151,"2023-08-01 14:34:52",page-load,"goal setting: plan"
+81465,353,151,"2023-08-01 14:35:12",click,next-page
+81466,353,152,"2023-08-01 14:35:14",page-load,"goal setting: with whom"
+81467,353,152,"2023-08-01 14:36:11",click,next-page
+81468,353,153,"2023-08-01 14:36:13",page-load,"goal setting: plan"
+81469,353,153,"2023-08-01 14:36:21",click,next-page
+81470,353,154,"2023-08-01 14:36:22",page-load,"goal setting: how"
+81471,353,154,"2023-08-01 14:38:54",click,next-page
+81472,353,155,"2023-08-01 14:38:59",page-load,"goal setting: plan"
+81473,353,155,"2023-08-01 14:39:09",click,next-page
+81474,353,156,"2023-08-01 14:39:10",page-load,"goal setting: barriers and alternatives"
+81475,353,156,"2023-08-01 14:41:32",click,next-page
+81476,353,157,"2023-08-01 14:41:33",page-load,"goal setting: motivation"
+81477,353,157,"2023-08-01 14:41:45",click,next-page
+81478,353,158,"2023-08-01 14:41:46",page-load,"goal setting: confidence"
+81479,353,158,"2023-08-01 14:41:56",click,next-page
+81480,353,159,"2023-08-01 14:41:57",page-load,"goal setting: plan"
+81481,353,160,"2023-08-01 14:42:46",page-load,"end of lesson: 3"
+84523,353,400,"2023-08-10 20:26:50",page-load,video
+84524,353,104,"2023-08-10 20:27:17",page-load,video
+84525,353,105,"2023-08-10 20:30:21",page-load,"web form: question"
+84526,353,105,"2023-08-10 20:30:50",click,"correct-option: Birthdays"
+84527,353,105,"2023-08-10 20:30:56",click,next-page
+84528,353,106,"2023-08-10 20:30:56",page-load,video
+84529,353,107,"2023-08-10 20:31:15",page-load,"web form: question"
+84530,353,107,"2023-08-10 20:31:28",click,"incorrect-option: Daily Medication"
+84531,353,107,"2023-08-10 20:31:32",click,next-page
+84532,353,108,"2023-08-10 20:31:32",page-load,"web form: what would you like to do next"
+84533,353,109,"2023-08-10 20:40:05",page-load,video
+84534,353,110,"2023-08-10 20:45:05",page-load,"web form: question"
+84535,353,110,"2023-08-10 20:45:22",click,next-page
+84536,353,111,"2023-08-10 20:45:23",page-load,"web form: what would you like to do next"
+84537,353,111,"2023-08-10 20:45:30",click,next-page
+84538,353,112,"2023-08-10 20:45:31",page-load,video
+84539,353,113,"2023-08-10 20:46:27",page-load,"web form: question"
+84540,353,113,"2023-08-10 20:46:34",click,"incorrect-option: A. View"
+84541,353,113,"2023-08-10 20:47:12",click,"incorrect-option: C. The event listed on the Time Schedule"
+84542,353,113,"2023-08-10 20:47:20",click,"correct-option: D. Both A and C"
+84543,353,113,"2023-08-10 20:47:29",click,next-page
+84544,353,114,"2023-08-10 20:47:30",page-load,video
+84545,353,115,"2023-08-10 20:49:11",page-load,"web form: question"
+84546,353,115,"2023-08-10 20:49:34",click,"correct-option: 30 minutes before"
+84547,353,115,"2023-08-10 20:49:38",click,next-page
+84548,353,116,"2023-08-10 20:49:38",page-load,"web form: what would you like to do next"
+84549,353,0,"2023-08-10 20:50:46","Skills Quiz-5 Step-1 Correct",CALENDAR
+84550,353,0,"2023-08-10 20:50:49","Skills Quiz-5 Step-2 Correct",right-arrow
+84551,353,0,"2023-08-10 20:50:54","Skills Quiz-5 Step-3 Correct",3
+84552,353,0,"2023-08-10 20:51:12","Skills Quiz-5 Step-4 Correct",Edit
+84553,353,0,"2023-08-10 20:51:24","Skills Quiz-5 Step-5 Correct",YES
+84554,353,0,"2023-08-10 20:51:54","Skills Quiz 30 second Hint",30time
+84555,353,0,"2023-08-10 20:52:08","Skills Quiz-5 Step-6 Correct","60 min"
+84556,353,0,"2023-08-10 20:52:15","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-08-10 20:52:16",module_end,none

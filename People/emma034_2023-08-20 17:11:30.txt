@@ -1,0 +1,122 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+75102,341,531,"2023-06-28 19:20:35",page-load,"goal setting: preview"
+75103,341,532,"2023-06-28 19:22:26",page-load,"goal setting: example plan"
+75104,341,533,"2023-06-28 19:31:06",page-load,"goal setting: pick one strategy"
+75105,341,533,"2023-06-28 19:31:48",click,next-page
+75106,341,534,"2023-06-28 19:31:49",page-load,"goal setting: top strategy display"
+75107,341,534,"2023-06-28 19:32:12",click,next-page
+75108,341,535,"2023-06-28 19:32:13",page-load,"goal setting: when"
+75109,341,535,"2023-06-28 19:32:14",click,next-page
+75110,341,535,"2023-06-28 19:35:02",click,next-page
+75111,341,536,"2023-06-28 19:35:04",page-load,"goal setting: where"
+75112,341,536,"2023-06-28 19:35:49",click,hint
+75113,341,536,"2023-06-28 19:35:51",click,next-page
+75114,341,537,"2023-06-28 19:35:52",page-load,"goal setting: with whom"
+75115,341,537,"2023-06-28 19:35:52",click,next-page
+75116,341,537,"2023-06-28 19:36:39",click,next-page
+75117,341,538,"2023-06-28 19:36:40",page-load,"goal setting: how"
+75118,341,539,"2023-06-28 20:01:37",page-load,"goal setting: barriers and alternatives"
+75119,341,539,"2023-06-28 20:03:50",click,next-page
+75120,341,540,"2023-06-28 20:03:50",page-load,"goal setting: motivation"
+75121,341,540,"2023-06-28 20:03:57",click,next-page
+75122,341,541,"2023-06-28 20:03:57",page-load,"goal setting: confidence"
+75123,341,541,"2023-06-28 20:04:04",click,next-page
+75124,341,541,"2023-06-28 20:04:09",click,next-page
+75125,341,542,"2023-06-28 20:04:09",page-load,"goal setting: plan"
+75126,341,542,"2023-06-28 20:04:38",click,next-page
+75127,341,543,"2023-06-28 20:04:39",page-load,"end of lesson: 6"
+76369,341,300,"2023-07-11 16:05:58",page-load,video
+84903,341,300,"2023-08-11 15:56:28",page-load,video
+85562,341,300,"2023-08-14 19:34:49",page-load,video
+85563,341,400,"2023-08-14 19:37:26",page-load,video
+85564,341,10,"2023-08-14 19:37:51",page-load,video
+85565,341,10,"2023-08-14 19:38:15",page-load,video
+85566,341,11,"2023-08-14 19:38:55",page-load,video
+85567,341,12,"2023-08-14 19:41:07",page-load,"web form: scheduling choices"
+85568,341,12,"2023-08-14 19:41:13",tracked,"Scheduling and keeping appointments"
+85569,341,12,"2023-08-14 19:41:15",tracked,"Managing medications"
+85570,341,12,"2023-08-14 19:41:19",tracked,"Keeping track of conversations, movies, and books"
+85571,341,12,"2023-08-14 19:41:21",click,previous-page
+85572,341,11,"2023-08-14 19:41:24",page-load,video
+85573,341,12,"2023-08-14 19:42:52",page-load,"web form: scheduling choices"
+85574,341,12,"2023-08-14 19:42:58",tracked,"Scheduling and keeping appointments"
+85575,341,12,"2023-08-14 19:43:00",tracked,"Managing medications"
+85576,341,12,"2023-08-14 19:43:02",tracked,"Keeping track of conversations, movies, and books"
+85577,341,12,"2023-08-14 19:43:06",tracked,"Remembering day to day things"
+85578,341,12,"2023-08-14 19:43:09",tracked,"Managing finances"
+85579,341,12,"2023-08-14 19:43:10",tracked,"Managing finances"
+85580,341,12,"2023-08-14 19:43:11",tracked,"Managing finances"
+85581,341,12,"2023-08-14 19:43:11",tracked,"Managing finances"
+85582,341,12,"2023-08-14 19:43:13",tracked,"Managing finances"
+85583,341,12,"2023-08-14 19:43:14",tracked,"Managing finances"
+85584,341,12,"2023-08-14 19:43:14",tracked,"Managing finances"
+85585,341,12,"2023-08-14 19:43:16",tracked,"Planning steps to accomplish a task"
+85586,341,12,"2023-08-14 19:43:16",tracked,"Planning steps to accomplish a task"
+85587,341,12,"2023-08-14 19:43:20",click,hint
+85588,341,12,"2023-08-14 19:43:24",click,next-page
+85589,341,13,"2023-08-14 19:43:25",page-load,video
+85590,341,14,"2023-08-14 19:44:23",page-load,"web form: what would you like to do next"
+85591,341,14,"2023-08-14 19:44:28",click,next-page
+85592,341,15,"2023-08-14 19:44:32",page-load,video
+85593,341,16,"2023-08-14 19:45:30",page-load,"web form: question"
+85594,341,16,"2023-08-14 19:45:36",click,"correct-option: Grey"
+85595,341,16,"2023-08-14 19:45:39",click,next-page
+85596,341,17,"2023-08-14 19:45:39",page-load,video
+85597,341,18,"2023-08-14 19:46:04",page-load,"web form: question"
+85598,341,18,"2023-08-14 19:46:15",click,"correct-option: 1:30 PM"
+85599,341,18,"2023-08-14 19:46:17",click,next-page
+85600,341,19,"2023-08-14 19:46:17",page-load,video
+85601,341,104,"2023-08-14 19:52:02",page-load,video
+85602,341,105,"2023-08-14 19:54:54",page-load,"web form: question"
+85603,341,105,"2023-08-14 19:54:59",click,"incorrect-option: Anniversaries"
+85604,341,105,"2023-08-14 19:55:03",click,next-page
+85605,341,106,"2023-08-14 19:55:04",page-load,video
+85606,341,107,"2023-08-14 19:55:52",page-load,"web form: question"
+88483,341,10,"2023-08-20 16:52:54",page-load,video
+88484,341,11,"2023-08-20 16:55:39",page-load,video
+88485,341,12,"2023-08-20 16:59:14",page-load,"web form: scheduling choices"
+88486,341,12,"2023-08-20 16:59:17",tracked,"Scheduling and keeping appointments"
+88487,341,12,"2023-08-20 16:59:19",tracked,"Managing medications"
+88488,341,12,"2023-08-20 16:59:29",tracked,"Managing finances"
+88489,341,12,"2023-08-20 16:59:39",click,next-page
+88490,341,13,"2023-08-20 16:59:40",page-load,video
+88491,341,14,"2023-08-20 17:00:38",page-load,"web form: what would you like to do next"
+88492,341,14,"2023-08-20 17:00:42",click,next-page
+88493,341,15,"2023-08-20 17:00:42",page-load,video
+88494,341,16,"2023-08-20 17:01:41",page-load,"web form: question"
+88495,341,16,"2023-08-20 17:01:50",click,"correct-option: Grey"
+88496,341,16,"2023-08-20 17:01:58",click,next-page
+88497,341,17,"2023-08-20 17:01:59",page-load,video
+88498,341,18,"2023-08-20 17:02:25",page-load,"web form: question"
+88499,341,18,"2023-08-20 17:02:31",click,"correct-option: 1:30 PM"
+88500,341,18,"2023-08-20 17:02:34",click,next-page
+88501,341,19,"2023-08-20 17:02:35",page-load,video
+88502,341,20,"2023-08-20 17:08:00",page-load,"web form: question"
+88503,341,20,"2023-08-20 17:08:11",click,next-page
+88504,341,20,"2023-08-20 17:08:13",click,next-page
+88505,341,20,"2023-08-20 17:08:14",click,next-page
+88506,341,20,"2023-08-20 17:08:16",click,next-page
+88507,341,20,"2023-08-20 17:08:16",click,next-page
+88508,341,20,"2023-08-20 17:08:17",click,next-page
+88509,341,20,"2023-08-20 17:08:17",click,next-page
+88510,341,20,"2023-08-20 17:08:18",click,next-page
+88511,341,20,"2023-08-20 17:08:18",click,hint
+88512,341,20,"2023-08-20 17:08:33",click,"correct-option: Blue"
+88513,341,20,"2023-08-20 17:08:39",click,next-page
+88514,341,21,"2023-08-20 17:08:39",page-load,"web form: what would you like to do next"
+88515,341,21,"2023-08-20 17:08:42",click,take-a-break
+88516,341,0,"2023-08-20 17:10:54","Skills Quiz-1 Step-1 Correct",TODAY
+88517,341,0,"2023-08-20 17:11:01","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+88518,341,0,"2023-08-20 17:11:08","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+88519,341,0,"2023-08-20 17:11:11","Skills Quiz-1 Step-4 Correct",right-arrow
+88520,341,0,"2023-08-20 17:11:13","Skills Quiz-1 Step-5 Incorrect",17
+88521,341,0,"2023-08-20 17:11:15","Skills Quiz-1 Step-5 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+88522,341,0,"2023-08-20 17:11:16","Skills Quiz-1 Step-5 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+88523,341,0,"2023-08-20 17:11:17","Skills Quiz-1 Step-5 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+88524,341,0,"2023-08-20 17:11:18","Skills Quiz-1 Step-5 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+88525,341,0,"2023-08-20 17:11:19","Skills Quiz-1 Step-5 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+88526,341,0,"2023-08-20 17:11:20","Skills Quiz-1 Step-5 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+88527,341,0,"2023-08-20 17:11:21","Skills Quiz-1 Step-5 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+88528,341,0,"2023-08-20 17:11:26","Skills Quiz-1 Step-5 Correct",14
+88529,341,0,"2023-08-20 17:11:30","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-08-20 17:11:30",module_end,none

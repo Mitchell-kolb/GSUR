@@ -1,0 +1,58 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+87724,355,225,"2023-08-17 17:32:02",page-load,video
+87725,355,226,"2023-08-17 17:34:59",page-load,"web form: question"
+87726,355,226,"2023-08-17 17:35:09",click,"correct-option: Magnifying Glass"
+87727,355,226,"2023-08-17 17:35:11",click,next-page
+87728,355,227,"2023-08-17 17:35:12",page-load,video
+87729,355,228,"2023-08-17 17:36:46",page-load,"web form: what would you like to do next"
+87730,355,228,"2023-08-17 17:36:51",click,take-a-break
+87731,355,228,"2023-08-18 02:59:23",page-load,"web form: what would you like to do next"
+87732,355,228,"2023-08-18 02:59:27",click,next-page
+87733,355,229,"2023-08-18 02:59:27",page-load,"skills quiz preview"
+87734,355,0,"2023-08-18 03:06:00","Skills Quiz-15 Step-1 Incorrect","Lawn IdeasEdit"
+87735,355,0,"2023-08-18 03:06:08","Skills Quiz-15 Step-1 Correct",Relevant
+87736,355,0,"2023-08-18 03:06:10","Skills Quiz-15 Step-2 Correct","Alphabetical Order"
+87737,355,0,"2023-08-18 03:06:14","Skills Quiz-15 Step-3 Incorrect",Edit
+87738,355,0,"2023-08-18 03:06:28","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+87739,355,0,"2023-08-18 03:06:28","Skills Quiz-15 Step-4 Incorrect","Lawn Ideas"
+87740,355,0,"2023-08-18 03:06:40","Skills Quiz-15 Step-4 Incorrect","Press Edit"
+87741,355,0,"2023-08-18 03:06:40","Skills Quiz-15 Step-3 Incorrect","Press Edit"
+87742,355,0,"2023-08-18 03:06:41","Skills Quiz-15 Step-4 Incorrect","Press Edit"
+87743,355,0,"2023-08-18 03:06:41","Skills Quiz-15 Step-3 Incorrect","Press Edit"
+87744,355,0,"2023-08-18 03:06:42","Skills Quiz-15 Step-3 Incorrect","Press Edit"
+87745,355,0,"2023-08-18 03:06:42","Skills Quiz-15 Step-4 Incorrect","Press Edit"
+87746,355,0,"2023-08-18 03:06:47","Skills Quiz-15 Step-3 Incorrect",SAVE
+87747,355,0,"2023-08-18 03:06:47","Skills Quiz-15 Step-4 Incorrect",SAVE
+87748,355,0,"2023-08-18 03:06:49","Skills Quiz-15 Step-3 Incorrect",SAVE
+87749,355,0,"2023-08-18 03:06:49","Skills Quiz-15 Step-4 Incorrect",SAVE
+87750,355,230,"2023-08-18 03:06:54",click,"skills quiz hint"
+87751,355,0,"2023-08-18 03:06:58","Skills Quiz-15 Step-3 Incorrect",Close
+87752,355,0,"2023-08-18 03:06:58","Skills Quiz-15 Step-4 Incorrect",Close
+87753,355,0,"2023-08-18 03:07:07","Skills Quiz-15 Step-4 Incorrect",Edit
+87754,355,0,"2023-08-18 03:07:07","Skills Quiz-15 Step-3 Incorrect",Edit
+87755,355,0,"2023-08-18 03:07:09","Skills Quiz-15 Step-4 Incorrect","Lawn Ideas"
+87756,355,0,"2023-08-18 03:07:09","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+87757,355,0,"2023-08-18 03:07:12","Skills Quiz-15 Step-4 Incorrect",Close
+87758,355,0,"2023-08-18 03:07:12","Skills Quiz-15 Step-3 Incorrect",Close
+87759,355,0,"2023-08-18 03:07:14","Skills Quiz-15 Step-4 Incorrect",folder-title-2
+87760,355,0,"2023-08-18 03:07:14","Skills Quiz-15 Step-3 Incorrect",folder-title-2
+87761,355,0,"2023-08-18 03:07:16","Skills Quiz-15 Step-4 Incorrect","Lawn Ideas"
+87762,355,0,"2023-08-18 03:07:16","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+87763,355,0,"2023-08-18 03:07:29","Skills Quiz-15 Step-3 Incorrect",Edit
+87764,355,0,"2023-08-18 03:07:29","Skills Quiz-15 Step-4 Incorrect",Edit
+87765,355,0,"2023-08-18 03:07:41","Skills Quiz-15 Step-4 Incorrect","Lawn Ideas"
+87766,355,0,"2023-08-18 03:07:41","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+87767,355,0,"2023-08-18 03:07:43","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+87768,355,0,"2023-08-18 03:07:43","Skills Quiz-15 Step-4 Incorrect","Lawn Ideas"
+87769,355,0,"2023-08-18 03:07:43","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+87770,355,0,"2023-08-18 03:07:44","Skills Quiz-15 Step-4 Incorrect","Lawn Ideas"
+87771,355,0,"2023-08-18 03:07:44","Skills Quiz-15 Step-3 Incorrect",SAVE
+87772,355,0,"2023-08-18 03:07:44","Skills Quiz-15 Step-4 Incorrect",SAVE
+87773,355,0,"2023-08-18 03:07:46","Skills Quiz-15 Step-3 Incorrect",modal-folder-title
+87774,355,0,"2023-08-18 03:07:46","Skills Quiz-15 Step-4 Incorrect",modal-folder-title
+87775,355,0,"2023-08-18 03:08:03","Skills Quiz-15 Step-3 Incorrect",Close
+87776,355,0,"2023-08-18 03:08:03","Skills Quiz-15 Step-4 Incorrect",Close
+87777,355,0,"2023-08-18 03:08:11","Skills Quiz-15 Step-4 Correct",note-search
+87778,355,0,"2023-08-18 03:08:11","Skills Quiz-15 Step-3 Incorrect",note-search
+87779,355,0,"2023-08-18 03:08:18","Skills Quiz-15 Step-3 Incorrect",Next
+0,0,0,"2023-08-18 03:08:19",module_end,none

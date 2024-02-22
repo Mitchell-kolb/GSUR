@@ -1,0 +1,45 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+44615,159,244,"2023-04-27 05:30:01",page-load,video
+44620,159,245,"2023-04-27 05:33:51",page-load,"goal setting: preview"
+44624,159,246,"2023-04-27 05:34:50",page-load,"goal setting: example plan"
+44638,159,247,"2023-04-27 05:36:40",page-load,"goal setting: pick one strategy"
+44646,159,247,"2023-04-27 05:37:26",click,next-page
+44647,159,248,"2023-04-27 05:37:26",page-load,"goal setting: top strategy display"
+44655,159,248,"2023-04-27 05:37:40",click,next-page
+44656,159,249,"2023-04-27 05:37:41",page-load,"goal setting: when"
+44662,159,249,"2023-04-27 05:38:44",click,next-page
+44663,159,250,"2023-04-27 05:38:45",page-load,"goal setting: where"
+44665,159,250,"2023-04-27 05:39:15",click,next-page
+44666,159,251,"2023-04-27 05:39:16",page-load,"goal setting: with whom"
+44667,159,251,"2023-04-27 05:39:17",click,next-page
+44677,159,251,"2023-04-27 05:39:46",click,next-page
+44678,159,252,"2023-04-27 05:39:47",page-load,"goal setting: how"
+44697,159,252,"2023-04-27 05:42:36",click,next-page
+44698,159,253,"2023-04-27 05:42:36",page-load,"goal setting: barriers and alternatives"
+44712,159,253,"2023-04-27 05:45:44",click,next-page
+44713,159,254,"2023-04-27 05:45:45",page-load,"goal setting: motivation"
+44714,159,254,"2023-04-27 05:45:51",click,next-page
+44715,159,255,"2023-04-27 05:45:52",page-load,"goal setting: confidence"
+44716,159,255,"2023-04-27 05:45:59",click,next-page
+44717,159,256,"2023-04-27 05:45:59",page-load,"goal setting: plan"
+44718,159,257,"2023-04-27 05:46:45",page-load,"end of lesson: 4"
+47845,159,400,"2023-05-02 03:43:46",page-load,video
+47846,159,401,"2023-05-02 04:03:38",page-load,"web form: question"
+47847,159,401,"2023-05-02 04:03:43",click,"correct-option: False"
+47848,159,401,"2023-05-02 04:03:45",click,next-page
+47849,159,402,"2023-05-02 04:03:46",page-load,video
+47850,159,403,"2023-05-02 05:46:48",page-load,"web form: what would you like to do next"
+47851,159,403,"2023-05-02 05:46:52",click,next-page
+47852,159,404,"2023-05-02 05:46:53",page-load,"skills quiz preview"
+47853,159,0,"2023-05-02 05:47:51","Skills Quiz-19 Step-1 Incorrect",HEALTH
+47854,159,0,"2023-05-02 05:47:55","Skills Quiz-19 Step-2 Correct","Medical Information"
+47855,159,0,"2023-05-02 05:48:03","Skills Quiz-19 Step-3 Correct","Add New Note"
+47856,159,0,"2023-05-02 05:48:05","Skills Quiz-19 Step-4 Correct",noteSpecialty
+47857,159,0,"2023-05-02 05:48:20","Skills Quiz-19 Step-6 Correct",noteName
+47858,159,0,"2023-05-02 05:48:48","Skills Quiz-19 Step-8 Correct",notePhone
+47859,159,0,"2023-05-02 05:49:04","Skills Quiz-19 Step-10 Correct",noteAddress
+47860,159,0,"2023-05-02 05:49:34","Skills Quiz 30 second Hint",30time
+47861,159,0,"2023-05-02 05:49:43","Skills Quiz-19 Step-12 Correct",noteDetails
+47862,159,0,"2023-05-02 05:50:10","Skills Quiz-19 Step-14 Correct"," SAVE"
+47863,159,0,"2023-05-02 05:50:16","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-05-02 05:50:16",module_end,none

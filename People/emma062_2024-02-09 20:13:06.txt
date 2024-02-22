@@ -1,0 +1,25 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+121950,418,212,"2024-02-09 20:09:57",page-load,"skills quiz preview"
+121951,418,212,"2024-02-09 20:10:08",click,next-page
+121952,418,0,"2024-02-09 20:10:12","Skills Quiz-12 Step-1 Correct","Add New Folder"
+121953,418,0,"2024-02-09 20:10:19","Skills Quiz-12 Step-2 Correct",modal-folder-title
+121954,418,0,"2024-02-09 20:10:37","Skills Quiz-12 Step-3 Incorrect",Title:
+121955,418,0,"2024-02-09 20:10:38","Skills Quiz-12 Step-3 Incorrect",Next
+121956,418,0,"2024-02-09 20:10:39","Skills Quiz-12 Step-3 Incorrect"," SAVE"
+121957,418,0,"2024-02-09 20:10:40","Skills Quiz-12 Step-4 Correct"," SAVE"
+121958,418,0,"2024-02-09 20:10:55","Skills Quiz-12 Step-5 Correct",Close
+121959,418,0,"2024-02-09 20:10:55","Skills Quiz-12 Step-3 Incorrect",Close
+121960,418,0,"2024-02-09 20:11:01","Skills Quiz-12 Step-3 Incorrect",Edit
+121961,418,0,"2024-02-09 20:11:01","Skills Quiz-12 Step-6 Correct",Edit
+121962,418,0,"2024-02-09 20:11:04","Skills Quiz-12 Step-3 Incorrect",SAVE
+121963,418,0,"2024-02-09 20:11:04","Skills Quiz-12 Step-7 Correct",SAVE
+121964,418,0,"2024-02-09 20:11:10","Skills Quiz-12 Step-8 Correct",modal-folder-title
+121965,418,0,"2024-02-09 20:11:10","Skills Quiz-12 Step-3 Correct",modal-folder-title
+121966,418,0,"2024-02-09 20:11:40","Skills Quiz 30 second Hint",30time
+121967,418,0,"2024-02-09 20:12:59","Skills Quiz-12 Step-9 Incorrect",Title:
+121968,418,0,"2024-02-09 20:13:01","Skills Quiz-12 Step-9 Incorrect",Next
+121969,418,0,"2024-02-09 20:13:03","Skills Quiz-12 Step-10 Correct",SAVE
+121970,418,0,"2024-02-09 20:13:03","Skills Quiz-12 Step-9 Incorrect",SAVE
+121971,418,0,"2024-02-09 20:13:06","Skills Quiz-12 Step-9 Incorrect",Close
+121972,418,0,"2024-02-09 20:13:06","Skills Quiz-12 Step-11 Correct",Close
+0,0,0,"2024-02-09 20:13:06",module_end,none

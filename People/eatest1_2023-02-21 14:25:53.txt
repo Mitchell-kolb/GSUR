@@ -1,0 +1,31 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+25323,245,528,"2023-02-21 14:25:17",page-load,"skills quiz preview"
+25324,245,528,"2023-02-21 14:25:18",click,next-page
+25325,245,0,"2023-02-21 14:25:23","Skills Quiz-28 Step-1 Incorrect",Edit
+25326,245,0,"2023-02-21 14:25:23","Skills Quiz-28 Step-2 Correct",Edit
+25327,245,0,"2023-02-21 14:25:26","Skills Quiz-28 Step-3 Incorrect",Save
+25328,245,0,"2023-02-21 14:25:27","Skills Quiz-28 Step-3 Incorrect",Save
+25329,245,0,"2023-02-21 14:25:27","Skills Quiz-28 Step-3 Incorrect",Cancel
+25330,245,0,"2023-02-21 14:25:28","Skills Quiz-28 Step-3 Incorrect",Save
+25331,245,0,"2023-02-21 14:25:30","Skills Quiz-28 Step-3 Incorrect",Cancel
+25332,245,0,"2023-02-21 14:25:30","Skills Quiz-28 Step-3 Incorrect",Cancel
+25333,245,0,"2023-02-21 14:25:31","Skills Quiz-28 Step-3 Incorrect",Save
+25334,245,0,"2023-02-21 14:25:32","Skills Quiz-28 Step-3 Incorrect",Cancel
+25335,245,0,"2023-02-21 14:25:32","Skills Quiz-28 Step-3 Incorrect",Cancel
+25336,245,0,"2023-02-21 14:25:33","Skills Quiz-28 Step-3 Incorrect",Save
+25337,245,0,"2023-02-21 14:25:33","Skills Quiz-28 Step-3 Incorrect",Cancel
+25338,245,0,"2023-02-21 14:25:35","Skills Quiz-28 Step-3 Correct",YES
+25339,245,0,"2023-02-21 14:25:36","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+25340,245,0,"2023-02-21 14:25:37","Skills Quiz-28 Step-5 Correct",Loneliness
+25341,245,0,"2023-02-21 14:25:38","Skills Quiz-28 Step-6 Correct","                  Select               "
+25342,245,0,"2023-02-21 14:25:39","Skills Quiz-28 Step-7 Correct",Save
+25343,245,0,"2023-02-21 14:25:43","Skills Quiz-28 Step-8 Incorrect",undefined
+25344,245,0,"2023-02-21 14:25:44","Skills Quiz-28 Step-8 Incorrect",12345
+25345,245,0,"2023-02-21 14:25:44","Skills Quiz-28 Step-9 Incorrect",12345
+25346,245,0,"2023-02-21 14:25:45","Skills Quiz-28 Step-8 Incorrect",2
+25347,245,0,"2023-02-21 14:25:45","Skills Quiz-28 Step-9 Correct",2
+25348,245,0,"2023-02-21 14:25:46","Skills Quiz-28 Step-10 Correct","Save and View Graph"
+25349,245,0,"2023-02-21 14:25:46","Skills Quiz-28 Step-8 Incorrect","Save and View Graph"
+25350,245,0,"2023-02-21 14:25:50","Skills Quiz-28 Step-11 Correct","View Progress"
+25351,245,0,"2023-02-21 14:25:53","Skills Quiz-28 Step-12 Correct",Close
+0,0,0,"2023-02-21 14:25:53",module_end,none

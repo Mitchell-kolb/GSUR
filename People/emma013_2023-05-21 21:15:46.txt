@@ -1,0 +1,84 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+54962,324,434,"2023-05-21 19:09:41",page-load,video
+54963,324,435,"2023-05-21 19:09:48",page-load,"goal setting: preview"
+54964,324,436,"2023-05-21 19:10:59",page-load,"goal setting: example plan"
+54965,324,437,"2023-05-21 19:11:51",page-load,"goal setting: pick one strategy"
+54966,324,437,"2023-05-21 19:12:56",click,next-page
+54967,324,438,"2023-05-21 19:12:56",page-load,"goal setting: top strategy display"
+54968,324,438,"2023-05-21 19:13:08",click,next-page
+54969,324,439,"2023-05-21 19:13:08",page-load,"goal setting: when"
+54970,324,439,"2023-05-21 19:13:39",click,next-page
+54971,324,440,"2023-05-21 19:13:39",page-load,"goal setting: where"
+54972,324,440,"2023-05-21 19:14:04",click,next-page
+54973,324,441,"2023-05-21 19:14:05",page-load,"goal setting: with whom"
+54974,324,441,"2023-05-21 19:14:25",click,next-page
+54975,324,442,"2023-05-21 19:14:26",page-load,"goal setting: how"
+54976,324,442,"2023-05-21 19:16:40",click,next-page
+54977,324,443,"2023-05-21 19:16:40",page-load,"goal setting: barriers and alternatives"
+54978,324,443,"2023-05-21 19:18:25",click,next-page
+54979,324,444,"2023-05-21 19:18:26",page-load,"goal setting: motivation"
+54980,324,444,"2023-05-21 19:18:33",click,next-page
+54981,324,445,"2023-05-21 19:18:33",page-load,"goal setting: confidence"
+54982,324,445,"2023-05-21 19:18:38",click,next-page
+54983,324,446,"2023-05-21 19:18:38",page-load,"goal setting: plan"
+54984,324,447,"2023-05-21 19:19:28",page-load,"end of lesson: 5"
+54985,324,447,"2023-05-21 19:19:44",page-load,"end of lesson: 5"
+54986,324,500,"2023-05-21 19:20:08",page-load,video
+55065,324,500,"2023-05-21 20:54:52",page-load,video
+55066,324,501,"2023-05-21 20:56:46",page-load,"web form: scheduling choices"
+55067,324,501,"2023-05-21 20:56:51",tracked,"better relationships"
+55068,324,501,"2023-05-21 20:56:53",tracked,"improve memory"
+55069,324,501,"2023-05-21 20:56:59",tracked,"make me a better friend"
+55070,324,501,"2023-05-21 20:57:01",tracked,"stay mobile and active"
+55071,324,501,"2023-05-21 20:57:03",tracked,"It has always been important to me to be healthy"
+55072,324,501,"2023-05-21 20:57:05",tracked,"It has always been important to me to be healthy"
+55073,324,501,"2023-05-21 20:57:05",tracked,"It has always been important to me to be healthy"
+55074,324,501,"2023-05-21 20:57:11",click,next-page
+55075,324,502,"2023-05-21 20:57:11",page-load,video
+55076,324,503,"2023-05-21 21:06:40",page-load,"web form: scheduling choices"
+55077,324,503,"2023-05-21 21:06:52",tracked,"Reading a book"
+55078,324,503,"2023-05-21 21:06:55",tracked,"Socialize with family and friends"
+55079,324,503,"2023-05-21 21:07:07",tracked,"Cooking a new recipe"
+55080,324,503,"2023-05-21 21:07:13",tracked,"Doing a crossword puzzle"
+55081,324,503,"2023-05-21 21:07:23",tracked,"Going to a museum"
+55082,324,503,"2023-05-21 21:07:24",tracked,"Going to a museum"
+55083,324,503,"2023-05-21 21:07:25",tracked,"Going to a museum"
+55084,324,503,"2023-05-21 21:07:26",click,next-page
+55085,324,504,"2023-05-21 21:07:27",page-load,video
+55086,324,505,"2023-05-21 21:13:16",page-load,"web form: what would you like to do next"
+55087,324,505,"2023-05-21 21:13:20",click,next-page
+55088,324,506,"2023-05-21 21:13:20",page-load,"skills quiz preview"
+55089,324,0,"2023-05-21 21:14:35","Skills Quiz-25 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+55090,324,0,"2023-05-21 21:14:38","Skills Quiz-25 Step-1 Correct",TODAY
+55091,324,0,"2023-05-21 21:14:48","Skills Quiz-25 Step-2 Incorrect","Walk to Library"
+55092,324,0,"2023-05-21 21:14:53","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+55093,324,0,"2023-05-21 21:14:53","Skills Quiz-25 Step-3 Correct","Tap Here"
+55094,324,0,"2023-05-21 21:14:55","Skills Quiz-25 Step-2 Incorrect",3
+55095,324,0,"2023-05-21 21:14:55","Skills Quiz-25 Step-4 Correct",3
+55096,324,0,"2023-05-21 21:14:56","Skills Quiz-25 Step-5 Correct",0
+55097,324,0,"2023-05-21 21:14:56","Skills Quiz-25 Step-2 Incorrect",0
+55098,324,0,"2023-05-21 21:14:59","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+55099,324,0,"2023-05-21 21:14:59","Skills Quiz-25 Step-6 Correct","                              Save            "
+55100,324,0,"2023-05-21 21:15:17","Skills Quiz-25 Step-2 Incorrect",Save
+55101,324,0,"2023-05-21 21:15:17","Skills Quiz-25 Step-7 Correct",Save
+55102,324,0,"2023-05-21 21:15:26","Skills Quiz-25 Step-2 Incorrect",undefined
+55103,324,0,"2023-05-21 21:15:26","Skills Quiz-25 Step-8 Incorrect",undefined
+55104,324,0,"2023-05-21 21:15:32","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+55105,324,0,"2023-05-21 21:15:32","Skills Quiz-25 Step-9 Correct","Tap Here"
+55106,324,0,"2023-05-21 21:15:32","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+55107,324,0,"2023-05-21 21:15:34","Skills Quiz-25 Step-10 Correct",1
+55108,324,0,"2023-05-21 21:15:34","Skills Quiz-25 Step-8 Incorrect",1
+55109,324,0,"2023-05-21 21:15:34","Skills Quiz-25 Step-2 Incorrect",1
+55110,324,0,"2023-05-21 21:15:36","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+55111,324,0,"2023-05-21 21:15:36","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+55112,324,0,"2023-05-21 21:15:36","Skills Quiz-25 Step-11 Correct","                              Save            "
+55113,324,507,"2023-05-21 21:15:43",click,"skills quiz hint"
+55114,324,0,"2023-05-21 21:15:45","Skills Quiz-25 Step-12 Incorrect","Enter Number of Well-being Exercises1"
+55115,324,0,"2023-05-21 21:15:45","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being Exercises1"
+55116,324,0,"2023-05-21 21:15:45","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being Exercises1"
+55117,324,0,"2023-05-21 21:15:45","Skills Quiz-25 Step-12 Incorrect","Enter Number of Well-being Exercises1"
+55118,324,0,"2023-05-21 21:15:45","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being Exercises1"
+55119,324,0,"2023-05-21 21:15:45","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being Exercises1"
+55120,324,0,"2023-05-21 21:15:46","Skills Quiz-25 Step-2 Incorrect",Save
+55121,324,0,"2023-05-21 21:15:46","Skills Quiz-25 Step-8 Incorrect",Save
+0,0,0,"2023-05-21 21:15:46",module_end,none

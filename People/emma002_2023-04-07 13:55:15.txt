@@ -1,0 +1,87 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+37399,300,434,"2023-04-03 19:53:22",page-load,video
+37400,300,435,"2023-04-03 19:53:26",page-load,"goal setting: preview"
+37401,300,435,"2023-04-03 19:53:35",click,next-page
+37402,300,436,"2023-04-03 19:53:35",page-load,"goal setting: example plan"
+37403,300,437,"2023-04-03 19:54:29",page-load,"goal setting: pick one strategy"
+37404,300,437,"2023-04-03 19:55:33",click,next-page
+37405,300,438,"2023-04-03 19:55:34",page-load,"goal setting: top strategy display"
+37406,300,438,"2023-04-03 19:55:40",click,next-page
+37407,300,439,"2023-04-03 19:55:40",page-load,"goal setting: when"
+37408,300,439,"2023-04-03 19:56:05",click,next-page
+37409,300,440,"2023-04-03 19:56:06",page-load,"goal setting: where"
+37410,300,440,"2023-04-03 19:56:24",click,next-page
+37411,300,441,"2023-04-03 19:56:24",page-load,"goal setting: with whom"
+37412,300,441,"2023-04-03 19:56:35",click,next-page
+37413,300,442,"2023-04-03 19:56:36",page-load,"goal setting: how"
+37414,300,442,"2023-04-03 19:57:36",click,next-page
+37415,300,443,"2023-04-03 19:57:37",page-load,"goal setting: barriers and alternatives"
+37416,300,443,"2023-04-03 19:57:53",click,next-page
+37417,300,444,"2023-04-03 19:57:54",page-load,"goal setting: motivation"
+37418,300,444,"2023-04-03 19:57:59",click,next-page
+37419,300,445,"2023-04-03 19:57:59",page-load,"goal setting: confidence"
+37420,300,445,"2023-04-03 19:58:07",click,next-page
+37421,300,446,"2023-04-03 19:58:07",page-load,"goal setting: plan"
+37422,300,446,"2023-04-03 19:58:31",click,next-page
+37423,300,447,"2023-04-03 19:58:31",page-load,"end of lesson: 5"
+37424,300,104,"2023-04-03 20:31:13",page-load,video
+37425,300,200,"2023-04-03 20:31:26",page-load,video
+37426,300,300,"2023-04-03 20:33:49",page-load,video
+37427,300,10,"2023-04-03 20:34:03",page-load,video
+37428,300,11,"2023-04-03 20:35:30",page-load,video
+37429,300,104,"2023-04-03 20:36:39",page-load,video
+37430,300,200,"2023-04-03 20:36:57",page-load,video
+38569,300,500,"2023-04-07 13:29:52",page-load,video
+38586,300,501,"2023-04-07 13:35:54",page-load,"web form: scheduling choices"
+38587,300,501,"2023-04-07 13:36:07",tracked,"reduce stress"
+38588,300,501,"2023-04-07 13:36:10",tracked,"better relationships"
+38589,300,501,"2023-04-07 13:36:13",tracked,"improve memory"
+38590,300,501,"2023-04-07 13:36:14",tracked,"improve my quality of life"
+38591,300,501,"2023-04-07 13:36:21",tracked,"stay mobile and active"
+38592,300,501,"2023-04-07 13:36:22",tracked,"stay mobile and active"
+38593,300,501,"2023-04-07 13:36:23",tracked,"stay mobile and active"
+38594,300,501,"2023-04-07 13:36:23",tracked,"stay mobile and active"
+38595,300,501,"2023-04-07 13:36:26",tracked,"stay mobile and active"
+38596,300,501,"2023-04-07 13:36:27",tracked,"It has always been important to me to be healthy"
+38597,300,501,"2023-04-07 13:36:32",tracked,"It has always been important to me to be healthy"
+38598,300,501,"2023-04-07 13:36:33",tracked,"It has always been important to me to be healthy"
+38599,300,501,"2023-04-07 13:36:34",tracked,"It has always been important to me to be healthy"
+38604,300,501,"2023-04-07 13:36:59",click,next-page
+38605,300,502,"2023-04-07 13:36:59",page-load,video
+38625,300,503,"2023-04-07 13:45:02",page-load,"web form: scheduling choices"
+38630,300,503,"2023-04-07 13:45:20",tracked,"Cooking a new recipe"
+38631,300,503,"2023-04-07 13:45:27",tracked,"Socialize with family and friends"
+38632,300,503,"2023-04-07 13:45:36",tracked,"Watching a TED talk"
+38633,300,503,"2023-04-07 13:45:47",click,next-page
+38634,300,504,"2023-04-07 13:45:47",page-load,video
+38635,300,505,"2023-04-07 13:53:57",page-load,"web form: what would you like to do next"
+38636,300,505,"2023-04-07 13:54:02",click,next-page
+38637,300,506,"2023-04-07 13:54:02",page-load,"skills quiz preview"
+38638,300,506,"2023-04-07 13:54:24",click,next-page
+38639,300,0,"2023-04-07 13:54:40","Skills Quiz-25 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+38640,300,0,"2023-04-07 13:54:43","Skills Quiz-25 Step-1 Correct",TODAY
+38641,300,0,"2023-04-07 13:54:50","Skills Quiz-25 Step-2 Incorrect",undefined
+38642,300,0,"2023-04-07 13:54:53","Skills Quiz-25 Step-3 Correct","Tap Here"
+38643,300,0,"2023-04-07 13:54:53","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+38644,300,0,"2023-04-07 13:54:55","Skills Quiz-25 Step-4 Correct",3
+38645,300,0,"2023-04-07 13:54:55","Skills Quiz-25 Step-2 Incorrect",3
+38646,300,0,"2023-04-07 13:54:55","Skills Quiz-25 Step-2 Incorrect",0
+38647,300,0,"2023-04-07 13:54:55","Skills Quiz-25 Step-5 Correct",0
+38648,300,0,"2023-04-07 13:54:57","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+38649,300,0,"2023-04-07 13:54:57","Skills Quiz-25 Step-6 Correct","                              Save            "
+38650,300,0,"2023-04-07 13:55:01","Skills Quiz-25 Step-2 Incorrect",Save
+38651,300,0,"2023-04-07 13:55:01","Skills Quiz-25 Step-7 Correct",Save
+38652,300,0,"2023-04-07 13:55:07","Skills Quiz-25 Step-8 Incorrect",undefined
+38653,300,0,"2023-04-07 13:55:07","Skills Quiz-25 Step-2 Incorrect",undefined
+38654,300,0,"2023-04-07 13:55:09","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+38655,300,0,"2023-04-07 13:55:09","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+38656,300,0,"2023-04-07 13:55:09","Skills Quiz-25 Step-9 Correct","Tap Here"
+38657,300,0,"2023-04-07 13:55:10","Skills Quiz-25 Step-2 Incorrect",1
+38658,300,0,"2023-04-07 13:55:10","Skills Quiz-25 Step-8 Incorrect",1
+38659,300,0,"2023-04-07 13:55:10","Skills Quiz-25 Step-10 Correct",1
+38660,300,0,"2023-04-07 13:55:12","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+38661,300,0,"2023-04-07 13:55:12","Skills Quiz-25 Step-11 Correct","                              Save            "
+38662,300,0,"2023-04-07 13:55:12","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+38663,300,0,"2023-04-07 13:55:14","Skills Quiz-25 Step-8 Incorrect",Save
+38664,300,0,"2023-04-07 13:55:14","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2023-04-07 13:55:15",module_end,none

@@ -1,0 +1,42 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+94938,360,140,"2023-09-04 18:32:48",page-load,"skills quiz 10: preview"
+94939,360,104,"2023-09-05 16:30:16",page-load,video
+94940,360,105,"2023-09-05 16:41:10",page-load,"web form: question"
+94941,360,105,"2023-09-05 16:41:20",click,"incorrect-option: Social Gatherings"
+94942,360,105,"2023-09-05 16:41:22",click,next-page
+94943,360,106,"2023-09-05 16:41:22",page-load,video
+94944,360,107,"2023-09-05 16:41:39",page-load,"web form: question"
+94945,360,107,"2023-09-05 16:41:45",click,"correct-option: Exercise"
+94946,360,107,"2023-09-05 16:41:46",click,next-page
+94947,360,108,"2023-09-05 16:41:47",page-load,"web form: what would you like to do next"
+94948,360,108,"2023-09-05 16:41:51",click,next-page
+94949,360,109,"2023-09-05 16:41:51",page-load,video
+94950,360,110,"2023-09-05 16:44:56",page-load,"web form: question"
+94951,360,110,"2023-09-05 16:45:03",click,next-page
+94952,360,111,"2023-09-05 16:45:04",page-load,"web form: what would you like to do next"
+94953,360,111,"2023-09-05 16:45:10",click,next-page
+94954,360,112,"2023-09-05 16:45:11",page-load,video
+94955,360,113,"2023-09-05 16:46:08",page-load,"web form: question"
+94956,360,113,"2023-09-05 16:46:08",click,"incorrect-option: A. View"
+94957,360,113,"2023-09-05 16:46:18",click,"correct-option: D. Both A and C"
+94958,360,113,"2023-09-05 16:46:19",click,next-page
+94959,360,114,"2023-09-05 16:46:20",page-load,video
+94960,360,115,"2023-09-05 16:47:28",page-load,"web form: question"
+94961,360,115,"2023-09-05 16:48:01",click,"correct-option: 30 minutes before"
+94962,360,115,"2023-09-05 16:48:03",click,next-page
+94963,360,116,"2023-09-05 16:48:04",page-load,"web form: what would you like to do next"
+94964,360,0,"2023-09-05 16:49:03","Skills Quiz-5 Step-1 Correct",CALENDAR
+94965,360,0,"2023-09-05 16:49:06","Skills Quiz-5 Step-2 Incorrect","JUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930"
+94966,360,0,"2023-09-05 16:49:10","Skills Quiz-5 Step-2 Correct",right-arrow
+94967,360,0,"2023-09-05 16:49:13","Skills Quiz-5 Step-3 Correct",3
+94968,360,117,"2023-09-05 16:49:27",click,"skills quiz hint"
+94969,360,117,"2023-09-05 16:49:30",click,"skills quiz hint"
+94970,360,117,"2023-09-05 16:49:30",click,"skills quiz hint"
+94971,360,0,"2023-09-05 16:49:39","Skills Quiz-5 Step-4 Incorrect",Loading...
+94972,360,0,"2023-09-05 16:49:39","Skills Quiz-5 Step-4 Incorrect",todo-view-1
+94973,360,0,"2023-09-05 16:49:43","Skills Quiz-5 Step-4 Incorrect","Lunch with Mary12:30 PM - 1:30 PM"
+94974,360,0,"2023-09-05 16:49:54","Skills Quiz-5 Step-4 Correct",Edit
+94975,360,0,"2023-09-05 16:50:02","Skills Quiz-5 Step-5 Correct",YES
+94976,360,0,"2023-09-05 16:50:12","Skills Quiz-5 Step-6 Correct","60 min"
+94977,360,0,"2023-09-05 16:50:15","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-09-05 16:50:16",module_end,none

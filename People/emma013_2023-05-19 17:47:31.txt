@@ -1,0 +1,59 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+53409,324,245,"2023-05-16 01:00:41",page-load,"goal setting: preview"
+53410,324,245,"2023-05-16 01:00:47",click,next-page
+53411,324,246,"2023-05-16 01:00:48",page-load,"goal setting: example plan"
+53412,324,246,"2023-05-16 01:01:09",click,next-page
+53413,324,247,"2023-05-16 01:01:09",page-load,"goal setting: pick one strategy"
+53414,324,247,"2023-05-16 01:01:55",click,next-page
+53415,324,247,"2023-05-16 01:02:01",click,next-page
+53416,324,248,"2023-05-16 01:02:01",page-load,"goal setting: top strategy display"
+53417,324,248,"2023-05-16 01:02:08",click,previous-page
+53418,324,247,"2023-05-16 01:02:08",page-load,"goal setting: pick one strategy"
+53419,324,247,"2023-05-16 01:02:34",click,next-page
+53420,324,248,"2023-05-16 01:02:35",page-load,"goal setting: top strategy display"
+53421,324,248,"2023-05-16 01:02:37",click,next-page
+53422,324,249,"2023-05-16 01:02:38",page-load,"goal setting: when"
+53423,324,249,"2023-05-16 01:02:49",click,next-page
+53424,324,249,"2023-05-16 01:03:15",click,next-page
+53425,324,250,"2023-05-16 01:03:17",page-load,"goal setting: where"
+53426,324,250,"2023-05-16 01:03:48",click,next-page
+53427,324,251,"2023-05-16 01:03:50",page-load,"goal setting: with whom"
+53428,324,251,"2023-05-16 01:04:16",click,next-page
+53429,324,252,"2023-05-16 01:04:16",page-load,"goal setting: how"
+53430,324,252,"2023-05-16 01:06:13",click,next-page
+53431,324,253,"2023-05-16 01:06:14",page-load,"goal setting: barriers and alternatives"
+53432,324,253,"2023-05-16 01:45:31",page-load,"goal setting: barriers and alternatives"
+53433,324,253,"2023-05-16 01:47:01",click,next-page
+53434,324,254,"2023-05-16 01:47:02",page-load,"goal setting: motivation"
+53435,324,254,"2023-05-16 01:47:10",click,next-page
+53436,324,255,"2023-05-16 01:47:10",page-load,"goal setting: confidence"
+53437,324,255,"2023-05-16 01:47:17",click,next-page
+53438,324,256,"2023-05-16 01:47:18",page-load,"goal setting: plan"
+53439,324,256,"2023-05-16 01:47:33",click,next-page
+53440,324,257,"2023-05-16 01:47:33",page-load,"end of lesson: 4"
+54625,324,400,"2023-05-19 17:30:28",page-load,video
+54626,324,401,"2023-05-19 17:35:58",page-load,"web form: question"
+54627,324,401,"2023-05-19 17:36:04",click,"correct-option: False"
+54628,324,401,"2023-05-19 17:36:08",click,next-page
+54629,324,402,"2023-05-19 17:36:08",page-load,video
+54630,324,403,"2023-05-19 17:43:58",page-load,"web form: what would you like to do next"
+54631,324,403,"2023-05-19 17:44:01",click,next-page
+54632,324,404,"2023-05-19 17:44:01",page-load,"skills quiz preview"
+54633,324,404,"2023-05-19 17:44:25",click,next-page
+54634,324,0,"2023-05-19 17:44:35","Skills Quiz-19 Step-1 Incorrect",HEALTH
+54635,324,0,"2023-05-19 17:44:41","Skills Quiz-19 Step-2 Correct","Medical Information"
+54636,324,0,"2023-05-19 17:44:48","Skills Quiz-19 Step-3 Correct","Add New Note"
+54637,324,0,"2023-05-19 17:44:53","Skills Quiz-19 Step-4 Correct",noteSpecialty
+54638,324,0,"2023-05-19 17:45:23","Skills Quiz 30 second Hint",30time
+54639,324,0,"2023-05-19 17:45:32","Skills Quiz-19 Step-6 Correct",noteName
+54640,324,0,"2023-05-19 17:45:55","Skills Quiz-19 Step-8 Correct",notePhone
+54641,324,0,"2023-05-19 17:46:10","Skills Quiz-19 Step-10 Correct",noteAddress
+54642,324,0,"2023-05-19 17:46:38","Skills Quiz-19 Step-12 Correct",noteDetails
+54643,324,0,"2023-05-19 17:47:07","Skills Quiz 30 second Hint",30time
+54644,324,0,"2023-05-19 17:47:12","Skills Quiz-19 Step-14 Correct"," SAVE"
+54645,324,0,"2023-05-19 17:47:22","Skills Quiz-19 Step-14 Incorrect","This doctor review my daily blood presure"
+54646,324,0,"2023-05-19 17:47:24","Skills Quiz-19 Step-14 Incorrect","This doctor review my daily blood presure"
+54647,324,0,"2023-05-19 17:47:25","Skills Quiz-19 Step-14 Incorrect","Close  EDIT"
+54648,324,0,"2023-05-19 17:47:28","Skills Quiz-19 Step-14 Incorrect","Close  EDIT"
+54649,324,0,"2023-05-19 17:47:31","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-05-19 17:47:31",module_end,none

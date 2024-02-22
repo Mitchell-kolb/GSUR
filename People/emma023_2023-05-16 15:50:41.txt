@@ -1,0 +1,48 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+53612,319,410,"2023-05-16 15:37:42",page-load,video
+53613,319,411,"2023-05-16 15:38:10",page-load,"web form: scheduling choices"
+53614,319,411,"2023-05-16 15:38:53",tracked,Weight
+53615,319,411,"2023-05-16 15:38:54",tracked,"Blood pressure"
+53616,319,411,"2023-05-16 15:38:58",tracked,Fatigue
+53617,319,411,"2023-05-16 15:39:00",tracked,"Physical Exercise"
+53618,319,411,"2023-05-16 15:39:01",tracked,Medications
+53619,319,411,"2023-05-16 15:39:02",tracked,Medications
+53620,319,411,"2023-05-16 15:39:03",tracked,Medications
+53621,319,411,"2023-05-16 15:39:03",tracked,Medications
+53622,319,411,"2023-05-16 15:39:04",tracked,Medications
+53623,319,411,"2023-05-16 15:39:07",tracked,Mood
+53624,319,411,"2023-05-16 15:39:08",tracked,Medications
+53625,319,411,"2023-05-16 15:39:09",tracked,Medications
+53626,319,411,"2023-05-16 15:39:11",tracked,Fatigue
+53627,319,411,"2023-05-16 15:39:13",tracked,Medications
+53628,319,411,"2023-05-16 15:39:20",click,next-page
+53629,319,412,"2023-05-16 15:39:20",page-load,video
+53630,319,413,"2023-05-16 15:41:06",page-load,"web form: question"
+53631,319,413,"2023-05-16 15:41:16",click,"correct-option: 4"
+53632,319,413,"2023-05-16 15:41:18",click,next-page
+53633,319,414,"2023-05-16 15:41:19",page-load,video
+53634,319,415,"2023-05-16 15:41:54",page-load,"web form: question"
+53635,319,415,"2023-05-16 15:42:02",click,"incorrect-option: True"
+53636,319,415,"2023-05-16 15:42:03",click,"correct-option: False"
+53637,319,415,"2023-05-16 15:42:08",click,next-page
+53638,319,416,"2023-05-16 15:42:08",page-load,video
+53639,319,417,"2023-05-16 15:47:58",page-load,"web form: what would you like to do next"
+53640,319,417,"2023-05-16 15:48:03",click,next-page
+53641,319,418,"2023-05-16 15:48:04",page-load,"skills quiz preview"
+53642,319,418,"2023-05-16 15:48:15",click,next-page
+53643,319,0,"2023-05-16 15:48:20","Skills Quiz-21 Step-1 Incorrect","Add Entry/Event"
+53644,319,0,"2023-05-16 15:48:23","Skills Quiz-21 Step-1 Incorrect","Add Entry/Event"
+53645,319,0,"2023-05-16 15:48:30","Skills Quiz-21 Step-1 Correct",HEALTH
+53646,319,0,"2023-05-16 15:48:34","Skills Quiz-21 Step-2 Incorrect","Medical Information"
+53647,319,0,"2023-05-16 15:48:41","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+53648,319,0,"2023-05-16 15:48:45","Skills Quiz-21 Step-3 Correct","Daily Medications"
+53649,319,0,"2023-05-16 15:48:50","Skills Quiz-21 Step-4 Correct",descriptionMorning
+53650,319,0,"2023-05-16 15:49:20","Skills Quiz 30 second Hint",30time
+53651,319,0,"2023-05-16 15:50:29","Skills Quiz-21 Step-6 Correct","8:00 AM"
+53652,319,0,"2023-05-16 15:50:32","Skills Quiz-21 Step-7 Correct",7
+53653,319,0,"2023-05-16 15:50:33","Skills Quiz-21 Step-8 Correct",00
+53654,319,0,"2023-05-16 15:50:34","Skills Quiz-21 Step-9 Correct",AM
+53655,319,0,"2023-05-16 15:50:35","Skills Quiz-21 Step-10 Correct",Save
+53656,319,0,"2023-05-16 15:50:39","Skills Quiz-21 Step-11 Correct",checkMorning
+53657,319,0,"2023-05-16 15:50:41","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-05-16 15:50:41",module_end,none

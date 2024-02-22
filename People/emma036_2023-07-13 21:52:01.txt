@@ -1,0 +1,36 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+76778,343,407,"2023-07-13 21:46:05",page-load,"skills quiz preview"
+76779,343,0,"2023-07-13 21:46:57","Skills Quiz-20 Step-1 Incorrect",NOTES
+76780,343,0,"2023-07-13 21:47:01","Skills Quiz-20 Step-1 Incorrect",HEALTH
+76781,343,0,"2023-07-13 21:47:05","Skills Quiz-20 Step-2 Correct","Medical Information"
+76782,343,0,"2023-07-13 21:47:11","Skills Quiz-20 Step-3 Correct","Add New Note"
+76783,343,0,"2023-07-13 21:47:21","Skills Quiz-20 Step-4 Correct",noteSpecialty
+76784,343,0,"2023-07-13 21:47:51","Skills Quiz 30 second Hint",30time
+76785,343,0,"2023-07-13 21:48:48","Skills Quiz-20 Step-6 Incorrect","Close  SAVE"
+76786,343,0,"2023-07-13 21:50:10","Skills Quiz-20 Step-6 Incorrect","Phone Number"
+76787,343,0,"2023-07-13 21:50:11","Skills Quiz-20 Step-6 Incorrect","Phone Number"
+76788,343,0,"2023-07-13 21:50:11","Skills Quiz-20 Step-6 Correct",noteName
+76789,343,0,"2023-07-13 21:50:35","Skills Quiz-20 Step-8 Incorrect","Close  SAVE"
+76790,343,0,"2023-07-13 21:50:39","Skills Quiz-20 Step-8 Correct",notePhone
+76791,343,0,"2023-07-13 21:50:47","Skills Quiz-20 Step-10 Incorrect","Close  SAVE"
+76792,343,0,"2023-07-13 21:50:54","Skills Quiz-20 Step-10 Correct",noteAddress
+76793,343,0,"2023-07-13 21:50:58","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+76794,343,0,"2023-07-13 21:51:02","Skills Quiz-20 Step-12 Incorrect","New Doctor NoteDoctors InformationSpecialtyNamePhone NumberAddressDetailsClose  SAVE"
+76795,343,0,"2023-07-13 21:51:03","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+76796,343,0,"2023-07-13 21:51:04","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+76797,343,0,"2023-07-13 21:51:06","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+76798,343,0,"2023-07-13 21:51:07","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+76799,343,0,"2023-07-13 21:51:08","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+76800,343,0,"2023-07-13 21:51:09","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+76801,343,0,"2023-07-13 21:51:17","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+76802,343,0,"2023-07-13 21:51:17","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+76803,343,0,"2023-07-13 21:51:21","Skills Quiz-20 Step-12 Correct",noteDetails
+76804,343,0,"2023-07-13 21:51:33","Skills Quiz-20 Step-14 Incorrect","New Doctor NoteDoctors InformationSpecialtyNamePhone NumberAddressDetailsClose  SAVE"
+76805,343,0,"2023-07-13 21:51:41","Skills Quiz-20 Step-14 Incorrect","Close  SAVE"
+76806,343,0,"2023-07-13 21:51:42","Skills Quiz-20 Step-14 Correct"," SAVE"
+76807,343,0,"2023-07-13 21:51:47","Skills Quiz-20 Step-14 Incorrect","Close  "
+76808,343,0,"2023-07-13 21:51:48","Skills Quiz-20 Step-14 Incorrect","Press EditNote SavedDoctors InformationSpecialtyOptometristNameDr. BrownPhone Number444-4444Address2023 Main StreetDetailsThis doctor asks that I arrive earlyClose  EDIT"
+76809,343,0,"2023-07-13 21:51:52","Skills Quiz-20 Step-14 Incorrect","Press EditNote SavedDoctors InformationSpecialtyOptometristNameDr. BrownPhone Number444-4444Address2023 Main StreetDetailsThis doctor asks that I arrive earlyClose  EDIT"
+76810,343,0,"2023-07-13 21:51:55","Skills Quiz-20 Step-14 Incorrect","Close  EDIT"
+76811,343,0,"2023-07-13 21:52:00","Skills Quiz-20 Step-14 Correct",Close
+0,0,0,"2023-07-13 21:52:01",module_end,none

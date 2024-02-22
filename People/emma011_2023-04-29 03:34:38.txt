@@ -1,0 +1,33 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+46197,308,528,"2023-04-29 03:32:18",page-load,"skills quiz preview"
+46198,308,528,"2023-04-29 03:32:33",click,next-page
+46199,308,0,"2023-04-29 03:32:41","Skills Quiz-28 Step-1 Incorrect"," HEALTH"
+46200,308,529,"2023-04-29 03:32:48",click,"skills quiz hint"
+46201,308,529,"2023-04-29 03:32:51",click,"skills quiz hint"
+46202,308,0,"2023-04-29 03:32:55","Skills Quiz-28 Step-1 Incorrect"," HEALTH"
+46203,308,0,"2023-04-29 03:33:05","Skills Quiz-28 Step-1 Incorrect",Edit
+46204,308,0,"2023-04-29 03:33:10","Skills Quiz-28 Step-3 Incorrect",undefined
+46205,308,0,"2023-04-29 03:33:11","Skills Quiz-28 Step-3 Incorrect",undefined
+46206,308,0,"2023-04-29 03:33:12","Skills Quiz-28 Step-3 Incorrect",undefined
+46207,308,0,"2023-04-29 03:33:13","Skills Quiz-28 Step-3 Incorrect",undefined
+46208,308,0,"2023-04-29 03:33:16","Skills Quiz-28 Step-3 Incorrect",Save
+46209,308,0,"2023-04-29 03:33:18","Skills Quiz-28 Step-3 Incorrect",Save
+46210,308,0,"2023-04-29 03:33:18","Skills Quiz-28 Step-3 Incorrect",Save
+46211,308,529,"2023-04-29 03:33:20",click,"skills quiz hint"
+46212,308,529,"2023-04-29 03:33:21",click,"skills quiz hint"
+46213,308,0,"2023-04-29 03:33:33","Skills Quiz-28 Step-3 Correct",YES
+46214,308,0,"2023-04-29 03:33:47","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+46215,308,0,"2023-04-29 03:33:50","Skills Quiz-28 Step-5 Correct",Loneliness
+46216,308,0,"2023-04-29 03:33:52","Skills Quiz-28 Step-6 Incorrect",CancelSelect
+46217,308,0,"2023-04-29 03:33:55","Skills Quiz-28 Step-6 Correct","                  Select               "
+46218,308,0,"2023-04-29 03:33:59","Skills Quiz-28 Step-7 Correct",Save
+46219,308,0,"2023-04-29 03:34:05","Skills Quiz-28 Step-8 Correct","Loneliness Rating "
+46220,308,529,"2023-04-29 03:34:08",click,"skills quiz hint"
+46221,308,529,"2023-04-29 03:34:10",click,"skills quiz hint"
+46222,308,0,"2023-04-29 03:34:13","Skills Quiz-28 Step-9 Incorrect",12345
+46223,308,0,"2023-04-29 03:34:14","Skills Quiz-28 Step-9 Incorrect","Rate your level of loneliness:LowHigh12345"
+46224,308,0,"2023-04-29 03:34:22","Skills Quiz-28 Step-9 Correct",2
+46225,308,0,"2023-04-29 03:34:26","Skills Quiz-28 Step-10 Correct","Save and View Graph"
+46226,308,0,"2023-04-29 03:34:31","Skills Quiz-28 Step-11 Correct","View Progress"
+46227,308,0,"2023-04-29 03:34:37","Skills Quiz-28 Step-12 Correct",Close
+0,0,0,"2023-04-29 03:34:38",module_end,none

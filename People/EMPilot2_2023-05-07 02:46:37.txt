@@ -1,0 +1,40 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+50474,241,502,"2023-05-07 02:45:20",page-load,video
+50475,241,503,"2023-05-07 02:45:50",page-load,"web form: scheduling choices"
+50476,241,503,"2023-05-07 02:45:55",tracked,"Watching a TED talk"
+50477,241,503,"2023-05-07 02:45:57",click,next-page
+50478,241,504,"2023-05-07 02:45:57",page-load,video
+50479,241,505,"2023-05-07 02:46:02",page-load,"web form: what would you like to do next"
+50480,241,505,"2023-05-07 02:46:03",click,next-page
+50481,241,506,"2023-05-07 02:46:04",page-load,"skills quiz preview"
+50482,241,506,"2023-05-07 02:46:07",click,next-page
+50483,241,0,"2023-05-07 02:46:11","Skills Quiz-25 Step-1 Correct",TODAY
+50484,241,0,"2023-05-07 02:46:17","Skills Quiz-25 Step-2 Incorrect",undefined
+50485,241,0,"2023-05-07 02:46:18","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+50486,241,0,"2023-05-07 02:46:18","Skills Quiz-25 Step-3 Correct","Tap Here"
+50487,241,0,"2023-05-07 02:46:19","Skills Quiz-25 Step-2 Incorrect",3
+50488,241,0,"2023-05-07 02:46:19","Skills Quiz-25 Step-4 Correct",3
+50489,241,0,"2023-05-07 02:46:20","Skills Quiz-25 Step-2 Incorrect",0
+50490,241,0,"2023-05-07 02:46:20","Skills Quiz-25 Step-5 Correct",0
+50491,241,0,"2023-05-07 02:46:21","Skills Quiz-25 Step-6 Correct","                              Save            "
+50492,241,0,"2023-05-07 02:46:21","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+50493,241,0,"2023-05-07 02:46:23","Skills Quiz-25 Step-2 Incorrect",Save
+50494,241,0,"2023-05-07 02:46:23","Skills Quiz-25 Step-7 Correct",Save
+50495,241,0,"2023-05-07 02:46:25","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+50496,241,0,"2023-05-07 02:46:25","Skills Quiz-25 Step-8 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+50497,241,0,"2023-05-07 02:46:27","Skills Quiz-25 Step-8 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+50498,241,0,"2023-05-07 02:46:27","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+50499,241,0,"2023-05-07 02:46:28","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+50500,241,0,"2023-05-07 02:46:28","Skills Quiz-25 Step-8 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+50501,241,0,"2023-05-07 02:46:33","Skills Quiz-25 Step-8 Incorrect",undefined
+50502,241,0,"2023-05-07 02:46:33","Skills Quiz-25 Step-2 Incorrect",undefined
+50503,241,0,"2023-05-07 02:46:34","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+50504,241,0,"2023-05-07 02:46:34","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+50505,241,0,"2023-05-07 02:46:34","Skills Quiz-25 Step-9 Correct","Tap Here"
+50506,241,0,"2023-05-07 02:46:35","Skills Quiz-25 Step-8 Incorrect",1
+50507,241,0,"2023-05-07 02:46:35","Skills Quiz-25 Step-10 Correct",1
+50508,241,0,"2023-05-07 02:46:35","Skills Quiz-25 Step-2 Incorrect",1
+50509,241,0,"2023-05-07 02:46:35","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+50510,241,0,"2023-05-07 02:46:35","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+50511,241,0,"2023-05-07 02:46:35","Skills Quiz-25 Step-11 Correct","                              Save            "
+0,0,0,"2023-05-07 02:46:37",module_end,none

@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+44872,309,0,"2023-04-27 06:06:48","Skills Quiz-23 Step-21 Incorrect",YES
+44873,309,431,"2023-04-27 06:06:48",page-load,"skills quiz preview"
+44874,309,400,"2023-04-27 06:58:04",page-load,video
+44875,309,401,"2023-04-27 06:58:26",page-load,"web form: question"
+44876,309,401,"2023-04-27 06:58:30",click,"correct-option: False"
+44877,309,401,"2023-04-27 06:58:31",click,next-page
+44878,309,402,"2023-04-27 06:58:32",page-load,video
+44879,309,403,"2023-04-27 06:58:50",page-load,"web form: what would you like to do next"
+44880,309,403,"2023-04-27 06:58:51",click,next-page
+44881,309,404,"2023-04-27 06:58:52",page-load,"skills quiz preview"
+44882,309,404,"2023-04-27 06:58:54",click,next-page
+44883,309,0,"2023-04-27 06:58:58","Skills Quiz-19 Step-1 Incorrect",HEALTH
+44884,309,0,"2023-04-27 06:59:02","Skills Quiz-19 Step-2 Correct","Medical Information"
+44885,309,0,"2023-04-27 06:59:06","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+44886,309,0,"2023-04-27 06:59:10","Skills Quiz-19 Step-3 Correct","Add New Note"
+44887,309,0,"2023-04-27 06:59:13","Skills Quiz-19 Step-4 Correct",noteSpecialty
+44888,309,0,"2023-04-27 06:59:43","Skills Quiz 30 second Hint",30time
+44889,309,0,"2023-04-27 07:00:34","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+44890,309,0,"2023-04-27 07:00:41","Skills Quiz-19 Step-6 Correct",noteName
+44891,309,0,"2023-04-27 07:01:11","Skills Quiz 30 second Hint",30time
+44892,309,0,"2023-04-27 07:02:01","Skills Quiz-19 Step-8 Incorrect","Close  SAVE"
+44893,309,0,"2023-04-27 07:02:07","Skills Quiz-19 Step-8 Correct",notePhone
+44894,309,0,"2023-04-27 07:02:18","Skills Quiz-19 Step-10 Incorrect","Close  SAVE"
+44895,309,0,"2023-04-27 07:02:21","Skills Quiz-19 Step-10 Correct",noteAddress
+44896,309,0,"2023-04-27 07:02:26","Skills Quiz-19 Step-12 Correct",noteDetails
+44897,309,0,"2023-04-27 07:02:29","Skills Quiz-19 Step-14 Correct"," SAVE"
+44898,309,0,"2023-04-27 07:02:46","Skills Quiz-19 Step-14 Incorrect","Close  EDIT"
+44899,309,0,"2023-04-27 07:02:50","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-04-27 07:02:51",module_end,none

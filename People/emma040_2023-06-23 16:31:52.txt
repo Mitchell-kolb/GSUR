@@ -1,0 +1,35 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+71691,336,424,"2023-06-23 16:29:08",page-load,video
+71692,336,425,"2023-06-23 16:29:37",page-load,"web form: question"
+71693,336,425,"2023-06-23 16:29:44",click,"correct-option: True"
+71694,336,425,"2023-06-23 16:29:46",click,next-page
+71695,336,426,"2023-06-23 16:29:46",page-load,video
+71696,336,427,"2023-06-23 16:30:20",page-load,"web form: what would you like to do next"
+71697,336,427,"2023-06-23 16:30:24",click,next-page
+71698,336,428,"2023-06-23 16:30:24",page-load,"skills quiz preview"
+71699,336,428,"2023-06-23 16:30:28",click,next-page
+71700,336,0,"2023-06-23 16:30:40","Skills Quiz-23 Step-1 Incorrect","Blood Pressure8:00 AM - 8:15 AM"
+71701,336,0,"2023-06-23 16:30:54","Skills Quiz-23 Step-1 Incorrect","Entry/Event DetailsDate:Title:Blood PressureDescription:Measure and record blood pressureCancelDeleteEdit"
+71702,336,0,"2023-06-23 16:30:56","Skills Quiz-23 Step-1 Incorrect",Cancel
+71703,336,0,"2023-06-23 16:31:00","Skills Quiz-23 Step-1 Correct",Edit
+71704,336,0,"2023-06-23 16:31:05","Skills Quiz-23 Step-2 Correct",Weekly
+71705,336,0,"2023-06-23 16:31:07","Skills Quiz-23 Step-3 Correct",Thu
+71706,336,0,"2023-06-23 16:31:10","Skills Quiz-23 Step-4 Correct","Repeat Forever (tap to change)"
+71707,336,0,"2023-06-23 16:31:14","Skills Quiz-23 Step-5 Correct",end-right-arrow
+71708,336,0,"2023-06-23 16:31:16","Skills Quiz-23 Step-6 Correct",8
+71709,336,0,"2023-06-23 16:31:17","Skills Quiz-23 Step-7 Correct",OK
+71710,336,0,"2023-06-23 16:31:28","Skills Quiz-23 Step-8 Correct",Save
+71711,336,0,"2023-06-23 16:31:35","Skills Quiz-23 Step-9 Correct",YES
+71712,336,0,"2023-06-23 16:31:37","Skills Quiz-23 Step-10 Correct","                        Blood Pressure                     "
+71713,336,0,"2023-06-23 16:31:39","Skills Quiz-23 Step-11 Correct","Tap Here"
+71714,336,0,"2023-06-23 16:31:40","Skills Quiz-23 Step-12 Correct",1
+71715,336,0,"2023-06-23 16:31:40","Skills Quiz-23 Step-13 Correct",2
+71716,336,0,"2023-06-23 16:31:41","Skills Quiz-23 Step-14 Correct",0
+71717,336,0,"2023-06-23 16:31:42","Skills Quiz-23 Step-15 Correct","                                    Save               "
+71718,336,0,"2023-06-23 16:31:43","Skills Quiz-23 Step-16 Correct","Tap Here"
+71719,336,0,"2023-06-23 16:31:45","Skills Quiz-23 Step-17 Correct",8
+71720,336,0,"2023-06-23 16:31:45","Skills Quiz-23 Step-18 Correct",0
+71721,336,0,"2023-06-23 16:31:46","Skills Quiz-23 Step-19 Correct","                                    Save               "
+71722,336,0,"2023-06-23 16:31:49","Skills Quiz-23 Step-20 Correct","                                    Save               "
+71723,336,0,"2023-06-23 16:31:51","Skills Quiz-23 Step-21 Correct",Save
+0,0,0,"2023-06-23 16:31:52",module_end,none

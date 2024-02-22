@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+9691,221,204,"2023-01-27 12:58:51",page-load,video
+9692,221,205,"2023-01-27 13:00:02",page-load,"web form: question"
+9693,221,205,"2023-01-27 13:00:04",click,"correct-option: Add New Folder"
+9694,221,205,"2023-01-27 13:00:05",click,next-page
+9695,221,206,"2023-01-27 13:00:05",page-load,video
+9697,221,207,"2023-01-27 13:00:38",page-load,"web form: question"
+9698,221,207,"2023-01-27 13:01:33",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+9699,221,207,"2023-01-27 13:01:34",click,next-page
+9700,221,208,"2023-01-27 13:01:35",page-load,"web form: what would you like to do next"
+9701,221,208,"2023-01-27 13:01:36",click,next-page
+9702,221,209,"2023-01-27 13:01:36",page-load,"skills quiz preview"
+9703,221,209,"2023-01-27 13:01:37",click,next-page
+9705,221,0,"2023-01-27 13:02:08","Skills Quiz 30 second Hint",30time
+9706,221,21,"2023-01-27 13:02:36",page-load,"web form: what would you like to do next"
+9707,221,215,"2023-01-27 13:02:37",page-load,video
+9713,221,216,"2023-01-27 13:06:25",page-load,"web form: question"
+9714,221,216,"2023-01-27 13:06:33",click,"correct-option: 1"
+9715,221,216,"2023-01-27 13:06:33",click,next-page
+9716,221,217,"2023-01-27 13:06:34",page-load,video
+9717,221,218,"2023-01-27 13:08:31",page-load,"web form: what would you like to do next"
+9718,221,219,"2023-01-27 13:09:53",page-load,"skills quiz preview"
+9719,221,219,"2023-01-27 13:09:55",click,next-page
+9720,221,0,"2023-01-27 13:09:58","Skills Quiz-13 Step-1 Correct",Lists
+9721,221,0,"2023-01-27 13:09:59","Skills Quiz-13 Step-2 Correct","Add New Note"
+9722,221,0,"2023-01-27 13:10:00","Skills Quiz-13 Step-3 Correct",modal-note-title
+9723,221,0,"2023-01-27 13:10:08","Skills Quiz-13 Step-5 Correct",modal-note-content
+9724,221,0,"2023-01-27 13:10:20","Skills Quiz-13 Step-7 Correct",SAVE
+9725,221,0,"2023-01-27 13:10:23","Skills Quiz-13 Step-8 Correct",Close
+0,0,0,"2023-01-27 13:10:23",module_end,none

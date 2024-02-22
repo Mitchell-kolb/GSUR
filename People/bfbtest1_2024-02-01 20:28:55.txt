@@ -1,0 +1,21 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+120310,327,531,"2024-02-01 20:11:49",page-load,"goal setting: preview"
+120340,327,531,"2024-02-01 20:23:58",page-load,"goal setting: preview"
+120341,327,525,"2024-02-01 20:24:10",page-load,"skills quiz preview"
+120345,327,525,"2024-02-01 20:26:38",click,next-page
+120346,327,0,"2024-02-01 20:27:09","Skills Quiz 30 second Hint",30time
+120348,327,0,"2024-02-01 20:27:21","Skills Quiz-27 Step-1 Incorrect",Edit
+120349,327,0,"2024-02-01 20:27:21","Skills Quiz-27 Step-2 Correct",Edit
+120351,327,0,"2024-02-01 20:27:33","Skills Quiz-27 Step-3 Correct",YES
+120355,327,0,"2024-02-01 20:27:51","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+120356,327,0,"2024-02-01 20:27:56","Skills Quiz-27 Step-5 Correct",Optimism
+120357,327,0,"2024-02-01 20:27:58","Skills Quiz-27 Step-6 Correct","                  Select               "
+120362,327,0,"2024-02-01 20:28:09","Skills Quiz-27 Step-7 Correct",Save
+120364,327,0,"2024-02-01 20:28:23","Skills Quiz-27 Step-8 Incorrect",undefined
+120370,327,0,"2024-02-01 20:28:34","Skills Quiz-27 Step-9 Correct",4
+120371,327,0,"2024-02-01 20:28:34","Skills Quiz-27 Step-8 Incorrect",4
+120374,327,0,"2024-02-01 20:28:44","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+120375,327,0,"2024-02-01 20:28:44","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+120376,327,0,"2024-02-01 20:28:48","Skills Quiz-27 Step-11 Correct","View Progress"
+120378,327,0,"2024-02-01 20:28:55","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2024-02-01 20:28:55",module_end,none

@@ -1,0 +1,58 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+97625,356,512,"2023-09-16 20:33:17",page-load,video
+97626,356,513,"2023-09-16 20:35:23",page-load,"web form: question"
+97627,356,513,"2023-09-16 20:35:36",click,"correct-option: at the same time every time and limiting distractions."
+97628,356,513,"2023-09-16 20:35:37",click,next-page
+97629,356,514,"2023-09-16 20:35:39",page-load,video
+97630,356,515,"2023-09-16 20:37:47",page-load,"web form: question"
+97631,356,515,"2023-09-16 20:37:54",click,"correct-option: On the help page"
+97632,356,515,"2023-09-16 20:37:56",click,next-page
+97633,356,516,"2023-09-16 20:37:56",page-load,video
+97634,356,517,"2023-09-16 20:40:15",page-load,"web form: question"
+97635,356,517,"2023-09-16 20:40:19",click,"correct-option: 45 seconds"
+97636,356,517,"2023-09-16 20:40:21",click,next-page
+97637,356,518,"2023-09-16 20:40:21",page-load,video
+97638,356,519,"2023-09-16 20:42:20",page-load,"web form: question"
+97639,356,519,"2023-09-16 20:42:27",click,"incorrect-option: True"
+97640,356,519,"2023-09-16 20:42:28",click,"correct-option: False"
+97641,356,519,"2023-09-16 20:42:28",click,"correct-option: False"
+97642,356,519,"2023-09-16 20:42:31",click,next-page
+97643,356,520,"2023-09-16 20:42:31",page-load,"web form: what would you like to do next"
+97644,356,520,"2023-09-16 20:42:33",click,next-page
+97645,356,521,"2023-09-16 20:42:34",page-load,video
+97646,356,522,"2023-09-16 20:45:55",page-load,"web form: question"
+97647,356,522,"2023-09-16 20:46:23",click,"incorrect-option: 2"
+97648,356,522,"2023-09-16 20:46:24",click,"correct-option: 1"
+97649,356,522,"2023-09-16 20:46:24",click,"correct-option: 1"
+97650,356,522,"2023-09-16 20:46:26",click,next-page
+97651,356,522,"2023-09-16 20:46:26",click,next-page
+97652,356,523,"2023-09-16 20:46:27",page-load,video
+97653,356,524,"2023-09-16 20:49:07",page-load,"web form: what would you like to do next"
+97654,356,524,"2023-09-16 20:49:16",click,next-page
+97655,356,525,"2023-09-16 20:49:16",page-load,"skills quiz preview"
+97656,356,525,"2023-09-16 20:49:23",click,next-page
+97657,356,0,"2023-09-16 20:49:33","Skills Quiz-27 Step-1 Incorrect",Edit
+97658,356,0,"2023-09-16 20:49:33","Skills Quiz-27 Step-2 Correct",Edit
+97659,356,0,"2023-09-16 20:49:42","Skills Quiz-27 Step-3 Correct",YES
+97660,356,0,"2023-09-16 20:49:45","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+97661,356,0,"2023-09-16 20:49:47","Skills Quiz-27 Step-5 Correct",Optimism
+97662,356,0,"2023-09-16 20:49:49","Skills Quiz-27 Step-6 Correct","                  Select               "
+97663,356,0,"2023-09-16 20:49:50","Skills Quiz-27 Step-7 Correct",Save
+97664,356,0,"2023-09-16 20:49:55","Skills Quiz-27 Step-9 Incorrect",Cancel
+97665,356,0,"2023-09-16 20:49:55","Skills Quiz-27 Step-8 Incorrect",Cancel
+97666,356,0,"2023-09-16 20:49:56","Skills Quiz-27 Step-9 Incorrect","Optimism Rating"
+97667,356,0,"2023-09-16 20:49:56","Skills Quiz-27 Step-8 Incorrect","Optimism Rating"
+97668,356,0,"2023-09-16 20:50:00","Skills Quiz-27 Step-8 Incorrect",4
+97669,356,0,"2023-09-16 20:50:00","Skills Quiz-27 Step-10 Incorrect",4
+97670,356,0,"2023-09-16 20:50:00","Skills Quiz-27 Step-9 Correct",4
+97671,356,0,"2023-09-16 20:50:01","Skills Quiz-27 Step-8 Incorrect","CancelSave and View GraphSave"
+97672,356,0,"2023-09-16 20:50:01","Skills Quiz-27 Step-10 Incorrect","CancelSave and View GraphSave"
+97673,356,0,"2023-09-16 20:50:01","Skills Quiz-27 Step-10 Incorrect","CancelSave and View GraphSave"
+97674,356,0,"2023-09-16 20:50:01","Skills Quiz-27 Step-8 Incorrect","CancelSave and View GraphSave"
+97675,356,0,"2023-09-16 20:50:02","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+97676,356,0,"2023-09-16 20:50:02","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+97677,356,0,"2023-09-16 20:50:06","Skills Quiz-27 Step-11 Correct","View Progress"
+97678,356,0,"2023-09-16 20:50:08","Skills Quiz-27 Step-12 Incorrect",Close
+97679,356,0,"2023-09-16 20:50:08","Skills Quiz-27 Step-12 Correct",Close
+97680,356,0,"2023-09-16 20:50:09","Skills Quiz-27 Step-11 Incorrect","CloseView Progress"
+0,0,0,"2023-09-16 20:50:10",module_end,none

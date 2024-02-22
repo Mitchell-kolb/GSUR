@@ -1,0 +1,59 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+26997,245,512,"2023-02-28 15:47:13",page-load,video
+26998,245,513,"2023-02-28 15:47:19",page-load,"web form: question"
+26999,245,513,"2023-02-28 15:47:20",click,"incorrect-option: at a coffee shop"
+27000,245,513,"2023-02-28 15:47:21",click,"correct-option: at the same time every time and limiting distractions."
+27001,245,513,"2023-02-28 15:47:22",click,next-page
+27002,245,514,"2023-02-28 15:47:22",page-load,video
+27003,245,515,"2023-02-28 15:47:30",page-load,"web form: question"
+27004,245,515,"2023-02-28 15:47:31",click,"correct-option: On the help page"
+27005,245,515,"2023-02-28 15:47:32",click,"incorrect-option: The instructions are displayed when you begin the test."
+27006,245,515,"2023-02-28 15:47:32",click,"correct-option: On the help page"
+27007,245,515,"2023-02-28 15:47:33",click,next-page
+27008,245,516,"2023-02-28 15:47:33",page-load,video
+27009,245,517,"2023-02-28 15:47:41",page-load,"web form: question"
+27010,245,517,"2023-02-28 15:47:44",click,"incorrect-option: 30 minutes"
+27011,245,517,"2023-02-28 15:47:44",click,"correct-option: 45 seconds"
+27012,245,517,"2023-02-28 15:47:46",click,next-page
+27013,245,518,"2023-02-28 15:47:46",page-load,video
+27014,245,519,"2023-02-28 15:47:54",page-load,"web form: question"
+27015,245,519,"2023-02-28 15:47:55",click,"correct-option: False"
+27016,245,519,"2023-02-28 15:47:56",click,"incorrect-option: True"
+27017,245,519,"2023-02-28 15:47:56",click,next-page
+27018,245,520,"2023-02-28 15:47:57",page-load,"web form: what would you like to do next"
+27019,245,520,"2023-02-28 15:47:58",click,next-page
+27020,245,521,"2023-02-28 15:47:58",page-load,video
+27021,245,522,"2023-02-28 15:48:09",page-load,"web form: question"
+27022,245,522,"2023-02-28 15:48:12",click,"incorrect-option: Unlimited"
+27023,245,522,"2023-02-28 15:48:13",click,"correct-option: 1"
+27024,245,522,"2023-02-28 15:48:14",click,next-page
+27025,245,523,"2023-02-28 15:48:15",page-load,video
+27026,245,524,"2023-02-28 15:48:25",page-load,"web form: what would you like to do next"
+27027,245,524,"2023-02-28 15:48:26",click,next-page
+27028,245,525,"2023-02-28 15:48:26",page-load,"skills quiz preview"
+27029,245,525,"2023-02-28 15:48:27",click,next-page
+27030,245,0,"2023-02-28 15:48:32","Skills Quiz-27 Step-1 Incorrect","Entry/Event DetailsDate:Title:Optimism RatingDescription:Rate how optimistic I felt todayCancelDeleteEdit"
+27031,245,0,"2023-02-28 15:48:32","Skills Quiz-27 Step-2 Incorrect","Entry/Event DetailsDate:Title:Optimism RatingDescription:Rate how optimistic I felt todayCancelDeleteEdit"
+27032,245,0,"2023-02-28 15:48:33","Skills Quiz-27 Step-1 Incorrect",Edit
+27033,245,0,"2023-02-28 15:48:33","Skills Quiz-27 Step-2 Correct",Edit
+27034,245,0,"2023-02-28 15:48:39","Skills Quiz-27 Step-3 Incorrect",Cancel
+27035,245,0,"2023-02-28 15:48:40","Skills Quiz-27 Step-3 Incorrect",Save
+27036,245,0,"2023-02-28 15:48:41","Skills Quiz-27 Step-3 Incorrect",Cancel
+27037,245,0,"2023-02-28 15:48:42","Skills Quiz-27 Step-3 Incorrect",Cancel
+27038,245,0,"2023-02-28 15:48:43","Skills Quiz-27 Step-3 Incorrect",YES
+27039,245,0,"2023-02-28 15:48:44","Skills Quiz-27 Step-3 Correct",YES
+27040,245,0,"2023-02-28 15:48:52","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+27041,245,0,"2023-02-28 15:48:53","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+27042,245,0,"2023-02-28 15:48:54","Skills Quiz-27 Step-5 Incorrect",Loneliness
+27043,245,0,"2023-02-28 15:48:55","Skills Quiz-27 Step-5 Incorrect",Stress
+27044,245,0,"2023-02-28 15:48:55","Skills Quiz-27 Step-5 Correct",Optimism
+27045,245,0,"2023-02-28 15:48:56","Skills Quiz-27 Step-6 Correct","                  Select               "
+27046,245,0,"2023-02-28 15:48:57","Skills Quiz-27 Step-7 Correct",Save
+27047,245,0,"2023-02-28 15:48:59","Skills Quiz-27 Step-8 Incorrect",undefined
+27048,245,0,"2023-02-28 15:49:00","Skills Quiz-27 Step-8 Incorrect",4
+27049,245,0,"2023-02-28 15:49:00","Skills Quiz-27 Step-9 Correct",4
+27050,245,0,"2023-02-28 15:49:02","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+27051,245,0,"2023-02-28 15:49:02","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+27052,245,0,"2023-02-28 15:49:04","Skills Quiz-27 Step-11 Correct","View Progress"
+27053,245,0,"2023-02-28 15:49:06","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2023-02-28 15:49:06",module_end,none

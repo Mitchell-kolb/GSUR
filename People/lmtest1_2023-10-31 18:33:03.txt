@@ -1,0 +1,68 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+100650,238,434,"2023-10-31 18:29:17",page-load,video
+100651,238,435,"2023-10-31 18:29:23",page-load,"goal setting: preview"
+100652,238,435,"2023-10-31 18:29:24",click,next-page
+100653,238,436,"2023-10-31 18:29:24",page-load,"goal setting: example plan"
+100654,238,436,"2023-10-31 18:29:25",click,next-page
+100655,238,437,"2023-10-31 18:29:26",page-load,"goal setting: pick one strategy"
+100656,238,437,"2023-10-31 18:29:28",click,next-page
+100657,238,437,"2023-10-31 18:29:29",click,next-page
+100658,238,438,"2023-10-31 18:29:30",page-load,"goal setting: top strategy display"
+100659,238,438,"2023-10-31 18:29:31",click,next-page
+100660,238,439,"2023-10-31 18:29:32",page-load,"goal setting: when"
+100661,238,439,"2023-10-31 18:29:35",click,next-page
+100662,238,440,"2023-10-31 18:29:36",page-load,"goal setting: where"
+100663,238,440,"2023-10-31 18:29:39",click,next-page
+100664,238,441,"2023-10-31 18:29:40",page-load,"goal setting: with whom"
+100665,238,441,"2023-10-31 18:29:42",click,next-page
+100666,238,442,"2023-10-31 18:29:43",page-load,"goal setting: how"
+100667,238,442,"2023-10-31 18:29:48",click,next-page
+100668,238,443,"2023-10-31 18:29:49",page-load,"goal setting: barriers and alternatives"
+100669,238,443,"2023-10-31 18:29:54",click,next-page
+100670,238,444,"2023-10-31 18:29:54",page-load,"goal setting: motivation"
+100671,238,444,"2023-10-31 18:29:57",click,next-page
+100672,238,445,"2023-10-31 18:29:57",page-load,"goal setting: confidence"
+100673,238,445,"2023-10-31 18:29:58",click,next-page
+100674,238,446,"2023-10-31 18:29:59",page-load,"goal setting: plan"
+100675,238,446,"2023-10-31 18:30:00",click,next-page
+100676,238,447,"2023-10-31 18:30:00",page-load,"end of lesson: 5"
+100677,238,500,"2023-10-31 18:30:07",page-load,video
+100678,238,501,"2023-10-31 18:31:57",page-load,"web form: scheduling choices"
+100679,238,501,"2023-10-31 18:31:58",tracked,"better relationships"
+100680,238,501,"2023-10-31 18:31:59",click,next-page
+100681,238,502,"2023-10-31 18:32:00",page-load,video
+100682,238,503,"2023-10-31 18:32:14",page-load,"web form: scheduling choices"
+100683,238,503,"2023-10-31 18:32:21",tracked,"Reading a book"
+100684,238,503,"2023-10-31 18:32:26",click,next-page
+100685,238,504,"2023-10-31 18:32:27",page-load,video
+100686,238,505,"2023-10-31 18:32:34",page-load,"web form: what would you like to do next"
+100687,238,505,"2023-10-31 18:32:38",click,next-page
+100688,238,506,"2023-10-31 18:32:38",page-load,"skills quiz preview"
+100689,238,506,"2023-10-31 18:32:39",click,next-page
+100690,238,0,"2023-10-31 18:32:44","Skills Quiz-25 Step-1 Correct",TODAY
+100691,238,0,"2023-10-31 18:32:47","Skills Quiz-25 Step-2 Incorrect",undefined
+100692,238,0,"2023-10-31 18:32:48","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+100693,238,0,"2023-10-31 18:32:48","Skills Quiz-25 Step-3 Correct","Tap Here"
+100694,238,0,"2023-10-31 18:32:50","Skills Quiz-25 Step-4 Correct",3
+100695,238,0,"2023-10-31 18:32:50","Skills Quiz-25 Step-2 Incorrect",3
+100696,238,0,"2023-10-31 18:32:50","Skills Quiz-25 Step-5 Correct",0
+100697,238,0,"2023-10-31 18:32:50","Skills Quiz-25 Step-2 Incorrect",0
+100698,238,0,"2023-10-31 18:32:51","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+100699,238,0,"2023-10-31 18:32:51","Skills Quiz-25 Step-6 Correct","                              Save            "
+100700,238,0,"2023-10-31 18:32:55","Skills Quiz-25 Step-7 Correct",Save
+100701,238,0,"2023-10-31 18:32:55","Skills Quiz-25 Step-2 Incorrect",Save
+100702,238,0,"2023-10-31 18:32:58","Skills Quiz-25 Step-8 Incorrect","Gratitude Journal"
+100703,238,0,"2023-10-31 18:32:58","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal"
+100704,238,0,"2023-10-31 18:32:59","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+100705,238,0,"2023-10-31 18:32:59","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+100706,238,0,"2023-10-31 18:32:59","Skills Quiz-25 Step-9 Correct","Tap Here"
+100707,238,0,"2023-10-31 18:33:00","Skills Quiz-25 Step-2 Incorrect",1
+100708,238,0,"2023-10-31 18:33:00","Skills Quiz-25 Step-10 Correct",1
+100709,238,0,"2023-10-31 18:33:00","Skills Quiz-25 Step-8 Incorrect",1
+100710,238,0,"2023-10-31 18:33:01","Skills Quiz-25 Step-11 Correct","                              Save            "
+100711,238,0,"2023-10-31 18:33:01","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+100712,238,0,"2023-10-31 18:33:01","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+100713,238,0,"2023-10-31 18:33:02","Skills Quiz-25 Step-8 Incorrect",Save
+100714,238,0,"2023-10-31 18:33:02","Skills Quiz-25 Step-2 Incorrect",Save
+100715,238,0,"2023-10-31 18:33:02","Skills Quiz-25 Step-12 Correct",Save
+0,0,0,"2023-10-31 18:33:03",module_end,none

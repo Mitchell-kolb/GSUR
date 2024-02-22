@@ -1,0 +1,96 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+100963,359,410,"2023-11-12 22:21:55",page-load,video
+100964,359,411,"2023-11-12 22:22:29",page-load,"web form: scheduling choices"
+100965,359,411,"2023-11-12 22:22:52",tracked,Weight
+100966,359,411,"2023-11-12 22:22:56",tracked,"Blood pressure"
+100967,359,411,"2023-11-12 22:23:09",tracked,"Cognitive Activity"
+100968,359,411,"2023-11-12 22:23:10",tracked,"Physical Exercise"
+100969,359,411,"2023-11-12 22:23:11",tracked,Fatigue
+100970,359,411,"2023-11-12 22:23:12",tracked,Fatigue
+100971,359,411,"2023-11-12 22:23:15",tracked,Medications
+100972,359,411,"2023-11-12 22:23:15",tracked,Medications
+100973,359,411,"2023-11-12 22:23:16",tracked,Medications
+100974,359,411,"2023-11-12 22:23:28",click,hint
+100975,359,411,"2023-11-12 22:23:28",click,hint
+100976,359,411,"2023-11-12 22:23:37",tracked,"Cognitive Activity"
+100977,359,411,"2023-11-12 22:23:38",tracked,"Physical Exercise"
+100978,359,411,"2023-11-12 22:23:40",click,next-page
+100979,359,411,"2023-11-12 22:23:40",click,next-page
+100980,359,412,"2023-11-12 22:23:41",page-load,video
+100981,359,413,"2023-11-12 22:25:39",page-load,"web form: question"
+100982,359,413,"2023-11-12 22:25:44",click,"correct-option: 4"
+100983,359,413,"2023-11-12 22:25:47",click,next-page
+100984,359,414,"2023-11-12 22:25:48",page-load,video
+100985,359,415,"2023-11-12 22:26:20",page-load,"web form: question"
+100986,359,415,"2023-11-12 22:26:24",click,"correct-option: False"
+100987,359,415,"2023-11-12 22:26:29",click,next-page
+100988,359,416,"2023-11-12 22:26:29",page-load,video
+100989,359,417,"2023-11-12 22:30:18",page-load,"web form: what would you like to do next"
+100990,359,417,"2023-11-12 22:30:24",click,previous-page
+100991,359,412,"2023-11-12 22:30:24",page-load,video
+100992,359,413,"2023-11-12 22:32:11",page-load,"web form: question"
+100993,359,413,"2023-11-12 22:33:03",click,"correct-option: 4"
+100994,359,413,"2023-11-12 22:33:05",click,next-page
+100995,359,414,"2023-11-12 22:33:06",page-load,video
+100996,359,415,"2023-11-12 22:33:44",page-load,"web form: question"
+100997,359,415,"2023-11-12 22:33:48",click,"correct-option: False"
+100998,359,415,"2023-11-12 22:33:50",click,next-page
+100999,359,416,"2023-11-12 22:33:51",page-load,video
+101000,359,417,"2023-11-12 22:37:34",page-load,"web form: what would you like to do next"
+101001,359,417,"2023-11-12 22:37:36",click,previous-page
+101002,359,412,"2023-11-12 22:37:37",page-load,video
+101003,359,413,"2023-11-12 22:39:29",page-load,"web form: question"
+101004,359,413,"2023-11-12 22:43:30",click,"correct-option: 4"
+101005,359,413,"2023-11-12 22:43:32",click,next-page
+101006,359,414,"2023-11-12 22:43:33",page-load,video
+101007,359,415,"2023-11-12 22:44:03",page-load,"web form: question"
+101008,359,415,"2023-11-12 22:44:17",click,"correct-option: False"
+101009,359,415,"2023-11-12 22:44:17",click,"correct-option: False"
+101010,359,415,"2023-11-12 22:44:17",click,"correct-option: False"
+101011,359,415,"2023-11-12 22:44:22",click,next-page
+101012,359,416,"2023-11-12 22:44:22",page-load,video
+101013,359,417,"2023-11-12 22:48:08",page-load,"web form: what would you like to do next"
+101014,359,417,"2023-11-12 22:48:16",click,next-page
+101015,359,418,"2023-11-12 22:48:17",page-load,"skills quiz preview"
+101016,359,418,"2023-11-12 22:48:27",click,next-page
+101017,359,0,"2023-11-12 22:48:41","Skills Quiz-21 Step-1 Incorrect",CALENDAR
+101018,359,0,"2023-11-12 22:48:44","Skills Quiz-21 Step-1 Incorrect",HEALTH
+101019,359,0,"2023-11-12 22:48:47","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+101020,359,0,"2023-11-12 22:48:50","Skills Quiz-21 Step-3 Correct","Daily Medications"
+101021,359,0,"2023-11-12 22:49:20","Skills Quiz 30 second Hint",30time
+101022,359,400,"2023-11-12 22:54:12",page-load,video
+101023,359,401,"2023-11-12 22:58:16",page-load,"web form: question"
+101024,359,401,"2023-11-12 22:58:19",click,"correct-option: False"
+101025,359,401,"2023-11-12 22:58:21",click,next-page
+101026,359,402,"2023-11-12 22:58:22",page-load,video
+101027,359,403,"2023-11-12 23:04:00",page-load,"web form: what would you like to do next"
+101028,359,403,"2023-11-12 23:04:03",click,next-page
+101029,359,404,"2023-11-12 23:04:04",page-load,"skills quiz preview"
+101030,359,404,"2023-11-12 23:04:09",click,next-page
+101031,359,0,"2023-11-12 23:04:15","Skills Quiz-19 Step-1 Incorrect",NOTES
+101032,359,0,"2023-11-12 23:04:19","Skills Quiz-19 Step-1 Incorrect",HEALTH
+101033,359,0,"2023-11-12 23:04:37","Skills Quiz-19 Step-2 Correct","Medical Information"
+101034,359,0,"2023-11-12 23:04:41","Skills Quiz-19 Step-3 Incorrect",undefined
+101035,359,0,"2023-11-12 23:04:47","Skills Quiz-19 Step-4 Correct",noteSpecialty
+101036,359,0,"2023-11-12 23:04:47","Skills Quiz-19 Step-3 Incorrect",noteSpecialty
+101037,359,0,"2023-11-12 23:05:03","Skills Quiz-19 Step-3 Incorrect",Name
+101038,359,0,"2023-11-12 23:05:05","Skills Quiz-19 Step-3 Incorrect",Next
+101039,359,0,"2023-11-12 23:05:06","Skills Quiz-19 Step-3 Incorrect",noteName
+101040,359,0,"2023-11-12 23:05:06","Skills Quiz-19 Step-6 Correct",noteName
+101041,359,0,"2023-11-12 23:05:13","Skills Quiz-19 Step-3 Incorrect",Next
+101042,359,0,"2023-11-12 23:05:14","Skills Quiz-19 Step-8 Correct",notePhone
+101043,359,0,"2023-11-12 23:05:14","Skills Quiz-19 Step-3 Incorrect",notePhone
+101044,359,0,"2023-11-12 23:05:34","Skills Quiz-19 Step-3 Incorrect",Next
+101045,359,0,"2023-11-12 23:05:35","Skills Quiz-19 Step-3 Incorrect",noteAddress
+101046,359,0,"2023-11-12 23:05:35","Skills Quiz-19 Step-10 Correct",noteAddress
+101047,359,0,"2023-11-12 23:05:49","Skills Quiz-19 Step-3 Incorrect","Close  SAVE"
+101048,359,0,"2023-11-12 23:05:51","Skills Quiz-19 Step-3 Incorrect",Details
+101049,359,0,"2023-11-12 23:05:53","Skills Quiz-19 Step-3 Incorrect",Next
+101050,359,0,"2023-11-12 23:05:54","Skills Quiz-19 Step-3 Incorrect",noteDetails
+101051,359,0,"2023-11-12 23:05:54","Skills Quiz-19 Step-12 Correct",noteDetails
+101052,359,0,"2023-11-12 23:06:30","Skills Quiz-19 Step-3 Incorrect",Next
+101053,359,0,"2023-11-12 23:06:35","Skills Quiz-19 Step-14 Correct"," SAVE"
+101054,359,0,"2023-11-12 23:06:35","Skills Quiz-19 Step-3 Incorrect"," SAVE"
+101055,359,0,"2023-11-12 23:06:36","Skills Quiz-19 Step-3 Incorrect",Close
+101056,359,0,"2023-11-12 23:06:36","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-11-12 23:06:37",module_end,none

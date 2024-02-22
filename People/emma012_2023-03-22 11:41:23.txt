@@ -1,0 +1,34 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+31232,302,27,"2023-03-22 11:28:53",page-load,"web form: question"
+31233,302,27,"2023-03-22 11:29:01",click,"correct-option: True"
+31234,302,27,"2023-03-22 11:29:05",click,next-page
+31235,302,28,"2023-03-22 11:29:06",page-load,"web form: question"
+31236,302,28,"2023-03-22 11:29:13",click,"correct-option: True"
+31237,302,28,"2023-03-22 11:29:17",click,next-page
+31238,302,29,"2023-03-22 11:29:18",page-load,video
+31239,302,30,"2023-03-22 11:31:36",page-load,"web form: question"
+31240,302,30,"2023-03-22 11:31:45",click,"incorrect-option: A list of the items you need to bring to the event"
+31241,302,30,"2023-03-22 11:31:52",click,"incorrect-option: Where the activity will take place (address or room number)"
+31242,302,30,"2023-03-22 11:31:57",click,"correct-option: All of the above"
+31243,302,30,"2023-03-22 11:32:02",click,next-page
+31244,302,31,"2023-03-22 11:32:02",page-load,video
+31245,302,32,"2023-03-22 11:36:05",page-load,"web form: what would you like to do next"
+31246,302,32,"2023-03-22 11:36:27",click,take-a-break
+31247,302,32,"2023-03-22 11:36:41",click,take-a-break
+31248,302,32,"2023-03-22 11:36:48",click,next-page
+31249,302,0,"2023-03-22 11:37:09","Skills Quiz-3 Step-1 Incorrect",CALENDAR
+31250,302,0,"2023-03-22 11:37:14","Skills Quiz-3 Step-1 Incorrect",note-list
+31251,302,0,"2023-03-22 11:37:17","Skills Quiz-3 Step-1 Correct",TODAY
+31252,302,0,"2023-03-22 11:37:29","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+31253,302,0,"2023-03-22 11:37:34","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+31254,302,0,"2023-03-22 11:37:37","Skills Quiz-3 Step-4 Correct",right-arrow
+31255,302,0,"2023-03-22 11:37:40","Skills Quiz-3 Step-5 Correct",14
+31256,302,0,"2023-03-22 11:37:51","Skills Quiz-3 Step-6 Correct",OK
+31257,302,0,"2023-03-22 11:37:54","Skills Quiz-3 Step-7 Correct","Tap Here"
+31258,302,0,"2023-03-22 11:38:24","Skills Quiz-3 Step-10 Correct","Tap Here"
+31259,302,0,"2023-03-22 11:39:09","Skills Quiz-3 Step-13 Correct",event-title
+31260,302,0,"2023-03-22 11:39:52","Skills Quiz 30 second Hint",30time
+31261,302,0,"2023-03-22 11:40:30","Skills Quiz-3 Step-15 Correct",event-description
+31262,302,0,"2023-03-22 11:41:00","Skills Quiz 30 second Hint",30time
+31263,302,0,"2023-03-22 11:41:23","Skills Quiz-3 Step-17 Correct",Save
+0,0,0,"2023-03-22 11:41:23",module_end,none

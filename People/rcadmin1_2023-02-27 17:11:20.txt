@@ -1,0 +1,12 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+25873,239,28,"2023-02-27 17:11:00",page-load,"web form: question"
+25874,239,28,"2023-02-27 17:11:03",click,"correct-option: True"
+25875,239,28,"2023-02-27 17:11:04",click,next-page
+25876,239,29,"2023-02-27 17:11:04",page-load,video
+25877,239,30,"2023-02-27 17:11:08",page-load,"web form: question"
+25878,239,30,"2023-02-27 17:11:09",click,"correct-option: All of the above"
+25879,239,30,"2023-02-27 17:11:10",click,next-page
+25880,239,31,"2023-02-27 17:11:10",page-load,video
+25881,239,32,"2023-02-27 17:11:14",page-load,"web form: what would you like to do next"
+25882,239,32,"2023-02-27 17:11:15",click,next-page
+0,0,0,"2023-02-27 17:11:20",module_end,none

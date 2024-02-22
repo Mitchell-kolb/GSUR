@@ -1,0 +1,80 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+14398,256,26,"2023-02-10 14:26:59",page-load,video
+14401,256,26,"2023-02-10 14:27:03",page-load,video
+14403,256,27,"2023-02-10 14:27:05",page-load,"web form: question"
+14404,256,27,"2023-02-10 14:27:06",click,"incorrect-option: False"
+14406,256,27,"2023-02-10 14:27:07",click,"correct-option: True"
+14407,256,27,"2023-02-10 14:27:07",click,next-page
+14408,256,28,"2023-02-10 14:27:08",page-load,"web form: question"
+14410,256,28,"2023-02-10 14:27:09",click,"correct-option: True"
+14412,256,28,"2023-02-10 14:27:10",click,next-page
+14413,256,29,"2023-02-10 14:27:11",page-load,video
+14415,256,29,"2023-02-10 14:27:14",page-load,video
+14416,256,309,"2023-02-10 14:27:15",page-load,video
+14418,256,30,"2023-02-10 14:27:18",page-load,"web form: question"
+14420,256,30,"2023-02-10 14:27:22",click,"incorrect-option: Where the activity will take place (address or room number)"
+14421,256,30,"2023-02-10 14:27:23",click,"incorrect-option: A list of the items you need to bring to the event"
+14423,256,30,"2023-02-10 14:27:24",click,"correct-option: All of the above"
+14424,256,30,"2023-02-10 14:27:24",click,next-page
+14426,256,31,"2023-02-10 14:27:25",page-load,video
+14432,256,329,"2023-02-10 14:27:30",page-load,"goal setting: how"
+14437,256,329,"2023-02-10 14:27:55",click,next-page
+14438,256,329,"2023-02-10 14:27:59",click,next-page
+14440,256,330,"2023-02-10 14:28:00",page-load,"goal setting: barriers and alternatives"
+14443,256,330,"2023-02-10 14:28:05",click,next-page
+14445,256,331,"2023-02-10 14:28:06",page-load,"goal setting: motivation"
+14447,256,331,"2023-02-10 14:28:08",click,next-page
+14448,256,332,"2023-02-10 14:28:09",page-load,"goal setting: confidence"
+14449,256,332,"2023-02-10 14:28:12",click,next-page
+14450,256,333,"2023-02-10 14:28:12",page-load,"goal setting: plan"
+14451,256,333,"2023-02-10 14:28:14",click,next-page
+14452,256,334,"2023-02-10 14:28:15",page-load,"end of lesson: 1"
+14458,256,104,"2023-02-10 14:28:27",page-load,video
+14461,256,10,"2023-02-10 14:28:31",page-load,video
+14462,256,105,"2023-02-10 14:28:32",page-load,"web form: question"
+14463,256,105,"2023-02-10 14:28:34",click,"correct-option: Birthdays"
+14465,256,105,"2023-02-10 14:28:35",click,"incorrect-option: Trips"
+14466,256,105,"2023-02-10 14:28:36",click,next-page
+14467,256,106,"2023-02-10 14:28:36",page-load,video
+14469,256,107,"2023-02-10 14:28:41",page-load,"web form: question"
+14471,256,107,"2023-02-10 14:28:44",click,"incorrect-option: Volunteer Shifts"
+14473,256,107,"2023-02-10 14:28:45",click,next-page
+14474,256,108,"2023-02-10 14:28:46",page-load,"web form: what would you like to do next"
+14475,256,108,"2023-02-10 14:28:47",click,next-page
+14476,256,109,"2023-02-10 14:28:48",page-load,video
+14479,256,110,"2023-02-10 14:28:53",page-load,"web form: question"
+14481,256,110,"2023-02-10 14:28:57",click,"incorrect-option: The event will repeat"
+14482,256,110,"2023-02-10 14:28:57",click,"incorrect-option: The event takes place on a race track"
+14485,256,110,"2023-02-10 14:28:59",click,next-page
+14486,256,111,"2023-02-10 14:28:59",page-load,"web form: what would you like to do next"
+14488,256,111,"2023-02-10 14:29:00",click,next-page
+14489,256,112,"2023-02-10 14:29:01",page-load,video
+14493,256,11,"2023-02-10 14:29:04",page-load,video
+14495,256,113,"2023-02-10 14:29:05",page-load,"web form: question"
+14497,256,113,"2023-02-10 14:29:07",click,"incorrect-option: A. View"
+14498,256,113,"2023-02-10 14:29:08",click,"incorrect-option: B. Delete"
+14499,256,113,"2023-02-10 14:29:08",click,"incorrect-option: C. The event listed on the Time Schedule"
+14501,256,113,"2023-02-10 14:29:08",click,"correct-option: D. Both A and C"
+14502,256,113,"2023-02-10 14:29:09",click,next-page
+14503,256,114,"2023-02-10 14:29:09",page-load,video
+14505,256,115,"2023-02-10 14:29:14",page-load,"web form: question"
+14506,256,115,"2023-02-10 14:29:17",click,"incorrect-option: 10 minutes before"
+14507,256,115,"2023-02-10 14:29:17",click,"incorrect-option: 15 minutes before"
+14508,256,115,"2023-02-10 14:29:18",click,"correct-option: 30 minutes before"
+14510,256,115,"2023-02-10 14:29:18",click,next-page
+14511,256,116,"2023-02-10 14:29:19",page-load,"web form: what would you like to do next"
+14512,256,116,"2023-02-10 14:29:21",click,previous-page
+14513,256,114,"2023-02-10 14:29:21",page-load,video
+14516,256,115,"2023-02-10 14:29:30",page-load,"web form: question"
+14519,256,115,"2023-02-10 14:29:36",click,"correct-option: 30 minutes before"
+14520,256,116,"2023-02-10 14:29:37",page-load,"web form: what would you like to do next"
+14521,256,116,"2023-02-10 14:29:39",click,next-page
+14523,256,0,"2023-02-10 14:29:42","Skills Quiz-5 Step-1 Incorrect","Add Entry/Event"
+14526,256,0,"2023-02-10 14:29:51","Skills Quiz-5 Step-1 Correct",CALENDAR
+14527,256,0,"2023-02-10 14:29:54","Skills Quiz-5 Step-2 Correct",right-arrow
+14529,256,0,"2023-02-10 14:29:55","Skills Quiz-5 Step-3 Correct",3
+14532,256,0,"2023-02-10 14:30:03","Skills Quiz-5 Step-4 Correct",Edit
+14535,256,0,"2023-02-10 14:30:05","Skills Quiz-5 Step-5 Correct",YES
+14538,256,0,"2023-02-10 14:30:08","Skills Quiz-5 Step-6 Correct","60 min"
+14541,256,0,"2023-02-10 14:30:09","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-02-10 14:30:10",module_end,none

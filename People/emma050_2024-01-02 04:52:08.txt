@@ -1,0 +1,21 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+111966,409,528,"2024-01-02 04:50:01",page-load,"skills quiz preview"
+111967,409,528,"2024-01-02 04:50:15",click,next-page
+111968,409,529,"2024-01-02 04:50:17",click,"skills quiz hint"
+111969,409,529,"2024-01-02 04:50:19",click,"skills quiz hint"
+111970,409,0,"2024-01-02 04:50:32","Skills Quiz-28 Step-1 Incorrect",Edit
+111971,409,0,"2024-01-02 04:50:32","Skills Quiz-28 Step-2 Correct",Edit
+111972,409,0,"2024-01-02 04:50:46","Skills Quiz-28 Step-3 Correct",YES
+111973,409,0,"2024-01-02 04:51:04","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+111974,409,0,"2024-01-02 04:51:05","Skills Quiz-28 Step-5 Correct",Loneliness
+111975,409,0,"2024-01-02 04:51:15","Skills Quiz-28 Step-6 Correct","                  Select               "
+111976,409,0,"2024-01-02 04:51:32","Skills Quiz-28 Step-7 Correct",Save
+111977,409,529,"2024-01-02 04:51:42",click,"skills quiz hint"
+111978,409,0,"2024-01-02 04:51:44","Skills Quiz-28 Step-8 Incorrect",undefined
+111979,409,0,"2024-01-02 04:51:47","Skills Quiz-28 Step-8 Incorrect",2
+111980,409,0,"2024-01-02 04:51:47","Skills Quiz-28 Step-9 Correct",2
+111981,409,0,"2024-01-02 04:51:53","Skills Quiz-28 Step-8 Incorrect","Save and View Graph"
+111982,409,0,"2024-01-02 04:51:53","Skills Quiz-28 Step-10 Correct","Save and View Graph"
+111983,409,0,"2024-01-02 04:52:03","Skills Quiz-28 Step-11 Correct","View Progress"
+111984,409,0,"2024-01-02 04:52:08","Skills Quiz-28 Step-12 Correct",Close
+0,0,0,"2024-01-02 04:52:08",module_end,none

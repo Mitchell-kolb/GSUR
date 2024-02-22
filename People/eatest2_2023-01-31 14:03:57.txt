@@ -1,0 +1,34 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+10658,253,121,"2023-01-31 14:02:09",page-load,video
+10659,253,122,"2023-01-31 14:02:26",page-load,"web form: question"
+10660,253,122,"2023-01-31 14:02:27",click,"incorrect-option: In your notes"
+10661,253,122,"2023-01-31 14:02:27",click,"correct-option: Both the To-do List and Time Schedule"
+10662,253,122,"2023-01-31 14:02:28",click,"incorrect-option: In your calendar"
+10663,253,122,"2023-01-31 14:02:29",click,"correct-option: Both the To-do List and Time Schedule"
+10664,253,122,"2023-01-31 14:02:30",click,next-page
+10665,253,123,"2023-01-31 14:02:30",page-load,video
+10666,253,124,"2023-01-31 14:02:40",page-load,"web form: what would you like to do next"
+10667,253,124,"2023-01-31 14:02:41",click,next-page
+10668,253,0,"2023-01-31 14:02:45","Skills Quiz-7 Step-1 Incorrect","2:00 PM - 4:00 PM"
+10669,253,0,"2023-01-31 14:02:48","Skills Quiz-7 Step-1 Correct",Edit
+10670,253,0,"2023-01-31 14:02:58","Skills Quiz-7 Step-2 Incorrect",undefined
+10671,253,0,"2023-01-31 14:02:59","Skills Quiz-7 Step-2 Correct",event-description
+10675,253,0,"2023-01-31 14:03:29","Skills Quiz 30 second Hint",30time
+10679,253,0,"2023-01-31 14:03:35","Skills Quiz-7 Step-4 Incorrect","Repeat Forever (tap to change)"
+10680,253,0,"2023-01-31 14:03:36","Skills Quiz-7 Step-4 Incorrect",17
+10681,253,0,"2023-01-31 14:03:38","Skills Quiz-7 Step-4 Incorrect",OK
+10682,253,0,"2023-01-31 14:03:39","Skills Quiz-7 Step-4 Incorrect",Save
+10684,253,0,"2023-01-31 14:03:41","Skills Quiz-7 Step-4 Correct",Weekly
+10686,253,0,"2023-01-31 14:03:46","Skills Quiz-7 Step-5 Incorrect",YES
+10687,253,0,"2023-01-31 14:03:47","Skills Quiz-7 Step-5 Correct",Tue
+10688,253,0,"2023-01-31 14:03:47","Skills Quiz-7 Step-6 Correct",Thu
+10689,253,0,"2023-01-31 14:03:49","Skills Quiz-7 Step-7 Incorrect",Tue
+10690,253,0,"2023-01-31 14:03:49","Skills Quiz-7 Step-7 Correct","June 17, 2021"
+10691,253,0,"2023-01-31 14:03:50","Skills Quiz-7 Step-8 Correct",end-right-arrow
+10692,253,0,"2023-01-31 14:03:53","Skills Quiz-7 Step-9 Correct",31
+10693,253,0,"2023-01-31 14:03:53","Skills Quiz-7 Step-10 Correct",OK
+10694,253,0,"2023-01-31 14:03:54","Skills Quiz-7 Step-11 Incorrect",Tue
+10695,253,0,"2023-01-31 14:03:55","Skills Quiz-7 Step-11 Correct",YES
+10696,253,0,"2023-01-31 14:03:56","Skills Quiz-7 Step-12 Correct",Save
+10697,253,0,"2023-01-31 14:03:57","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-01-31 14:03:57",module_end,none

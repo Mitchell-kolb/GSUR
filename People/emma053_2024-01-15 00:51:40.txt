@@ -1,0 +1,42 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+114450,414,411,"2024-01-13 17:54:22",page-load,"web form: scheduling choices"
+114451,414,411,"2024-01-13 17:54:24",tracked,Weight
+114452,414,411,"2024-01-13 17:54:30",tracked,"Physical Exercise"
+114453,414,411,"2024-01-13 17:54:34",tracked,Mood
+114454,414,411,"2024-01-13 17:54:36",tracked,"Cognitive Activity"
+114455,414,411,"2024-01-13 17:54:39",click,next-page
+114456,414,412,"2024-01-13 17:54:41",page-load,video
+114457,414,413,"2024-01-13 17:56:29",page-load,"web form: question"
+114458,414,413,"2024-01-13 17:56:36",click,"correct-option: 4"
+114459,414,413,"2024-01-13 17:56:39",click,"correct-option: 4"
+114460,414,413,"2024-01-13 17:56:41",click,next-page
+114461,414,414,"2024-01-13 17:56:41",page-load,video
+114462,414,415,"2024-01-13 17:57:14",page-load,"web form: question"
+114463,414,415,"2024-01-13 17:57:22",click,"correct-option: False"
+114464,414,415,"2024-01-13 17:57:27",click,next-page
+114465,414,416,"2024-01-13 17:57:27",page-load,video
+114809,414,416,"2024-01-15 00:43:08",page-load,video
+114810,414,417,"2024-01-15 00:47:10",page-load,"web form: what would you like to do next"
+114811,414,417,"2024-01-15 00:47:14",click,next-page
+114812,414,418,"2024-01-15 00:47:14",page-load,"skills quiz preview"
+114813,414,418,"2024-01-15 00:47:41",click,next-page
+114814,414,0,"2024-01-15 00:47:58","Skills Quiz-21 Step-1 Incorrect","Add Entry/Event"
+114815,414,0,"2024-01-15 00:48:05","Skills Quiz-21 Step-1 Incorrect",HEALTH
+114816,414,0,"2024-01-15 00:48:07","Skills Quiz-21 Step-2 Incorrect","Medical Information"
+114817,414,0,"2024-01-15 00:48:14","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+114818,414,0,"2024-01-15 00:48:19","Skills Quiz-21 Step-3 Correct","Daily Medications"
+114819,414,0,"2024-01-15 00:48:42","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+114820,414,0,"2024-01-15 00:49:00","Skills Quiz-21 Step-4 Correct",descriptionMorning
+114821,414,0,"2024-01-15 00:49:30","Skills Quiz 30 second Hint",30time
+114822,414,0,"2024-01-15 00:51:06","Skills Quiz-21 Step-6 Incorrect",CloseSave
+114823,414,0,"2024-01-15 00:51:13","Skills Quiz-21 Step-6 Correct","8:00 AM"
+114824,414,0,"2024-01-15 00:51:15","Skills Quiz-21 Step-7 Correct",7
+114825,414,0,"2024-01-15 00:51:16","Skills Quiz-21 Step-8 Correct",00
+114826,414,0,"2024-01-15 00:51:17","Skills Quiz-21 Step-9 Correct",AM
+114827,414,0,"2024-01-15 00:51:18","Skills Quiz-21 Step-10 Correct",Save
+114828,414,0,"2024-01-15 00:51:24","Skills Quiz-21 Step-11 Incorrect",CloseSave
+114829,414,0,"2024-01-15 00:51:30","Skills Quiz-21 Step-11 Correct",checkMorning
+114830,414,0,"2024-01-15 00:51:34","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+114831,414,0,"2024-01-15 00:51:35","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+114832,414,0,"2024-01-15 00:51:40","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2024-01-15 00:51:40",module_end,none

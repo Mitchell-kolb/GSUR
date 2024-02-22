@@ -1,0 +1,49 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+110618,407,411,"2023-12-29 20:58:20",page-load,"web form: scheduling choices"
+110619,407,411,"2023-12-29 20:58:25",tracked,Weight
+110620,407,411,"2023-12-29 20:58:27",tracked,"Blood pressure"
+110621,407,411,"2023-12-29 20:58:33",tracked,"Physical Exercise"
+110622,407,411,"2023-12-29 20:58:36",tracked,Medications
+110623,407,411,"2023-12-29 20:58:45",tracked,Fatigue
+110624,407,411,"2023-12-29 20:58:50",tracked,Fatigue
+110625,407,411,"2023-12-29 20:58:54",click,next-page
+110626,407,412,"2023-12-29 20:58:54",page-load,video
+110627,407,412,"2023-12-29 21:22:26",page-load,video
+110628,407,413,"2023-12-29 21:24:13",page-load,"web form: question"
+110629,407,413,"2023-12-29 21:24:24",click,"correct-option: 4"
+110630,407,413,"2023-12-29 21:24:44",click,next-page
+110631,407,414,"2023-12-29 21:24:45",page-load,video
+110632,407,415,"2023-12-29 21:25:52",page-load,"web form: question"
+110633,407,415,"2023-12-29 21:26:02",click,"incorrect-option: True"
+110634,407,415,"2023-12-29 21:26:04",click,"correct-option: False"
+110635,407,415,"2023-12-29 21:26:29",click,next-page
+110636,407,416,"2023-12-29 21:26:29",page-load,video
+110637,407,417,"2023-12-29 21:30:13",page-load,"web form: what would you like to do next"
+110638,407,417,"2023-12-29 21:30:20",click,next-page
+110639,407,418,"2023-12-29 21:30:20",page-load,"skills quiz preview"
+110640,407,0,"2023-12-29 21:31:20","Skills Quiz-21 Step-1 Incorrect",HEALTH
+110641,407,419,"2023-12-29 21:31:30",click,"skills quiz hint"
+110642,407,0,"2023-12-29 21:31:35","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+110643,407,0,"2023-12-29 21:31:40","Skills Quiz-21 Step-3 Correct","Daily Medications"
+110644,407,0,"2023-12-29 21:32:10","Skills Quiz 30 second Hint",30time
+110645,407,0,"2023-12-29 21:32:29","Skills Quiz-21 Step-4 Correct",descriptionMorning
+110646,407,0,"2023-12-29 21:32:59","Skills Quiz 30 second Hint",30time
+110647,407,0,"2023-12-29 21:38:33","Skills Quiz-21 Step-6 Incorrect",CloseSave
+110648,407,0,"2023-12-29 21:38:42","Skills Quiz-21 Step-6 Correct","8:00 AM"
+110649,407,0,"2023-12-29 21:38:45","Skills Quiz-21 Step-7 Correct",7
+110650,407,0,"2023-12-29 21:38:47","Skills Quiz-21 Step-8 Correct",00
+110651,407,0,"2023-12-29 21:38:49","Skills Quiz-21 Step-9 Incorrect",Save
+110652,407,0,"2023-12-29 21:38:54","Skills Quiz-21 Step-9 Correct",AM
+110653,407,0,"2023-12-29 21:38:56","Skills Quiz-21 Step-10 Correct",Save
+110654,407,0,"2023-12-29 21:39:03","Skills Quiz-21 Step-11 Incorrect",CloseSave
+110655,407,0,"2023-12-29 21:39:17","Skills Quiz-21 Step-11 Incorrect",descriptionMorning
+110656,407,0,"2023-12-29 21:39:21","Skills Quiz-21 Step-11 Correct",checkMorning
+110657,407,0,"2023-12-29 21:39:21","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+110658,407,0,"2023-12-29 21:39:22","Skills Quiz-21 Step-12 Incorrect",descriptionMorning
+110659,407,0,"2023-12-29 21:39:23","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+110660,407,0,"2023-12-29 21:39:31","Skills Quiz-21 Step-12 Incorrect",descriptionMorning
+110661,407,0,"2023-12-29 21:39:33","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+110662,407,0,"2023-12-29 21:39:37","Skills Quiz-21 Step-12 Incorrect",descriptionMorning
+110663,407,0,"2023-12-29 21:39:42","Skills Quiz-21 Step-12 Incorrect",descriptionMorning
+110664,407,0,"2023-12-29 21:39:44","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+0,0,0,"2023-12-29 21:39:51",module_end,none

@@ -1,0 +1,45 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+53889,329,26,"2023-05-16 23:56:34",page-load,video
+53900,329,27,"2023-05-16 23:58:50",page-load,"web form: question"
+53901,329,27,"2023-05-16 23:58:57",click,"correct-option: True"
+53902,329,27,"2023-05-16 23:58:58",click,next-page
+53903,329,28,"2023-05-16 23:58:59",page-load,"web form: question"
+53904,329,28,"2023-05-16 23:59:03",click,"correct-option: True"
+53905,329,28,"2023-05-16 23:59:08",click,next-page
+53906,329,29,"2023-05-16 23:59:09",page-load,video
+53907,329,30,"2023-05-17 00:01:22",page-load,"web form: question"
+53908,329,30,"2023-05-17 00:01:31",click,"correct-option: All of the above"
+53909,329,30,"2023-05-17 00:01:34",click,next-page
+53910,329,31,"2023-05-17 00:01:35",page-load,video
+53916,329,32,"2023-05-17 00:05:37",page-load,"web form: what would you like to do next"
+53917,329,26,"2023-05-17 00:06:25",page-load,video
+53918,329,27,"2023-05-17 00:08:36",page-load,"web form: question"
+53919,329,27,"2023-05-17 00:08:41",click,"correct-option: True"
+53920,329,27,"2023-05-17 00:08:42",click,next-page
+53921,329,28,"2023-05-17 00:08:43",page-load,"web form: question"
+53922,329,28,"2023-05-17 00:08:46",click,"correct-option: True"
+53923,329,28,"2023-05-17 00:08:48",click,next-page
+53924,329,29,"2023-05-17 00:08:49",page-load,video
+53930,329,30,"2023-05-17 00:11:02",page-load,"web form: question"
+53931,329,30,"2023-05-17 00:11:07",click,"correct-option: All of the above"
+53933,329,31,"2023-05-17 00:11:09",page-load,video
+53941,329,32,"2023-05-17 00:15:10",page-load,"web form: what would you like to do next"
+53942,329,0,"2023-05-17 00:16:12","Skills Quiz-3 Step-1 Correct",TODAY
+53944,329,33,"2023-05-17 00:16:31",click,"skills quiz hint"
+53945,329,0,"2023-05-17 00:16:42","Skills Quiz 30 second Hint",30time
+53947,329,0,"2023-05-17 00:16:44","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+53948,329,0,"2023-05-17 00:16:46","Skills Quiz-3 Step-3 Incorrect",Date
+53950,329,0,"2023-05-17 00:16:50","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+53951,329,0,"2023-05-17 00:16:57","Skills Quiz-3 Step-4 Incorrect","JUNE 2021"
+53953,329,0,"2023-05-17 00:17:03","Skills Quiz-3 Step-4 Correct",right-arrow
+53956,329,0,"2023-05-17 00:17:07","Skills Quiz-3 Step-5 Correct",14
+53958,329,0,"2023-05-17 00:17:09","Skills Quiz-3 Step-6 Correct",OK
+53959,329,0,"2023-05-17 00:17:18","Skills Quiz-3 Step-7 Correct","Tap Here"
+53965,329,0,"2023-05-17 00:17:48","Skills Quiz 30 second Hint",30time
+53966,329,0,"2023-05-17 00:18:19","Skills Quiz-3 Step-10 Correct","Tap Here"
+53969,329,0,"2023-05-17 00:18:29","Skills Quiz-3 Step-13 Correct",event-title
+53972,329,0,"2023-05-17 00:18:59","Skills Quiz 30 second Hint",30time
+53973,329,0,"2023-05-17 00:19:18","Skills Quiz-3 Step-15 Correct",event-description
+53974,329,0,"2023-05-17 00:19:48","Skills Quiz 30 second Hint",30time
+53975,329,0,"2023-05-17 00:20:05","Skills Quiz-3 Step-17 Correct",Save
+0,0,0,"2023-05-17 00:20:05",module_end,none

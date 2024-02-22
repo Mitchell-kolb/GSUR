@@ -1,0 +1,29 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+35514,221,502,"2023-03-30 13:13:17",page-load,video
+35520,221,503,"2023-03-30 13:18:02",page-load,"web form: scheduling choices"
+35521,221,503,"2023-03-30 13:18:07",tracked,"Reading a book"
+35522,221,503,"2023-03-30 13:18:08",tracked,"Socialize with family and friends"
+35523,221,503,"2023-03-30 13:18:09",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+35524,221,503,"2023-03-30 13:18:09",tracked,"Doing a crossword puzzle"
+35525,221,503,"2023-03-30 13:18:11",click,next-page
+35526,221,504,"2023-03-30 13:18:11",page-load,video
+35527,221,505,"2023-03-30 13:21:05",page-load,"web form: what would you like to do next"
+35528,221,505,"2023-03-30 13:21:09",click,next-page
+35529,221,506,"2023-03-30 13:21:09",page-load,"skills quiz preview"
+35530,221,506,"2023-03-30 13:21:13",click,next-page
+35531,221,0,"2023-03-30 13:21:24","Skills Quiz-25 Step-1 Correct",TODAY
+35532,221,0,"2023-03-30 13:21:36","Skills Quiz-25 Step-2 Correct","Walk to Library12:30 PM - 1:15 PM"
+35533,221,0,"2023-03-30 13:21:37","Skills Quiz-25 Step-3 Correct","Tap Here"
+35534,221,0,"2023-03-30 13:21:38","Skills Quiz-25 Step-4 Correct",3
+35535,221,0,"2023-03-30 13:21:39","Skills Quiz-25 Step-5 Correct",0
+35536,221,0,"2023-03-30 13:21:40","Skills Quiz-25 Step-6 Correct","                              Save            "
+35537,221,0,"2023-03-30 13:21:42","Skills Quiz-25 Step-7 Correct",Save
+35538,221,0,"2023-03-30 13:21:51","Skills Quiz-25 Step-8 Incorrect","Gratitude Journal"
+35539,221,0,"2023-03-30 13:21:51","Skills Quiz-25 Step-9 Correct","Tap Here"
+35540,221,0,"2023-03-30 13:21:51","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+35541,221,0,"2023-03-30 13:21:52","Skills Quiz-25 Step-8 Incorrect",1
+35542,221,0,"2023-03-30 13:21:52","Skills Quiz-25 Step-10 Correct",1
+35543,221,0,"2023-03-30 13:21:54","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+35544,221,0,"2023-03-30 13:21:54","Skills Quiz-25 Step-11 Correct","                              Save            "
+35545,221,0,"2023-03-30 13:21:55","Skills Quiz-25 Step-8 Incorrect",Save
+0,0,0,"2023-03-30 13:21:55",module_end,none

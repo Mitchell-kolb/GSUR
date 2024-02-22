@@ -1,0 +1,33 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+62583,327,225,"2023-06-05 22:52:22",page-load,video
+62598,327,226,"2023-06-05 22:55:22",page-load,"web form: question"
+62599,327,226,"2023-06-05 22:55:29",click,"correct-option: Magnifying Glass"
+62600,327,226,"2023-06-05 22:55:30",click,next-page
+62601,327,227,"2023-06-05 22:55:32",page-load,video
+62603,327,228,"2023-06-05 22:57:04",page-load,"web form: what would you like to do next"
+62604,327,228,"2023-06-05 22:57:08",click,next-page
+62605,327,229,"2023-06-05 22:57:09",page-load,"skills quiz preview"
+62606,327,229,"2023-06-05 22:57:21",click,next-page
+62607,327,0,"2023-06-05 22:57:26","Skills Quiz-15 Step-1 Correct",Relevant
+62608,327,0,"2023-06-05 22:57:29","Skills Quiz-15 Step-2 Correct","A - Z"
+62609,327,0,"2023-06-05 22:57:59","Skills Quiz 30 second Hint",30time
+62610,327,0,"2023-06-05 22:58:03","Skills Quiz-15 Step-3 Correct","Lawn IdeasEdit"
+62612,327,0,"2023-06-05 22:58:33","Skills Quiz 30 second Hint",30time
+62620,327,216,"2023-06-05 22:59:29",page-load,"web form: question"
+62622,327,229,"2023-06-05 22:59:30",page-load,"skills quiz preview"
+62623,327,225,"2023-06-05 22:59:32",page-load,video
+62627,327,225,"2023-06-05 22:59:52",page-load,video
+62628,327,226,"2023-06-05 22:59:55",page-load,"web form: question"
+62629,327,226,"2023-06-05 23:17:32",page-load,"web form: question"
+62630,327,216,"2023-06-05 23:17:38",page-load,"web form: question"
+62631,327,0,"2023-06-05 23:17:45","Skills Quiz-15 Step-1 Correct",Relevant
+62632,327,0,"2023-06-05 23:17:47","Skills Quiz-15 Step-2 Correct","Alphabetical Order"
+62633,327,216,"2023-06-05 23:17:53",page-load,"web form: question"
+62634,327,226,"2023-06-05 23:17:55",page-load,"web form: question"
+62635,327,229,"2023-06-05 23:17:55",page-load,"skills quiz preview"
+62636,327,229,"2023-06-05 23:18:08",click,next-page
+62637,327,0,"2023-06-05 23:18:10","Skills Quiz-15 Step-1 Correct",Relevant
+62638,327,0,"2023-06-05 23:18:12","Skills Quiz-15 Step-2 Correct","A - Z"
+62639,327,0,"2023-06-05 23:18:20","Skills Quiz-15 Step-3 Correct","Lawn IdeasEdit"
+62640,327,0,"2023-06-05 23:18:22","Skills Quiz-15 Step-4 Correct",note-search
+0,0,0,"2023-06-05 23:18:33",module_end,none

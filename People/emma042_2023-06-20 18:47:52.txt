@@ -1,0 +1,71 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+69268,332,435,"2023-06-20 18:13:08",page-load,"goal setting: preview"
+69269,332,436,"2023-06-20 18:15:02",page-load,"goal setting: example plan"
+69270,332,437,"2023-06-20 18:15:41",page-load,"goal setting: pick one strategy"
+69271,332,437,"2023-06-20 18:16:04",click,next-page
+69272,332,438,"2023-06-20 18:16:06",page-load,"goal setting: top strategy display"
+69273,332,438,"2023-06-20 18:16:22",click,next-page
+69274,332,439,"2023-06-20 18:16:22",page-load,"goal setting: when"
+69275,332,439,"2023-06-20 18:16:46",click,next-page
+69276,332,440,"2023-06-20 18:16:48",page-load,"goal setting: where"
+69277,332,440,"2023-06-20 18:17:05",click,next-page
+69278,332,441,"2023-06-20 18:17:05",page-load,"goal setting: with whom"
+69279,332,441,"2023-06-20 18:17:11",click,next-page
+69280,332,442,"2023-06-20 18:17:11",page-load,"goal setting: how"
+69281,332,442,"2023-06-20 18:18:49",click,next-page
+69282,332,443,"2023-06-20 18:18:50",page-load,"goal setting: barriers and alternatives"
+69283,332,443,"2023-06-20 18:19:59",click,next-page
+69284,332,444,"2023-06-20 18:19:59",page-load,"goal setting: motivation"
+69285,332,444,"2023-06-20 18:20:04",click,next-page
+69286,332,445,"2023-06-20 18:20:05",page-load,"goal setting: confidence"
+69287,332,445,"2023-06-20 18:20:08",click,next-page
+69288,332,446,"2023-06-20 18:20:08",page-load,"goal setting: plan"
+69289,332,446,"2023-06-20 18:20:12",click,next-page
+69290,332,447,"2023-06-20 18:20:12",page-load,"end of lesson: 5"
+69291,332,500,"2023-06-20 18:21:21",page-load,video
+69292,332,501,"2023-06-20 18:24:34",page-load,"web form: scheduling choices"
+69293,332,501,"2023-06-20 18:25:02",tracked,"improve memory"
+69294,332,501,"2023-06-20 18:25:05",tracked,"improve my quality of life"
+69295,332,501,"2023-06-20 18:25:29",tracked,"It has always been important to me to be healthy"
+69296,332,501,"2023-06-20 18:25:29",tracked,"It has always been important to me to be healthy"
+69297,332,501,"2023-06-20 18:25:31",tracked,"It has always been important to me to be healthy"
+69298,332,501,"2023-06-20 18:25:42",tracked,"stay mobile and active"
+69299,332,501,"2023-06-20 18:25:54",click,next-page
+69300,332,502,"2023-06-20 18:25:54",page-load,video
+69308,332,502,"2023-06-20 18:38:26",page-load,video
+69309,332,503,"2023-06-20 18:38:46",page-load,"web form: scheduling choices"
+69310,332,503,"2023-06-20 18:39:34",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+69311,332,503,"2023-06-20 18:39:43",tracked,"Cooking a new recipe"
+69312,332,503,"2023-06-20 18:39:50",click,next-page
+69313,332,504,"2023-06-20 18:39:50",page-load,video
+69314,332,505,"2023-06-20 18:45:35",page-load,"web form: what would you like to do next"
+69315,332,505,"2023-06-20 18:45:40",click,next-page
+69316,332,506,"2023-06-20 18:45:40",page-load,"skills quiz preview"
+69317,332,0,"2023-06-20 18:47:06","Skills Quiz-25 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+69318,332,0,"2023-06-20 18:47:08","Skills Quiz-25 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+69319,332,0,"2023-06-20 18:47:09","Skills Quiz-25 Step-1 Correct",TODAY
+69320,332,0,"2023-06-20 18:47:19","Skills Quiz-25 Step-2 Incorrect","Walk to Library12:30 PM - 1:15 PM"
+69321,332,0,"2023-06-20 18:47:23","Skills Quiz-25 Step-3 Correct","Tap Here"
+69322,332,0,"2023-06-20 18:47:23","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+69323,332,0,"2023-06-20 18:47:28","Skills Quiz-25 Step-2 Incorrect",3
+69324,332,0,"2023-06-20 18:47:28","Skills Quiz-25 Step-4 Correct",3
+69325,332,0,"2023-06-20 18:47:29","Skills Quiz-25 Step-5 Correct",0
+69326,332,0,"2023-06-20 18:47:29","Skills Quiz-25 Step-2 Incorrect",0
+69327,332,0,"2023-06-20 18:47:31","Skills Quiz-25 Step-6 Correct","                              Save            "
+69328,332,0,"2023-06-20 18:47:31","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+69329,332,0,"2023-06-20 18:47:36","Skills Quiz-25 Step-2 Incorrect",Save
+69330,332,0,"2023-06-20 18:47:36","Skills Quiz-25 Step-7 Correct",Save
+69331,332,0,"2023-06-20 18:47:40","Skills Quiz-25 Step-8 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+69332,332,0,"2023-06-20 18:47:40","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+69333,332,0,"2023-06-20 18:47:45","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+69334,332,0,"2023-06-20 18:47:45","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+69335,332,0,"2023-06-20 18:47:45","Skills Quiz-25 Step-9 Correct","Tap Here"
+69336,332,0,"2023-06-20 18:47:46","Skills Quiz-25 Step-8 Incorrect",1
+69337,332,0,"2023-06-20 18:47:46","Skills Quiz-25 Step-10 Correct",1
+69338,332,0,"2023-06-20 18:47:46","Skills Quiz-25 Step-2 Incorrect",1
+69339,332,0,"2023-06-20 18:47:48","Skills Quiz-25 Step-11 Correct","                              Save            "
+69340,332,0,"2023-06-20 18:47:48","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+69341,332,0,"2023-06-20 18:47:49","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+69342,332,0,"2023-06-20 18:47:51","Skills Quiz-25 Step-8 Incorrect",Save
+69343,332,0,"2023-06-20 18:47:51","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2023-06-20 18:47:52",module_end,none

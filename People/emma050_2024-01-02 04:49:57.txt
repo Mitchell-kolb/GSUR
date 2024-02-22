@@ -1,0 +1,145 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+111823,409,512,"2024-01-02 04:20:32",page-load,video
+111824,409,513,"2024-01-02 04:21:45",page-load,"web form: question"
+111825,409,513,"2024-01-02 04:21:50",click,"correct-option: at the same time every time and limiting distractions."
+111826,409,513,"2024-01-02 04:21:51",click,next-page
+111827,409,514,"2024-01-02 04:21:52",page-load,video
+111828,409,515,"2024-01-02 04:23:21",page-load,"web form: question"
+111829,409,515,"2024-01-02 04:23:30",click,"correct-option: On the help page"
+111830,409,515,"2024-01-02 04:23:32",click,next-page
+111831,409,516,"2024-01-02 04:23:33",page-load,video
+111832,409,517,"2024-01-02 04:25:22",page-load,"web form: question"
+111833,409,517,"2024-01-02 04:25:24",click,"correct-option: 45 seconds"
+111834,409,517,"2024-01-02 04:25:26",click,next-page
+111835,409,518,"2024-01-02 04:25:26",page-load,video
+111836,409,519,"2024-01-02 04:28:32",page-load,"web form: question"
+111837,409,519,"2024-01-02 04:28:37",click,"correct-option: False"
+111838,409,519,"2024-01-02 04:28:38",click,next-page
+111839,409,520,"2024-01-02 04:28:39",page-load,"web form: what would you like to do next"
+111840,409,520,"2024-01-02 04:28:41",click,next-page
+111841,409,521,"2024-01-02 04:28:41",page-load,video
+111842,409,522,"2024-01-02 04:30:57",page-load,"web form: question"
+111843,409,522,"2024-01-02 04:31:00",click,"correct-option: 1"
+111844,409,522,"2024-01-02 04:31:01",click,next-page
+111845,409,523,"2024-01-02 04:31:02",page-load,video
+111846,409,524,"2024-01-02 04:32:51",page-load,"web form: what would you like to do next"
+111847,409,524,"2024-01-02 04:33:13",click,next-page
+111848,409,525,"2024-01-02 04:33:15",page-load,"skills quiz preview"
+111849,409,525,"2024-01-02 04:33:38",click,next-page
+111850,409,0,"2024-01-02 04:34:00","Skills Quiz-27 Step-2 Correct",Edit
+111851,409,0,"2024-01-02 04:34:00","Skills Quiz-27 Step-1 Incorrect",Edit
+111852,409,0,"2024-01-02 04:34:22","Skills Quiz-27 Step-3 Incorrect",Save
+111853,409,0,"2024-01-02 04:34:25","Skills Quiz-27 Step-3 Correct",YES
+111854,409,0,"2024-01-02 04:34:27","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+111855,409,0,"2024-01-02 04:34:29","Skills Quiz-27 Step-5 Incorrect",Happiness
+111856,409,0,"2024-01-02 04:34:32","Skills Quiz-27 Step-5 Correct",Optimism
+111857,409,0,"2024-01-02 04:34:40","Skills Quiz-27 Step-6 Correct","                  Select               "
+111858,409,0,"2024-01-02 04:34:56","Skills Quiz-27 Step-7 Correct",Save
+111859,409,0,"2024-01-02 04:35:11","Skills Quiz-27 Step-8 Incorrect",Edit
+111860,409,0,"2024-01-02 04:35:11","Skills Quiz-27 Step-9 Incorrect",Edit
+111861,409,0,"2024-01-02 04:35:21","Skills Quiz-27 Step-3 Correct",YES
+111862,409,0,"2024-01-02 04:35:28","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+111863,409,0,"2024-01-02 04:35:31","Skills Quiz-27 Step-5 Correct",Optimism
+111864,409,0,"2024-01-02 04:35:34","Skills Quiz-27 Step-6 Correct","                  Select               "
+111865,409,526,"2024-01-02 04:35:44",click,"skills quiz hint"
+111866,409,0,"2024-01-02 04:35:46","Skills Quiz-27 Step-7 Correct",Save
+111867,409,526,"2024-01-02 04:35:48",click,"skills quiz hint"
+111868,409,526,"2024-01-02 04:35:54",click,"skills quiz hint"
+111869,409,526,"2024-01-02 04:35:55",click,"skills quiz hint"
+111870,409,526,"2024-01-02 04:35:57",click,"skills quiz hint"
+111871,409,526,"2024-01-02 04:36:35",click,"skills quiz hint"
+111872,409,526,"2024-01-02 04:36:36",click,"skills quiz hint"
+111873,409,526,"2024-01-02 04:36:51",click,"skills quiz hint"
+111874,409,526,"2024-01-02 04:36:52",click,"skills quiz hint"
+111875,409,526,"2024-01-02 04:36:53",click,"skills quiz hint"
+111876,409,526,"2024-01-02 04:37:37",click,"skills quiz hint"
+111877,409,526,"2024-01-02 04:37:38",click,"skills quiz hint"
+111878,409,526,"2024-01-02 04:37:39",click,"skills quiz hint"
+111879,409,526,"2024-01-02 04:38:41",click,"skills quiz hint"
+111880,409,526,"2024-01-02 04:38:42",click,"skills quiz hint"
+111881,409,526,"2024-01-02 04:39:41",click,"skills quiz hint"
+111882,409,526,"2024-01-02 04:39:42",click,"skills quiz hint"
+111883,409,526,"2024-01-02 04:39:42",click,"skills quiz hint"
+111884,409,0,"2024-01-02 04:40:34","Skills Quiz-27 Step-1 Incorrect"," Add Entry/Event"
+111885,409,0,"2024-01-02 04:40:37","Skills Quiz-27 Step-1 Incorrect",undefined
+111886,409,0,"2024-01-02 04:40:38","Skills Quiz-27 Step-1 Incorrect"," Add Entry/Event"
+111887,409,0,"2024-01-02 04:40:39","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111888,409,0,"2024-01-02 04:40:40","Skills Quiz-27 Step-1 Incorrect"," Add Entry/Event"
+111889,409,526,"2024-01-02 04:40:44",click,"skills quiz hint"
+111890,409,526,"2024-01-02 04:40:44",click,"skills quiz hint"
+111891,409,526,"2024-01-02 04:40:45",click,"skills quiz hint"
+111892,409,0,"2024-01-02 04:41:07","Skills Quiz-27 Step-1 Incorrect",undefined
+111893,409,0,"2024-01-02 04:41:12","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111894,409,0,"2024-01-02 04:41:13","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111895,409,0,"2024-01-02 04:41:14","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111896,409,0,"2024-01-02 04:41:16","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111897,409,0,"2024-01-02 04:41:16","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111898,409,0,"2024-01-02 04:41:20","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111899,409,0,"2024-01-02 04:41:20","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111900,409,0,"2024-01-02 04:41:41","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111901,409,0,"2024-01-02 04:41:43","Skills Quiz-27 Step-1 Incorrect"," HEALTH"
+111902,409,0,"2024-01-02 04:41:44","Skills Quiz-27 Step-1 Incorrect"," HEALTH"
+111903,409,0,"2024-01-02 04:41:44","Skills Quiz-27 Step-1 Incorrect"," HEALTH"
+111904,409,0,"2024-01-02 04:41:45","Skills Quiz-27 Step-1 Incorrect"," HEALTH"
+111905,409,526,"2024-01-02 04:42:21",click,"skills quiz hint"
+111906,409,526,"2024-01-02 04:42:22",click,"skills quiz hint"
+111907,409,526,"2024-01-02 04:42:23",click,"skills quiz hint"
+111908,409,526,"2024-01-02 04:42:23",click,"skills quiz hint"
+111909,409,526,"2024-01-02 04:42:40",click,"skills quiz hint"
+111910,409,526,"2024-01-02 04:43:06",click,"skills quiz hint"
+111911,409,526,"2024-01-02 04:44:29",click,"skills quiz hint"
+111912,409,526,"2024-01-02 04:45:16",click,"skills quiz hint"
+111913,409,526,"2024-01-02 04:45:17",click,"skills quiz hint"
+111914,409,526,"2024-01-02 04:45:43",click,"skills quiz hint"
+111915,409,526,"2024-01-02 04:46:28",click,"skills quiz hint"
+111916,409,526,"2024-01-02 04:46:28",click,"skills quiz hint"
+111917,409,526,"2024-01-02 04:46:29",click,"skills quiz hint"
+111918,409,526,"2024-01-02 04:46:29",click,"skills quiz hint"
+111919,409,526,"2024-01-02 04:46:41",click,"skills quiz hint"
+111920,409,526,"2024-01-02 04:47:07",click,"skills quiz hint"
+111921,409,525,"2024-01-02 04:47:38",page-load,"skills quiz preview"
+111922,409,525,"2024-01-02 04:48:05",click,next-page
+111923,409,0,"2024-01-02 04:48:15","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+111924,409,526,"2024-01-02 04:48:25",click,"skills quiz hint"
+111925,409,0,"2024-01-02 04:48:28","Skills Quiz-27 Step-2 Correct",Edit
+111926,409,0,"2024-01-02 04:48:28","Skills Quiz-27 Step-1 Incorrect",Edit
+111927,409,526,"2024-01-02 04:48:31",click,"skills quiz hint"
+111928,409,0,"2024-01-02 04:48:35","Skills Quiz-27 Step-3 Correct",YES
+111929,409,526,"2024-01-02 04:48:38",click,"skills quiz hint"
+111930,409,0,"2024-01-02 04:48:41","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+111931,409,526,"2024-01-02 04:48:43",click,"skills quiz hint"
+111932,409,0,"2024-01-02 04:48:45","Skills Quiz-27 Step-5 Correct",Optimism
+111933,409,526,"2024-01-02 04:48:47",click,"skills quiz hint"
+111934,409,0,"2024-01-02 04:48:49","Skills Quiz-27 Step-6 Correct","                  Select               "
+111935,409,526,"2024-01-02 04:48:52",click,"skills quiz hint"
+111936,409,0,"2024-01-02 04:48:54","Skills Quiz-27 Step-7 Correct",Save
+111937,409,526,"2024-01-02 04:48:56",click,"skills quiz hint"
+111938,409,526,"2024-01-02 04:48:58",click,"skills quiz hint"
+111939,409,526,"2024-01-02 04:48:59",click,"skills quiz hint"
+111940,409,526,"2024-01-02 04:48:59",click,"skills quiz hint"
+111941,409,0,"2024-01-02 04:49:05","Skills Quiz-27 Step-8 Incorrect",undefined
+111942,409,0,"2024-01-02 04:49:08","Skills Quiz-27 Step-8 Incorrect",4
+111943,409,0,"2024-01-02 04:49:08","Skills Quiz-27 Step-9 Correct",4
+111944,409,0,"2024-01-02 04:49:13","Skills Quiz-27 Step-8 Incorrect","CancelSave and View GraphSave"
+111945,409,0,"2024-01-02 04:49:13","Skills Quiz-27 Step-10 Incorrect","CancelSave and View GraphSave"
+111946,409,526,"2024-01-02 04:49:15",click,"skills quiz hint"
+111947,409,526,"2024-01-02 04:49:17",click,"skills quiz hint"
+111948,409,0,"2024-01-02 04:49:19","Skills Quiz-27 Step-10 Incorrect","CancelSave and View GraphSave"
+111949,409,0,"2024-01-02 04:49:19","Skills Quiz-27 Step-8 Incorrect","CancelSave and View GraphSave"
+111950,409,0,"2024-01-02 04:49:20","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+111951,409,0,"2024-01-02 04:49:21","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+111952,409,526,"2024-01-02 04:49:26",click,"skills quiz hint"
+111953,409,0,"2024-01-02 04:49:29","Skills Quiz-27 Step-11 Correct","View Progress"
+111954,409,526,"2024-01-02 04:49:33",click,"skills quiz hint"
+111955,409,526,"2024-01-02 04:49:35",click,"skills quiz hint"
+111956,409,526,"2024-01-02 04:49:36",click,"skills quiz hint"
+111957,409,0,"2024-01-02 04:49:37","Skills Quiz-27 Step-12 Incorrect",Close
+111958,409,0,"2024-01-02 04:49:37","Skills Quiz-27 Step-12 Incorrect",Close
+111959,409,0,"2024-01-02 04:49:38","Skills Quiz-27 Step-12 Incorrect",Close
+111960,409,0,"2024-01-02 04:49:39","Skills Quiz-27 Step-12 Incorrect",Close
+111961,409,0,"2024-01-02 04:49:41","Skills Quiz-27 Step-12 Incorrect",Close
+111962,409,526,"2024-01-02 04:49:44",click,"skills quiz hint"
+111963,409,0,"2024-01-02 04:49:45","Skills Quiz-27 Step-12 Incorrect",Close
+111964,409,0,"2024-01-02 04:49:55","Skills Quiz-27 Step-11 Correct","View Progress"
+111965,409,0,"2024-01-02 04:49:57","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2024-01-02 04:49:57",module_end,none

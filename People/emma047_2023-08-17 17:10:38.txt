@@ -1,0 +1,47 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+87585,355,204,"2023-08-17 17:06:08",page-load,video
+87586,355,204,"2023-08-17 17:07:10",page-load,video
+87587,355,204,"2023-08-17 17:07:29",page-load,video
+87588,355,205,"2023-08-17 17:07:59",page-load,"web form: question"
+87589,355,205,"2023-08-17 17:08:01",click,next-page
+87590,355,205,"2023-08-17 17:08:07",click,"correct-option: Add New Folder"
+87591,355,205,"2023-08-17 17:08:09",click,next-page
+87592,355,206,"2023-08-17 17:08:09",page-load,video
+87593,355,207,"2023-08-17 17:08:40",page-load,"web form: question"
+87594,355,207,"2023-08-17 17:08:46",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+87595,355,207,"2023-08-17 17:08:48",click,next-page
+87596,355,208,"2023-08-17 17:08:50",page-load,"web form: what would you like to do next"
+87597,355,208,"2023-08-17 17:08:52",click,next-page
+87598,355,209,"2023-08-17 17:08:52",page-load,"skills quiz preview"
+87599,355,209,"2023-08-17 17:09:00",click,next-page
+87600,355,0,"2023-08-17 17:09:08","Skills Quiz-11 Step-1 Incorrect",note-list
+87601,355,0,"2023-08-17 17:09:31","Skills Quiz-11 Step-1 Incorrect",Lists
+87602,355,0,"2023-08-17 17:09:34","Skills Quiz-11 Step-1 Correct","Add New Folder"
+87603,355,0,"2023-08-17 17:09:35","Skills Quiz-11 Step-2 Correct",modal-folder-title
+87604,355,0,"2023-08-17 17:09:56","Skills Quiz-11 Step-3 Incorrect",Next
+87605,355,0,"2023-08-17 17:09:57","Skills Quiz-11 Step-3 Incorrect",SAVE
+87606,355,0,"2023-08-17 17:09:57","Skills Quiz-11 Step-4 Correct",SAVE
+87607,355,0,"2023-08-17 17:09:59","Skills Quiz-11 Step-3 Incorrect",Close
+87608,355,0,"2023-08-17 17:09:59","Skills Quiz-11 Step-5 Correct",Close
+87609,355,0,"2023-08-17 17:10:02","Skills Quiz-11 Step-6 Incorrect","Book Club"
+87610,355,0,"2023-08-17 17:10:02","Skills Quiz-11 Step-3 Incorrect","Book Club"
+87611,355,0,"2023-08-17 17:10:04","Skills Quiz-11 Step-3 Incorrect",Edit
+87612,355,0,"2023-08-17 17:10:04","Skills Quiz-11 Step-6 Correct",Edit
+87613,355,0,"2023-08-17 17:10:06","Skills Quiz-11 Step-7 Incorrect","Book Club"
+87614,355,0,"2023-08-17 17:10:06","Skills Quiz-11 Step-3 Incorrect","Book Club"
+87615,355,0,"2023-08-17 17:10:12","Skills Quiz-11 Step-3 Incorrect","Book Club"
+87616,355,0,"2023-08-17 17:10:12","Skills Quiz-11 Step-7 Incorrect","Book Club"
+87617,355,0,"2023-08-17 17:10:19","Skills Quiz-11 Step-7 Correct",SAVE
+87618,355,0,"2023-08-17 17:10:19","Skills Quiz-11 Step-3 Incorrect",SAVE
+87619,355,0,"2023-08-17 17:10:21","Skills Quiz-11 Step-3 Correct",modal-folder-title
+87620,355,0,"2023-08-17 17:10:21","Skills Quiz-11 Step-8 Correct",modal-folder-title
+87621,355,0,"2023-08-17 17:10:31","Skills Quiz-11 Step-9 Incorrect",Next
+87622,355,0,"2023-08-17 17:10:31","Skills Quiz-11 Step-10 Incorrect",Next
+87623,355,0,"2023-08-17 17:10:31","Skills Quiz-11 Step-9 Incorrect",Next
+87624,355,0,"2023-08-17 17:10:33","Skills Quiz-11 Step-11 Incorrect",CloseSAVE
+87625,355,0,"2023-08-17 17:10:33","Skills Quiz-11 Step-9 Incorrect",CloseSAVE
+87626,355,0,"2023-08-17 17:10:33","Skills Quiz-11 Step-10 Incorrect",CloseSAVE
+87627,355,0,"2023-08-17 17:10:36","Skills Quiz-11 Step-9 Incorrect",Close
+87628,355,0,"2023-08-17 17:10:36","Skills Quiz-11 Step-11 Correct",Close
+87629,355,0,"2023-08-17 17:10:36","Skills Quiz-11 Step-10 Incorrect",Close
+0,0,0,"2023-08-17 17:10:38",module_end,none

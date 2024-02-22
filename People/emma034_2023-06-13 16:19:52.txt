@@ -1,0 +1,48 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+64282,341,122,"2023-06-08 22:26:46",page-load,"web form: question"
+64283,341,122,"2023-06-08 22:27:04",click,"correct-option: Both the To-do List and Time Schedule"
+64284,341,122,"2023-06-08 22:27:10",click,next-page
+64285,341,123,"2023-06-08 22:27:10",page-load,video
+64286,341,124,"2023-06-08 22:29:07",page-load,"web form: what would you like to do next"
+64287,341,124,"2023-06-08 22:29:24",click,take-a-break
+65574,341,104,"2023-06-13 16:03:07",page-load,video
+65575,341,105,"2023-06-13 16:06:07",page-load,"web form: question"
+65576,341,105,"2023-06-13 16:06:55",click,"incorrect-option: Social Gatherings"
+65577,341,105,"2023-06-13 16:06:56",click,"incorrect-option: Anniversaries"
+65578,341,105,"2023-06-13 16:06:57",click,"incorrect-option: Trips"
+65579,341,105,"2023-06-13 16:06:57",click,"correct-option: Birthdays"
+65580,341,105,"2023-06-13 16:07:03",click,hint
+65581,341,105,"2023-06-13 16:07:07",click,next-page
+65582,341,106,"2023-06-13 16:07:08",page-load,video
+65583,341,107,"2023-06-13 16:07:28",page-load,"web form: question"
+65584,341,107,"2023-06-13 16:07:47",click,"incorrect-option: Daily Medication"
+65585,341,107,"2023-06-13 16:07:52",click,hint
+65586,341,107,"2023-06-13 16:07:59",click,"correct-option: Exercise"
+65587,341,107,"2023-06-13 16:08:01",click,"incorrect-option: Daily Medication"
+65588,341,107,"2023-06-13 16:08:03",click,next-page
+65589,341,108,"2023-06-13 16:08:04",page-load,"web form: what would you like to do next"
+65590,341,108,"2023-06-13 16:08:09",click,next-page
+65591,341,109,"2023-06-13 16:08:09",page-load,video
+65592,341,110,"2023-06-13 16:12:52",page-load,"web form: question"
+65593,341,110,"2023-06-13 16:13:08",click,next-page
+65594,341,111,"2023-06-13 16:13:08",page-load,"web form: what would you like to do next"
+65595,341,111,"2023-06-13 16:13:11",click,next-page
+65596,341,112,"2023-06-13 16:13:12",page-load,video
+65597,341,113,"2023-06-13 16:14:05",page-load,"web form: question"
+65598,341,113,"2023-06-13 16:14:22",click,"correct-option: D. Both A and C"
+65599,341,113,"2023-06-13 16:14:32",click,next-page
+65600,341,114,"2023-06-13 16:14:33",page-load,video
+65601,341,115,"2023-06-13 16:16:23",page-load,"web form: question"
+65602,341,115,"2023-06-13 16:16:38",click,"correct-option: 30 minutes before"
+65603,341,115,"2023-06-13 16:16:44",click,next-page
+65604,341,116,"2023-06-13 16:16:45",page-load,"web form: what would you like to do next"
+65605,341,0,"2023-06-13 16:18:15","Skills Quiz-5 Step-1 Correct",CALENDAR
+65606,341,0,"2023-06-13 16:18:26","Skills Quiz-5 Step-2 Correct",right-arrow
+65607,341,117,"2023-06-13 16:18:41",click,"skills quiz hint"
+65608,341,0,"2023-06-13 16:18:45","Skills Quiz-5 Step-3 Correct",3
+65609,341,0,"2023-06-13 16:19:15","Skills Quiz 30 second Hint",30time
+65610,341,0,"2023-06-13 16:19:24","Skills Quiz-5 Step-4 Correct",Edit
+65611,341,0,"2023-06-13 16:19:31","Skills Quiz-5 Step-5 Correct",YES
+65612,341,0,"2023-06-13 16:19:39","Skills Quiz-5 Step-6 Correct","60 min"
+65613,341,0,"2023-06-13 16:19:52","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-06-13 16:19:52",module_end,none

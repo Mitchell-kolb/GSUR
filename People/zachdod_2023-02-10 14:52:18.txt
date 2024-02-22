@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+15206,233,235,"2023-02-10 14:51:19",page-load,video
+15211,233,236,"2023-02-10 14:51:29",page-load,"web form: question"
+15212,233,236,"2023-02-10 14:51:30",click,"correct-option: 1"
+15213,233,236,"2023-02-10 14:51:30",click,"incorrect-option: Entire contents of folder"
+15214,233,236,"2023-02-10 14:51:32",click,"incorrect-option: None"
+15215,233,236,"2023-02-10 14:51:36",click,next-page
+15216,233,237,"2023-02-10 14:51:36",page-load,"web form: what would you like to do next"
+15217,233,237,"2023-02-10 14:51:38",click,take-a-break
+15218,233,237,"2023-02-10 14:51:38",click,next-page
+15219,233,238,"2023-02-10 14:51:39",page-load,"skills quiz preview"
+15220,233,238,"2023-02-10 14:51:39",click,next-page
+15221,233,0,"2023-02-10 14:51:45","Skills Quiz-17 Step-1 Correct",View
+15222,233,0,"2023-02-10 14:51:48","Skills Quiz-17 Step-2 Incorrect","Press Edit"
+15223,233,0,"2023-02-10 14:51:49","Skills Quiz-17 Step-2 Correct",SAVE
+15224,233,0,"2023-02-10 14:51:51","Skills Quiz-17 Step-3 Correct",Delete
+15228,233,0,"2023-02-10 14:51:54","Skills Quiz-17 Step-4 Correct",Confirm
+15230,233,0,"2023-02-10 14:51:56","Skills Quiz-17 Step-5 Incorrect",Confirm
+15231,233,0,"2023-02-10 14:51:58","Skills Quiz-17 Step-5 Correct",Delete
+15232,233,0,"2023-02-10 14:51:58","Skills Quiz-17 Step-6 Incorrect",Delete
+15235,233,0,"2023-02-10 14:52:04","Skills Quiz-17 Step-7 Incorrect","Chocolate Chip CookiesView"
+15236,233,0,"2023-02-10 14:52:04","Skills Quiz-17 Step-6 Incorrect","Chocolate Chip CookiesView"
+15238,233,0,"2023-02-10 14:52:05","Skills Quiz-17 Step-7 Correct","Move Note"
+15239,233,0,"2023-02-10 14:52:05","Skills Quiz-17 Step-6 Incorrect","Move Note"
+15242,233,0,"2023-02-10 14:52:11","Skills Quiz 30 second Hint",30time
+15243,233,0,"2023-02-10 14:52:11","Skills Quiz-17 Step-6 Incorrect","Cookie Recipes"
+15244,233,0,"2023-02-10 14:52:11","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+15246,233,0,"2023-02-10 14:52:18","Skills Quiz-17 Step-8 Incorrect"," Move"
+15247,233,0,"2023-02-10 14:52:18","Skills Quiz-17 Step-6 Incorrect"," Move"
+0,0,0,"2023-02-10 14:52:18",module_end,none

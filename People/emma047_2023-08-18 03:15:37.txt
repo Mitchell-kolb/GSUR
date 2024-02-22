@@ -1,0 +1,18 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+87780,355,235,"2023-08-18 03:08:21",page-load,video
+87781,355,0,"2023-08-18 03:09:26","Skills Quiz-15 Step-3 Incorrect",View
+87782,355,0,"2023-08-18 03:09:31","Skills Quiz-15 Step-3 Incorrect",Close
+87783,355,230,"2023-08-18 03:09:35",click,"skills quiz hint"
+87784,355,230,"2023-08-18 03:09:48",click,"skills quiz hint"
+87785,355,0,"2023-08-18 03:09:58","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+87786,355,0,"2023-08-18 03:10:22","Skills Quiz-15 Step-3 Incorrect",View
+87787,355,0,"2023-08-18 03:10:52","Skills Quiz-15 Step-3 Incorrect","Press Edit"
+87788,355,0,"2023-08-18 03:10:53","Skills Quiz-15 Step-3 Incorrect",Close
+87789,355,0,"2023-08-18 03:14:53","Skills Quiz-15 Step-1 Incorrect","Lawn IdeasEdit"
+87790,355,0,"2023-08-18 03:15:01","Skills Quiz-15 Step-1 Correct",Relevant
+87791,355,0,"2023-08-18 03:15:02","Skills Quiz-15 Step-2 Correct","Alphabetical Order"
+87792,355,0,"2023-08-18 03:15:04","Skills Quiz-15 Step-3 Incorrect",note-search
+87793,355,0,"2023-08-18 03:15:05","Skills Quiz-15 Step-3 Incorrect",note-search
+87794,355,0,"2023-08-18 03:15:10","Skills Quiz-15 Step-3 Correct","Lawn IdeasEdit"
+87795,355,0,"2023-08-18 03:15:15","Skills Quiz-15 Step-4 Correct",note-search
+0,0,0,"2023-08-18 03:15:37",module_end,none

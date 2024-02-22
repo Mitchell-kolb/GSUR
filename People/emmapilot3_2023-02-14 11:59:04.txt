@@ -1,0 +1,49 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+20301,255,424,"2023-02-14 11:45:27",page-load,video
+20302,255,425,"2023-02-14 11:50:13",page-load,"web form: question"
+20303,255,425,"2023-02-14 11:50:24",click,"correct-option: True"
+20304,255,425,"2023-02-14 11:50:27",click,next-page
+20305,255,426,"2023-02-14 11:50:27",page-load,video
+20306,255,427,"2023-02-14 11:54:54",page-load,"web form: what would you like to do next"
+20307,255,427,"2023-02-14 11:54:59",click,next-page
+20308,255,428,"2023-02-14 11:54:59",page-load,"skills quiz preview"
+20309,255,428,"2023-02-14 11:55:38",click,next-page
+20310,255,0,"2023-02-14 11:56:05","Skills Quiz-23 Step-1 Incorrect",Date:
+20311,255,0,"2023-02-14 11:56:13","Skills Quiz-23 Step-1 Incorrect",Date:
+20312,255,0,"2023-02-14 11:56:30","Skills Quiz-23 Step-1 Incorrect",Date:
+20313,255,0,"2023-02-14 11:56:30","Skills Quiz-23 Step-1 Incorrect",Date:
+20314,255,0,"2023-02-14 11:56:31","Skills Quiz-23 Step-1 Incorrect","Entry/Event Details"
+20315,255,0,"2023-02-14 11:56:33","Skills Quiz-23 Step-1 Incorrect",Cancel
+20316,255,0,"2023-02-14 11:56:44","Skills Quiz-23 Step-1 Correct",Edit
+20317,255,0,"2023-02-14 11:57:01","Skills Quiz-23 Step-2 Incorrect",undefined
+20318,255,0,"2023-02-14 11:57:14","Skills Quiz-23 Step-2 Incorrect",YES
+20319,255,0,"2023-02-14 11:57:15","Skills Quiz-23 Step-2 Incorrect",YES
+20320,255,0,"2023-02-14 11:57:21","Skills Quiz-23 Step-2 Incorrect",YES
+20321,255,0,"2023-02-14 11:57:27","Skills Quiz-23 Step-2 Correct",Weekly
+20322,255,0,"2023-02-14 11:57:31","Skills Quiz-23 Step-3 Incorrect",Daily
+20323,255,0,"2023-02-14 11:57:33","Skills Quiz-23 Step-3 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYESCancelSave"
+20324,255,0,"2023-02-14 11:57:35","Skills Quiz-23 Step-3 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYESCancelSave"
+20325,255,0,"2023-02-14 11:57:45","Skills Quiz-23 Step-3 Correct",Thu
+20326,255,0,"2023-02-14 11:57:54","Skills Quiz-23 Step-4 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYESCancelSave"
+20327,255,0,"2023-02-14 11:57:59","Skills Quiz-23 Step-4 Correct","Repeat Forever (tap to change)"
+20328,255,0,"2023-02-14 11:58:04","Skills Quiz-23 Step-5 Correct",end-right-arrow
+20329,255,0,"2023-02-14 11:58:05","Skills Quiz-23 Step-6 Incorrect","JULY 2021"
+20330,255,0,"2023-02-14 11:58:07","Skills Quiz-23 Step-6 Incorrect",12345678910111213141516171819202122232425262728293031
+20331,255,0,"2023-02-14 11:58:10","Skills Quiz-23 Step-6 Correct",8
+20332,255,0,"2023-02-14 11:58:11","Skills Quiz-23 Step-7 Correct",OK
+20333,255,0,"2023-02-14 11:58:15","Skills Quiz-23 Step-8 Correct",Save
+20334,255,0,"2023-02-14 11:58:23","Skills Quiz-23 Step-9 Incorrect",YES
+20335,255,0,"2023-02-14 11:58:27","Skills Quiz-23 Step-9 Correct",YES
+20336,255,0,"2023-02-14 11:58:31","Skills Quiz-23 Step-10 Correct","                        Blood Pressure                     "
+20337,255,0,"2023-02-14 11:58:34","Skills Quiz-23 Step-11 Correct","Tap Here"
+20338,255,0,"2023-02-14 11:58:36","Skills Quiz-23 Step-12 Correct",1
+20339,255,0,"2023-02-14 11:58:37","Skills Quiz-23 Step-13 Correct",2
+20340,255,0,"2023-02-14 11:58:39","Skills Quiz-23 Step-14 Correct",0
+20341,255,0,"2023-02-14 11:58:46","Skills Quiz-23 Step-15 Correct","                                    Save               "
+20342,255,0,"2023-02-14 11:58:48","Skills Quiz-23 Step-16 Correct","Tap Here"
+20343,255,0,"2023-02-14 11:58:50","Skills Quiz-23 Step-17 Correct",8
+20344,255,0,"2023-02-14 11:58:51","Skills Quiz-23 Step-18 Correct",0
+20345,255,0,"2023-02-14 11:58:52","Skills Quiz-23 Step-19 Correct","                                    Save               "
+20346,255,0,"2023-02-14 11:58:54","Skills Quiz-23 Step-20 Correct","                                    Save               "
+20347,255,0,"2023-02-14 11:59:03","Skills Quiz-23 Step-21 Correct",Save
+0,0,0,"2023-02-14 11:59:04",module_end,none

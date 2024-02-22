@@ -1,0 +1,69 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+38188,296,410,"2023-04-06 15:53:26",page-load,video
+38189,296,411,"2023-04-06 15:53:55",page-load,"web form: scheduling choices"
+38190,296,411,"2023-04-06 15:54:00",tracked,Weight
+38191,296,411,"2023-04-06 15:54:00",tracked,"Well-being activities"
+38192,296,411,"2023-04-06 15:54:01",tracked,Fatigue
+38193,296,411,"2023-04-06 15:54:02",tracked,"Physical Exercise"
+38194,296,411,"2023-04-06 15:54:04",tracked,"Cognitive Activity"
+38195,296,411,"2023-04-06 15:54:05",tracked,"Cognitive Activity"
+38196,296,411,"2023-04-06 15:54:06",tracked,"Cognitive Activity"
+38197,296,411,"2023-04-06 15:54:06",tracked,"Cognitive Activity"
+38198,296,411,"2023-04-06 15:54:07",tracked,"Cognitive Activity"
+38199,296,411,"2023-04-06 15:54:07",tracked,"Cognitive Activity"
+38200,296,411,"2023-04-06 15:54:08",tracked,"Cognitive Activity"
+38201,296,411,"2023-04-06 15:54:08",tracked,"Cognitive Activity"
+38202,296,411,"2023-04-06 15:54:09",tracked,"Cognitive Activity"
+38203,296,411,"2023-04-06 15:54:10",tracked,Weight
+38204,296,411,"2023-04-06 15:54:19",tracked,"Cognitive Activity"
+38205,296,411,"2023-04-06 15:54:20",tracked,"Cognitive Activity"
+38206,296,411,"2023-04-06 15:54:22",tracked,"Cognitive Activity"
+38207,296,411,"2023-04-06 15:54:23",tracked,Weight
+38208,296,411,"2023-04-06 15:54:24",tracked,Weight
+38209,296,411,"2023-04-06 15:54:26",tracked,Weight
+38210,296,411,"2023-04-06 15:54:30",tracked,Weight
+38211,296,411,"2023-04-06 15:54:30",tracked,Weight
+38212,296,411,"2023-04-06 15:54:32",click,next-page
+38213,296,412,"2023-04-06 15:54:33",page-load,video
+38214,296,413,"2023-04-06 15:56:22",page-load,"web form: question"
+38215,296,413,"2023-04-06 15:56:27",click,"correct-option: 4"
+38216,296,413,"2023-04-06 15:56:33",click,next-page
+38217,296,414,"2023-04-06 15:56:33",page-load,video
+38218,296,415,"2023-04-06 15:57:05",page-load,"web form: question"
+38219,296,415,"2023-04-06 15:57:09",click,"incorrect-option: True"
+38220,296,415,"2023-04-06 15:57:14",click,"correct-option: False"
+38221,296,415,"2023-04-06 15:57:15",click,next-page
+38222,296,416,"2023-04-06 15:57:16",page-load,video
+38223,296,417,"2023-04-06 16:00:56",page-load,"web form: what would you like to do next"
+38224,296,417,"2023-04-06 16:01:09",click,next-page
+38225,296,418,"2023-04-06 16:01:10",page-load,"skills quiz preview"
+38226,296,418,"2023-04-06 16:01:16",click,next-page
+38227,296,0,"2023-04-06 16:01:24","Skills Quiz-21 Step-1 Incorrect",HEALTH
+38228,296,0,"2023-04-06 16:01:26","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+38229,296,0,"2023-04-06 16:01:32","Skills Quiz-21 Step-3 Correct","Daily Medications"
+38230,296,0,"2023-04-06 16:01:48","Skills Quiz-21 Step-4 Incorrect",titleMorning
+38231,296,0,"2023-04-06 16:01:54","Skills Quiz-21 Step-4 Correct",descriptionMorning
+38232,296,0,"2023-04-06 16:02:22","Skills Quiz-21 Step-6 Correct","8:00 AM"
+38233,296,0,"2023-04-06 16:02:25","Skills Quiz-21 Step-7 Correct",7
+38234,296,0,"2023-04-06 16:02:25","Skills Quiz-21 Step-8 Incorrect",AM
+38235,296,0,"2023-04-06 16:02:27","Skills Quiz-21 Step-8 Incorrect",AM
+38236,296,0,"2023-04-06 16:02:27","Skills Quiz-21 Step-8 Correct",00
+38237,296,0,"2023-04-06 16:02:30","Skills Quiz-21 Step-9 Correct",AM
+38238,296,0,"2023-04-06 16:02:31","Skills Quiz-21 Step-10 Correct",Save
+38239,296,0,"2023-04-06 16:02:41","Skills Quiz-21 Step-11 Incorrect",CloseSave
+38240,296,0,"2023-04-06 16:02:50","Skills Quiz-21 Step-11 Correct",checkMorning
+38241,296,0,"2023-04-06 16:02:52","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38242,296,0,"2023-04-06 16:02:52","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38243,296,0,"2023-04-06 16:02:55","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38244,296,0,"2023-04-06 16:03:00","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38245,296,0,"2023-04-06 16:03:01","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38246,296,0,"2023-04-06 16:03:01","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38247,296,0,"2023-04-06 16:03:04","Skills Quiz-21 Step-12 Incorrect","Time7:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+38248,296,0,"2023-04-06 16:03:05","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38249,296,0,"2023-04-06 16:03:06","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38250,296,0,"2023-04-06 16:03:13","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38251,296,0,"2023-04-06 16:03:14","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38252,296,0,"2023-04-06 16:03:15","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38253,296,0,"2023-04-06 16:03:15","Skills Quiz-21 Step-12 Incorrect","Turn On (green)"
+38254,296,0,"2023-04-06 16:03:21","Skills Quiz-21 Step-12 Incorrect",titleMorning
+0,0,0,"2023-04-06 16:03:25",module_end,none

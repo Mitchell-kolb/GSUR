@@ -1,0 +1,7 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+7093,221,222,"2023-01-20 16:59:01",page-load,"skills quiz preview"
+7094,221,225,"2023-01-20 16:59:07",page-load,video
+7095,221,222,"2023-01-20 16:59:09",page-load,"skills quiz preview"
+7096,221,0,"2023-01-20 16:59:41","Skills Quiz 30 second Hint",30time
+7097,221,225,"2023-01-20 16:59:41",page-load,video
+0,0,0,"2023-01-20 16:59:41",module_end,none

@@ -1,0 +1,16 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+48861,324,0,"2023-05-03 21:15:26","Skills Quiz-6 Step-1 Correct",CALENDAR
+48862,324,0,"2023-05-03 21:15:29","Skills Quiz-6 Step-2 Correct",right-arrow
+48863,324,0,"2023-05-03 21:15:30","Skills Quiz-6 Step-2 Correct",right-arrow
+48864,324,0,"2023-05-03 21:15:31","Skills Quiz-6 Step-3 Correct",3
+48865,324,0,"2023-05-03 21:15:43","Skills Quiz-6 Step-4 Correct",Edit
+48866,324,0,"2023-05-03 21:16:17","Skills Quiz-6 Step-4 Correct",Edit
+48867,324,0,"2023-05-03 21:16:30","Skills Quiz-6 Step-4 Incorrect","Date:Title:Breakfast with JohnDescription:"
+48868,324,0,"2023-05-03 21:16:40","Skills Quiz-6 Step-4 Incorrect","Entry/Event DetailsDate:Title:Breakfast with JohnDescription:CancelDeleteEdit"
+48869,324,0,"2023-05-03 21:16:40","Skills Quiz-6 Step-4 Incorrect","Entry/Event DetailsDate:Title:Breakfast with JohnDescription:CancelDeleteEdit"
+48870,324,0,"2023-05-03 21:16:45","Skills Quiz-6 Step-4 Correct",Edit
+48871,324,0,"2023-05-03 21:16:54","Skills Quiz-6 Step-5 Incorrect","60 min"
+48872,324,0,"2023-05-03 21:16:56","Skills Quiz-6 Step-5 Correct",YES
+48873,324,0,"2023-05-03 21:16:57","Skills Quiz-6 Step-6 Correct","60 min"
+48874,324,0,"2023-05-03 21:17:13","Skills Quiz-6 Step-7 Correct",Save
+0,0,0,"2023-05-03 21:17:14",module_end,none

@@ -1,0 +1,26 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+114233,406,121,"2024-01-12 23:54:23",page-load,video
+114234,406,122,"2024-01-12 23:58:55",page-load,"web form: question"
+114235,406,122,"2024-01-12 23:59:38",click,"correct-option: Both the To-do List and Time Schedule"
+114236,406,122,"2024-01-12 23:59:49",click,next-page
+114237,406,123,"2024-01-12 23:59:49",page-load,video
+114238,406,124,"2024-01-13 00:01:41",page-load,"web form: what would you like to do next"
+114239,406,0,"2024-01-13 00:04:21","Skills Quiz 30 second Hint",30time
+114240,406,0,"2024-01-13 00:04:37","Skills Quiz-7 Step-1 Correct",Edit
+114241,406,0,"2024-01-13 00:05:08","Skills Quiz 30 second Hint",30time
+114242,406,0,"2024-01-13 00:05:20","Skills Quiz-7 Step-2 Correct",event-description
+114243,406,0,"2024-01-13 00:06:07","Skills Quiz 30 second Hint",30time
+114244,406,0,"2024-01-13 00:06:19","Skills Quiz-7 Step-4 Incorrect",YES
+114245,406,0,"2024-01-13 00:06:23","Skills Quiz-7 Step-4 Correct",Weekly
+114246,406,0,"2024-01-13 00:06:53","Skills Quiz 30 second Hint",30time
+114247,406,0,"2024-01-13 00:07:06","Skills Quiz-7 Step-5 Correct",Tue
+114248,406,0,"2024-01-13 00:07:14","Skills Quiz-7 Step-6 Correct",Thu
+114249,406,0,"2024-01-13 00:07:34","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+114250,406,0,"2024-01-13 00:07:36","Skills Quiz-7 Step-8 Correct",end-right-arrow
+114251,406,0,"2024-01-13 00:07:39","Skills Quiz-7 Step-9 Correct",31
+114252,406,0,"2024-01-13 00:07:43","Skills Quiz-7 Step-10 Incorrect","JULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031"
+114253,406,0,"2024-01-13 00:07:44","Skills Quiz-7 Step-10 Correct",OK
+114254,406,0,"2024-01-13 00:07:56","Skills Quiz-7 Step-11 Correct",YES
+114255,406,0,"2024-01-13 00:08:04","Skills Quiz-7 Step-12 Correct",Save
+114256,406,0,"2024-01-13 00:08:16","Skills Quiz-7 Step-13 Incorrect",Next
+0,0,0,"2024-01-13 00:08:17",module_end,none

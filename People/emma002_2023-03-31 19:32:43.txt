@@ -1,0 +1,86 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+36292,300,205,"2023-03-31 19:05:24",page-load,"web form: question"
+36293,300,205,"2023-03-31 19:05:29",click,"correct-option: Add New Folder"
+36294,300,205,"2023-03-31 19:05:31",click,next-page
+36295,300,206,"2023-03-31 19:05:31",page-load,video
+36296,300,200,"2023-03-31 19:07:36",page-load,video
+36297,300,201,"2023-03-31 19:07:50",page-load,"web form: question"
+36298,300,201,"2023-03-31 19:07:59",click,next-page
+36299,300,201,"2023-03-31 19:08:00",click,next-page
+36300,300,201,"2023-03-31 19:08:02",click,next-page
+36301,300,201,"2023-03-31 19:08:03",click,next-page
+36302,300,201,"2023-03-31 19:08:05",click,"correct-option: D. All of the above"
+36303,300,201,"2023-03-31 19:08:06",click,next-page
+36304,300,202,"2023-03-31 19:08:07",page-load,video
+36305,300,203,"2023-03-31 19:08:26",page-load,"web form: scheduling choices"
+36306,300,203,"2023-03-31 19:08:30",click,next-page
+36307,300,203,"2023-03-31 19:08:32",click,next-page
+36308,300,203,"2023-03-31 19:08:35",tracked,"Travel checklist"
+36309,300,203,"2023-03-31 19:08:36",click,next-page
+36310,300,204,"2023-03-31 19:08:36",page-load,video
+36311,300,205,"2023-03-31 19:09:22",page-load,"web form: question"
+36312,300,205,"2023-03-31 19:09:29",click,"correct-option: Add New Folder"
+36313,300,205,"2023-03-31 19:09:30",click,next-page
+36314,300,206,"2023-03-31 19:09:30",page-load,video
+36315,300,207,"2023-03-31 19:09:50",page-load,"web form: question"
+36316,300,207,"2023-03-31 19:09:55",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+36317,300,207,"2023-03-31 19:09:57",click,next-page
+36318,300,208,"2023-03-31 19:09:57",page-load,"web form: what would you like to do next"
+36319,300,208,"2023-03-31 19:10:03",click,next-page
+36320,300,209,"2023-03-31 19:10:04",page-load,"skills quiz preview"
+36321,300,209,"2023-03-31 19:10:14",click,next-page
+36322,300,0,"2023-03-31 19:10:36","Skills Quiz-11 Step-1 Correct","Add New Folder"
+36323,300,0,"2023-03-31 19:10:38","Skills Quiz-11 Step-2 Correct",modal-folder-title
+36324,300,0,"2023-03-31 19:10:41","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+36325,300,0,"2023-03-31 19:10:42","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+36326,300,0,"2023-03-31 19:10:44","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+36327,300,0,"2023-03-31 19:10:45","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+36328,300,0,"2023-03-31 19:10:46","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+36329,300,210,"2023-03-31 19:10:48",click,"skills quiz hint"
+36330,300,0,"2023-03-31 19:10:49","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+36331,300,0,"2023-03-31 19:10:50","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+36332,300,0,"2023-03-31 19:10:50","Skills Quiz-11 Step-3 Correct",modal-folder-title
+36333,300,200,"2023-03-31 19:13:11",page-load,video
+36334,300,400,"2023-03-31 19:18:46",page-load,video
+36335,300,401,"2023-03-31 19:22:09",page-load,"web form: question"
+36336,300,401,"2023-03-31 19:22:15",click,"correct-option: False"
+36337,300,401,"2023-03-31 19:22:17",click,next-page
+36338,300,402,"2023-03-31 19:22:17",page-load,video
+36339,300,403,"2023-03-31 19:28:34",page-load,"web form: what would you like to do next"
+36340,300,403,"2023-03-31 19:28:42",click,next-page
+36341,300,404,"2023-03-31 19:28:42",page-load,"skills quiz preview"
+36342,300,404,"2023-03-31 19:28:47",click,next-page
+36343,300,0,"2023-03-31 19:29:13","Skills Quiz-19 Step-1 Incorrect",HEALTH
+36344,300,0,"2023-03-31 19:29:22","Skills Quiz-19 Step-2 Correct","Medical Information"
+36345,300,0,"2023-03-31 19:29:29","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+36346,300,0,"2023-03-31 19:29:32","Skills Quiz-19 Step-3 Incorrect",undefined
+36347,300,0,"2023-03-31 19:29:37","Skills Quiz-19 Step-3 Incorrect",noteSpecialty
+36348,300,0,"2023-03-31 19:29:37","Skills Quiz-19 Step-4 Correct",noteSpecialty
+36349,300,0,"2023-03-31 19:30:03","Skills Quiz-19 Step-3 Incorrect",Name
+36350,300,0,"2023-03-31 19:30:09","Skills Quiz-19 Step-3 Incorrect",Name
+36351,300,0,"2023-03-31 19:30:12","Skills Quiz-19 Step-3 Incorrect",noteSpecialty
+36352,300,0,"2023-03-31 19:30:13","Skills Quiz-19 Step-3 Incorrect",Name
+36353,300,0,"2023-03-31 19:30:17","Skills Quiz-19 Step-3 Incorrect",Name
+36354,300,0,"2023-03-31 19:30:18","Skills Quiz-19 Step-3 Incorrect",Next
+36355,300,0,"2023-03-31 19:30:19","Skills Quiz-19 Step-3 Incorrect",noteName
+36356,300,0,"2023-03-31 19:30:19","Skills Quiz-19 Step-6 Correct",noteName
+36357,300,0,"2023-03-31 19:30:39","Skills Quiz-19 Step-3 Incorrect","Phone Number"
+36358,300,0,"2023-03-31 19:30:49","Skills Quiz-19 Step-3 Incorrect","Phone Number"
+36359,300,0,"2023-03-31 19:30:50","Skills Quiz-19 Step-3 Incorrect","Phone Number"
+36360,300,0,"2023-03-31 19:30:55","Skills Quiz-19 Step-3 Incorrect",Next
+36361,300,0,"2023-03-31 19:31:01","Skills Quiz-19 Step-3 Incorrect",notePhone
+36362,300,0,"2023-03-31 19:31:01","Skills Quiz-19 Step-8 Correct",notePhone
+36363,300,0,"2023-03-31 19:31:22","Skills Quiz-19 Step-3 Incorrect",Address
+36364,300,0,"2023-03-31 19:31:26","Skills Quiz-19 Step-3 Incorrect",Next
+36365,300,0,"2023-03-31 19:31:28","Skills Quiz-19 Step-3 Incorrect",noteAddress
+36366,300,0,"2023-03-31 19:31:28","Skills Quiz-19 Step-10 Correct",noteAddress
+36367,300,0,"2023-03-31 19:31:54","Skills Quiz-19 Step-3 Incorrect",Details
+36368,300,0,"2023-03-31 19:31:58","Skills Quiz-19 Step-3 Incorrect",Next
+36369,300,0,"2023-03-31 19:32:00","Skills Quiz-19 Step-3 Incorrect",noteDetails
+36370,300,0,"2023-03-31 19:32:00","Skills Quiz-19 Step-12 Correct",noteDetails
+36371,300,0,"2023-03-31 19:32:35","Skills Quiz-19 Step-3 Incorrect",Next
+36372,300,0,"2023-03-31 19:32:37","Skills Quiz-19 Step-3 Incorrect",SAVE
+36373,300,0,"2023-03-31 19:32:37","Skills Quiz-19 Step-14 Correct",SAVE
+36374,300,0,"2023-03-31 19:32:43","Skills Quiz-19 Step-14 Correct",Close
+36375,300,0,"2023-03-31 19:32:43","Skills Quiz-19 Step-3 Incorrect",Close
+0,0,0,"2023-03-31 19:32:43",module_end,none

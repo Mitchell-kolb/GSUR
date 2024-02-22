@@ -1,0 +1,17 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+27055,245,528,"2023-02-28 15:49:11",click,next-page
+27056,245,0,"2023-02-28 15:49:14","Skills Quiz-28 Step-1 Incorrect",Edit
+27057,245,0,"2023-02-28 15:49:14","Skills Quiz-28 Step-2 Correct",Edit
+27058,245,0,"2023-02-28 15:49:16","Skills Quiz-28 Step-3 Correct",YES
+27059,245,0,"2023-02-28 15:49:17","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+27060,245,0,"2023-02-28 15:49:18","Skills Quiz-28 Step-5 Correct",Loneliness
+27061,245,0,"2023-02-28 15:49:19","Skills Quiz-28 Step-6 Correct","                  Select               "
+27062,245,0,"2023-02-28 15:49:20","Skills Quiz-28 Step-7 Correct",Save
+27063,245,0,"2023-02-28 15:49:23","Skills Quiz-28 Step-8 Incorrect","Loneliness Rating View"
+27064,245,0,"2023-02-28 15:49:25","Skills Quiz-28 Step-8 Correct","Loneliness Rating "
+27065,245,0,"2023-02-28 15:49:26","Skills Quiz-28 Step-9 Incorrect",12345
+27066,245,0,"2023-02-28 15:49:27","Skills Quiz-28 Step-9 Correct",2
+27067,245,0,"2023-02-28 15:49:28","Skills Quiz-28 Step-10 Correct","Save and View Graph"
+27068,245,0,"2023-02-28 15:49:29","Skills Quiz-28 Step-11 Correct","View Progress"
+27069,245,0,"2023-02-28 15:49:30","Skills Quiz-28 Step-12 Correct",Close
+0,0,0,"2023-02-28 15:49:31",module_end,none

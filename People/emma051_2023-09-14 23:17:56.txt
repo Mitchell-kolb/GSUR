@@ -1,0 +1,39 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+95063,360,143,"2023-09-05 17:24:39",page-load,video
+95064,360,144,"2023-09-05 17:25:34",page-load,"goal setting: pick three strategies"
+95065,360,144,"2023-09-05 17:27:05",click,next-page
+95066,360,145,"2023-09-05 17:27:07",page-load,"goal setting: pick top strategy"
+95067,360,145,"2023-09-05 17:27:41",click,next-page
+95068,360,146,"2023-09-05 17:27:42",page-load,"goal setting: top strategy display"
+96752,360,104,"2023-09-14 23:09:08",page-load,video
+96753,360,105,"2023-09-14 23:11:12",page-load,"web form: question"
+96754,360,105,"2023-09-14 23:11:19",click,"incorrect-option: Trips"
+96755,360,105,"2023-09-14 23:11:21",click,next-page
+96756,360,106,"2023-09-14 23:11:25",page-load,video
+96757,360,107,"2023-09-14 23:11:38",page-load,"web form: question"
+96758,360,107,"2023-09-14 23:11:43",click,"correct-option: Exercise"
+96759,360,108,"2023-09-14 23:11:46",page-load,"web form: what would you like to do next"
+96760,360,108,"2023-09-14 23:11:54",click,next-page
+96761,360,109,"2023-09-14 23:11:55",page-load,video
+96762,360,110,"2023-09-14 23:15:02",page-load,"web form: question"
+96763,360,110,"2023-09-14 23:15:06",click,next-page
+96764,360,111,"2023-09-14 23:15:07",page-load,"web form: what would you like to do next"
+96765,360,112,"2023-09-14 23:15:10",page-load,video
+96766,360,113,"2023-09-14 23:15:44",page-load,"web form: question"
+96767,360,113,"2023-09-14 23:15:48",click,"correct-option: D. Both A and C"
+96768,360,113,"2023-09-14 23:15:49",click,next-page
+96769,360,114,"2023-09-14 23:15:53",page-load,video
+96770,360,115,"2023-09-14 23:16:14",page-load,"web form: question"
+96771,360,115,"2023-09-14 23:16:17",click,"correct-option: 30 minutes before"
+96772,360,115,"2023-09-14 23:16:18",click,next-page
+96773,360,116,"2023-09-14 23:16:19",page-load,"web form: what would you like to do next"
+96774,360,117,"2023-09-14 23:17:10",click,"skills quiz hint"
+96775,360,117,"2023-09-14 23:17:11",click,"skills quiz hint"
+96776,360,0,"2023-09-14 23:17:16","Skills Quiz-5 Step-1 Correct",CALENDAR
+96777,360,0,"2023-09-14 23:17:21","Skills Quiz-5 Step-2 Correct",right-arrow
+96778,360,0,"2023-09-14 23:17:23","Skills Quiz-5 Step-3 Correct",3
+96779,360,0,"2023-09-14 23:17:47","Skills Quiz-5 Step-4 Correct",Edit
+96780,360,0,"2023-09-14 23:17:50","Skills Quiz-5 Step-5 Correct",YES
+96781,360,0,"2023-09-14 23:17:55","Skills Quiz-5 Step-6 Correct","60 min"
+96782,360,0,"2023-09-14 23:17:56","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-09-14 23:17:56",module_end,none

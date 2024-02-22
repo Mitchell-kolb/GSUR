@@ -1,0 +1,4 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+84667,353,140,"2023-08-10 21:47:29",page-load,"skills quiz 10: preview"
+84668,353,140,"2023-08-10 21:47:40",click,previous-page
+0,0,0,"2023-08-10 21:47:41",module_end,none

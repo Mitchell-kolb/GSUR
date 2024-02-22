@@ -1,0 +1,44 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+63451,324,0,"2023-06-06 21:27:17","Skills Quiz-20 Step-1 Incorrect",HEALTH
+63452,324,0,"2023-06-06 21:27:18","Skills Quiz-20 Step-2 Correct","Medical Information"
+63453,324,0,"2023-06-06 21:27:22","Skills Quiz-20 Step-3 Incorrect",note-1
+63454,324,0,"2023-06-06 21:27:24","Skills Quiz-20 Step-3 Incorrect",undefined
+63455,324,0,"2023-06-06 21:27:27","Skills Quiz-20 Step-3 Incorrect","Close  EDIT"
+63456,324,0,"2023-06-06 21:27:33","Skills Quiz-20 Step-3 Incorrect","Close  EDIT"
+63457,324,0,"2023-06-06 21:27:35","Skills Quiz-20 Step-3 Incorrect",SAVE
+63458,324,0,"2023-06-06 21:27:37","Skills Quiz-20 Step-3 Incorrect",noteDetails
+63461,324,0,"2023-06-06 21:28:33","Skills Quiz-20 Step-3 Incorrect",SAVE
+63462,324,0,"2023-06-06 21:28:42","Skills Quiz-20 Step-3 Incorrect",Close
+63463,324,0,"2023-06-06 21:28:48","Skills Quiz-20 Step-3 Correct","Add New Note"
+63464,324,0,"2023-06-06 21:28:53","Skills Quiz-20 Step-4 Incorrect","Close  "
+63465,324,0,"2023-06-06 21:29:06","Skills Quiz-20 Step-2 Incorrect",TODAYCALENDARHEALTHNOTES
+63466,324,0,"2023-06-06 21:29:14","Skills Quiz-20 Step-2 Correct","Medical Information"
+63467,324,0,"2023-06-06 21:29:28","Skills Quiz-20 Step-3 Correct","Add New Note"
+63468,324,0,"2023-06-06 21:29:30","Skills Quiz-20 Step-4 Correct",noteSpecialty
+63469,324,0,"2023-06-06 21:30:00","Skills Quiz 30 second Hint",30time
+63474,324,0,"2023-06-06 21:31:00","Skills Quiz-20 Step-6 Incorrect","Close  SAVE"
+63477,324,0,"2023-06-06 21:31:02","Skills Quiz-20 Step-6 Incorrect","Close  SAVE"
+63487,324,0,"2023-06-06 21:31:06","Skills Quiz-20 Step-6 Correct",noteName
+63488,324,0,"2023-06-06 21:31:12","Skills Quiz-20 Step-8 Correct",notePhone
+63489,324,0,"2023-06-06 21:31:18","Skills Quiz-20 Step-10 Incorrect","Close  SAVE"
+63490,324,0,"2023-06-06 21:31:20","Skills Quiz-20 Step-10 Correct",noteAddress
+63491,324,0,"2023-06-06 21:31:23","Skills Quiz-20 Step-12 Incorrect",Address
+63492,324,0,"2023-06-06 21:31:25","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+63493,324,0,"2023-06-06 21:31:26","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+63494,324,0,"2023-06-06 21:31:28","Skills Quiz-20 Step-12 Incorrect",Address
+63495,324,0,"2023-06-06 21:31:29","Skills Quiz-20 Step-12 Incorrect",Address
+63496,324,0,"2023-06-06 21:31:29","Skills Quiz-20 Step-12 Incorrect",Address
+63497,324,0,"2023-06-06 21:31:31","Skills Quiz-20 Step-12 Incorrect",Address
+63498,324,0,"2023-06-06 21:31:37","Skills Quiz-20 Step-2 Correct","Medical Information"
+63499,324,0,"2023-06-06 21:31:43","Skills Quiz-20 Step-3 Correct","Add New Note"
+63500,324,0,"2023-06-06 21:31:53","Skills Quiz-20 Step-4 Correct",noteSpecialty
+63507,324,0,"2023-06-06 21:32:15","Skills Quiz-20 Step-6 Incorrect",Specialty
+63508,324,0,"2023-06-06 21:32:20","Skills Quiz-20 Step-6 Correct",noteName
+63509,324,0,"2023-06-06 21:32:33","Skills Quiz-20 Step-8 Correct",notePhone
+63510,324,0,"2023-06-06 21:32:45","Skills Quiz-20 Step-10 Correct",noteAddress
+63511,324,0,"2023-06-06 21:33:00","Skills Quiz-20 Step-12 Correct",noteDetails
+63520,324,0,"2023-06-06 21:33:30","Skills Quiz 30 second Hint",30time
+63529,324,0,"2023-06-06 21:33:51","Skills Quiz-20 Step-14 Correct",SAVE
+63530,324,408,"2023-06-06 21:33:57",click,"skills quiz hint"
+63531,324,0,"2023-06-06 21:34:00","Skills Quiz-20 Step-14 Correct",Close
+0,0,0,"2023-06-06 21:34:00",module_end,none

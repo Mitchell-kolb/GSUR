@@ -1,0 +1,28 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+87559,355,0,"2023-08-17 17:04:13","Skills Quiz-11 Step-9 Incorrect","GoalsListsBook Club ListEdit"
+87560,355,212,"2023-08-17 17:04:14",page-load,"skills quiz preview"
+87561,355,212,"2023-08-17 17:04:39",click,next-page
+87562,355,0,"2023-08-17 17:04:44","Skills Quiz-12 Step-1 Correct","Add New Folder"
+87563,355,0,"2023-08-17 17:04:46","Skills Quiz-12 Step-2 Correct",modal-folder-title
+87564,355,0,"2023-08-17 17:05:01","Skills Quiz-12 Step-3 Incorrect",Next
+87565,355,0,"2023-08-17 17:05:04","Skills Quiz-12 Step-4 Correct"," SAVE"
+87566,355,0,"2023-08-17 17:05:04","Skills Quiz-12 Step-3 Incorrect"," SAVE"
+87567,355,0,"2023-08-17 17:05:07","Skills Quiz-12 Step-3 Incorrect",Close
+87568,355,0,"2023-08-17 17:05:07","Skills Quiz-12 Step-5 Correct",Close
+87569,355,0,"2023-08-17 17:05:10","Skills Quiz-12 Step-3 Incorrect",folder-title-3
+87570,355,0,"2023-08-17 17:05:10","Skills Quiz-12 Step-6 Incorrect",folder-title-3
+87571,355,0,"2023-08-17 17:05:11","Skills Quiz-12 Step-3 Incorrect",Edit
+87572,355,0,"2023-08-17 17:05:11","Skills Quiz-12 Step-6 Correct",Edit
+87573,355,0,"2023-08-17 17:05:20","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping"
+87574,355,0,"2023-08-17 17:05:20","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping"
+87575,355,0,"2023-08-17 17:05:22","Skills Quiz-12 Step-3 Incorrect",SAVE
+87576,355,0,"2023-08-17 17:05:22","Skills Quiz-12 Step-7 Correct",SAVE
+87577,355,0,"2023-08-17 17:05:24","Skills Quiz-12 Step-8 Correct",modal-folder-title
+87578,355,0,"2023-08-17 17:05:24","Skills Quiz-12 Step-3 Correct",modal-folder-title
+87579,355,0,"2023-08-17 17:05:54","Skills Quiz 30 second Hint",30time
+87580,355,0,"2023-08-17 17:05:56","Skills Quiz-12 Step-9 Incorrect",Next
+87581,355,0,"2023-08-17 17:05:59","Skills Quiz-12 Step-10 Correct",SAVE
+87582,355,0,"2023-08-17 17:05:59","Skills Quiz-12 Step-9 Incorrect",SAVE
+87583,355,0,"2023-08-17 17:06:03","Skills Quiz-12 Step-9 Incorrect",Close
+87584,355,0,"2023-08-17 17:06:03","Skills Quiz-12 Step-11 Correct",Close
+0,0,0,"2023-08-17 17:06:04",module_end,none

@@ -1,0 +1,40 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+58159,333,110,"2023-05-30 18:15:02",page-load,"web form: question"
+58160,333,110,"2023-05-30 18:15:05",click,"incorrect-option: The event has been cancelled"
+58161,333,110,"2023-05-30 18:15:05",click,"incorrect-option: The event will repeat"
+58162,333,110,"2023-05-30 18:15:05",click,"incorrect-option: The event takes place on a race track"
+58163,333,110,"2023-05-30 18:15:06",click,hint
+58164,333,110,"2023-05-30 18:15:08",click,next-page
+58165,333,111,"2023-05-30 18:15:08",page-load,"web form: what would you like to do next"
+58166,333,111,"2023-05-30 18:15:09",click,take-a-break
+58167,333,111,"2023-05-30 18:15:09",click,next-page
+58168,333,112,"2023-05-30 18:15:10",page-load,video
+58169,333,113,"2023-05-30 18:15:23",page-load,"web form: question"
+58170,333,113,"2023-05-30 18:15:24",click,"correct-option: D. Both A and C"
+58171,333,113,"2023-05-30 18:15:25",click,"incorrect-option: C. The event listed on the Time Schedule"
+58172,333,113,"2023-05-30 18:15:25",click,"incorrect-option: B. Delete"
+58173,333,113,"2023-05-30 18:15:25",click,"incorrect-option: A. View"
+58174,333,113,"2023-05-30 18:15:26",click,hint
+58175,333,113,"2023-05-30 18:15:27",click,next-page
+58176,333,114,"2023-05-30 18:15:27",page-load,video
+58186,333,115,"2023-05-30 18:15:54",page-load,"web form: question"
+58187,333,115,"2023-05-30 18:15:55",click,"incorrect-option: 10 minutes before"
+58188,333,115,"2023-05-30 18:15:55",click,"incorrect-option: 15 minutes before"
+58189,333,115,"2023-05-30 18:15:56",click,"correct-option: 30 minutes before"
+58190,333,115,"2023-05-30 18:15:56",click,"incorrect-option: 15 minutes before"
+58191,333,115,"2023-05-30 18:15:56",click,"correct-option: 30 minutes before"
+58192,333,115,"2023-05-30 18:15:57",click,hint
+58193,333,115,"2023-05-30 18:15:57",click,next-page
+58194,333,116,"2023-05-30 18:16:03",page-load,"web form: what would you like to do next"
+58195,333,116,"2023-05-30 18:16:05",click,take-a-break
+58196,333,116,"2023-05-30 18:16:07",click,take-a-break
+58217,333,0,"2023-05-30 18:17:11","Skills Quiz-5 Step-1 Correct",CALENDAR
+58218,333,0,"2023-05-30 18:17:13","Skills Quiz-5 Step-2 Correct",right-arrow
+58219,333,0,"2023-05-30 18:17:14","Skills Quiz-5 Step-3 Correct",3
+58220,333,0,"2023-05-30 18:17:16","Skills Quiz-5 Step-4 Incorrect",View
+58221,333,0,"2023-05-30 18:17:17","Skills Quiz-5 Step-4 Incorrect",todo-view-1
+58222,333,0,"2023-05-30 18:17:20","Skills Quiz-5 Step-4 Correct",Edit
+58223,333,0,"2023-05-30 18:17:22","Skills Quiz-5 Step-5 Correct",YES
+58224,333,0,"2023-05-30 18:17:23","Skills Quiz-5 Step-6 Incorrect",NO
+58225,333,0,"2023-05-30 18:17:24","Skills Quiz-5 Step-6 Correct","60 min"
+0,0,0,"2023-05-30 18:17:25",module_end,none

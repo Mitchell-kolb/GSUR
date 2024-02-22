@@ -1,0 +1,68 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+48875,324,121,"2023-05-03 21:17:16",page-load,video
+48876,324,122,"2023-05-03 21:21:41",page-load,"web form: question"
+48877,324,122,"2023-05-03 21:21:49",click,"correct-option: Both the To-do List and Time Schedule"
+48878,324,122,"2023-05-03 21:21:49",click,"correct-option: Both the To-do List and Time Schedule"
+48879,324,122,"2023-05-03 21:21:56",click,next-page
+48880,324,123,"2023-05-03 21:21:56",page-load,video
+48881,324,124,"2023-05-03 21:23:47",page-load,"web form: what would you like to do next"
+48882,324,0,"2023-05-03 21:25:01","Skills Quiz-7 Step-1 Incorrect","Date:Title:Blood Donation Volunteer ShiftDescription:"
+48883,324,0,"2023-05-03 21:25:02","Skills Quiz-7 Step-1 Incorrect","Date:Title:Blood Donation Volunteer ShiftDescription:"
+48884,324,0,"2023-05-03 21:25:03","Skills Quiz-7 Step-1 Incorrect",Description:
+48885,324,0,"2023-05-03 21:25:06","Skills Quiz-7 Step-1 Correct",Edit
+48886,324,0,"2023-05-03 21:25:23","Skills Quiz-7 Step-2 Correct",event-description
+48887,324,0,"2023-05-03 21:25:53","Skills Quiz 30 second Hint",30time
+48888,324,0,"2023-05-03 21:26:35","Skills Quiz-7 Step-4 Incorrect",Daily
+48889,324,0,"2023-05-03 21:26:37","Skills Quiz-7 Step-4 Incorrect",Daily
+48890,324,0,"2023-05-03 21:26:54","Skills Quiz-7 Step-4 Incorrect",Daily
+48891,324,0,"2023-05-03 21:26:55","Skills Quiz-7 Step-4 Correct",Weekly
+48892,324,0,"2023-05-03 21:26:58","Skills Quiz-7 Step-5 Correct",Tue
+48893,324,0,"2023-05-03 21:26:59","Skills Quiz-7 Step-6 Correct",Thu
+48894,324,0,"2023-05-03 21:27:15","Skills Quiz-7 Step-7 Incorrect",Next
+48895,324,0,"2023-05-03 21:27:22","Skills Quiz-7 Step-7 Incorrect","Repeat Forever (tap to change)"
+48896,324,0,"2023-05-03 21:27:22","Skills Quiz-7 Step-8 Incorrect","Repeat Forever (tap to change)"
+48897,324,0,"2023-05-03 21:27:28","Skills Quiz-7 Step-8 Incorrect","Repeat Forever (tap to change)"
+48898,324,0,"2023-05-03 21:27:28","Skills Quiz-7 Step-7 Incorrect","Repeat Forever (tap to change)"
+48899,324,0,"2023-05-03 21:27:29","Skills Quiz-7 Step-7 Incorrect",Next
+48900,324,0,"2023-05-03 21:27:29","Skills Quiz-7 Step-8 Incorrect",Next
+48901,324,0,"2023-05-03 21:27:31","Skills Quiz-7 Step-8 Incorrect",Next
+48902,324,0,"2023-05-03 21:27:31","Skills Quiz-7 Step-7 Incorrect",Next
+48903,324,0,"2023-05-03 21:27:31","Skills Quiz-7 Step-9 Incorrect",Next
+48904,324,0,"2023-05-03 21:27:43","Skills Quiz-7 Step-8 Incorrect","Repeat Forever (tap to change)"
+48905,324,0,"2023-05-03 21:27:43","Skills Quiz-7 Step-7 Incorrect","Repeat Forever (tap to change)"
+48906,324,0,"2023-05-03 21:27:43","Skills Quiz-7 Step-9 Incorrect","Repeat Forever (tap to change)"
+48907,324,0,"2023-05-03 21:27:43","Skills Quiz-7 Step-10 Incorrect","Repeat Forever (tap to change)"
+48908,324,0,"2023-05-03 21:27:47","Skills Quiz-7 Step-7 Incorrect","Repeat Forever (tap to change)"
+48909,324,0,"2023-05-03 21:27:47","Skills Quiz-7 Step-8 Incorrect","Repeat Forever (tap to change)"
+48910,324,0,"2023-05-03 21:27:47","Skills Quiz-7 Step-9 Incorrect","Repeat Forever (tap to change)"
+48911,324,0,"2023-05-03 21:27:47","Skills Quiz-7 Step-10 Incorrect","Repeat Forever (tap to change)"
+48912,324,0,"2023-05-03 21:27:50","Skills Quiz-7 Step-7 Incorrect",Next
+48913,324,0,"2023-05-03 21:27:50","Skills Quiz-7 Step-9 Incorrect",Next
+48914,324,0,"2023-05-03 21:27:50","Skills Quiz-7 Step-10 Incorrect",Next
+48915,324,0,"2023-05-03 21:27:50","Skills Quiz-7 Step-8 Incorrect",Next
+48916,324,0,"2023-05-03 21:27:52","Skills Quiz-7 Step-8 Incorrect","Repeat Forever (tap to change)"
+48917,324,0,"2023-05-03 21:27:52","Skills Quiz-7 Step-10 Incorrect","Repeat Forever (tap to change)"
+48918,324,0,"2023-05-03 21:27:52","Skills Quiz-7 Step-7 Incorrect","Repeat Forever (tap to change)"
+48919,324,0,"2023-05-03 21:27:52","Skills Quiz-7 Step-9 Incorrect","Repeat Forever (tap to change)"
+48920,324,0,"2023-05-03 21:27:52","Skills Quiz-7 Step-11 Incorrect","Repeat Forever (tap to change)"
+48921,324,0,"2023-05-03 21:27:54","Skills Quiz-7 Step-8 Incorrect",YES
+48922,324,0,"2023-05-03 21:27:54","Skills Quiz-7 Step-11 Correct",YES
+48923,324,0,"2023-05-03 21:27:54","Skills Quiz-7 Step-7 Incorrect",YES
+48924,324,0,"2023-05-03 21:27:54","Skills Quiz-7 Step-10 Incorrect",YES
+48925,324,0,"2023-05-03 21:27:54","Skills Quiz-7 Step-9 Incorrect",YES
+48926,324,0,"2023-05-03 21:27:56","Skills Quiz-7 Step-8 Incorrect",YES
+48927,324,0,"2023-05-03 21:27:56","Skills Quiz-7 Step-10 Incorrect",YES
+48928,324,0,"2023-05-03 21:27:56","Skills Quiz-7 Step-7 Incorrect",YES
+48929,324,0,"2023-05-03 21:27:56","Skills Quiz-7 Step-12 Incorrect",YES
+48930,324,0,"2023-05-03 21:27:56","Skills Quiz-7 Step-9 Incorrect",YES
+48931,324,0,"2023-05-03 21:27:56","Skills Quiz-7 Step-7 Incorrect",YES
+48932,324,0,"2023-05-03 21:27:57","Skills Quiz-7 Step-9 Incorrect",YES
+48933,324,0,"2023-05-03 21:27:57","Skills Quiz-7 Step-10 Incorrect",YES
+48934,324,0,"2023-05-03 21:27:57","Skills Quiz-7 Step-8 Incorrect",YES
+48935,324,0,"2023-05-03 21:27:57","Skills Quiz-7 Step-12 Incorrect",YES
+48936,324,0,"2023-05-03 21:27:59","Skills Quiz-7 Step-12 Correct",Save
+48937,324,0,"2023-05-03 21:27:59","Skills Quiz-7 Step-7 Incorrect",Save
+48938,324,0,"2023-05-03 21:27:59","Skills Quiz-7 Step-8 Incorrect",Save
+48939,324,0,"2023-05-03 21:27:59","Skills Quiz-7 Step-10 Incorrect",Save
+48940,324,0,"2023-05-03 21:27:59","Skills Quiz-7 Step-9 Incorrect",Save
+0,0,0,"2023-05-03 21:28:36",module_end,none

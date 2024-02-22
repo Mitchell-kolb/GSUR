@@ -1,0 +1,20 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+104185,407,0,"2023-12-03 00:50:14","Skills Quiz-6 Step-1 Correct",CALENDAR
+104186,407,0,"2023-12-03 00:50:21","Skills Quiz-6 Step-2 Incorrect","JUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930"
+104187,407,0,"2023-12-03 00:50:26","Skills Quiz-6 Step-2 Correct",right-arrow
+104188,407,0,"2023-12-03 00:50:29","Skills Quiz-6 Step-2 Incorrect","JULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031"
+104189,407,0,"2023-12-03 00:50:31","Skills Quiz-6 Step-2 Correct",right-arrow
+104190,407,0,"2023-12-03 00:50:48","Skills Quiz-6 Step-3 Incorrect",CALENDAR
+104191,407,0,"2023-12-03 00:50:52","Skills Quiz-6 Step-3 Correct",3
+104192,407,0,"2023-12-03 00:51:02","Skills Quiz-6 Step-4 Incorrect","Add Entry/Event"
+104193,407,0,"2023-12-03 00:51:10","Skills Quiz-6 Step-4 Incorrect","Breakfast with John12:30 PM - 1:30 PMView"
+104194,407,0,"2023-12-03 00:51:13","Skills Quiz-6 Step-4 Incorrect",CALENDAR
+104195,407,0,"2023-12-03 00:51:20","Skills Quiz-6 Step-4 Incorrect",CALENDAR
+104196,407,119,"2023-12-03 00:51:24",click,"skills quiz hint"
+104197,407,119,"2023-12-03 00:51:24",click,"skills quiz hint"
+104198,407,0,"2023-12-03 00:51:44","Skills Quiz-6 Step-4 Incorrect",Date:
+104199,407,0,"2023-12-03 00:51:46","Skills Quiz-6 Step-4 Correct",Edit
+104200,407,0,"2023-12-03 00:51:55","Skills Quiz-6 Step-5 Correct",YES
+104201,407,0,"2023-12-03 00:51:58","Skills Quiz-6 Step-6 Correct","60 min"
+104202,407,0,"2023-12-03 00:52:11","Skills Quiz-6 Step-7 Correct",Save
+0,0,0,"2023-12-03 00:52:11",module_end,none

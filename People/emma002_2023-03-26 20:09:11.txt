@@ -1,0 +1,16 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+33932,300,0,"2023-03-26 20:07:45","Skills Quiz-8 Step-1 Correct",Edit
+33933,300,0,"2023-03-26 20:07:51","Skills Quiz-8 Step-2 Correct",event-description
+33934,300,0,"2023-03-26 20:08:21","Skills Quiz 30 second Hint",30time
+33935,300,0,"2023-03-26 20:08:34","Skills Quiz-8 Step-4 Correct",Weekly
+33936,300,0,"2023-03-26 20:08:39","Skills Quiz-8 Step-5 Correct",Mon
+33937,300,0,"2023-03-26 20:08:41","Skills Quiz-8 Step-6 Correct",Wed
+33938,300,0,"2023-03-26 20:08:47","Skills Quiz-8 Step-7 Correct","Repeat Forever (tap to change)"
+33939,300,0,"2023-03-26 20:08:49","Skills Quiz-8 Step-8 Correct",end-right-arrow
+33940,300,0,"2023-03-26 20:08:50","Skills Quiz-8 Step-0 Correct",end-right-arrow
+33941,300,0,"2023-03-26 20:08:52","Skills Quiz-8 Step-9 Correct",31
+33942,300,0,"2023-03-26 20:08:54","Skills Quiz-8 Step-10 Correct",OK
+33943,300,0,"2023-03-26 20:08:59","Skills Quiz-8 Step-11 Correct",YES
+33944,300,0,"2023-03-26 20:09:04","Skills Quiz-8 Step-12 Correct",Save
+33945,300,0,"2023-03-26 20:09:10","Skills Quiz-8 Step-13 Correct",Save
+0,0,0,"2023-03-26 20:09:11",module_end,none

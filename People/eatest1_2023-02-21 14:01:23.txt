@@ -1,0 +1,27 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+24791,245,235,"2023-02-21 14:00:13",page-load,video
+24792,245,236,"2023-02-21 14:00:19",page-load,"web form: question"
+24793,245,236,"2023-02-21 14:00:51",click,"incorrect-option: 2"
+24794,245,236,"2023-02-21 14:00:51",click,"incorrect-option: Entire contents of folder"
+24795,245,236,"2023-02-21 14:00:52",click,"incorrect-option: None"
+24796,245,236,"2023-02-21 14:00:52",click,"correct-option: 1"
+24797,245,236,"2023-02-21 14:00:53",click,next-page
+24798,245,237,"2023-02-21 14:00:53",page-load,"web form: what would you like to do next"
+24799,245,237,"2023-02-21 14:00:54",click,next-page
+24800,245,238,"2023-02-21 14:00:55",page-load,"skills quiz preview"
+24801,245,238,"2023-02-21 14:00:56",click,next-page
+24802,245,0,"2023-02-21 14:00:59","Skills Quiz-17 Step-1 Incorrect","Chocolate Chip CookiesView"
+24803,245,0,"2023-02-21 14:01:00","Skills Quiz-17 Step-1 Correct",View
+24804,245,0,"2023-02-21 14:01:01","Skills Quiz-17 Step-2 Correct",SAVE
+24805,245,0,"2023-02-21 14:01:03","Skills Quiz-17 Step-3 Correct",Delete
+24806,245,0,"2023-02-21 14:01:06","Skills Quiz-17 Step-4 Incorrect",modal-note-delete-content
+24807,245,0,"2023-02-21 14:01:07","Skills Quiz-17 Step-4 Correct",Confirm
+24808,245,0,"2023-02-21 14:01:08","Skills Quiz-17 Step-5 Correct"," Delete"
+24809,245,0,"2023-02-21 14:01:16","Skills Quiz-17 Step-6 Incorrect","Chocolate Chip CookiesView"
+24810,245,0,"2023-02-21 14:01:17","Skills Quiz-17 Step-6 Correct",View
+24811,245,0,"2023-02-21 14:01:18","Skills Quiz-17 Step-7 Incorrect","Close    Move NoteEDIT"
+24812,245,0,"2023-02-21 14:01:20","Skills Quiz-17 Step-7 Correct","Move Note"
+24813,245,0,"2023-02-21 14:01:22","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+24814,245,0,"2023-02-21 14:01:23","Skills Quiz-17 Step-9 Incorrect","Cookie Recipes"
+24815,245,0,"2023-02-21 14:01:23","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+0,0,0,"2023-02-21 14:01:23",module_end,none

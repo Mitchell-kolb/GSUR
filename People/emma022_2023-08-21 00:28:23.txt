@@ -1,0 +1,42 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+89155,350,0,"2023-08-21 00:24:17","Skills Quiz-16 Step-1 Incorrect","Holiday GiftsEdit"
+89156,350,0,"2023-08-21 00:24:20","Skills Quiz-16 Step-1 Incorrect","Sort by:RelevantSearch"
+89157,350,0,"2023-08-21 00:24:22","Skills Quiz-16 Step-1 Incorrect","Sort by:RelevantSearch"
+89158,350,0,"2023-08-21 00:24:24","Skills Quiz-16 Step-1 Incorrect","Sort by:RelevantSearch"
+89159,350,0,"2023-08-21 00:24:26","Skills Quiz-16 Step-1 Incorrect",Notes
+89160,350,0,"2023-08-21 00:24:31","Skills Quiz-16 Step-1 Incorrect",Notes
+89161,350,0,"2023-08-21 00:24:43","Skills Quiz-16 Step-1 Incorrect","Holiday Gifts"
+89162,350,0,"2023-08-21 00:24:50","Skills Quiz-16 Step-1 Incorrect","Holiday GiftsEdit"
+89163,350,0,"2023-08-21 00:24:53","Skills Quiz-16 Step-1 Incorrect","Holiday GiftsEdit"
+89164,350,0,"2023-08-21 00:24:55","Skills Quiz-16 Step-1 Incorrect","Sort by:RelevantSearch"
+89165,350,0,"2023-08-21 00:24:56","Skills Quiz-16 Step-1 Incorrect","Sort by:RelevantSearch"
+89166,350,0,"2023-08-21 00:24:58","Skills Quiz-16 Step-1 Correct",Relevant
+89167,350,0,"2023-08-21 00:25:01","Skills Quiz-16 Step-2 Incorrect","A - ZAlphabetical OrderRelevantMost Often Used"
+89168,350,0,"2023-08-21 00:25:07","Skills Quiz-16 Step-2 Correct","A - ZAlphabetical Order"
+89169,350,0,"2023-08-21 00:25:33","Skills Quiz-16 Step-3 Incorrect",Edit
+89170,350,0,"2023-08-21 00:25:38","Skills Quiz-16 Step-3 Incorrect","Holiday Gifts"
+89171,350,0,"2023-08-21 00:25:38","Skills Quiz-16 Step-4 Incorrect","Holiday Gifts"
+89172,350,0,"2023-08-21 00:25:53","Skills Quiz-16 Step-4 Incorrect",Close
+89173,350,0,"2023-08-21 00:25:53","Skills Quiz-16 Step-3 Incorrect",Close
+89174,350,0,"2023-08-21 00:26:08","Skills Quiz-16 Step-4 Incorrect","Lori: MittensView"
+89175,350,0,"2023-08-21 00:26:08","Skills Quiz-16 Step-3 Incorrect","Lori: MittensView"
+89176,350,0,"2023-08-21 00:26:28","Skills Quiz-16 Step-4 Incorrect","Close    Move NoteEDIT"
+89177,350,0,"2023-08-21 00:26:28","Skills Quiz-16 Step-3 Incorrect","Close    Move NoteEDIT"
+89178,350,0,"2023-08-21 00:26:39","Skills Quiz-16 Step-3 Incorrect",undefined
+89179,350,0,"2023-08-21 00:26:39","Skills Quiz-16 Step-4 Incorrect",undefined
+89180,350,0,"2023-08-21 00:26:42","Skills Quiz-16 Step-3 Incorrect",SAVE
+89181,350,0,"2023-08-21 00:26:42","Skills Quiz-16 Step-4 Incorrect",SAVE
+89182,350,0,"2023-08-21 00:26:50","Skills Quiz-16 Step-3 Incorrect",Close
+89183,350,0,"2023-08-21 00:26:50","Skills Quiz-16 Step-4 Incorrect",Close
+89184,350,0,"2023-08-21 00:27:03","Skills Quiz-16 Step-4 Correct",note-search
+89185,350,0,"2023-08-21 00:27:03","Skills Quiz-16 Step-3 Incorrect",note-search
+89186,350,0,"2023-08-21 00:27:30","Skills Quiz-16 Step-3 Incorrect","Lori: MittensView"
+89187,350,0,"2023-08-21 00:27:39","Skills Quiz-16 Step-3 Incorrect",Close
+89188,350,0,"2023-08-21 00:27:41","Skills Quiz-16 Step-3 Incorrect","Lori: ScarfView"
+89189,350,0,"2023-08-21 00:27:45","Skills Quiz-16 Step-3 Incorrect",Close
+89190,350,0,"2023-08-21 00:27:54","Skills Quiz-16 Step-3 Incorrect",Clear
+89191,350,0,"2023-08-21 00:28:02","Skills Quiz-16 Step-3 Incorrect","Holiday Gifts"
+89192,350,0,"2023-08-21 00:28:04","Skills Quiz-16 Step-3 Incorrect",note-search
+89193,350,0,"2023-08-21 00:28:20","Skills Quiz-16 Step-3 Incorrect",View
+89194,350,0,"2023-08-21 00:28:23","Skills Quiz-16 Step-3 Incorrect",Next
+0,0,0,"2023-08-21 00:28:23",module_end,none

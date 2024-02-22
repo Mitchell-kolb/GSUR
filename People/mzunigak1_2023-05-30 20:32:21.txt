@@ -1,0 +1,69 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+55587,305,37,"2023-05-22 19:01:10",page-load,video
+55589,305,38,"2023-05-22 19:03:19",page-load,"goal setting: importance"
+55594,305,39,"2023-05-22 19:07:32",page-load,video
+55596,305,40,"2023-05-22 19:08:16",page-load,"goal setting: pick three strategies"
+55600,305,40,"2023-05-22 19:09:59",click,next-page
+55601,305,41,"2023-05-22 19:10:01",page-load,"goal setting: pick top strategy"
+55604,305,41,"2023-05-22 19:11:53",click,next-page
+55605,305,42,"2023-05-22 19:11:54",page-load,"goal setting: top strategy display"
+55618,305,41,"2023-05-22 19:12:49",page-load,"goal setting: pick top strategy"
+55619,305,41,"2023-05-22 19:12:50",click,previous-page
+55620,305,40,"2023-05-22 19:12:51",page-load,"goal setting: pick three strategies"
+55623,305,40,"2023-05-22 19:13:39",click,next-page
+55624,305,40,"2023-05-22 19:13:46",click,next-page
+55625,305,41,"2023-05-22 19:13:46",page-load,"goal setting: pick top strategy"
+55626,305,41,"2023-05-22 19:15:02",click,next-page
+55629,305,42,"2023-05-22 19:15:03",page-load,"goal setting: top strategy display"
+55630,305,43,"2023-05-22 19:15:39",page-load,"goal setting: summary page one"
+55635,305,44,"2023-05-22 19:16:43",page-load,"goal setting: summary page two"
+55636,305,45,"2023-05-22 19:17:43",page-load,"goal setting: summary page two"
+55638,305,46,"2023-05-22 19:18:48",page-load,"goal setting: example plan"
+55647,305,47,"2023-05-22 19:21:40",page-load,"goal setting: when"
+55648,305,47,"2023-05-22 19:21:54",click,previous-page
+55649,305,46,"2023-05-22 19:21:55",page-load,"goal setting: example plan"
+55653,305,47,"2023-05-22 19:22:28",page-load,"goal setting: when"
+55656,305,47,"2023-05-22 19:24:04",click,next-page
+55657,305,47,"2023-05-22 19:24:12",click,next-page
+55658,305,48,"2023-05-22 19:24:13",page-load,"goal setting: plan"
+55659,305,48,"2023-05-22 19:24:36",click,previous-page
+55660,305,47,"2023-05-22 19:24:36",page-load,"goal setting: when"
+55661,305,47,"2023-05-22 19:24:37",click,next-page
+55662,305,47,"2023-05-22 19:24:42",click,next-page
+55663,305,48,"2023-05-22 19:24:43",page-load,"goal setting: plan"
+56703,305,300,"2023-05-29 18:19:14",page-load,video
+56705,305,301,"2023-05-29 18:28:13",page-load,"web form: question"
+56707,305,301,"2023-05-29 18:28:35",click,previous-page
+56708,305,300,"2023-05-29 18:28:35",page-load,video
+59507,305,104,"2023-05-30 20:17:52",page-load,video
+59508,305,10,"2023-05-30 20:17:54",page-load,video
+59510,305,11,"2023-05-30 20:19:21",page-load,video
+59511,305,12,"2023-05-30 20:21:35",page-load,"web form: scheduling choices"
+59515,305,12,"2023-05-30 20:21:48",tracked,"Scheduling and keeping appointments"
+59516,305,12,"2023-05-30 20:21:49",tracked,"Managing medications"
+59518,305,12,"2023-05-30 20:22:04",tracked,"Remembering important events"
+59522,305,12,"2023-05-30 20:22:34",click,next-page
+59523,305,13,"2023-05-30 20:22:35",page-load,video
+59525,305,14,"2023-05-30 20:23:29",page-load,"web form: what would you like to do next"
+59528,305,14,"2023-05-30 20:23:56",click,next-page
+59529,305,15,"2023-05-30 20:23:57",page-load,video
+59534,305,16,"2023-05-30 20:24:42",page-load,"web form: question"
+59535,305,16,"2023-05-30 20:24:44",click,"correct-option: Grey"
+59536,305,16,"2023-05-30 20:24:45",click,next-page
+59537,305,17,"2023-05-30 20:24:46",page-load,video
+59539,305,18,"2023-05-30 20:25:09",page-load,"web form: question"
+59540,305,18,"2023-05-30 20:25:13",click,"correct-option: 1:30 PM"
+59541,305,18,"2023-05-30 20:25:14",click,next-page
+59542,305,19,"2023-05-30 20:25:14",page-load,video
+59546,305,20,"2023-05-30 20:30:40",page-load,"web form: question"
+59548,305,20,"2023-05-30 20:30:45",click,"incorrect-option: Red"
+59549,305,20,"2023-05-30 20:30:45",click,"correct-option: Blue"
+59550,305,20,"2023-05-30 20:30:46",click,next-page
+59551,305,21,"2023-05-30 20:30:47",page-load,"web form: what would you like to do next"
+59557,305,0,"2023-05-30 20:32:13","Skills Quiz-1 Step-1 Correct",TODAY
+59559,305,0,"2023-05-30 20:32:15","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+59561,305,0,"2023-05-30 20:32:16","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+59563,305,0,"2023-05-30 20:32:19","Skills Quiz-1 Step-4 Correct",right-arrow
+59565,305,0,"2023-05-30 20:32:20","Skills Quiz-1 Step-5 Correct",14
+59566,305,0,"2023-05-30 20:32:21","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-05-30 20:32:21",module_end,none

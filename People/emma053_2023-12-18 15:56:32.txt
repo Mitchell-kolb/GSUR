@@ -1,0 +1,32 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+107368,414,26,"2023-12-18 15:42:06",page-load,video
+107369,414,27,"2023-12-18 15:44:25",page-load,"web form: question"
+107370,414,27,"2023-12-18 15:44:39",click,"correct-option: True"
+107371,414,27,"2023-12-18 15:44:48",click,next-page
+107372,414,28,"2023-12-18 15:44:48",page-load,"web form: question"
+107373,414,28,"2023-12-18 15:44:56",click,"correct-option: True"
+107374,414,28,"2023-12-18 15:45:05",click,next-page
+107375,414,29,"2023-12-18 15:45:06",page-load,video
+107376,414,30,"2023-12-18 15:47:26",page-load,"web form: question"
+107377,414,30,"2023-12-18 15:47:36",click,"incorrect-option: Where the activity will take place (address or room number)"
+107378,414,30,"2023-12-18 15:47:46",click,"correct-option: All of the above"
+107379,414,30,"2023-12-18 15:47:53",click,next-page
+107380,414,31,"2023-12-18 15:47:53",page-load,video
+107381,414,32,"2023-12-18 15:51:55",page-load,"web form: what would you like to do next"
+107382,414,0,"2023-12-18 15:52:59","Skills Quiz-3 Step-1 Incorrect",CALENDAR
+107383,414,0,"2023-12-18 15:53:05","Skills Quiz-3 Step-1 Correct",TODAY
+107384,414,0,"2023-12-18 15:53:22","Skills Quiz-3 Step-2 Incorrect",undefined
+107385,414,0,"2023-12-18 15:53:37","Skills Quiz-3 Step-2 Incorrect",undefined
+107386,414,0,"2023-12-18 15:54:00","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+107387,414,0,"2023-12-18 15:54:03","Skills Quiz-3 Step-4 Correct",right-arrow
+107388,414,0,"2023-12-18 15:54:06","Skills Quiz-3 Step-5 Correct",14
+107389,414,0,"2023-12-18 15:54:13","Skills Quiz-3 Step-6 Correct",OK
+107390,414,0,"2023-12-18 15:54:17","Skills Quiz-3 Step-7 Correct","Tap Here"
+107391,414,0,"2023-12-18 15:54:35","Skills Quiz-3 Step-10 Correct","Tap Here"
+107392,414,0,"2023-12-18 15:55:09","Skills Quiz-3 Step-13 Correct",event-title
+107393,414,0,"2023-12-18 15:55:38","Skills Quiz 30 second Hint",30time
+107394,414,0,"2023-12-18 15:55:47","Skills Quiz-3 Step-15 Correct",event-description
+107395,414,0,"2023-12-18 15:56:17","Skills Quiz 30 second Hint",30time
+107396,414,0,"2023-12-18 15:56:28","Skills Quiz-3 Step-17 Incorrect",NO
+107397,414,0,"2023-12-18 15:56:32","Skills Quiz-3 Step-17 Correct",Save
+0,0,0,"2023-12-18 15:56:32",module_end,none

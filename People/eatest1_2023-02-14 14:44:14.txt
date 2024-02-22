@@ -1,0 +1,62 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+22330,245,204,"2023-02-14 14:41:22",page-load,video
+22331,245,205,"2023-02-14 14:41:30",page-load,"web form: question"
+22332,245,205,"2023-02-14 14:41:31",click,"correct-option: Add New Folder"
+22334,245,205,"2023-02-14 14:41:32",click,next-page
+22335,245,206,"2023-02-14 14:41:32",page-load,video
+22336,245,207,"2023-02-14 14:41:41",page-load,"web form: question"
+22340,245,207,"2023-02-14 14:41:45",click,"incorrect-option: Sorts your folders alphabetically."
+22341,245,207,"2023-02-14 14:41:45",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+22342,245,207,"2023-02-14 14:41:46",click,next-page
+22343,245,208,"2023-02-14 14:41:47",page-load,"web form: what would you like to do next"
+22344,245,208,"2023-02-14 14:41:48",click,next-page
+22345,245,209,"2023-02-14 14:41:48",page-load,"skills quiz preview"
+22346,245,209,"2023-02-14 14:41:49",click,next-page
+22347,245,0,"2023-02-14 14:42:21","Skills Quiz 30 second Hint",30time
+22348,245,0,"2023-02-14 14:42:38","Skills Quiz-11 Step-1 Correct","Add New Folder"
+22349,245,0,"2023-02-14 14:42:39","Skills Quiz-11 Step-2 Correct",modal-folder-title
+22350,245,0,"2023-02-14 14:42:43","Skills Quiz-11 Step-3 Incorrect",Next
+22351,245,104,"2023-02-14 14:42:53",page-load,video
+22352,245,105,"2023-02-14 14:43:01",page-load,"web form: question"
+22353,245,105,"2023-02-14 14:43:02",click,"correct-option: Birthdays"
+22354,245,105,"2023-02-14 14:43:03",click,next-page
+22355,245,106,"2023-02-14 14:43:04",page-load,video
+22356,245,107,"2023-02-14 14:43:08",page-load,"web form: question"
+22357,245,107,"2023-02-14 14:43:09",click,"correct-option: Exercise"
+22358,245,107,"2023-02-14 14:43:10",click,next-page
+22359,245,108,"2023-02-14 14:43:11",page-load,"web form: what would you like to do next"
+22360,245,108,"2023-02-14 14:43:12",click,next-page
+22361,245,109,"2023-02-14 14:43:12",page-load,video
+22362,245,110,"2023-02-14 14:43:23",page-load,"web form: question"
+22363,245,110,"2023-02-14 14:43:24",click,"incorrect-option: The event will repeat"
+22364,245,110,"2023-02-14 14:43:25",click,"incorrect-option: The event takes place on a race track"
+22365,245,110,"2023-02-14 14:43:26",click,next-page
+22366,245,111,"2023-02-14 14:43:27",page-load,"web form: what would you like to do next"
+22367,245,111,"2023-02-14 14:43:27",click,next-page
+22368,245,112,"2023-02-14 14:43:28",page-load,video
+22369,245,113,"2023-02-14 14:43:34",page-load,"web form: question"
+22370,245,113,"2023-02-14 14:43:36",click,"incorrect-option: B. Delete"
+22371,245,113,"2023-02-14 14:43:37",click,"incorrect-option: C. The event listed on the Time Schedule"
+22372,245,113,"2023-02-14 14:43:37",click,"correct-option: D. Both A and C"
+22373,245,113,"2023-02-14 14:43:38",click,next-page
+22374,245,114,"2023-02-14 14:43:39",page-load,video
+22375,245,115,"2023-02-14 14:43:49",page-load,"web form: question"
+22376,245,115,"2023-02-14 14:43:50",click,"incorrect-option: 15 minutes before"
+22377,245,115,"2023-02-14 14:43:50",click,"correct-option: 30 minutes before"
+22378,245,115,"2023-02-14 14:43:50",click,"incorrect-option: 10 minutes before"
+22379,245,115,"2023-02-14 14:43:51",click,next-page
+22380,245,116,"2023-02-14 14:43:52",page-load,"web form: what would you like to do next"
+22381,245,116,"2023-02-14 14:43:53",click,next-page
+22382,245,0,"2023-02-14 14:43:57","Skills Quiz-5 Step-1 Correct",CALENDAR
+22383,245,0,"2023-02-14 14:43:59","Skills Quiz-5 Step-2 Incorrect","JUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930"
+22384,245,0,"2023-02-14 14:44:00","Skills Quiz-5 Step-2 Correct",right-arrow
+22385,245,0,"2023-02-14 14:44:00","Skills Quiz-5 Step-3 Incorrect",SAT
+22386,245,0,"2023-02-14 14:44:03","Skills Quiz-5 Step-3 Correct",3
+22387,245,0,"2023-02-14 14:44:04","Skills Quiz-5 Step-4 Incorrect",Loading...
+22388,245,0,"2023-02-14 14:44:05","Skills Quiz-5 Step-4 Incorrect","Lunch with Mary12:30 PM - 1:30 PM"
+22389,245,0,"2023-02-14 14:44:07","Skills Quiz-5 Step-4 Correct",Edit
+22390,245,0,"2023-02-14 14:44:11","Skills Quiz-5 Step-5 Correct",YES
+22391,245,0,"2023-02-14 14:44:12","Skills Quiz-5 Step-6 Incorrect","15 min"
+22392,245,0,"2023-02-14 14:44:13","Skills Quiz-5 Step-6 Correct","60 min"
+22393,245,0,"2023-02-14 14:44:13","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-02-14 14:44:14",module_end,none

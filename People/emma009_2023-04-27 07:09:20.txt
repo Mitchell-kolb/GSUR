@@ -1,0 +1,39 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+44936,309,425,"2023-04-27 07:05:46",page-load,"web form: question"
+44937,309,425,"2023-04-27 07:05:52",click,"correct-option: True"
+44938,309,425,"2023-04-27 07:05:54",click,next-page
+44939,309,426,"2023-04-27 07:05:55",page-load,video
+44940,309,427,"2023-04-27 07:06:40",page-load,"web form: what would you like to do next"
+44941,309,427,"2023-04-27 07:06:45",click,next-page
+44942,309,428,"2023-04-27 07:06:46",page-load,"skills quiz preview"
+44943,309,428,"2023-04-27 07:07:06",click,next-page
+44944,309,0,"2023-04-27 07:07:09","Skills Quiz-23 Step-1 Incorrect",HEALTH
+44945,309,0,"2023-04-27 07:07:11","Skills Quiz-23 Step-1 Incorrect",HEALTH
+44946,309,0,"2023-04-27 07:07:21","Skills Quiz-23 Step-1 Correct",Edit
+44947,309,0,"2023-04-27 07:07:28","Skills Quiz-23 Step-2 Incorrect",undefined
+44948,309,0,"2023-04-27 07:07:28","Skills Quiz-23 Step-2 Incorrect",undefined
+44949,309,0,"2023-04-27 07:07:33","Skills Quiz-23 Step-2 Correct",Weekly
+44950,309,0,"2023-04-27 07:07:39","Skills Quiz-23 Step-3 Correct",Thu
+44951,309,0,"2023-04-27 07:07:44","Skills Quiz-23 Step-4 Correct","Repeat Forever (tap to change)"
+44952,309,0,"2023-04-27 07:07:56","Skills Quiz-23 Step-5 Incorrect","Please choose a Date to Stop RepeatingJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+44953,309,0,"2023-04-27 07:07:58","Skills Quiz-23 Step-5 Incorrect","Please choose a Date to Stop RepeatingJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+44954,309,0,"2023-04-27 07:08:10","Skills Quiz-23 Step-5 Correct",end-right-arrow
+44955,309,0,"2023-04-27 07:08:14","Skills Quiz-23 Step-6 Correct",8
+44956,309,0,"2023-04-27 07:08:16","Skills Quiz-23 Step-7 Correct",OK
+44957,309,0,"2023-04-27 07:08:25","Skills Quiz-23 Step-8 Correct",Save
+44958,309,0,"2023-04-27 07:08:37","Skills Quiz-23 Step-9 Correct",YES
+44959,309,0,"2023-04-27 07:08:45","Skills Quiz-23 Step-10 Correct","                        Blood Pressure                     "
+44960,309,0,"2023-04-27 07:08:46","Skills Quiz-23 Step-11 Correct","Tap Here"
+44961,309,0,"2023-04-27 07:08:47","Skills Quiz-23 Step-12 Correct",1
+44962,309,0,"2023-04-27 07:08:48","Skills Quiz-23 Step-13 Correct",2
+44963,309,0,"2023-04-27 07:08:49","Skills Quiz-23 Step-14 Correct",0
+44964,309,0,"2023-04-27 07:08:51","Skills Quiz-23 Step-15 Incorrect",0
+44965,309,0,"2023-04-27 07:08:52","Skills Quiz-23 Step-15 Incorrect",0
+44966,309,0,"2023-04-27 07:08:55","Skills Quiz-23 Step-15 Correct","                                    Save               "
+44967,309,0,"2023-04-27 07:08:56","Skills Quiz-23 Step-16 Correct","Tap Here"
+44968,309,0,"2023-04-27 07:08:57","Skills Quiz-23 Step-17 Correct",8
+44969,309,0,"2023-04-27 07:08:58","Skills Quiz-23 Step-18 Correct",0
+44970,309,0,"2023-04-27 07:08:59","Skills Quiz-23 Step-19 Correct","                                    Save               "
+44971,309,0,"2023-04-27 07:09:03","Skills Quiz-23 Step-20 Correct","                                    Save               "
+44972,309,0,"2023-04-27 07:09:19","Skills Quiz-23 Step-21 Correct",Save
+0,0,0,"2023-04-27 07:09:20",module_end,none

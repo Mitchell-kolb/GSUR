@@ -1,0 +1,35 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+111310,411,425,"2024-01-01 22:12:24",page-load,"web form: question"
+111311,411,425,"2024-01-01 22:12:39",click,"correct-option: True"
+111312,411,425,"2024-01-01 22:12:44",click,next-page
+111313,411,426,"2024-01-01 22:12:45",page-load,video
+111314,411,427,"2024-01-01 22:17:18",page-load,"web form: what would you like to do next"
+111315,411,427,"2024-01-01 22:17:25",click,next-page
+111316,411,428,"2024-01-01 22:17:25",page-load,"skills quiz preview"
+111317,411,428,"2024-01-01 22:17:30",click,next-page
+111318,411,0,"2024-01-01 22:18:01","Skills Quiz 30 second Hint",30time
+111319,411,0,"2024-01-01 22:18:08","Skills Quiz-23 Step-1 Correct",Edit
+111320,411,0,"2024-01-01 22:18:30","Skills Quiz-23 Step-2 Correct",Weekly
+111321,411,0,"2024-01-01 22:18:34","Skills Quiz-23 Step-3 Correct",Thu
+111322,411,0,"2024-01-01 22:18:42","Skills Quiz-23 Step-4 Incorrect",YES
+111323,411,0,"2024-01-01 22:18:44","Skills Quiz-23 Step-4 Correct","Repeat Forever (tap to change)"
+111324,411,0,"2024-01-01 22:18:53","Skills Quiz-23 Step-5 Correct",end-right-arrow
+111325,411,0,"2024-01-01 22:18:57","Skills Quiz-23 Step-6 Incorrect",1
+111326,411,0,"2024-01-01 22:19:03","Skills Quiz-23 Step-6 Incorrect","Please choose a Date to Stop RepeatingJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+111327,411,0,"2024-01-01 22:19:04","Skills Quiz-23 Step-6 Correct",8
+111328,411,0,"2024-01-01 22:19:06","Skills Quiz-23 Step-7 Correct",OK
+111329,411,0,"2024-01-01 22:19:33","Skills Quiz-23 Step-8 Correct",Save
+111330,411,0,"2024-01-01 22:19:46","Skills Quiz-23 Step-9 Correct",YES
+111331,411,0,"2024-01-01 22:19:55","Skills Quiz-23 Step-10 Correct","                        Blood Pressure                     "
+111332,411,0,"2024-01-01 22:19:57","Skills Quiz-23 Step-11 Correct","Tap Here"
+111333,411,0,"2024-01-01 22:19:59","Skills Quiz-23 Step-12 Correct",1
+111334,411,0,"2024-01-01 22:20:01","Skills Quiz-23 Step-13 Correct",2
+111335,411,0,"2024-01-01 22:20:05","Skills Quiz-23 Step-14 Correct",0
+111336,411,0,"2024-01-01 22:20:07","Skills Quiz-23 Step-15 Correct","                                    Save               "
+111337,411,0,"2024-01-01 22:20:09","Skills Quiz-23 Step-16 Correct","Tap Here"
+111338,411,0,"2024-01-01 22:20:13","Skills Quiz-23 Step-17 Correct",8
+111339,411,0,"2024-01-01 22:20:14","Skills Quiz-23 Step-18 Correct",0
+111340,411,0,"2024-01-01 22:20:18","Skills Quiz-23 Step-19 Correct","                                    Save               "
+111341,411,0,"2024-01-01 22:20:20","Skills Quiz-23 Step-20 Correct","                                    Save               "
+111342,411,0,"2024-01-01 22:20:27","Skills Quiz-23 Step-21 Correct",Save
+0,0,0,"2024-01-01 22:20:28",module_end,none

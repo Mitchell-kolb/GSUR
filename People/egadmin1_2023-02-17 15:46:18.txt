@@ -1,0 +1,10 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+23886,254,241,"2023-02-17 15:45:43",page-load,"skills quiz preview"
+23887,254,241,"2023-02-17 15:45:44",click,next-page
+23888,254,0,"2023-02-17 15:45:47","Skills Quiz-18 Step-1 Correct",View
+23889,254,0,"2023-02-17 15:45:49","Skills Quiz-18 Step-2 Correct",SAVE
+23890,254,0,"2023-02-17 15:45:49","Skills Quiz-18 Step-3 Correct",Delete
+23891,254,0,"2023-02-17 15:45:51","Skills Quiz-18 Step-4 Correct",Confirm
+23892,254,0,"2023-02-17 15:45:51","Skills Quiz-18 Step-5 Correct",Delete
+23893,254,0,"2023-02-17 15:45:54","Skills Quiz-18 Step-6 Correct",View
+0,0,0,"2023-02-17 15:46:18",module_end,none

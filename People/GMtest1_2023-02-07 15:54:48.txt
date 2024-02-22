@@ -1,0 +1,29 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+13160,252,129,"2023-02-07 15:49:32",page-load,video
+13161,252,130,"2023-02-07 15:49:47",page-load,"web form: question"
+13162,252,130,"2023-02-07 15:49:59",click,"correct-option: In the To Do list only"
+13163,252,130,"2023-02-07 15:50:01",click,next-page
+13164,252,131,"2023-02-07 15:50:01",page-load,video
+13165,252,132,"2023-02-07 15:50:10",page-load,"web form: what would you like to do next"
+13166,252,132,"2023-02-07 15:50:11",click,next-page
+13167,252,133,"2023-02-07 15:50:12",page-load,video
+13168,252,134,"2023-02-07 15:52:57",page-load,"web form: question"
+13169,252,134,"2023-02-07 15:53:03",click,"correct-option: Check off the empty box next to ""walk Buster"""
+13170,252,134,"2023-02-07 15:53:04",click,next-page
+13171,252,135,"2023-02-07 15:53:05",page-load,video
+13172,252,136,"2023-02-07 15:53:15",page-load,"web form: what would you like to do next"
+13173,252,136,"2023-02-07 15:53:16",click,next-page
+13174,252,137,"2023-02-07 15:53:16",page-load,"skills quiz 10: preview"
+13175,252,137,"2023-02-07 15:53:21",click,next-page
+13176,252,0,"2023-02-07 15:53:48","Skills Quiz-9 Step-1 Correct",Edit
+13177,252,0,"2023-02-07 15:53:50","Skills Quiz-9 Step-2 Incorrect",undefined
+13178,252,0,"2023-02-07 15:53:52","Skills Quiz-9 Step-2 Correct",nos-time-check
+13179,252,0,"2023-02-07 15:53:52","Skills Quiz-9 Step-3 Correct",start-time
+13180,252,0,"2023-02-07 15:53:58","Skills Quiz-9 Step-6 Correct",end-time
+13181,252,0,"2023-02-07 15:54:17","Skills Quiz-9 Step-9 Correct",Save
+13182,252,0,"2023-02-07 15:54:24","Skills Quiz-9 Step-10 Incorrect",Edit
+13183,252,0,"2023-02-07 15:54:28","Skills Quiz-9 Step-2 Incorrect","June 10, 2021"
+13184,252,0,"2023-02-07 15:54:29","Skills Quiz-9 Step-2 Correct",nos-time-check
+13185,252,0,"2023-02-07 15:54:30","Skills Quiz-9 Step-3 Correct","5:00 PM"
+13186,252,138,"2023-02-07 15:54:33",click,"skills quiz hint"
+0,0,0,"2023-02-07 15:54:48",module_end,none

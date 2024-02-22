@@ -1,0 +1,49 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+57766,334,129,"2023-05-30 17:41:17",page-load,video
+57767,334,130,"2023-05-30 17:41:25",page-load,"web form: question"
+57768,334,130,"2023-05-30 17:41:26",click,previous-page
+57769,334,129,"2023-05-30 17:41:26",page-load,video
+57770,334,104,"2023-05-30 17:41:47",page-load,video
+57771,334,10,"2023-05-30 17:41:54",page-load,video
+57772,334,104,"2023-05-30 17:41:56",page-load,video
+57773,334,104,"2023-05-30 17:42:06",page-load,video
+57774,334,104,"2023-05-30 17:42:40",page-load,video
+57775,334,104,"2023-05-30 17:42:53",page-load,video
+57776,334,104,"2023-05-30 17:42:54",page-load,video
+57777,334,105,"2023-05-30 17:42:59",page-load,"web form: question"
+57778,334,105,"2023-05-30 17:43:00",click,"incorrect-option: Social Gatherings"
+57779,334,105,"2023-05-30 17:43:01",click,next-page
+57780,334,106,"2023-05-30 17:43:01",page-load,video
+57781,334,107,"2023-05-30 17:43:04",page-load,"web form: question"
+57782,334,107,"2023-05-30 17:43:05",click,"incorrect-option: Chores"
+57783,334,107,"2023-05-30 17:43:06",click,next-page
+57784,334,108,"2023-05-30 17:43:06",page-load,"web form: what would you like to do next"
+57785,334,108,"2023-05-30 17:43:07",click,next-page
+57786,334,109,"2023-05-30 17:43:08",page-load,video
+57787,334,110,"2023-05-30 17:43:13",page-load,"web form: question"
+57788,334,110,"2023-05-30 17:43:13",click,"incorrect-option: The event has been cancelled"
+57789,334,110,"2023-05-30 17:43:15",click,"incorrect-option: The event takes place on a race track"
+57790,334,110,"2023-05-30 17:43:15",click,"incorrect-option: The event will repeat"
+57791,334,110,"2023-05-30 17:43:16",click,next-page
+57792,334,111,"2023-05-30 17:43:16",page-load,"web form: what would you like to do next"
+57793,334,111,"2023-05-30 17:43:18",click,next-page
+57794,334,112,"2023-05-30 17:43:18",page-load,video
+57795,334,113,"2023-05-30 17:43:20",page-load,"web form: question"
+57796,334,113,"2023-05-30 17:43:20",click,"incorrect-option: A. View"
+57797,334,113,"2023-05-30 17:43:21",click,"incorrect-option: B. Delete"
+57798,334,113,"2023-05-30 17:43:22",click,"incorrect-option: C. The event listed on the Time Schedule"
+57799,334,113,"2023-05-30 17:43:22",click,"correct-option: D. Both A and C"
+57800,334,113,"2023-05-30 17:43:23",click,next-page
+57801,334,114,"2023-05-30 17:43:23",page-load,video
+57802,334,115,"2023-05-30 17:43:30",page-load,"web form: question"
+57803,334,115,"2023-05-30 17:43:31",click,"correct-option: 30 minutes before"
+57804,334,115,"2023-05-30 17:43:32",click,next-page
+57805,334,116,"2023-05-30 17:43:33",page-load,"web form: what would you like to do next"
+57806,334,116,"2023-05-30 17:43:34",click,take-a-break
+57807,334,0,"2023-05-30 17:44:24","Skills Quiz-5 Step-1 Correct",CALENDAR
+57808,334,0,"2023-05-30 17:44:27","Skills Quiz-5 Step-2 Correct",right-arrow
+57809,334,0,"2023-05-30 17:44:28","Skills Quiz-5 Step-3 Incorrect","JULY 2021"
+57810,334,0,"2023-05-30 17:44:29","Skills Quiz-5 Step-3 Correct",3
+57811,334,0,"2023-05-30 17:44:32","Skills Quiz-5 Step-4 Correct",Edit
+57812,334,0,"2023-05-30 17:44:36","Skills Quiz-5 Step-5 Correct",YES
+0,0,0,"2023-05-30 17:44:39",module_end,none

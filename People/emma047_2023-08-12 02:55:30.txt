@@ -1,0 +1,75 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+83659,355,37,"2023-08-08 22:39:32",page-load,video
+83660,355,38,"2023-08-08 22:39:52",page-load,"goal setting: importance"
+83661,355,38,"2023-08-08 22:40:05",click,next-page
+83662,355,39,"2023-08-08 22:40:07",page-load,video
+83663,355,40,"2023-08-08 22:40:52",page-load,"goal setting: pick three strategies"
+83664,355,10,"2023-08-08 22:41:33",page-load,video
+83665,355,11,"2023-08-08 22:42:52",page-load,video
+83666,355,12,"2023-08-08 22:44:28",page-load,"web form: scheduling choices"
+83667,355,12,"2023-08-08 22:44:39",click,next-page
+83668,355,12,"2023-08-08 22:44:44",tracked,"Scheduling and keeping appointments"
+83669,355,12,"2023-08-08 22:44:49",click,next-page
+83670,355,13,"2023-08-08 22:44:49",page-load,video
+83671,355,14,"2023-08-08 22:45:34",page-load,"web form: what would you like to do next"
+83672,355,14,"2023-08-08 22:45:36",click,next-page
+83673,355,15,"2023-08-08 22:45:37",page-load,video
+83674,355,16,"2023-08-08 22:46:37",page-load,"web form: question"
+83675,355,16,"2023-08-08 22:46:44",click,"correct-option: Grey"
+83676,355,16,"2023-08-08 22:46:45",click,next-page
+83677,355,17,"2023-08-08 22:46:46",page-load,video
+83678,355,18,"2023-08-08 22:47:42",page-load,"web form: question"
+83679,355,18,"2023-08-08 22:47:48",click,"correct-option: 1:30 PM"
+83680,355,18,"2023-08-08 22:47:48",click,next-page
+83681,355,19,"2023-08-08 22:47:49",page-load,video
+83682,355,20,"2023-08-08 22:53:15",page-load,"web form: question"
+83683,355,20,"2023-08-08 22:53:36",click,"correct-option: Blue"
+83684,355,20,"2023-08-08 22:53:38",click,next-page
+83685,355,21,"2023-08-08 22:53:39",page-load,"web form: what would you like to do next"
+83704,355,104,"2023-08-09 19:07:13",page-load,video
+83705,355,105,"2023-08-09 19:10:06",page-load,"web form: question"
+85028,355,104,"2023-08-12 02:38:36",page-load,video
+85029,355,105,"2023-08-12 02:41:30",page-load,"web form: question"
+85030,355,105,"2023-08-12 02:41:35",click,"correct-option: Birthdays"
+85031,355,105,"2023-08-12 02:41:38",click,"incorrect-option: Social Gatherings"
+85032,355,105,"2023-08-12 02:41:44",click,"correct-option: Birthdays"
+85033,355,105,"2023-08-12 02:41:46",click,next-page
+85034,355,106,"2023-08-12 02:41:46",page-load,video
+85035,355,107,"2023-08-12 02:42:02",page-load,"web form: question"
+85036,355,107,"2023-08-12 02:42:15",click,"incorrect-option: Daily Medication"
+85037,355,107,"2023-08-12 02:42:20",click,next-page
+85038,355,108,"2023-08-12 02:42:21",page-load,"web form: what would you like to do next"
+85039,355,108,"2023-08-12 02:42:24",click,next-page
+85040,355,109,"2023-08-12 02:42:24",page-load,video
+85041,355,110,"2023-08-12 02:47:01",page-load,"web form: question"
+85042,355,110,"2023-08-12 02:47:10",click,next-page
+85043,355,111,"2023-08-12 02:47:10",page-load,"web form: what would you like to do next"
+85044,355,111,"2023-08-12 02:47:12",click,next-page
+85045,355,112,"2023-08-12 02:47:13",page-load,video
+85046,355,113,"2023-08-12 02:48:03",page-load,"web form: question"
+85047,355,113,"2023-08-12 02:48:13",click,"incorrect-option: A. View"
+85048,355,113,"2023-08-12 02:48:25",click,"incorrect-option: C. The event listed on the Time Schedule"
+85049,355,113,"2023-08-12 02:48:27",click,"correct-option: D. Both A and C"
+85050,355,113,"2023-08-12 02:48:38",click,next-page
+85051,355,114,"2023-08-12 02:48:38",page-load,video
+85052,355,115,"2023-08-12 02:51:24",page-load,"web form: question"
+85053,355,115,"2023-08-12 02:51:37",click,"correct-option: 30 minutes before"
+85054,355,115,"2023-08-12 02:51:38",click,next-page
+85055,355,116,"2023-08-12 02:51:38",page-load,"web form: what would you like to do next"
+85056,355,0,"2023-08-12 02:52:50","Skills Quiz-5 Step-1 Incorrect",CALENDAR
+85057,355,0,"2023-08-12 02:52:53","Skills Quiz-5 Step-2 Incorrect","JUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930"
+85058,355,0,"2023-08-12 02:53:01","Skills Quiz-5 Step-2 Correct",right-arrow
+85059,355,0,"2023-08-12 02:53:47","Skills Quiz 30 second Hint",30time
+85060,355,0,"2023-08-12 02:53:50","Skills Quiz-5 Step-1 Correct",CALENDAR
+85061,355,0,"2023-08-12 02:53:59","Skills Quiz-5 Step-2 Correct",right-arrow
+85062,355,0,"2023-08-12 02:54:01","Skills Quiz-5 Step-3 Correct",3
+85063,355,0,"2023-08-12 02:54:19","Skills Quiz-5 Step-4 Correct",Edit
+85064,355,0,"2023-08-12 02:54:35","Skills Quiz-5 Step-5 Correct",YES
+85065,355,0,"2023-08-12 02:54:44","Skills Quiz-5 Step-6 Correct","60 min"
+85066,355,0,"2023-08-12 02:55:11","Skills Quiz-5 Step-7 Incorrect",undefined
+85067,355,0,"2023-08-12 02:55:22","Skills Quiz-5 Step-7 Incorrect",undefined
+85068,355,0,"2023-08-12 02:55:23","Skills Quiz-5 Step-7 Incorrect",undefined
+85069,355,0,"2023-08-12 02:55:24","Skills Quiz-5 Step-7 Incorrect",undefined
+85070,355,117,"2023-08-12 02:55:27",click,"skills quiz hint"
+85071,355,0,"2023-08-12 02:55:29","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-08-12 02:55:30",module_end,none

@@ -1,0 +1,13 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+44583,159,226,"2023-04-27 05:19:27",page-load,"web form: question"
+44584,159,226,"2023-04-27 05:19:36",click,"correct-option: Magnifying Glass"
+44585,159,226,"2023-04-27 05:19:38",click,next-page
+44586,159,227,"2023-04-27 05:19:38",page-load,video
+44587,159,228,"2023-04-27 05:21:11",page-load,"web form: what would you like to do next"
+44588,159,228,"2023-04-27 05:21:15",click,next-page
+44589,159,229,"2023-04-27 05:21:15",page-load,"skills quiz preview"
+44590,159,0,"2023-04-27 05:22:33","Skills Quiz-15 Step-1 Correct",Relevant
+44591,159,0,"2023-04-27 05:22:36","Skills Quiz-15 Step-2 Correct","A - ZAlphabetical Order"
+44592,159,0,"2023-04-27 05:22:45","Skills Quiz-15 Step-3 Correct","Lawn IdeasEdit"
+44593,159,0,"2023-04-27 05:22:54","Skills Quiz-15 Step-4 Correct",note-search
+0,0,0,"2023-04-27 05:23:12",module_end,none

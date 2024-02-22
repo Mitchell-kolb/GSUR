@@ -1,0 +1,23 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+67717,341,232,"2023-06-16 19:27:10",page-load,"skills quiz preview"
+67718,341,0,"2023-06-16 19:29:14","Skills Quiz-16 Step-1 Incorrect",Lists
+67719,341,0,"2023-06-16 19:29:33","Skills Quiz-16 Step-1 Incorrect",Lists
+67720,341,0,"2023-06-16 19:29:35","Skills Quiz-16 Step-1 Incorrect","Holiday Gifts"
+67721,341,0,"2023-06-16 19:29:36","Skills Quiz-16 Step-1 Incorrect",folder-title-3
+67722,341,0,"2023-06-16 19:29:45","Skills Quiz-16 Step-1 Incorrect","Holiday GiftsEdit"
+67723,341,0,"2023-06-16 19:29:48","Skills Quiz-16 Step-1 Correct",Relevant
+67724,341,0,"2023-06-16 19:29:53","Skills Quiz-16 Step-2 Correct","A - Z"
+67725,341,0,"2023-06-16 19:30:23","Skills Quiz 30 second Hint",30time
+67726,341,0,"2023-06-16 19:37:06","Skills Quiz-16 Step-3 Incorrect","Holiday Gifts"
+67727,341,0,"2023-06-16 19:37:09","Skills Quiz-16 Step-4 Incorrect",Edit
+67728,341,0,"2023-06-16 19:37:09","Skills Quiz-16 Step-3 Incorrect",Edit
+67729,341,0,"2023-06-16 19:37:36","Skills Quiz-16 Step-3 Incorrect","Press Edit"
+67730,341,0,"2023-06-16 19:37:36","Skills Quiz-16 Step-4 Incorrect","Press Edit"
+67731,341,0,"2023-06-16 19:37:37","Skills Quiz-16 Step-3 Incorrect","Press Edit"
+67732,341,0,"2023-06-16 19:37:37","Skills Quiz-16 Step-4 Incorrect","Press Edit"
+67733,341,0,"2023-06-16 19:37:46","Skills Quiz-16 Step-3 Incorrect",Close
+67734,341,0,"2023-06-16 19:37:46","Skills Quiz-16 Step-4 Incorrect",Close
+67735,341,0,"2023-06-16 19:37:53","Skills Quiz-16 Step-3 Incorrect",note-search
+67736,341,0,"2023-06-16 19:37:53","Skills Quiz-16 Step-4 Correct",note-search
+67737,341,0,"2023-06-16 19:38:20","Skills Quiz-16 Step-3 Incorrect",Next
+0,0,0,"2023-06-16 19:38:21",module_end,none

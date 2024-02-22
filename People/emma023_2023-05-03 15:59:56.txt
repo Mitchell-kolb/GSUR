@@ -1,0 +1,4 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+48780,319,143,"2023-05-03 15:59:44",page-load,video
+48781,319,0,"2023-05-03 15:59:56","Skills Quiz-9 Step-29 Incorrect",event-description
+0,0,0,"2023-05-03 15:59:56",module_end,none

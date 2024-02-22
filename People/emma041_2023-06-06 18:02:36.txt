@@ -1,0 +1,16 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+63116,338,0,"2023-06-06 18:01:14","Skills Quiz-4 Step-1 Incorrect",CALENDAR
+63117,338,0,"2023-06-06 18:01:19","Skills Quiz-4 Step-1 Incorrect",CALENDAR
+63118,338,0,"2023-06-06 18:01:26","Skills Quiz-4 Step-1 Correct",TODAY
+63119,338,0,"2023-06-06 18:01:28","Skills Quiz-4 Step-2 Correct","Add Entry/Event"
+63120,338,0,"2023-06-06 18:01:30","Skills Quiz-4 Step-3 Correct","June 10, 2021"
+63121,338,0,"2023-06-06 18:01:32","Skills Quiz-4 Step-4 Correct",right-arrow
+63122,338,0,"2023-06-06 18:01:33","Skills Quiz-4 Step-0 Correct",right-arrow
+63123,338,0,"2023-06-06 18:01:36","Skills Quiz-4 Step-5 Correct",21
+63124,338,0,"2023-06-06 18:01:40","Skills Quiz-4 Step-6 Correct",OK
+63125,338,0,"2023-06-06 18:01:42","Skills Quiz-4 Step-7 Correct","Tap Here"
+63126,338,0,"2023-06-06 18:01:51","Skills Quiz-4 Step-10 Correct","Tap Here"
+63127,338,0,"2023-06-06 18:02:00","Skills Quiz-4 Step-13 Correct",event-title
+63128,338,0,"2023-06-06 18:02:16","Skills Quiz-4 Step-15 Correct",event-description
+63129,338,0,"2023-06-06 18:02:35","Skills Quiz-4 Step-17 Correct",Save
+0,0,0,"2023-06-06 18:02:36",module_end,none

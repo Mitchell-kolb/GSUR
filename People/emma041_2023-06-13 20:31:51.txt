@@ -1,0 +1,25 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+65820,338,121,"2023-06-13 20:21:33",page-load,video
+65821,338,122,"2023-06-13 20:26:42",page-load,"web form: question"
+65822,338,122,"2023-06-13 20:27:03",click,"correct-option: Both the To-do List and Time Schedule"
+65823,338,122,"2023-06-13 20:27:05",click,next-page
+65824,338,123,"2023-06-13 20:27:06",page-load,video
+65825,338,124,"2023-06-13 20:29:03",page-load,"web form: what would you like to do next"
+65826,338,0,"2023-06-13 20:30:14","Skills Quiz-7 Step-1 Correct",Edit
+65827,338,0,"2023-06-13 20:30:24","Skills Quiz-7 Step-1 Correct",Edit
+65828,338,0,"2023-06-13 20:30:29","Skills Quiz-7 Step-2 Correct",event-description
+65829,338,0,"2023-06-13 20:31:04","Skills Quiz 30 second Hint",30time
+65830,338,0,"2023-06-13 20:31:05","Skills Quiz-7 Step-4 Correct",Weekly
+65831,338,0,"2023-06-13 20:31:06","Skills Quiz-7 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+65832,338,0,"2023-06-13 20:31:07","Skills Quiz-7 Step-5 Incorrect",Wed
+65833,338,0,"2023-06-13 20:31:08","Skills Quiz-7 Step-5 Correct",Tue
+65834,338,0,"2023-06-13 20:31:11","Skills Quiz-7 Step-6 Correct",Thu
+65835,338,0,"2023-06-13 20:31:17","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+65836,338,0,"2023-06-13 20:31:20","Skills Quiz-7 Step-8 Incorrect","JUNE 2021"
+65837,338,0,"2023-06-13 20:31:22","Skills Quiz-7 Step-8 Correct",end-right-arrow
+65838,338,0,"2023-06-13 20:31:26","Skills Quiz-7 Step-9 Correct",31
+65839,338,0,"2023-06-13 20:31:30","Skills Quiz-7 Step-10 Correct",OK
+65840,338,0,"2023-06-13 20:31:32","Skills Quiz-7 Step-11 Correct",YES
+65841,338,0,"2023-06-13 20:31:36","Skills Quiz-7 Step-12 Correct",Save
+65842,338,0,"2023-06-13 20:31:51","Skills Quiz-7 Step-13 Incorrect",Next
+0,0,0,"2023-06-13 20:31:51",module_end,none

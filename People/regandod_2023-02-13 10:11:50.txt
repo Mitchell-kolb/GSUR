@@ -1,0 +1,8 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+17326,223,37,"2023-02-13 10:11:10",page-load,video
+17327,223,309,"2023-02-13 10:11:33",page-load,video
+17328,223,38,"2023-02-13 10:11:35",page-load,"goal setting: importance"
+17329,223,38,"2023-02-13 10:11:42",click,next-page
+17330,223,39,"2023-02-13 10:11:43",page-load,video
+17331,223,502,"2023-02-13 10:11:49",page-load,video
+0,0,0,"2023-02-13 10:11:50",module_end,none

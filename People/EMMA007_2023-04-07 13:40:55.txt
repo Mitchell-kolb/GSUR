@@ -1,0 +1,13 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+38612,298,0,"2023-04-07 13:38:30","Skills Quiz-18 Step-1 Incorrect","Ginger Snap CookiesViewTree FarmView"
+38613,298,0,"2023-04-07 13:38:36","Skills Quiz-18 Step-1 Correct",View
+38614,298,0,"2023-04-07 13:38:43","Skills Quiz-18 Step-2 Correct",SAVE
+38615,298,0,"2023-04-07 13:38:47","Skills Quiz-18 Step-3 Correct",Delete
+38616,298,0,"2023-04-07 13:39:04","Skills Quiz-18 Step-4 Correct",Confirm
+38617,298,0,"2023-04-07 13:39:19","Skills Quiz-18 Step-5 Correct",Delete
+38618,298,0,"2023-04-07 13:39:48","Skills Quiz-18 Step-6 Incorrect","Cookie Recipes"
+38619,298,0,"2023-04-07 13:39:59","Skills Quiz-18 Step-6 Correct",View
+38620,298,0,"2023-04-07 13:40:12","Skills Quiz-18 Step-7 Correct","Move Note"
+38621,298,0,"2023-04-07 13:40:37","Skills Quiz-18 Step-8 Incorrect","Ginger Snap Cookies"
+38622,298,0,"2023-04-07 13:40:44","Skills Quiz-18 Step-8 Incorrect","Cookie Recipes"
+0,0,0,"2023-04-07 13:40:55",module_end,none

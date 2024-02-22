@@ -1,0 +1,57 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+56586,329,140,"2023-05-26 19:49:52",page-load,"skills quiz 10: preview"
+56587,329,140,"2023-05-26 19:50:08",click,next-page
+56588,329,0,"2023-05-26 19:50:19","Skills Quiz-10 Step-1 Correct",Edit
+56589,329,0,"2023-05-26 19:50:26","Skills Quiz-10 Step-2 Incorrect",undefined
+56590,329,0,"2023-05-26 19:50:29","Skills Quiz-10 Step-2 Correct",nos-time-check
+56591,329,0,"2023-05-26 19:50:31","Skills Quiz-10 Step-3 Incorrect","No Specific Time "
+56592,329,0,"2023-05-26 19:50:37","Skills Quiz-10 Step-3 Correct",start-time
+56593,329,0,"2023-05-26 19:50:51","Skills Quiz-10 Step-6 Correct",end-time
+56594,329,0,"2023-05-26 19:51:19","Skills Quiz-10 Step-9 Correct",Save
+56595,329,0,"2023-05-26 19:51:49","Skills Quiz-10 Step-10 Incorrect",Delete
+56596,329,0,"2023-05-26 19:51:51","Skills Quiz-10 Step-10 Incorrect",Cancel
+56597,329,0,"2023-05-26 19:51:53","Skills Quiz-10 Step-10 Incorrect",Cancel
+56598,329,0,"2023-05-26 19:51:55","Skills Quiz-10 Step-10 Incorrect","Delete  "
+56599,329,0,"2023-05-26 19:51:56","Skills Quiz-10 Step-10 Incorrect",Cancel
+56600,329,0,"2023-05-26 19:51:57","Skills Quiz-10 Step-10 Incorrect",Cancel
+56601,329,0,"2023-05-26 19:51:57","Skills Quiz-10 Step-10 Incorrect",Cancel
+56602,329,0,"2023-05-26 19:51:57","Skills Quiz-10 Step-10 Incorrect","Event DeleteAre you sure?CancelDelete  "
+56603,329,0,"2023-05-26 19:51:58","Skills Quiz-10 Step-10 Incorrect","Event DeleteAre you sure?CancelDelete  "
+56604,329,0,"2023-05-26 19:52:00","Skills Quiz-10 Step-10 Incorrect",Cancel
+56605,329,0,"2023-05-26 19:52:02","Skills Quiz-10 Step-10 Incorrect","Event DeleteAre you sure?CancelDelete  "
+56606,329,0,"2023-05-26 19:52:03","Skills Quiz-10 Step-10 Incorrect","Event DeleteAre you sure?CancelDelete  "
+56607,329,0,"2023-05-26 19:52:10","Skills Quiz-10 Step-2 Incorrect",undefined
+56608,329,0,"2023-05-26 19:52:13","Skills Quiz-10 Step-2 Incorrect",undefined
+56609,329,0,"2023-05-26 19:52:14","Skills Quiz-10 Step-2 Incorrect",undefined
+56610,329,0,"2023-05-26 19:52:14","Skills Quiz-10 Step-2 Correct",nos-time-check
+56611,329,0,"2023-05-26 19:52:16","Skills Quiz-10 Step-3 Incorrect","No Specific Time "
+56612,329,0,"2023-05-26 19:52:16","Skills Quiz-10 Step-3 Correct",start-time
+56613,329,0,"2023-05-26 19:52:45","Skills Quiz-10 Step-1 Correct",Edit
+56614,329,0,"2023-05-26 19:52:48","Skills Quiz-10 Step-2 Correct",nos-time-check
+56615,329,0,"2023-05-26 19:52:53","Skills Quiz-10 Step-3 Correct",start-time
+56616,329,0,"2023-05-26 19:52:59","Skills Quiz-10 Step-6 Correct",end-time
+56617,329,0,"2023-05-26 19:53:12","Skills Quiz-10 Step-9 Correct",Save
+56618,329,0,"2023-05-26 19:53:39","Skills Quiz-10 Step-10 Correct",CALENDAR
+56619,329,0,"2023-05-26 19:53:43","Skills Quiz-10 Step-11 Correct",9
+56620,329,0,"2023-05-26 19:54:12","Skills Quiz-10 Step-12 Correct",Edit
+56621,329,0,"2023-05-26 19:54:34","Skills Quiz-10 Step-13 Incorrect",undefined
+56622,329,0,"2023-05-26 19:54:45","Skills Quiz-10 Step-13 Incorrect",undefined
+56623,329,0,"2023-05-26 19:54:45","Skills Quiz-10 Step-13 Incorrect",undefined
+56624,329,141,"2023-05-26 19:54:49",click,"skills quiz hint"
+56625,329,0,"2023-05-26 19:54:58","Skills Quiz-10 Step-13 Correct","June 9, 2021"
+56626,329,0,"2023-05-26 19:55:08","Skills Quiz-10 Step-14 Correct",10
+56627,329,0,"2023-05-26 19:55:12","Skills Quiz-10 Step-15 Correct",OK
+56628,329,0,"2023-05-26 19:55:16","Skills Quiz-10 Step-16 Incorrect",undefined
+56629,329,0,"2023-05-26 19:55:20","Skills Quiz-10 Step-16 Incorrect",undefined
+56630,329,0,"2023-05-26 19:55:23","Skills Quiz-10 Step-16 Correct",nos-time-check
+56631,329,0,"2023-05-26 19:55:25","Skills Quiz-10 Step-17 Correct",start-time
+56632,329,0,"2023-05-26 19:55:36","Skills Quiz-10 Step-20 Correct",end-time
+56633,329,0,"2023-05-26 19:56:07","Skills Quiz-10 Step-23 Correct",Save
+56634,329,141,"2023-05-26 19:56:23",click,"skills quiz hint"
+56635,329,0,"2023-05-26 19:56:25","Skills Quiz-10 Step-24 Correct",CALENDAR
+56636,329,0,"2023-05-26 19:56:30","Skills Quiz-10 Step-25 Correct",10
+56637,329,0,"2023-05-26 19:56:46","Skills Quiz-10 Step-26 Correct",Edit
+56638,329,0,"2023-05-26 19:56:49","Skills Quiz-10 Step-27 Correct",event-description
+56639,329,0,"2023-05-26 19:57:24","Skills Quiz-10 Step-29 Correct","60 min"
+56640,329,0,"2023-05-26 19:57:27","Skills Quiz-10 Step-30 Correct",Save
+0,0,0,"2023-05-26 19:57:27",module_end,none

@@ -1,0 +1,40 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+97243,356,241,"2023-09-16 19:18:08",page-load,"skills quiz preview"
+97244,356,241,"2023-09-16 19:18:11",click,next-page
+97245,356,0,"2023-09-16 19:18:14","Skills Quiz-18 Step-1 Incorrect","Ginger Snap CookiesViewTree FarmView"
+97246,356,0,"2023-09-16 19:18:15","Skills Quiz-18 Step-1 Correct",View
+97247,356,0,"2023-09-16 19:18:17","Skills Quiz-18 Step-2 Correct",SAVE
+97248,356,0,"2023-09-16 19:18:19","Skills Quiz-18 Step-3 Correct",Delete
+97249,356,0,"2023-09-16 19:18:22","Skills Quiz-18 Step-4 Correct",Confirm
+97250,356,0,"2023-09-16 19:18:23","Skills Quiz-18 Step-5 Correct"," Delete"
+97251,356,0,"2023-09-16 19:18:26","Skills Quiz-18 Step-6 Correct",View
+97252,356,0,"2023-09-16 19:18:43","Skills Quiz-18 Step-1 Correct",View
+97253,356,0,"2023-09-16 19:18:45","Skills Quiz-18 Step-2 Correct",SAVE
+97254,356,0,"2023-09-16 19:18:46","Skills Quiz-18 Step-3 Correct",Delete
+97255,356,0,"2023-09-16 19:18:49","Skills Quiz-18 Step-4 Incorrect","Note to Delete:Tree FarmConfirmNote Content:"
+97256,356,0,"2023-09-16 19:18:49","Skills Quiz-18 Step-4 Correct",Confirm
+97257,356,0,"2023-09-16 19:18:50","Skills Quiz-18 Step-5 Correct",Delete
+97258,356,0,"2023-09-16 19:18:53","Skills Quiz-18 Step-6 Correct",View
+97259,356,0,"2023-09-16 19:19:09","Skills Quiz-18 Step-1 Correct",View
+97260,356,0,"2023-09-16 19:19:11","Skills Quiz-18 Step-2 Correct",SAVE
+97261,356,0,"2023-09-16 19:19:12","Skills Quiz-18 Step-3 Correct",Delete
+97262,356,0,"2023-09-16 19:19:16","Skills Quiz-18 Step-4 Correct",Confirm
+97263,356,0,"2023-09-16 19:19:16","Skills Quiz-18 Step-5 Correct",Delete
+97264,356,0,"2023-09-16 19:19:19","Skills Quiz-18 Step-6 Correct",View
+97265,356,0,"2023-09-16 19:19:36","Skills Quiz-18 Step-1 Incorrect","Ginger Snap CookiesView"
+97266,356,0,"2023-09-16 19:19:36","Skills Quiz-18 Step-1 Incorrect","Ginger Snap CookiesView"
+97267,356,0,"2023-09-16 19:19:36","Skills Quiz-18 Step-1 Incorrect","Ginger Snap CookiesView"
+97268,356,0,"2023-09-16 19:19:37","Skills Quiz-18 Step-1 Correct",View
+97269,356,0,"2023-09-16 19:19:39","Skills Quiz-18 Step-2 Correct",SAVE
+97270,356,0,"2023-09-16 19:19:40","Skills Quiz-18 Step-3 Correct",Delete
+97271,356,0,"2023-09-16 19:19:42","Skills Quiz-18 Step-4 Correct",Confirm
+97272,356,0,"2023-09-16 19:19:43","Skills Quiz-18 Step-5 Correct",Delete
+97273,356,242,"2023-09-16 19:19:46",click,"skills quiz hint"
+97274,356,242,"2023-09-16 19:19:48",click,"skills quiz hint"
+97275,356,0,"2023-09-16 19:19:50","Skills Quiz-18 Step-6 Correct",View
+97276,356,242,"2023-09-16 19:19:51",click,"skills quiz hint"
+97277,356,0,"2023-09-16 19:19:52","Skills Quiz-18 Step-7 Correct","Move Note"
+97278,356,0,"2023-09-16 19:19:54","Skills Quiz-18 Step-8 Incorrect","Cookie Recipes"
+97279,356,0,"2023-09-16 19:19:56","Skills Quiz-18 Step-8 Incorrect",Move
+97280,356,0,"2023-09-16 19:19:56","Skills Quiz-18 Step-9 Correct",Move
+0,0,0,"2023-09-16 19:19:57",module_end,none

@@ -1,0 +1,73 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+76473,346,244,"2023-07-11 17:48:35",page-load,video
+76474,346,245,"2023-07-11 17:51:39",page-load,"goal setting: preview"
+76475,346,246,"2023-07-11 17:52:35",page-load,"goal setting: example plan"
+76476,346,247,"2023-07-11 17:53:20",page-load,"goal setting: pick one strategy"
+76477,346,247,"2023-07-11 17:53:42",click,next-page
+76478,346,248,"2023-07-11 17:53:43",page-load,"goal setting: top strategy display"
+76479,346,248,"2023-07-11 17:53:56",click,next-page
+76480,346,249,"2023-07-11 17:53:56",page-load,"goal setting: when"
+76481,346,249,"2023-07-11 17:54:32",click,next-page
+76482,346,250,"2023-07-11 17:54:33",page-load,"goal setting: where"
+76483,346,250,"2023-07-11 17:54:53",click,next-page
+76484,346,251,"2023-07-11 17:54:54",page-load,"goal setting: with whom"
+76485,346,251,"2023-07-11 17:55:13",click,next-page
+76486,346,252,"2023-07-11 17:55:13",page-load,"goal setting: how"
+76487,346,252,"2023-07-11 17:59:53",click,next-page
+76488,346,253,"2023-07-11 17:59:54",page-load,"goal setting: barriers and alternatives"
+76489,346,253,"2023-07-11 18:02:20",click,next-page
+76490,346,254,"2023-07-11 18:02:20",page-load,"goal setting: motivation"
+76491,346,254,"2023-07-11 18:02:33",click,next-page
+76492,346,255,"2023-07-11 18:02:34",page-load,"goal setting: confidence"
+76493,346,255,"2023-07-11 18:02:46",click,next-page
+76494,346,256,"2023-07-11 18:02:47",page-load,"goal setting: plan"
+76495,346,256,"2023-07-11 18:03:07",click,next-page
+76496,346,257,"2023-07-11 18:03:07",page-load,"end of lesson: 4"
+76497,346,257,"2023-07-11 18:03:23",page-load,"end of lesson: 4"
+76498,346,400,"2023-07-11 18:03:30",page-load,video
+76709,346,400,"2023-07-12 22:02:59",page-load,video
+78445,346,400,"2023-07-19 02:49:18",page-load,video
+78446,346,401,"2023-07-19 04:05:34",page-load,"web form: question"
+78447,346,401,"2023-07-19 04:05:38",click,"correct-option: False"
+78448,346,401,"2023-07-19 04:05:41",click,next-page
+78449,346,402,"2023-07-19 04:05:41",page-load,video
+78450,346,403,"2023-07-19 04:10:48",page-load,"web form: what would you like to do next"
+78451,346,403,"2023-07-19 04:10:51",click,next-page
+78452,346,404,"2023-07-19 04:10:52",page-load,"skills quiz preview"
+78453,346,0,"2023-07-19 04:11:42","Skills Quiz-19 Step-1 Incorrect",HEALTH
+78454,346,0,"2023-07-19 04:11:51","Skills Quiz-19 Step-2 Incorrect",TODAYCALENDARHEALTHNOTES
+78455,346,0,"2023-07-19 04:11:57","Skills Quiz-19 Step-2 Correct","Medical Information"
+78456,346,0,"2023-07-19 04:12:00","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+78457,346,0,"2023-07-19 04:12:05","Skills Quiz-19 Step-3 Incorrect",undefined
+78458,346,0,"2023-07-19 04:12:07","Skills Quiz-19 Step-3 Incorrect",noteSpecialty
+78459,346,0,"2023-07-19 04:12:07","Skills Quiz-19 Step-4 Correct",noteSpecialty
+78460,346,0,"2023-07-19 04:12:23","Skills Quiz-19 Step-3 Incorrect",Name
+78461,346,0,"2023-07-19 04:12:30","Skills Quiz-19 Step-3 Incorrect",Name
+78462,346,0,"2023-07-19 04:12:32","Skills Quiz-19 Step-3 Incorrect","Close  SAVE"
+78463,346,0,"2023-07-19 04:12:35","Skills Quiz-19 Step-3 Incorrect",Next
+78464,346,0,"2023-07-19 04:12:36","Skills Quiz-19 Step-3 Incorrect",noteName
+78465,346,0,"2023-07-19 04:12:36","Skills Quiz-19 Step-6 Correct",noteName
+78466,346,0,"2023-07-19 04:12:51","Skills Quiz-19 Step-3 Incorrect","Phone Number"
+78467,346,0,"2023-07-19 04:12:55","Skills Quiz-19 Step-3 Incorrect",Next
+78468,346,0,"2023-07-19 04:12:58","Skills Quiz-19 Step-3 Incorrect",notePhone
+78469,346,0,"2023-07-19 04:12:58","Skills Quiz-19 Step-8 Correct",notePhone
+78470,346,0,"2023-07-19 04:13:14","Skills Quiz-19 Step-3 Incorrect",Address
+78471,346,0,"2023-07-19 04:13:15","Skills Quiz-19 Step-3 Incorrect",Next
+78472,346,0,"2023-07-19 04:13:17","Skills Quiz-19 Step-3 Incorrect","Phone Number"
+78473,346,0,"2023-07-19 04:13:17","Skills Quiz-19 Step-10 Incorrect","Phone Number"
+78474,346,0,"2023-07-19 04:13:33","Skills Quiz-19 Step-10 Correct",noteAddress
+78475,346,0,"2023-07-19 04:13:33","Skills Quiz-19 Step-3 Incorrect",noteAddress
+78476,346,0,"2023-07-19 04:13:52","Skills Quiz-19 Step-3 Incorrect",Details
+78477,346,0,"2023-07-19 04:13:53","Skills Quiz-19 Step-3 Incorrect",Next
+78478,346,0,"2023-07-19 04:13:55","Skills Quiz-19 Step-12 Correct",noteDetails
+78479,346,0,"2023-07-19 04:13:55","Skills Quiz-19 Step-3 Incorrect",noteDetails
+78480,346,0,"2023-07-19 04:14:25","Skills Quiz-19 Step-3 Incorrect",Next
+78481,346,0,"2023-07-19 04:14:40","Skills Quiz-19 Step-3 Incorrect",SAVE
+78482,346,0,"2023-07-19 04:14:40","Skills Quiz-19 Step-14 Correct",SAVE
+78483,346,0,"2023-07-19 04:15:08","Skills Quiz-19 Step-3 Incorrect","SpecialtyCardiologistNameDr EvePhone Number5555555Address2022 Market StreetDetailsThis doctor reviews my daily blood pressure log."
+78484,346,0,"2023-07-19 04:15:08","Skills Quiz-19 Step-14 Incorrect","SpecialtyCardiologistNameDr EvePhone Number5555555Address2022 Market StreetDetailsThis doctor reviews my daily blood pressure log."
+78485,346,0,"2023-07-19 04:15:08","Skills Quiz-19 Step-3 Incorrect",5555555
+78486,346,0,"2023-07-19 04:15:08","Skills Quiz-19 Step-14 Incorrect",5555555
+78487,346,0,"2023-07-19 04:15:12","Skills Quiz-19 Step-3 Incorrect",Close
+78488,346,0,"2023-07-19 04:15:12","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-07-19 04:15:12",module_end,none

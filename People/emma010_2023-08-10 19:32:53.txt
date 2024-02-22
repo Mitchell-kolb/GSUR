@@ -1,0 +1,32 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+84357,352,215,"2023-08-10 19:00:11",page-load,video
+84358,352,215,"2023-08-10 19:24:00",page-load,video
+84359,352,216,"2023-08-10 19:26:56",page-load,"web form: question"
+84360,352,216,"2023-08-10 19:27:02",click,"correct-option: 1"
+84361,352,216,"2023-08-10 19:27:04",click,next-page
+84362,352,217,"2023-08-10 19:27:05",page-load,video
+84363,352,218,"2023-08-10 19:27:57",page-load,"web form: what would you like to do next"
+84364,352,218,"2023-08-10 19:27:59",click,next-page
+84365,352,219,"2023-08-10 19:27:59",page-load,"skills quiz preview"
+84366,352,219,"2023-08-10 19:28:02",click,next-page
+84367,352,0,"2023-08-10 19:28:10","Skills Quiz-13 Step-1 Incorrect",note-list
+84368,352,0,"2023-08-10 19:28:14","Skills Quiz-13 Step-1 Correct",Lists
+84369,352,0,"2023-08-10 19:28:29","Skills Quiz-13 Step-2 Incorrect",Lists
+84370,352,0,"2023-08-10 19:28:33","Skills Quiz-13 Step-3 Incorrect","Add New Note"
+84371,352,0,"2023-08-10 19:28:33","Skills Quiz-13 Step-2 Correct","Add New Note"
+84372,352,0,"2023-08-10 19:28:35","Skills Quiz-13 Step-3 Correct",modal-note-title
+84373,352,220,"2023-08-10 19:30:04",click,"skills quiz hint"
+84374,352,0,"2023-08-10 19:30:49","Skills Quiz-13 Step-1 Incorrect",Lists
+84375,352,0,"2023-08-10 19:30:53","Skills Quiz-13 Step-1 Incorrect","Add New Note"
+84376,352,0,"2023-08-10 19:30:53","Skills Quiz-13 Step-2 Correct","Add New Note"
+84377,352,0,"2023-08-10 19:31:08","Skills Quiz-13 Step-1 Incorrect",modal-note-title
+84378,352,0,"2023-08-10 19:31:08","Skills Quiz-13 Step-3 Correct",modal-note-title
+84379,352,0,"2023-08-10 19:31:20","Skills Quiz-13 Step-1 Incorrect",Next
+84380,352,0,"2023-08-10 19:31:24","Skills Quiz-13 Step-1 Incorrect",modal-note-content
+84381,352,0,"2023-08-10 19:31:24","Skills Quiz-13 Step-5 Correct",modal-note-content
+84382,352,0,"2023-08-10 19:32:43","Skills Quiz-13 Step-1 Incorrect",Next
+84383,352,0,"2023-08-10 19:32:49","Skills Quiz-13 Step-1 Incorrect"," SAVE"
+84384,352,0,"2023-08-10 19:32:49","Skills Quiz-13 Step-7 Correct"," SAVE"
+84385,352,0,"2023-08-10 19:32:53","Skills Quiz-13 Step-1 Incorrect",Close
+84386,352,0,"2023-08-10 19:32:53","Skills Quiz-13 Step-8 Correct",Close
+0,0,0,"2023-08-10 19:32:53",module_end,none

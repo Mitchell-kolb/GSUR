@@ -1,0 +1,42 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+21511,245,410,"2023-02-14 14:13:25",page-load,video
+21512,245,411,"2023-02-14 14:13:31",page-load,"web form: scheduling choices"
+21513,245,411,"2023-02-14 14:13:32",tracked,"Blood pressure"
+21514,245,411,"2023-02-14 14:13:33",click,next-page
+21515,245,412,"2023-02-14 14:13:34",page-load,video
+21516,245,413,"2023-02-14 14:13:42",page-load,"web form: question"
+21517,245,413,"2023-02-14 14:13:42",click,"incorrect-option: 1"
+21518,245,413,"2023-02-14 14:13:43",click,"incorrect-option: 10"
+21519,245,413,"2023-02-14 14:13:44",click,"incorrect-option: Unlimited"
+21521,245,413,"2023-02-14 14:13:44",click,"correct-option: 4"
+21522,245,413,"2023-02-14 14:13:44",click,next-page
+21523,245,414,"2023-02-14 14:13:45",page-load,video
+21526,245,415,"2023-02-14 14:13:52",page-load,"web form: question"
+21528,245,415,"2023-02-14 14:13:54",click,"correct-option: False"
+21530,245,415,"2023-02-14 14:13:54",click,"incorrect-option: True"
+21531,245,415,"2023-02-14 14:13:55",click,"correct-option: False"
+21532,245,415,"2023-02-14 14:13:55",click,next-page
+21533,245,416,"2023-02-14 14:13:55",page-load,video
+21534,245,417,"2023-02-14 14:14:12",page-load,"web form: what would you like to do next"
+21535,245,417,"2023-02-14 14:14:13",click,next-page
+21536,245,418,"2023-02-14 14:14:14",page-load,"skills quiz preview"
+21537,245,418,"2023-02-14 14:14:15",click,next-page
+21538,245,0,"2023-02-14 14:14:19","Skills Quiz-21 Step-1 Incorrect",NOTES
+21539,245,0,"2023-02-14 14:14:20","Skills Quiz-21 Step-1 Incorrect",HEALTH
+21540,245,0,"2023-02-14 14:14:24","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+21541,245,0,"2023-02-14 14:14:26","Skills Quiz-21 Step-3 Incorrect","Well-being Exercise"
+21542,245,0,"2023-02-14 14:14:27","Skills Quiz-21 Step-3 Correct","Daily Medications"
+21543,245,0,"2023-02-14 14:14:29","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+21544,245,0,"2023-02-14 14:14:29","Skills Quiz-21 Step-4 Incorrect",Description
+21545,245,0,"2023-02-14 14:14:30","Skills Quiz-21 Step-4 Correct",descriptionMorning
+21546,245,0,"2023-02-14 14:14:37","Skills Quiz-21 Step-6 Correct","8:00 AM"
+21547,245,0,"2023-02-14 14:14:38","Skills Quiz-21 Step-7 Incorrect",123456789101112
+21548,245,0,"2023-02-14 14:14:40","Skills Quiz-21 Step-7 Correct",7
+21549,245,0,"2023-02-14 14:14:40","Skills Quiz-21 Step-8 Incorrect",00051015
+21550,245,0,"2023-02-14 14:14:41","Skills Quiz-21 Step-8 Correct",00
+21551,245,0,"2023-02-14 14:14:42","Skills Quiz-21 Step-9 Correct",AM
+21552,245,0,"2023-02-14 14:14:42","Skills Quiz-21 Step-10 Correct",Save
+21553,245,0,"2023-02-14 14:14:44","Skills Quiz-21 Step-11 Incorrect",undefined
+21554,245,0,"2023-02-14 14:14:47","Skills Quiz-21 Step-11 Incorrect"," Save"
+21555,245,0,"2023-02-14 14:14:47","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-02-14 14:14:47",module_end,none

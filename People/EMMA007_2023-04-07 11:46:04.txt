@@ -1,0 +1,73 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+37704,298,245,"2023-04-04 14:53:04",page-load,"goal setting: preview"
+37705,298,246,"2023-04-04 14:54:07",page-load,"goal setting: example plan"
+37706,298,247,"2023-04-04 15:02:06",page-load,"goal setting: pick one strategy"
+37707,298,247,"2023-04-04 15:03:36",click,next-page
+37708,298,247,"2023-04-04 15:03:37",click,next-page
+37709,298,247,"2023-04-04 15:03:51",click,next-page
+37710,298,248,"2023-04-04 15:03:52",page-load,"goal setting: top strategy display"
+37711,298,248,"2023-04-04 15:04:00",click,next-page
+37712,298,249,"2023-04-04 15:04:00",page-load,"goal setting: when"
+37713,298,249,"2023-04-04 15:04:01",click,next-page
+37714,298,249,"2023-04-04 15:05:26",click,next-page
+37715,298,250,"2023-04-04 15:05:26",page-load,"goal setting: where"
+37716,298,250,"2023-04-04 15:06:26",click,next-page
+37717,298,251,"2023-04-04 15:06:26",page-load,"goal setting: with whom"
+37718,298,251,"2023-04-04 15:06:59",click,next-page
+37719,298,252,"2023-04-04 15:06:59",page-load,"goal setting: how"
+37720,298,252,"2023-04-04 15:13:05",click,next-page
+37721,298,253,"2023-04-04 15:13:06",page-load,"goal setting: barriers and alternatives"
+37722,298,253,"2023-04-04 15:15:33",click,next-page
+37723,298,254,"2023-04-04 15:15:34",page-load,"goal setting: motivation"
+37724,298,254,"2023-04-04 15:15:46",click,next-page
+37725,298,255,"2023-04-04 15:15:46",page-load,"goal setting: confidence"
+37726,298,255,"2023-04-04 15:15:47",click,next-page
+37727,298,255,"2023-04-04 15:15:54",click,next-page
+37728,298,256,"2023-04-04 15:15:54",page-load,"goal setting: plan"
+37729,298,256,"2023-04-04 15:16:22",click,next-page
+37730,298,257,"2023-04-04 15:16:23",page-load,"end of lesson: 4"
+38463,298,200,"2023-04-07 11:31:13",page-load,video
+38464,298,201,"2023-04-07 11:35:01",page-load,"web form: question"
+38465,298,201,"2023-04-07 11:35:31",click,"correct-option: D. All of the above"
+38466,298,201,"2023-04-07 11:35:39",click,next-page
+38467,298,202,"2023-04-07 11:35:39",page-load,video
+38468,298,203,"2023-04-07 11:36:19",page-load,"web form: scheduling choices"
+38469,298,203,"2023-04-07 11:36:55",tracked,"Photos/pictures of important people"
+38470,298,203,"2023-04-07 11:37:18",tracked,"Project planning form"
+38471,298,203,"2023-04-07 11:37:22",click,next-page
+38472,298,204,"2023-04-07 11:37:23",page-load,video
+38473,298,205,"2023-04-07 11:39:47",page-load,"web form: question"
+38474,298,205,"2023-04-07 11:40:10",click,"correct-option: Add New Folder"
+38475,298,205,"2023-04-07 11:40:18",click,next-page
+38476,298,206,"2023-04-07 11:40:19",page-load,video
+38477,298,207,"2023-04-07 11:41:23",page-load,"web form: question"
+38478,298,207,"2023-04-07 11:41:50",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+38479,298,207,"2023-04-07 11:41:59",click,next-page
+38480,298,208,"2023-04-07 11:42:00",page-load,"web form: what would you like to do next"
+38481,298,208,"2023-04-07 11:42:04",click,next-page
+38482,298,209,"2023-04-07 11:42:05",page-load,"skills quiz preview"
+38483,298,0,"2023-04-07 11:43:04","Skills Quiz-11 Step-1 Correct","Add New Folder"
+38484,298,0,"2023-04-07 11:43:14","Skills Quiz-11 Step-2 Correct",modal-folder-title
+38485,298,0,"2023-04-07 11:43:44","Skills Quiz 30 second Hint",30time
+38486,298,0,"2023-04-07 11:44:00","Skills Quiz-11 Step-3 Incorrect",Next
+38487,298,0,"2023-04-07 11:44:09","Skills Quiz-11 Step-4 Correct"," SAVE"
+38488,298,0,"2023-04-07 11:44:09","Skills Quiz-11 Step-3 Incorrect"," SAVE"
+38489,298,0,"2023-04-07 11:44:24","Skills Quiz-11 Step-3 Incorrect",Close
+38490,298,0,"2023-04-07 11:44:24","Skills Quiz-11 Step-5 Correct",Close
+38491,298,0,"2023-04-07 11:44:35","Skills Quiz-11 Step-3 Incorrect",Edit
+38492,298,0,"2023-04-07 11:44:35","Skills Quiz-11 Step-6 Correct",Edit
+38493,298,0,"2023-04-07 11:44:42","Skills Quiz-11 Step-7 Correct",SAVE
+38494,298,0,"2023-04-07 11:44:42","Skills Quiz-11 Step-3 Incorrect",SAVE
+38495,298,0,"2023-04-07 11:44:56","Skills Quiz-11 Step-8 Correct",modal-folder-title
+38496,298,0,"2023-04-07 11:44:56","Skills Quiz-11 Step-3 Correct",modal-folder-title
+38497,298,0,"2023-04-07 11:45:26","Skills Quiz 30 second Hint",30time
+38498,298,0,"2023-04-07 11:45:28","Skills Quiz-11 Step-9 Incorrect",Next
+38499,298,0,"2023-04-07 11:45:36","Skills Quiz-11 Step-9 Incorrect"," SAVE"
+38500,298,0,"2023-04-07 11:45:36","Skills Quiz-11 Step-10 Correct"," SAVE"
+38501,298,0,"2023-04-07 11:45:58","Skills Quiz-11 Step-9 Incorrect",CloseEDIT
+38502,298,0,"2023-04-07 11:45:58","Skills Quiz-11 Step-11 Incorrect",CloseEDIT
+38503,298,0,"2023-04-07 11:45:59","Skills Quiz-11 Step-9 Incorrect",CloseEDIT
+38504,298,0,"2023-04-07 11:45:59","Skills Quiz-11 Step-11 Incorrect",CloseEDIT
+38505,298,0,"2023-04-07 11:46:04","Skills Quiz-11 Step-9 Incorrect",Close
+38506,298,0,"2023-04-07 11:46:04","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-04-07 11:46:04",module_end,none

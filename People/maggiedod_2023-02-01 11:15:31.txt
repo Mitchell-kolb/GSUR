@@ -1,0 +1,11 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+11760,221,421,"2023-02-01 11:14:44",page-load,"skills quiz preview"
+11761,221,421,"2023-02-01 11:14:46",click,next-page
+11762,221,0,"2023-02-01 11:14:53","Skills Quiz-22 Step-1 Incorrect",HEALTH
+11763,221,0,"2023-02-01 11:14:54","Skills Quiz-22 Step-2 Correct","Tracked Health Activities"
+11764,221,422,"2023-02-01 11:15:01",click,"skills quiz hint"
+11765,221,0,"2023-02-01 11:15:03","Skills Quiz-22 Step-3 Correct","Daily Medications"
+11766,221,0,"2023-02-01 11:15:23","Skills Quiz 30 second Hint",30time
+11767,221,0,"2023-02-01 11:15:24","Skills Quiz 30 second Hint",30time
+11768,221,42,"2023-02-01 11:15:30",page-load,"goal setting: top strategy display"
+0,0,0,"2023-02-01 11:15:31",module_end,none

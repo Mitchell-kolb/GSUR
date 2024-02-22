@@ -1,0 +1,39 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+50634,325,130,"2023-05-07 18:59:41",page-load,"web form: question"
+50635,325,130,"2023-05-07 19:02:03",click,"correct-option: In the To Do list only"
+50636,325,130,"2023-05-07 19:02:05",click,next-page
+50637,325,131,"2023-05-07 19:02:05",page-load,video
+50638,325,132,"2023-05-07 19:03:21",page-load,"web form: what would you like to do next"
+50639,325,133,"2023-05-07 19:08:26",page-load,video
+52230,325,104,"2023-05-11 20:54:11",page-load,video
+52231,325,105,"2023-05-11 20:57:06",page-load,"web form: question"
+52232,325,105,"2023-05-11 20:57:24",click,"incorrect-option: Anniversaries"
+52233,325,105,"2023-05-11 20:57:27",click,next-page
+52234,325,106,"2023-05-11 20:57:28",page-load,video
+52235,325,107,"2023-05-11 20:57:45",page-load,"web form: question"
+52236,325,107,"2023-05-11 20:57:54",click,"incorrect-option: Volunteer Shifts"
+52237,325,107,"2023-05-11 20:57:55",click,next-page
+52238,325,108,"2023-05-11 20:57:55",page-load,"web form: what would you like to do next"
+52239,325,108,"2023-05-11 20:57:57",click,next-page
+52240,325,109,"2023-05-11 20:57:58",page-load,video
+52248,325,110,"2023-05-11 21:02:35",page-load,"web form: question"
+52249,325,110,"2023-05-11 21:02:42",click,next-page
+52250,325,111,"2023-05-11 21:02:43",page-load,"web form: what would you like to do next"
+52251,325,111,"2023-05-11 21:02:45",click,next-page
+52252,325,112,"2023-05-11 21:02:46",page-load,video
+52253,325,113,"2023-05-11 21:03:37",page-load,"web form: question"
+52254,325,113,"2023-05-11 21:03:41",click,"correct-option: D. Both A and C"
+52255,325,113,"2023-05-11 21:03:44",click,next-page
+52256,325,114,"2023-05-11 21:03:44",page-load,video
+52257,325,115,"2023-05-11 21:05:23",page-load,"web form: question"
+52258,325,115,"2023-05-11 21:05:32",click,"correct-option: 30 minutes before"
+52259,325,115,"2023-05-11 21:05:33",click,next-page
+52260,325,116,"2023-05-11 21:05:34",page-load,"web form: what would you like to do next"
+52261,325,0,"2023-05-11 21:06:35","Skills Quiz-5 Step-1 Correct",CALENDAR
+52262,325,0,"2023-05-11 21:06:41","Skills Quiz-5 Step-2 Correct",right-arrow
+52263,325,0,"2023-05-11 21:06:46","Skills Quiz-5 Step-3 Correct",3
+52264,325,0,"2023-05-11 21:06:53","Skills Quiz-5 Step-4 Correct",Edit
+52265,325,0,"2023-05-11 21:06:58","Skills Quiz-5 Step-5 Correct",YES
+52266,325,0,"2023-05-11 21:07:03","Skills Quiz-5 Step-6 Correct","60 min"
+52267,325,0,"2023-05-11 21:07:05","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-05-11 21:07:06",module_end,none

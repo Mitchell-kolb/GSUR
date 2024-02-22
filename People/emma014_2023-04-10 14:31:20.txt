@@ -1,0 +1,34 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+39122,159,26,"2023-04-10 14:18:13",page-load,video
+39123,159,27,"2023-04-10 14:20:27",page-load,"web form: question"
+39124,159,27,"2023-04-10 14:20:38",click,"correct-option: True"
+39125,159,27,"2023-04-10 14:20:41",click,next-page
+39126,159,28,"2023-04-10 14:20:42",page-load,"web form: question"
+39127,159,28,"2023-04-10 14:20:47",click,"correct-option: True"
+39128,159,28,"2023-04-10 14:20:50",click,next-page
+39129,159,29,"2023-04-10 14:20:50",page-load,video
+39130,159,30,"2023-04-10 14:23:04",page-load,"web form: question"
+39131,159,30,"2023-04-10 14:23:13",click,"incorrect-option: Where the activity will take place (address or room number)"
+39132,159,30,"2023-04-10 14:23:14",click,"correct-option: All of the above"
+39133,159,30,"2023-04-10 14:23:17",click,next-page
+39134,159,31,"2023-04-10 14:23:17",page-load,video
+39135,159,32,"2023-04-10 14:27:18",page-load,"web form: what would you like to do next"
+39136,159,0,"2023-04-10 14:28:16","Skills Quiz-3 Step-1 Correct",TODAY
+39137,159,0,"2023-04-10 14:28:19","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+39138,159,0,"2023-04-10 14:28:24","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+39139,159,0,"2023-04-10 14:28:26","Skills Quiz-3 Step-4 Correct",right-arrow
+39140,159,0,"2023-04-10 14:28:27","Skills Quiz-3 Step-5 Correct",14
+39141,159,0,"2023-04-10 14:28:30","Skills Quiz-3 Step-6 Correct",OK
+39142,159,0,"2023-04-10 14:28:33","Skills Quiz-3 Step-7 Correct","Tap Here"
+39143,159,0,"2023-04-10 14:28:46","Skills Quiz-3 Step-10 Correct","Tap Here"
+39144,159,0,"2023-04-10 14:29:01","Skills Quiz-3 Step-13 Correct",event-title
+39145,159,0,"2023-04-10 14:29:49","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+39146,159,0,"2023-04-10 14:29:52","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+39147,159,0,"2023-04-10 14:29:53","Skills Quiz-3 Step-4 Correct",right-arrow
+39148,159,0,"2023-04-10 14:29:55","Skills Quiz-3 Step-5 Correct",14
+39149,159,0,"2023-04-10 14:29:56","Skills Quiz-3 Step-6 Correct",OK
+39150,159,0,"2023-04-10 14:29:59","Skills Quiz-3 Step-7 Correct","Tap Here"
+39151,159,0,"2023-04-10 14:30:04","Skills Quiz-3 Step-10 Correct","Tap Here"
+39152,159,0,"2023-04-10 14:30:12","Skills Quiz-3 Step-13 Correct",event-title
+39153,159,0,"2023-04-10 14:30:37","Skills Quiz-3 Step-15 Correct",event-description
+0,0,0,"2023-04-10 14:31:20",module_end,none

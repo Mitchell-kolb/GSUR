@@ -1,0 +1,5 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+48777,319,143,"2023-05-03 15:59:36",page-load,video
+48778,319,0,"2023-05-03 15:59:42","Skills Quiz-9 Step-30 Incorrect",event-description
+48779,319,0,"2023-05-03 15:59:42","Skills Quiz-9 Step-29 Incorrect",event-description
+0,0,0,"2023-05-03 15:59:43",module_end,none

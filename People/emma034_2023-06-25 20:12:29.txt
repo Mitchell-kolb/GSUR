@@ -1,0 +1,222 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+72348,341,512,"2023-06-25 19:17:28",page-load,video
+72349,341,513,"2023-06-25 19:19:20",page-load,"web form: question"
+72350,341,513,"2023-06-25 19:19:30",click,"correct-option: at the same time every time and limiting distractions."
+72351,341,513,"2023-06-25 19:19:33",click,next-page
+72352,341,514,"2023-06-25 19:19:33",page-load,video
+72353,341,515,"2023-06-25 19:22:04",page-load,"web form: question"
+72354,341,515,"2023-06-25 19:22:09",click,"incorrect-option: The instructions are displayed when you begin the test."
+72355,341,515,"2023-06-25 19:22:17",click,next-page
+72356,341,516,"2023-06-25 19:22:18",page-load,video
+72357,341,517,"2023-06-25 19:24:46",page-load,"web form: question"
+72358,341,517,"2023-06-25 19:24:54",click,"correct-option: 45 seconds"
+72359,341,517,"2023-06-25 19:24:58",click,next-page
+72360,341,518,"2023-06-25 19:24:58",page-load,video
+72361,341,519,"2023-06-25 19:27:10",page-load,"web form: question"
+72362,341,519,"2023-06-25 19:27:17",click,"correct-option: False"
+72363,341,519,"2023-06-25 19:27:19",click,next-page
+72364,341,520,"2023-06-25 19:27:20",page-load,"web form: what would you like to do next"
+72365,341,520,"2023-06-25 19:27:25",click,next-page
+72366,341,521,"2023-06-25 19:27:25",page-load,video
+72367,341,522,"2023-06-25 19:30:51",page-load,"web form: question"
+72368,341,522,"2023-06-25 19:31:04",click,hint
+72369,341,522,"2023-06-25 19:31:10",click,next-page
+72370,341,522,"2023-06-25 19:31:12",click,next-page
+72371,341,522,"2023-06-25 19:31:16",click,next-page
+72372,341,522,"2023-06-25 19:31:18",click,next-page
+72373,341,522,"2023-06-25 19:31:21",click,next-page
+72374,341,522,"2023-06-25 19:31:22",click,next-page
+72375,341,522,"2023-06-25 19:31:24",click,next-page
+72376,341,522,"2023-06-25 19:31:24",click,next-page
+72377,341,522,"2023-06-25 19:31:34",click,hint
+72378,341,522,"2023-06-25 19:31:44",click,next-page
+72379,341,522,"2023-06-25 19:31:50",click,next-page
+72380,341,522,"2023-06-25 19:31:51",click,next-page
+72381,341,522,"2023-06-25 19:31:51",click,next-page
+72382,341,522,"2023-06-25 19:31:54",click,next-page
+72383,341,522,"2023-06-25 19:31:56",click,next-page
+72384,341,522,"2023-06-25 19:31:56",click,next-page
+72385,341,522,"2023-06-25 19:31:57",click,next-page
+72386,341,522,"2023-06-25 19:31:57",click,next-page
+72387,341,522,"2023-06-25 19:31:58",click,next-page
+72388,341,522,"2023-06-25 19:31:59",click,next-page
+72389,341,522,"2023-06-25 19:31:59",click,next-page
+72390,341,522,"2023-06-25 19:32:05",click,next-page
+72391,341,522,"2023-06-25 19:32:06",click,next-page
+72392,341,522,"2023-06-25 19:32:07",click,hint
+72393,341,522,"2023-06-25 19:32:08",click,previous-page
+72394,341,521,"2023-06-25 19:32:08",page-load,video
+72395,341,522,"2023-06-25 19:35:36",page-load,"web form: question"
+72396,341,522,"2023-06-25 19:35:40",click,next-page
+72397,341,522,"2023-06-25 19:35:42",click,next-page
+72398,341,522,"2023-06-25 19:35:49",click,next-page
+72399,341,522,"2023-06-25 19:35:50",click,next-page
+72400,341,522,"2023-06-25 19:35:51",click,next-page
+72401,341,522,"2023-06-25 19:35:54",click,next-page
+72402,341,522,"2023-06-25 19:35:54",click,next-page
+72403,341,522,"2023-06-25 19:35:55",click,next-page
+72404,341,522,"2023-06-25 19:35:55",click,next-page
+72405,341,522,"2023-06-25 19:35:56",click,next-page
+72406,341,522,"2023-06-25 19:35:56",click,next-page
+72407,341,522,"2023-06-25 19:35:56",click,next-page
+72408,341,522,"2023-06-25 19:35:57",click,next-page
+72409,341,522,"2023-06-25 19:35:57",click,next-page
+72410,341,522,"2023-06-25 19:35:59",click,next-page
+72411,341,522,"2023-06-25 19:35:59",click,next-page
+72412,341,522,"2023-06-25 19:36:00",click,next-page
+72413,341,522,"2023-06-25 19:36:00",click,next-page
+72414,341,522,"2023-06-25 19:36:01",click,next-page
+72415,341,522,"2023-06-25 19:36:02",click,hint
+72416,341,522,"2023-06-25 19:36:06",click,next-page
+72417,341,522,"2023-06-25 19:36:08",click,next-page
+72418,341,522,"2023-06-25 19:36:08",click,next-page
+72419,341,522,"2023-06-25 19:36:09",click,next-page
+72420,341,522,"2023-06-25 19:36:13",click,next-page
+72421,341,522,"2023-06-25 19:36:13",click,next-page
+72422,341,522,"2023-06-25 19:36:14",click,next-page
+72423,341,522,"2023-06-25 19:36:14",click,next-page
+72424,341,522,"2023-06-25 19:36:17",click,next-page
+72425,341,522,"2023-06-25 19:36:19",click,next-page
+72426,341,522,"2023-06-25 19:36:19",click,next-page
+72427,341,522,"2023-06-25 19:36:20",click,next-page
+72428,341,522,"2023-06-25 19:36:27",click,next-page
+72429,341,522,"2023-06-25 19:36:28",click,next-page
+72430,341,522,"2023-06-25 19:36:33",click,next-page
+72431,341,522,"2023-06-25 19:36:33",click,next-page
+72432,341,522,"2023-06-25 19:36:34",click,next-page
+72433,341,522,"2023-06-25 19:36:34",click,next-page
+72434,341,522,"2023-06-25 19:36:35",click,next-page
+72435,341,522,"2023-06-25 19:37:40",click,next-page
+72436,341,522,"2023-06-25 19:37:42",click,next-page
+72437,341,522,"2023-06-25 19:37:43",click,next-page
+72438,341,522,"2023-06-25 19:37:44",click,next-page
+72439,341,522,"2023-06-25 19:38:18",click,next-page
+72440,341,522,"2023-06-25 19:38:18",click,next-page
+72441,341,522,"2023-06-25 19:38:18",click,next-page
+72442,341,522,"2023-06-25 19:39:23",click,next-page
+72443,341,522,"2023-06-25 19:39:23",click,next-page
+72444,341,522,"2023-06-25 19:39:24",click,next-page
+72445,341,522,"2023-06-25 19:39:25",click,next-page
+72446,341,522,"2023-06-25 19:39:25",click,next-page
+72447,341,522,"2023-06-25 19:39:25",click,next-page
+72448,341,522,"2023-06-25 19:40:04",click,next-page
+72449,341,522,"2023-06-25 19:40:05",click,next-page
+72450,341,522,"2023-06-25 19:40:05",click,next-page
+72451,341,522,"2023-06-25 19:40:05",click,next-page
+72452,341,522,"2023-06-25 19:40:06",click,next-page
+72453,341,522,"2023-06-25 19:40:06",click,next-page
+72454,341,522,"2023-06-25 19:40:29",page-load,"web form: question"
+72455,341,522,"2023-06-25 19:40:45",click,"correct-option: 1"
+72456,341,522,"2023-06-25 19:40:48",click,next-page
+72457,341,523,"2023-06-25 19:40:48",page-load,video
+72458,341,524,"2023-06-25 19:43:34",page-load,"web form: what would you like to do next"
+72459,341,524,"2023-06-25 19:43:39",click,next-page
+72460,341,525,"2023-06-25 19:43:40",page-load,"skills quiz preview"
+72461,341,525,"2023-06-25 19:43:56",click,next-page
+72462,341,0,"2023-06-25 19:44:27","Skills Quiz 30 second Hint",30time
+72463,341,0,"2023-06-25 19:44:41","Skills Quiz-27 Step-1 Incorrect",Edit
+72464,341,0,"2023-06-25 19:44:59","Skills Quiz-27 Step-3 Incorrect",undefined
+72465,341,0,"2023-06-25 19:45:05","Skills Quiz-27 Step-3 Incorrect",undefined
+72466,341,526,"2023-06-25 19:45:10",click,"skills quiz hint"
+72467,341,0,"2023-06-25 19:45:17","Skills Quiz-27 Step-3 Correct",YES
+72468,341,0,"2023-06-25 19:45:30","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+72469,341,0,"2023-06-25 19:45:37","Skills Quiz-27 Step-5 Correct",Optimism
+72470,341,0,"2023-06-25 19:45:47","Skills Quiz-27 Step-6 Correct","                  Select               "
+72471,341,0,"2023-06-25 19:45:52","Skills Quiz-27 Step-7 Incorrect",undefined
+72472,341,526,"2023-06-25 19:45:56",click,"skills quiz hint"
+72473,341,526,"2023-06-25 19:45:58",click,"skills quiz hint"
+72474,341,526,"2023-06-25 19:45:59",click,"skills quiz hint"
+72475,341,0,"2023-06-25 19:46:01","Skills Quiz-27 Step-7 Incorrect",undefined
+72476,341,0,"2023-06-25 19:46:13","Skills Quiz-27 Step-7 Incorrect",undefined
+72477,341,0,"2023-06-25 19:46:40","Skills Quiz-27 Step-7 Incorrect",undefined
+72478,341,0,"2023-06-25 19:46:40","Skills Quiz-27 Step-7 Incorrect",undefined
+72479,341,0,"2023-06-25 19:46:53","Skills Quiz-27 Step-7 Incorrect",YES
+72480,341,0,"2023-06-25 19:46:58","Skills Quiz-27 Step-7 Correct",Save
+72481,341,0,"2023-06-25 19:47:21","Skills Quiz-27 Step-9 Incorrect","Rate how optimistic I felt today"
+72482,341,0,"2023-06-25 19:47:21","Skills Quiz-27 Step-8 Incorrect","Rate how optimistic I felt today"
+72483,341,0,"2023-06-25 19:47:22","Skills Quiz-27 Step-9 Incorrect","Rate how optimistic I felt today"
+72484,341,0,"2023-06-25 19:47:22","Skills Quiz-27 Step-8 Incorrect","Rate how optimistic I felt today"
+72485,341,0,"2023-06-25 19:47:23","Skills Quiz-27 Step-9 Incorrect","Entry/Event DetailsDate:Title:Optimism RatingDescription:Rate how optimistic I felt todayCancelDeleteEdit"
+72486,341,0,"2023-06-25 19:47:23","Skills Quiz-27 Step-8 Incorrect","Entry/Event DetailsDate:Title:Optimism RatingDescription:Rate how optimistic I felt todayCancelDeleteEdit"
+72487,341,526,"2023-06-25 19:47:28",click,"skills quiz hint"
+72488,341,526,"2023-06-25 19:47:29",click,"skills quiz hint"
+72489,341,526,"2023-06-25 19:47:30",click,"skills quiz hint"
+72490,341,526,"2023-06-25 19:47:32",click,"skills quiz hint"
+72491,341,526,"2023-06-25 19:47:32",click,"skills quiz hint"
+72492,341,0,"2023-06-25 19:47:34","Skills Quiz-27 Step-8 Incorrect",Date:
+72493,341,0,"2023-06-25 19:47:34","Skills Quiz-27 Step-9 Incorrect",Date:
+72494,341,0,"2023-06-25 19:47:35","Skills Quiz-27 Step-9 Incorrect","Rate how optimistic I felt today"
+72495,341,0,"2023-06-25 19:47:35","Skills Quiz-27 Step-8 Incorrect","Rate how optimistic I felt today"
+72496,341,0,"2023-06-25 19:47:36","Skills Quiz-27 Step-8 Incorrect","Rate how optimistic I felt today"
+72497,341,0,"2023-06-25 19:47:36","Skills Quiz-27 Step-9 Incorrect","Rate how optimistic I felt today"
+72498,341,0,"2023-06-25 19:47:37","Skills Quiz-27 Step-8 Incorrect","Rate how optimistic I felt today"
+72499,341,0,"2023-06-25 19:47:37","Skills Quiz-27 Step-9 Incorrect","Rate how optimistic I felt today"
+72500,341,0,"2023-06-25 19:47:41","Skills Quiz-27 Step-9 Incorrect","Rate how optimistic I felt today"
+72501,341,0,"2023-06-25 19:47:41","Skills Quiz-27 Step-8 Incorrect","Rate how optimistic I felt today"
+72502,341,0,"2023-06-25 19:47:42","Skills Quiz-27 Step-9 Incorrect","Rate how optimistic I felt today"
+72503,341,0,"2023-06-25 19:47:42","Skills Quiz-27 Step-8 Incorrect","Rate how optimistic I felt today"
+72504,341,0,"2023-06-25 19:47:44","Skills Quiz-27 Step-8 Incorrect",Edit
+72505,341,0,"2023-06-25 19:47:44","Skills Quiz-27 Step-9 Incorrect",Edit
+72506,341,0,"2023-06-25 19:47:47","Skills Quiz-27 Step-3 Incorrect",undefined
+72507,341,0,"2023-06-25 19:47:48","Skills Quiz-27 Step-3 Incorrect",undefined
+72508,341,0,"2023-06-25 19:47:53","Skills Quiz-27 Step-3 Correct",YES
+72509,341,526,"2023-06-25 19:48:04",click,"skills quiz hint"
+72510,341,0,"2023-06-25 19:48:06","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+72511,341,0,"2023-06-25 19:48:10","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+72512,341,0,"2023-06-25 19:48:13","Skills Quiz-27 Step-5 Correct",Optimism
+72513,341,526,"2023-06-25 19:48:17",click,"skills quiz hint"
+72514,341,0,"2023-06-25 19:48:20","Skills Quiz-27 Step-6 Correct","                  Select               "
+72515,341,0,"2023-06-25 19:48:28","Skills Quiz-27 Step-7 Incorrect",undefined
+72516,341,0,"2023-06-25 19:48:29","Skills Quiz-27 Step-7 Incorrect",undefined
+72517,341,0,"2023-06-25 19:48:39","Skills Quiz-27 Step-7 Correct",Save
+72518,341,526,"2023-06-25 19:49:02",click,"skills quiz hint"
+72519,341,526,"2023-06-25 19:49:04",click,"skills quiz hint"
+72520,341,526,"2023-06-25 19:49:05",click,"skills quiz hint"
+72521,341,526,"2023-06-25 19:49:05",click,"skills quiz hint"
+72522,341,526,"2023-06-25 19:49:46",click,"skills quiz hint"
+72523,341,526,"2023-06-25 19:49:48",click,"skills quiz hint"
+72524,341,526,"2023-06-25 19:49:49",click,"skills quiz hint"
+72525,341,526,"2023-06-25 19:49:49",click,"skills quiz hint"
+72526,341,526,"2023-06-25 19:51:34",click,"skills quiz hint"
+72527,341,526,"2023-06-25 19:51:35",click,"skills quiz hint"
+72528,341,526,"2023-06-25 19:51:39",click,"skills quiz hint"
+72529,341,526,"2023-06-25 19:53:19",click,"skills quiz hint"
+72530,341,526,"2023-06-25 19:53:20",click,"skills quiz hint"
+72531,341,412,"2023-06-25 19:56:09",page-load,video
+72532,341,412,"2023-06-25 19:57:47",page-load,video
+72533,341,412,"2023-06-25 20:02:12",page-load,video
+72534,341,413,"2023-06-25 20:03:59",page-load,"web form: question"
+72535,341,413,"2023-06-25 20:04:03",click,"correct-option: 4"
+72536,341,413,"2023-06-25 20:04:05",click,next-page
+72537,341,414,"2023-06-25 20:04:05",page-load,video
+72538,341,415,"2023-06-25 20:04:39",page-load,"web form: question"
+72539,341,415,"2023-06-25 20:04:50",click,"correct-option: False"
+72540,341,415,"2023-06-25 20:04:53",click,next-page
+72541,341,416,"2023-06-25 20:04:53",page-load,video
+72542,341,417,"2023-06-25 20:08:44",page-load,"web form: what would you like to do next"
+72543,341,417,"2023-06-25 20:08:53",click,next-page
+72544,341,418,"2023-06-25 20:08:54",page-load,"skills quiz preview"
+72545,341,418,"2023-06-25 20:08:59",click,next-page
+72546,341,0,"2023-06-25 20:09:05","Skills Quiz-21 Step-1 Incorrect",HEALTH
+72547,341,0,"2023-06-25 20:09:07","Skills Quiz-21 Step-2 Incorrect","Medical Information"
+72548,341,0,"2023-06-25 20:09:11","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+72549,341,0,"2023-06-25 20:09:16","Skills Quiz-21 Step-3 Correct","Daily Medications"
+72550,341,419,"2023-06-25 20:09:40",click,"skills quiz hint"
+72551,341,0,"2023-06-25 20:09:46","Skills Quiz 30 second Hint",30time
+72552,341,419,"2023-06-25 20:10:19",click,"skills quiz hint"
+72553,341,0,"2023-06-25 20:10:25","Skills Quiz-21 Step-4 Correct",descriptionMorning
+72554,341,0,"2023-06-25 20:10:55","Skills Quiz 30 second Hint",30time
+72555,341,0,"2023-06-25 20:11:46","Skills Quiz-21 Step-6 Correct","8:00 AM"
+72556,341,0,"2023-06-25 20:11:48","Skills Quiz-21 Step-7 Correct",7
+72557,341,0,"2023-06-25 20:11:49","Skills Quiz-21 Step-8 Correct",00
+72558,341,0,"2023-06-25 20:11:51","Skills Quiz-21 Step-9 Correct",AM
+72559,341,0,"2023-06-25 20:11:52","Skills Quiz-21 Step-10 Correct",Save
+72560,341,0,"2023-06-25 20:12:02","Skills Quiz-21 Step-11 Incorrect",CloseSave
+72561,341,0,"2023-06-25 20:12:10","Skills Quiz-21 Step-11 Incorrect",titleMorning
+72562,341,0,"2023-06-25 20:12:11","Skills Quiz-21 Step-11 Incorrect",titleMorning
+72563,341,0,"2023-06-25 20:12:19","Skills Quiz-21 Step-11 Incorrect","Time7:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+72564,341,0,"2023-06-25 20:12:21","Skills Quiz-21 Step-11 Incorrect",titleMorning
+72565,341,0,"2023-06-25 20:12:21","Skills Quiz-21 Step-11 Incorrect",titleMorning
+72566,341,0,"2023-06-25 20:12:24","Skills Quiz-21 Step-11 Correct",checkMorning
+72567,341,0,"2023-06-25 20:12:29","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-06-25 20:12:29",module_end,none

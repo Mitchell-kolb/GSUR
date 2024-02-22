@@ -1,0 +1,71 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+51169,316,434,"2023-05-09 01:23:25",page-load,video
+51170,316,435,"2023-05-09 01:23:29",page-load,"goal setting: preview"
+51171,316,436,"2023-05-09 01:24:07",page-load,"goal setting: example plan"
+51172,316,436,"2023-05-09 01:24:15",click,next-page
+51173,316,437,"2023-05-09 01:24:15",page-load,"goal setting: pick one strategy"
+51174,316,437,"2023-05-09 01:24:39",click,next-page
+51175,316,438,"2023-05-09 01:24:39",page-load,"goal setting: top strategy display"
+51176,316,438,"2023-05-09 01:24:48",click,next-page
+51177,316,439,"2023-05-09 01:24:49",page-load,"goal setting: when"
+51178,316,439,"2023-05-09 01:25:18",click,next-page
+51179,316,440,"2023-05-09 01:25:19",page-load,"goal setting: where"
+51180,316,440,"2023-05-09 01:25:36",click,next-page
+51181,316,441,"2023-05-09 01:25:36",page-load,"goal setting: with whom"
+51182,316,441,"2023-05-09 01:25:42",click,next-page
+51183,316,442,"2023-05-09 01:25:42",page-load,"goal setting: how"
+51184,316,442,"2023-05-09 01:26:38",click,next-page
+51185,316,443,"2023-05-09 01:26:39",page-load,"goal setting: barriers and alternatives"
+51186,316,443,"2023-05-09 01:26:40",click,next-page
+51187,316,443,"2023-05-09 01:27:11",click,next-page
+51188,316,444,"2023-05-09 01:27:11",page-load,"goal setting: motivation"
+51189,316,444,"2023-05-09 01:27:14",click,next-page
+51190,316,445,"2023-05-09 01:27:14",page-load,"goal setting: confidence"
+51191,316,445,"2023-05-09 01:27:19",click,next-page
+51192,316,446,"2023-05-09 01:27:19",page-load,"goal setting: plan"
+51193,316,446,"2023-05-09 01:27:37",click,next-page
+51194,316,447,"2023-05-09 01:27:37",page-load,"end of lesson: 5"
+51195,316,500,"2023-05-09 01:27:45",page-load,video
+51196,316,501,"2023-05-09 01:29:53",page-load,"web form: scheduling choices"
+51197,316,501,"2023-05-09 01:29:58",tracked,"reduce stress"
+51198,316,501,"2023-05-09 01:30:10",tracked,"improve my quality of life"
+51199,316,501,"2023-05-09 01:30:11",click,next-page
+51200,316,502,"2023-05-09 01:30:12",page-load,video
+51201,316,503,"2023-05-09 01:36:33",page-load,"web form: scheduling choices"
+51202,316,503,"2023-05-09 01:36:45",tracked,"Reading a book"
+51203,316,503,"2023-05-09 01:36:46",click,next-page
+51204,316,504,"2023-05-09 01:36:46",page-load,video
+51205,316,505,"2023-05-09 01:40:37",page-load,"web form: what would you like to do next"
+51206,316,505,"2023-05-09 01:40:40",click,next-page
+51207,316,506,"2023-05-09 01:40:40",page-load,"skills quiz preview"
+51208,316,506,"2023-05-09 01:40:49",click,next-page
+51209,316,0,"2023-05-09 01:40:57","Skills Quiz-25 Step-1 Incorrect","Add New Note"
+51210,316,0,"2023-05-09 01:41:03","Skills Quiz-25 Step-1 Incorrect",GoalsLists
+51211,316,0,"2023-05-09 01:41:04","Skills Quiz-25 Step-1 Correct",TODAY
+51212,316,0,"2023-05-09 01:41:28","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+51213,316,0,"2023-05-09 01:41:30","Skills Quiz-25 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+51214,316,0,"2023-05-09 01:41:38","Skills Quiz-25 Step-2 Incorrect","Entry/Event DetailsDate:Title:Description:CancelDeleteEdit"
+51215,316,0,"2023-05-09 01:41:43","Skills Quiz-25 Step-2 Incorrect",Edit
+51216,316,0,"2023-05-09 01:41:44","Skills Quiz-25 Step-2 Incorrect",Cancel
+51217,316,507,"2023-05-09 01:41:50",click,"skills quiz hint"
+51218,316,507,"2023-05-09 01:41:51",click,"skills quiz hint"
+51219,316,0,"2023-05-09 01:41:53","Skills Quiz-25 Step-2 Incorrect","Entry/Event DetailsDate:Title:Description:CancelDeleteEdit"
+51220,316,0,"2023-05-09 01:41:54","Skills Quiz-25 Step-2 Incorrect",Cancel
+51221,316,0,"2023-05-09 01:41:56","Skills Quiz-25 Step-2 Incorrect",Cancel
+51222,316,0,"2023-05-09 01:42:06","Skills Quiz-25 Step-2 Correct","Walk to Library12:30 PM - 1:15 PM"
+51223,316,0,"2023-05-09 01:42:09","Skills Quiz-25 Step-3 Correct","Tap Here"
+51224,316,0,"2023-05-09 01:42:10","Skills Quiz-25 Step-4 Correct",3
+51225,316,0,"2023-05-09 01:42:10","Skills Quiz-25 Step-5 Correct",0
+51226,316,0,"2023-05-09 01:42:11","Skills Quiz-25 Step-6 Correct","                              Save            "
+51227,316,0,"2023-05-09 01:42:13","Skills Quiz-25 Step-7 Correct",Save
+51228,316,0,"2023-05-09 01:42:22","Skills Quiz-25 Step-8 Incorrect","Morning Medications7:00 AM - 7:30 AMViewWalk to Library12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+51229,316,0,"2023-05-09 01:42:25","Skills Quiz-25 Step-8 Incorrect",undefined
+51230,316,0,"2023-05-09 01:42:27","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+51231,316,0,"2023-05-09 01:42:27","Skills Quiz-25 Step-9 Correct","Tap Here"
+51232,316,0,"2023-05-09 01:42:31","Skills Quiz-25 Step-8 Incorrect",CancelSave
+51233,316,0,"2023-05-09 01:42:31","Skills Quiz-25 Step-10 Incorrect",CancelSave
+51234,316,0,"2023-05-09 01:42:32","Skills Quiz-25 Step-10 Correct",1
+51235,316,0,"2023-05-09 01:42:32","Skills Quiz-25 Step-8 Incorrect",1
+51236,316,0,"2023-05-09 01:42:33","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+51237,316,0,"2023-05-09 01:42:33","Skills Quiz-25 Step-11 Correct","                              Save            "
+0,0,0,"2023-05-09 01:42:34",module_end,none

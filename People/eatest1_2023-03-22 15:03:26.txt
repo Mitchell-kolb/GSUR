@@ -1,0 +1,65 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+27536,245,300,"2023-03-01 14:25:28",page-load,video
+27537,245,301,"2023-03-01 14:26:06",page-load,"web form: question"
+27538,245,301,"2023-03-01 14:26:09",tracked,"Having a harder time remembering important events"
+27539,245,301,"2023-03-01 14:26:12",click,next-page
+27540,245,302,"2023-03-01 14:26:12",page-load,"web form: question"
+27541,245,302,"2023-03-01 14:26:14",tracked,"Greater difficulty managing medications"
+27542,245,302,"2023-03-01 14:26:16",click,next-page
+27543,245,303,"2023-03-01 14:26:16",page-load,"web form: question"
+27544,245,303,"2023-03-01 14:26:18",tracked,"Having a harder time navigating (walking or driving) around unfamiliar and familiar environments"
+27545,245,303,"2023-03-01 14:26:19",click,next-page
+27546,245,304,"2023-03-01 14:26:19",page-load,"web form: question"
+27547,245,304,"2023-03-01 14:26:22",tracked,"Forgetting things more often"
+27548,245,304,"2023-03-01 14:26:24",click,next-page
+27549,245,305,"2023-03-01 14:26:24",page-load,"web form: question"
+27550,245,305,"2023-03-01 14:26:26",click,next-page
+27551,245,306,"2023-03-01 14:26:26",page-load,video
+31779,245,10,"2023-03-22 14:55:53",page-load,video
+31780,245,11,"2023-03-22 14:57:19",page-load,video
+31781,245,12,"2023-03-22 14:58:31",page-load,"web form: scheduling choices"
+31782,245,12,"2023-03-22 14:58:35",tracked,"Scheduling and keeping appointments"
+31783,245,12,"2023-03-22 14:58:36",tracked,"Managing medications"
+31784,245,12,"2023-03-22 14:58:37",tracked,"Planning steps to accomplish a task"
+31785,245,12,"2023-03-22 14:58:38",tracked,"Remembering important events"
+31786,245,12,"2023-03-22 14:58:38",click,next-page
+31787,245,13,"2023-03-22 14:58:39",page-load,video
+31788,245,14,"2023-03-22 14:59:12",page-load,"web form: what would you like to do next"
+31789,245,14,"2023-03-22 14:59:13",click,next-page
+31790,245,15,"2023-03-22 14:59:13",page-load,video
+31791,245,16,"2023-03-22 15:00:10",page-load,"web form: question"
+31792,245,16,"2023-03-22 15:00:12",click,"incorrect-option: Blue"
+31793,245,16,"2023-03-22 15:00:12",click,"correct-option: Grey"
+31794,245,17,"2023-03-22 15:00:14",page-load,video
+31795,245,18,"2023-03-22 15:00:37",page-load,"web form: question"
+31796,245,18,"2023-03-22 15:00:38",click,"correct-option: 1:30 PM"
+31797,245,18,"2023-03-22 15:00:40",click,next-page
+31798,245,19,"2023-03-22 15:00:41",page-load,video
+31799,245,20,"2023-03-22 15:00:55",page-load,"web form: question"
+31800,245,20,"2023-03-22 15:00:56",click,"incorrect-option: Red"
+31801,245,20,"2023-03-22 15:00:57",click,"correct-option: Blue"
+31802,245,20,"2023-03-22 15:00:57",click,next-page
+31803,245,21,"2023-03-22 15:00:58",page-load,"web form: what would you like to do next"
+31804,245,21,"2023-03-22 15:01:23",click,previous-page
+31805,245,15,"2023-03-22 15:01:24",page-load,video
+31806,245,16,"2023-03-22 15:01:33",page-load,"web form: question"
+31807,245,16,"2023-03-22 15:01:35",click,"correct-option: Grey"
+31808,245,16,"2023-03-22 15:01:35",click,"incorrect-option: Blue"
+31809,245,16,"2023-03-22 15:01:36",click,next-page
+31810,245,17,"2023-03-22 15:01:36",page-load,video
+31811,245,18,"2023-03-22 15:01:41",page-load,"web form: question"
+31812,245,18,"2023-03-22 15:01:42",click,"correct-option: 1:30 PM"
+31813,245,18,"2023-03-22 15:01:43",click,next-page
+31814,245,19,"2023-03-22 15:01:43",page-load,video
+31815,245,20,"2023-03-22 15:02:00",page-load,"web form: question"
+31816,245,20,"2023-03-22 15:02:02",click,"correct-option: Blue"
+31817,245,20,"2023-03-22 15:02:03",click,next-page
+31818,245,21,"2023-03-22 15:02:03",page-load,"web form: what would you like to do next"
+31819,245,0,"2023-03-22 15:03:16","Skills Quiz-1 Step-1 Correct",TODAY
+31820,245,0,"2023-03-22 15:03:18","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+31821,245,0,"2023-03-22 15:03:20","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+31822,245,0,"2023-03-22 15:03:21","Skills Quiz-1 Step-4 Incorrect",14
+31823,245,0,"2023-03-22 15:03:23","Skills Quiz-1 Step-4 Correct",right-arrow
+31824,245,0,"2023-03-22 15:03:25","Skills Quiz-1 Step-5 Correct",14
+31825,245,0,"2023-03-22 15:03:25","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-03-22 15:03:26",module_end,none

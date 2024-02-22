@@ -1,0 +1,26 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+76812,343,400,"2023-07-13 21:52:03",page-load,video
+76813,343,401,"2023-07-13 21:55:51",page-load,"web form: question"
+76814,343,401,"2023-07-13 21:55:59",click,"correct-option: False"
+76815,343,401,"2023-07-13 21:56:03",click,next-page
+76816,343,402,"2023-07-13 21:56:04",page-load,video
+76817,343,403,"2023-07-13 21:59:55",page-load,"web form: what would you like to do next"
+76818,343,403,"2023-07-13 22:00:03",click,next-page
+76819,343,404,"2023-07-13 22:00:04",page-load,"skills quiz preview"
+76820,343,404,"2023-07-13 22:00:16",click,next-page
+76821,343,0,"2023-07-13 22:00:24","Skills Quiz-19 Step-1 Incorrect",HEALTH
+76822,343,0,"2023-07-13 22:00:28","Skills Quiz-19 Step-2 Incorrect",TODAYCALENDARHEALTHNOTES
+76823,343,0,"2023-07-13 22:00:29","Skills Quiz-19 Step-2 Correct","Medical Information"
+76824,343,0,"2023-07-13 22:00:33","Skills Quiz-19 Step-3 Correct","Add New Note"
+76825,343,0,"2023-07-13 22:00:44","Skills Quiz-19 Step-4 Correct",noteSpecialty
+76826,343,0,"2023-07-13 22:01:14","Skills Quiz 30 second Hint",30time
+76827,343,0,"2023-07-13 22:06:40","Skills Quiz-19 Step-6 Correct",noteName
+76828,343,0,"2023-07-13 22:07:01","Skills Quiz-19 Step-8 Correct",notePhone
+76829,343,0,"2023-07-13 22:07:31","Skills Quiz 30 second Hint",30time
+76830,343,0,"2023-07-13 22:07:52","Skills Quiz-19 Step-10 Incorrect","New Doctor NoteDoctors InformationSpecialtyNamePhone NumberAddressDetailsClose  SAVE"
+76831,343,0,"2023-07-13 22:07:58","Skills Quiz-19 Step-10 Correct",noteAddress
+76832,343,0,"2023-07-13 22:08:22","Skills Quiz-19 Step-12 Correct",noteDetails
+76833,343,0,"2023-07-13 22:08:52","Skills Quiz 30 second Hint",30time
+76834,343,0,"2023-07-13 22:09:01","Skills Quiz-19 Step-14 Correct"," SAVE"
+76835,343,0,"2023-07-13 22:09:09","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-07-13 22:09:09",module_end,none

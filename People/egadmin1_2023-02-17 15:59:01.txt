@@ -1,0 +1,32 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+23975,254,410,"2023-02-17 15:51:21",page-load,video
+23976,254,411,"2023-02-17 15:51:24",page-load,"web form: scheduling choices"
+23977,254,411,"2023-02-17 15:51:24",tracked,"Physical Exercise"
+23978,254,411,"2023-02-17 15:51:25",click,next-page
+23979,254,412,"2023-02-17 15:51:26",page-load,video
+23980,254,413,"2023-02-17 15:51:29",page-load,"web form: question"
+23981,254,413,"2023-02-17 15:51:30",click,"correct-option: 4"
+23982,254,413,"2023-02-17 15:51:31",click,next-page
+23983,254,414,"2023-02-17 15:51:31",page-load,video
+23984,254,415,"2023-02-17 15:57:46",page-load,"web form: question"
+23985,254,415,"2023-02-17 15:57:47",click,"correct-option: False"
+23986,254,415,"2023-02-17 15:57:48",click,next-page
+23987,254,416,"2023-02-17 15:57:48",page-load,video
+23988,254,417,"2023-02-17 15:58:17",page-load,"web form: what would you like to do next"
+23989,254,417,"2023-02-17 15:58:19",click,take-a-break
+23990,254,417,"2023-02-17 15:58:19",click,next-page
+23991,254,418,"2023-02-17 15:58:20",page-load,"skills quiz preview"
+23992,254,418,"2023-02-17 15:58:21",click,next-page
+23993,254,0,"2023-02-17 15:58:27","Skills Quiz-21 Step-1 Incorrect",HEALTH
+23994,254,0,"2023-02-17 15:58:28","Skills Quiz-21 Step-2 Incorrect","Medical Information"
+23995,254,0,"2023-02-17 15:58:29","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+23996,254,0,"2023-02-17 15:58:35","Skills Quiz-21 Step-3 Correct","Daily Medications"
+23997,254,0,"2023-02-17 15:58:37","Skills Quiz-21 Step-4 Correct",descriptionMorning
+23998,254,0,"2023-02-17 15:58:53","Skills Quiz-21 Step-6 Correct","8:00 AM"
+23999,254,0,"2023-02-17 15:58:54","Skills Quiz-21 Step-7 Correct",7
+24000,254,0,"2023-02-17 15:58:55","Skills Quiz-21 Step-8 Correct",00
+24001,254,0,"2023-02-17 15:58:55","Skills Quiz-21 Step-9 Correct",AM
+24002,254,0,"2023-02-17 15:58:56","Skills Quiz-21 Step-10 Correct",Save
+24003,254,0,"2023-02-17 15:58:59","Skills Quiz-21 Step-11 Correct",checkMorning
+24004,254,0,"2023-02-17 15:59:00","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-02-17 15:59:01",module_end,none

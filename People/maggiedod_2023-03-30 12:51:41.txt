@@ -1,0 +1,34 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+35179,221,411,"2023-03-30 12:47:13",page-load,"web form: scheduling choices"
+35180,221,411,"2023-03-30 12:47:18",tracked,Medications
+35181,221,411,"2023-03-30 12:47:20",tracked,Mood
+35183,221,411,"2023-03-30 12:47:21",tracked,Weight
+35184,221,411,"2023-03-30 12:47:22",tracked,"Physical Exercise"
+35185,221,411,"2023-03-30 12:47:24",click,next-page
+35186,221,412,"2023-03-30 12:47:24",page-load,video
+35190,221,413,"2023-03-30 12:48:18",page-load,"web form: question"
+35191,221,413,"2023-03-30 12:48:20",click,"correct-option: 4"
+35192,221,413,"2023-03-30 12:48:21",click,next-page
+35193,221,414,"2023-03-30 12:48:22",page-load,video
+35195,221,415,"2023-03-30 12:48:38",page-load,"web form: question"
+35196,221,415,"2023-03-30 12:48:42",click,"incorrect-option: True"
+35197,221,415,"2023-03-30 12:48:46",click,"correct-option: False"
+35198,221,415,"2023-03-30 12:48:48",click,next-page
+35199,221,416,"2023-03-30 12:48:48",page-load,video
+35208,221,417,"2023-03-30 12:50:41",page-load,"web form: what would you like to do next"
+35209,221,417,"2023-03-30 12:50:43",click,next-page
+35210,221,418,"2023-03-30 12:50:44",page-load,"skills quiz preview"
+35212,221,418,"2023-03-30 12:50:47",click,next-page
+35215,221,0,"2023-03-30 12:50:54","Skills Quiz-21 Step-1 Incorrect",HEALTH
+35216,221,0,"2023-03-30 12:50:57","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+35217,221,0,"2023-03-30 12:50:58","Skills Quiz-21 Step-3 Correct","Daily Medications"
+35220,221,0,"2023-03-30 12:51:10","Skills Quiz-21 Step-4 Correct",descriptionMorning
+35227,221,0,"2023-03-30 12:51:24","Skills Quiz-21 Step-6 Correct","8:00 AM"
+35228,221,0,"2023-03-30 12:51:26","Skills Quiz-21 Step-7 Correct",7
+35229,221,0,"2023-03-30 12:51:28","Skills Quiz-21 Step-8 Correct",00
+35230,221,0,"2023-03-30 12:51:29","Skills Quiz-21 Step-9 Correct",AM
+35231,221,0,"2023-03-30 12:51:29","Skills Quiz-21 Step-10 Correct",Save
+35232,221,0,"2023-03-30 12:51:34","Skills Quiz-21 Step-11 Correct",checkMorning
+35239,221,0,"2023-03-30 12:51:38","Skills Quiz-21 Step-12 Incorrect",titleMorning
+35242,221,0,"2023-03-30 12:51:41","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-03-30 12:51:41",module_end,none

@@ -1,0 +1,34 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+11153,253,424,"2023-01-31 14:31:33",page-load,video
+11154,253,425,"2023-01-31 14:31:53",page-load,"web form: question"
+11155,253,425,"2023-01-31 14:33:37",click,"correct-option: True"
+11156,253,425,"2023-01-31 14:33:37",click,"incorrect-option: False"
+11157,253,425,"2023-01-31 14:33:38",click,next-page
+11158,253,426,"2023-01-31 14:33:38",page-load,video
+11159,253,427,"2023-01-31 14:33:57",page-load,"web form: what would you like to do next"
+11160,253,427,"2023-01-31 14:34:19",click,next-page
+11161,253,428,"2023-01-31 14:34:20",page-load,"skills quiz preview"
+11162,253,428,"2023-01-31 14:34:22",click,next-page
+11163,253,0,"2023-01-31 14:34:27","Skills Quiz-23 Step-1 Incorrect","Blood Pressure8:00 AM - 8:15 AM"
+11164,253,0,"2023-01-31 14:34:29","Skills Quiz-23 Step-1 Correct",Edit
+11165,253,0,"2023-01-31 14:34:32","Skills Quiz-23 Step-2 Correct",Weekly
+11166,253,0,"2023-01-31 14:34:34","Skills Quiz-23 Step-3 Correct",Thu
+11167,253,0,"2023-01-31 14:34:35","Skills Quiz-23 Step-4 Correct","Repeat Forever (tap to change)"
+11168,253,0,"2023-01-31 14:34:38","Skills Quiz-23 Step-5 Correct",end-right-arrow
+11169,253,0,"2023-01-31 14:34:39","Skills Quiz-23 Step-6 Correct",8
+11170,253,0,"2023-01-31 14:34:40","Skills Quiz-23 Step-7 Correct",OK
+11171,253,0,"2023-01-31 14:34:46","Skills Quiz-23 Step-8 Correct",Save
+11172,253,0,"2023-01-31 14:34:47","Skills Quiz-23 Step-9 Correct",YES
+11173,253,0,"2023-01-31 14:34:49","Skills Quiz-23 Step-10 Correct","                        Blood Pressure                     "
+11174,253,0,"2023-01-31 14:34:50","Skills Quiz-23 Step-11 Correct","Tap Here"
+11175,253,0,"2023-01-31 14:34:51","Skills Quiz-23 Step-12 Correct",1
+11176,253,0,"2023-01-31 14:34:52","Skills Quiz-23 Step-13 Correct",2
+11177,253,0,"2023-01-31 14:34:52","Skills Quiz-23 Step-14 Correct",0
+11178,253,0,"2023-01-31 14:34:53","Skills Quiz-23 Step-15 Correct","                                    Save               "
+11179,253,0,"2023-01-31 14:34:54","Skills Quiz-23 Step-16 Correct","Tap Here"
+11180,253,0,"2023-01-31 14:34:55","Skills Quiz-23 Step-17 Correct",8
+11181,253,0,"2023-01-31 14:34:55","Skills Quiz-23 Step-18 Correct",0
+11182,253,0,"2023-01-31 14:34:56","Skills Quiz-23 Step-19 Correct","                                    Save               "
+11183,253,0,"2023-01-31 14:34:57","Skills Quiz-23 Step-20 Correct","                                    Save               "
+11184,253,0,"2023-01-31 14:34:58","Skills Quiz-23 Step-21 Correct",Save
+0,0,0,"2023-01-31 14:34:58",module_end,none

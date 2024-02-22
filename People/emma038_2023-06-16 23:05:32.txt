@@ -1,0 +1,52 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+67886,344,122,"2023-06-16 22:54:23",page-load,"web form: question"
+67887,344,122,"2023-06-16 22:54:32",click,"correct-option: Both the To-do List and Time Schedule"
+67888,344,122,"2023-06-16 22:54:35",click,next-page
+67889,344,123,"2023-06-16 22:54:36",page-load,video
+67890,344,124,"2023-06-16 22:58:46",page-load,"web form: what would you like to do next"
+67891,344,0,"2023-06-16 23:00:10","Skills Quiz 30 second Hint",30time
+67892,344,0,"2023-06-16 23:00:16","Skills Quiz-7 Step-1 Incorrect",Date:Title:Description:
+67893,344,0,"2023-06-16 23:00:17","Skills Quiz-7 Step-1 Incorrect",Date:Title:Description:
+67894,344,0,"2023-06-16 23:00:29","Skills Quiz-7 Step-1 Correct",Edit
+67895,344,0,"2023-06-16 23:00:52","Skills Quiz-7 Step-1 Incorrect",Date:
+67896,344,0,"2023-06-16 23:01:00","Skills Quiz-7 Step-1 Incorrect",Date:
+67897,344,0,"2023-06-16 23:01:01","Skills Quiz-7 Step-1 Incorrect",Date:
+67898,344,0,"2023-06-16 23:01:07","Skills Quiz-7 Step-1 Correct",Edit
+67899,344,0,"2023-06-16 23:01:10","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67900,344,0,"2023-06-16 23:01:11","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67901,344,0,"2023-06-16 23:01:12","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67902,344,0,"2023-06-16 23:01:18","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67903,344,0,"2023-06-16 23:01:21","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67904,344,0,"2023-06-16 23:01:22","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67905,344,0,"2023-06-16 23:01:38","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67906,344,0,"2023-06-16 23:01:39","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67907,344,0,"2023-06-16 23:01:39","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67908,344,0,"2023-06-16 23:01:44","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67909,344,0,"2023-06-16 23:01:44","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67910,344,0,"2023-06-16 23:01:45","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67911,344,0,"2023-06-16 23:01:47","Skills Quiz-7 Step-2 Incorrect","Edit Event"
+67912,344,0,"2023-06-16 23:01:51","Skills Quiz-7 Step-2 Incorrect",Save
+67913,344,0,"2023-06-16 23:01:52","Skills Quiz-7 Step-2 Incorrect",Cancel
+67914,344,0,"2023-06-16 23:02:01","Skills Quiz-7 Step-1 Incorrect","Blood Donation Volunteer Shift2:00 PM - 4:00 PM"
+67915,344,0,"2023-06-16 23:02:07","Skills Quiz-7 Step-1 Correct",Edit
+67916,344,0,"2023-06-16 23:02:10","Skills Quiz-7 Step-2 Incorrect","June 10, 2021"
+67917,344,0,"2023-06-16 23:02:23","Skills Quiz-7 Step-2 Correct",event-description
+67918,344,0,"2023-06-16 23:02:53","Skills Quiz 30 second Hint",30time
+67919,344,0,"2023-06-16 23:04:02","Skills Quiz-7 Step-4 Incorrect","June 10, 2021"
+67920,344,125,"2023-06-16 23:04:05",click,"skills quiz hint"
+67921,344,125,"2023-06-16 23:04:07",click,"skills quiz hint"
+67922,344,0,"2023-06-16 23:04:24","Skills Quiz-7 Step-4 Correct",Weekly
+67923,344,0,"2023-06-16 23:04:26","Skills Quiz-7 Step-5 Correct",Tue
+67924,344,0,"2023-06-16 23:04:27","Skills Quiz-7 Step-6 Correct",Thu
+67925,344,0,"2023-06-16 23:04:32","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+67926,344,0,"2023-06-16 23:04:34","Skills Quiz-7 Step-8 Correct",end-right-arrow
+67927,344,0,"2023-06-16 23:04:37","Skills Quiz-7 Step-9 Correct",31
+67928,344,0,"2023-06-16 23:04:38","Skills Quiz-7 Step-10 Correct",OK
+67929,344,0,"2023-06-16 23:04:46","Skills Quiz-7 Step-11 Correct",YES
+67930,344,0,"2023-06-16 23:04:51","Skills Quiz-7 Step-12 Correct",Save
+67931,344,0,"2023-06-16 23:05:21","Skills Quiz 30 second Hint",30time
+67932,344,0,"2023-06-16 23:05:23","Skills Quiz-7 Step-13 Incorrect","10 min"
+67933,344,0,"2023-06-16 23:05:25","Skills Quiz-7 Step-13 Incorrect","10 min"
+67934,344,0,"2023-06-16 23:05:25","Skills Quiz-7 Step-13 Incorrect","Start Time"
+67935,344,0,"2023-06-16 23:05:31","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-06-16 23:05:32",module_end,none

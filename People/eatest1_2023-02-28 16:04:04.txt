@@ -1,0 +1,17 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+27302,245,236,"2023-02-28 16:03:30",page-load,"web form: question"
+27303,245,236,"2023-02-28 16:03:31",click,"incorrect-option: 2"
+27304,245,236,"2023-02-28 16:03:31",click,"correct-option: 1"
+27305,245,236,"2023-02-28 16:03:32",click,"incorrect-option: Entire contents of folder"
+27306,245,236,"2023-02-28 16:03:32",click,"correct-option: 1"
+27307,245,236,"2023-02-28 16:03:33",click,next-page
+27308,245,237,"2023-02-28 16:03:33",page-load,"web form: what would you like to do next"
+27309,245,237,"2023-02-28 16:03:33",click,next-page
+27310,245,238,"2023-02-28 16:03:34",page-load,"skills quiz preview"
+27311,245,238,"2023-02-28 16:03:35",click,next-page
+27312,245,0,"2023-02-28 16:03:37","Skills Quiz-17 Step-1 Incorrect","Chocolate Chip CookiesViewPost Office TripView"
+27313,245,0,"2023-02-28 16:03:38","Skills Quiz-17 Step-1 Correct",View
+27314,245,0,"2023-02-28 16:03:40","Skills Quiz-17 Step-2 Correct",SAVE
+27315,245,0,"2023-02-28 16:03:41","Skills Quiz-17 Step-3 Correct",Delete
+27316,245,0,"2023-02-28 16:03:42","Skills Quiz-17 Step-4 Correct",Confirm
+0,0,0,"2023-02-28 16:04:04",module_end,none

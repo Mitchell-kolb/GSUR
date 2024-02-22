@@ -1,0 +1,24 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+47997,159,431,"2023-05-02 06:18:19",page-load,"skills quiz preview"
+47998,159,0,"2023-05-02 06:19:06","Skills Quiz-24 Step-1 Correct",Edit
+47999,159,0,"2023-05-02 06:19:17","Skills Quiz-24 Step-2 Correct",Weekly
+48000,159,0,"2023-05-02 06:19:22","Skills Quiz-24 Step-3 Correct",Mon
+48001,159,0,"2023-05-02 06:19:26","Skills Quiz-24 Step-4 Correct","Repeat Forever (tap to change)"
+48002,159,0,"2023-05-02 06:19:37","Skills Quiz-24 Step-5 Incorrect",7
+48003,159,0,"2023-05-02 06:19:57","Skills Quiz-24 Step-5 Incorrect",14
+48004,159,0,"2023-05-02 06:20:12","Skills Quiz-24 Step-5 Correct",end-right-arrow
+48005,159,0,"2023-05-02 06:20:16","Skills Quiz-24 Step-6 Incorrect",26
+48006,159,0,"2023-05-02 06:20:26","Skills Quiz-24 Step-6 Correct",29
+48007,159,0,"2023-05-02 06:20:44","Skills Quiz-24 Step-7 Incorrect","Please choose a Date to Stop RepeatingJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+48008,159,0,"2023-05-02 06:20:46","Skills Quiz-24 Step-7 Correct",OK
+48009,159,0,"2023-05-02 06:20:53","Skills Quiz-24 Step-8 Incorrect",YES
+48010,159,0,"2023-05-02 06:21:00","Skills Quiz-24 Step-8 Correct",Save
+48011,159,0,"2023-05-02 06:21:07","Skills Quiz-24 Step-9 Correct",YES
+48012,159,0,"2023-05-02 06:21:09","Skills Quiz-24 Step-10 Correct","                        Weight                     "
+48013,159,0,"2023-05-02 06:21:11","Skills Quiz-24 Step-11 Correct","                  0               "
+48014,159,0,"2023-05-02 06:21:12","Skills Quiz-24 Step-12 Correct",1
+48015,159,0,"2023-05-02 06:21:13","Skills Quiz-24 Step-13 Correct",6
+48016,159,0,"2023-05-02 06:21:14","Skills Quiz-24 Step-14 Correct",0
+48017,159,0,"2023-05-02 06:21:15","Skills Quiz-24 Step-15 Correct","                                    Save               "
+48018,159,0,"2023-05-02 06:21:16","Skills Quiz-24 Step-16 Correct","                                    Save               "
+0,0,0,"2023-05-02 06:21:16",module_end,none

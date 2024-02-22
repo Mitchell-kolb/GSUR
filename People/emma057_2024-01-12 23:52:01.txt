@@ -1,0 +1,94 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+113054,406,38,"2024-01-06 21:47:35",page-load,"goal setting: importance"
+113055,406,38,"2024-01-06 21:47:58",click,next-page
+113056,406,39,"2024-01-06 21:47:59",page-load,video
+113057,406,40,"2024-01-06 21:48:45",page-load,"goal setting: pick three strategies"
+113058,406,40,"2024-01-06 21:51:04",click,next-page
+113059,406,41,"2024-01-06 21:51:05",page-load,"goal setting: pick top strategy"
+113060,406,41,"2024-01-06 21:52:09",click,next-page
+113061,406,42,"2024-01-06 21:52:10",page-load,"goal setting: top strategy display"
+113068,406,42,"2024-01-06 21:52:33",click,next-page
+113069,406,43,"2024-01-06 21:52:34",page-load,"goal setting: summary page one"
+113079,406,44,"2024-01-06 21:53:12",page-load,"goal setting: summary page two"
+113084,406,45,"2024-01-06 21:54:17",page-load,"goal setting: summary page two"
+113085,406,46,"2024-01-06 21:54:57",page-load,"goal setting: example plan"
+113091,406,47,"2024-01-06 21:57:53",page-load,"goal setting: when"
+113107,406,47,"2024-01-06 22:02:25",click,next-page
+113108,406,48,"2024-01-06 22:02:25",page-load,"goal setting: plan"
+113109,406,49,"2024-01-06 22:03:06",page-load,"goal setting: where"
+113118,406,49,"2024-01-06 22:04:31",click,next-page
+113119,406,50,"2024-01-06 22:04:34",page-load,"goal setting: plan"
+113120,406,51,"2024-01-06 22:05:41",page-load,"goal setting: with whom"
+113121,406,51,"2024-01-06 22:06:45",click,next-page
+113122,406,52,"2024-01-06 22:06:46",page-load,"goal setting: plan"
+113123,406,53,"2024-01-06 22:07:21",page-load,"goal setting: how"
+113124,406,53,"2024-01-06 22:08:19",click,hint
+113125,406,53,"2024-01-06 22:08:28",click,hint
+113126,406,53,"2024-01-06 22:08:32",click,previous-page
+113127,406,52,"2024-01-06 22:08:33",page-load,"goal setting: plan"
+113128,406,53,"2024-01-06 22:09:12",page-load,"goal setting: how"
+113129,406,54,"2024-01-06 22:22:43",page-load,"goal setting: plan"
+113130,406,54,"2024-01-06 22:23:09",click,next-page
+113131,406,55,"2024-01-06 22:23:09",page-load,"goal setting: barriers and alternatives"
+113132,406,55,"2024-01-06 22:24:59",click,next-page
+113133,406,56,"2024-01-06 22:25:00",page-load,"goal setting: motivation"
+113134,406,56,"2024-01-06 22:25:34",click,next-page
+113135,406,57,"2024-01-06 22:25:34",page-load,"goal setting: confidence"
+113136,406,57,"2024-01-06 22:26:08",click,next-page
+113137,406,58,"2024-01-06 22:26:08",page-load,"goal setting: plan"
+113138,406,59,"2024-01-06 22:26:53",page-load,"end of lesson: 2"
+113541,406,300,"2024-01-10 21:12:08",page-load,video
+113542,406,301,"2024-01-10 21:12:44",page-load,"web form: question"
+113543,406,301,"2024-01-10 21:12:53",click,next-page
+113544,406,302,"2024-01-10 21:12:53",page-load,"web form: question"
+113545,406,302,"2024-01-10 21:12:56",click,next-page
+113546,406,303,"2024-01-10 21:12:57",page-load,"web form: question"
+113547,406,303,"2024-01-10 21:12:58",click,next-page
+113548,406,304,"2024-01-10 21:12:59",page-load,"web form: question"
+113549,406,304,"2024-01-10 21:13:01",click,next-page
+113550,406,305,"2024-01-10 21:13:02",page-load,"web form: question"
+113551,406,306,"2024-01-10 21:14:14",page-load,video
+113552,406,307,"2024-01-10 21:16:18",page-load,"tech comfort quiz, part one"
+113553,406,307,"2024-01-10 21:16:23",click,next-page
+113554,406,200,"2024-01-10 22:13:40",page-load,video
+113555,406,104,"2024-01-10 22:13:54",page-load,video
+113557,406,104,"2024-01-10 22:15:58",page-load,video
+113558,406,105,"2024-01-10 22:19:07",page-load,"web form: question"
+113560,406,105,"2024-01-10 22:19:42",click,"incorrect-option: Social Gatherings"
+113561,406,105,"2024-01-10 22:19:42",click,"correct-option: Birthdays"
+113562,406,105,"2024-01-10 22:19:47",click,"incorrect-option: Anniversaries"
+113563,406,105,"2024-01-10 22:19:48",click,"incorrect-option: Trips"
+113564,406,105,"2024-01-10 22:19:53",click,next-page
+113565,406,106,"2024-01-10 22:19:54",page-load,video
+113570,406,107,"2024-01-10 22:20:21",page-load,"web form: question"
+113574,406,107,"2024-01-10 22:21:13",click,"incorrect-option: Volunteer Shifts"
+113576,406,107,"2024-01-10 22:21:23",click,next-page
+113577,406,108,"2024-01-10 22:21:23",page-load,"web form: what would you like to do next"
+113578,406,108,"2024-01-10 22:21:30",click,next-page
+113579,406,109,"2024-01-10 22:21:31",page-load,video
+113585,406,110,"2024-01-10 22:26:08",page-load,"web form: question"
+113586,406,110,"2024-01-10 22:26:35",click,next-page
+113587,406,111,"2024-01-10 22:26:35",page-load,"web form: what would you like to do next"
+113588,406,111,"2024-01-10 22:26:39",click,next-page
+113589,406,112,"2024-01-10 22:26:39",page-load,video
+113591,406,113,"2024-01-10 22:27:32",page-load,"web form: question"
+113597,406,113,"2024-01-10 22:27:51",click,"correct-option: D. Both A and C"
+113598,406,113,"2024-01-10 22:27:55",click,next-page
+113599,406,114,"2024-01-10 22:27:55",page-load,video
+113600,406,115,"2024-01-10 22:29:45",page-load,"web form: question"
+113604,406,115,"2024-01-10 22:30:15",click,"correct-option: 30 minutes before"
+113605,406,115,"2024-01-10 22:30:19",click,next-page
+113606,406,116,"2024-01-10 22:30:19",page-load,"web form: what would you like to do next"
+114212,406,116,"2024-01-12 23:47:18",page-load,"web form: what would you like to do next"
+114213,406,0,"2024-01-12 23:49:34","Skills Quiz 30 second Hint",30time
+114214,406,0,"2024-01-12 23:49:44","Skills Quiz-5 Step-1 Correct",CALENDAR
+114215,406,0,"2024-01-12 23:49:58","Skills Quiz-5 Step-2 Correct",right-arrow
+114216,406,0,"2024-01-12 23:50:12","Skills Quiz-5 Step-3 Correct",3
+114217,406,0,"2024-01-12 23:50:42","Skills Quiz 30 second Hint",30time
+114218,406,0,"2024-01-12 23:50:50","Skills Quiz-5 Step-4 Correct",Edit
+114219,406,0,"2024-01-12 23:51:20","Skills Quiz 30 second Hint",30time
+114220,406,0,"2024-01-12 23:51:25","Skills Quiz-5 Step-5 Correct",YES
+114221,406,0,"2024-01-12 23:51:25","Skills Quiz-5 Step-6 Incorrect",YES
+114222,406,0,"2024-01-12 23:51:41","Skills Quiz-5 Step-6 Correct","60 min"
+114223,406,0,"2024-01-12 23:52:00","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2024-01-12 23:52:01",module_end,none

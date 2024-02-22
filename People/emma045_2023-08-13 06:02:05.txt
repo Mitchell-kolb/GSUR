@@ -1,0 +1,28 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+85242,354,140,"2023-08-13 05:58:24",click,next-page
+85243,354,141,"2023-08-13 05:58:36",click,"skills quiz hint"
+85244,354,0,"2023-08-13 05:58:54","Skills Quiz 30 second Hint",30time
+85245,354,0,"2023-08-13 05:59:02","Skills Quiz-10 Step-1 Correct",Edit
+85246,354,0,"2023-08-13 05:59:07","Skills Quiz-10 Step-2 Correct",nos-time-check
+85247,354,0,"2023-08-13 05:59:09","Skills Quiz-10 Step-3 Correct",start-time
+85248,354,0,"2023-08-13 05:59:29","Skills Quiz-10 Step-6 Correct",end-time
+85249,354,0,"2023-08-13 05:59:42","Skills Quiz-10 Step-9 Correct",Save
+85250,354,0,"2023-08-13 05:59:50","Skills Quiz-10 Step-10 Correct",CALENDAR
+85251,354,0,"2023-08-13 05:59:54","Skills Quiz-10 Step-11 Correct",9
+85252,354,0,"2023-08-13 06:00:04","Skills Quiz-10 Step-12 Correct",Edit
+85253,354,0,"2023-08-13 06:00:10","Skills Quiz-10 Step-13 Correct","June 9, 2021"
+85254,354,0,"2023-08-13 06:00:11","Skills Quiz-10 Step-14 Correct",10
+85255,354,0,"2023-08-13 06:00:14","Skills Quiz-10 Step-15 Correct",OK
+85256,354,0,"2023-08-13 06:00:17","Skills Quiz-10 Step-16 Correct",nos-time-check
+85257,354,0,"2023-08-13 06:00:21","Skills Quiz-10 Step-17 Correct",start-time
+85258,354,0,"2023-08-13 06:00:32","Skills Quiz-10 Step-20 Correct",end-time
+85259,354,0,"2023-08-13 06:00:44","Skills Quiz-10 Step-23 Correct",Save
+85260,354,0,"2023-08-13 06:00:49","Skills Quiz-10 Step-24 Correct",CALENDAR
+85261,354,0,"2023-08-13 06:00:51","Skills Quiz-10 Step-25 Correct",10
+85262,354,0,"2023-08-13 06:01:01","Skills Quiz-10 Step-26 Correct",Edit
+85263,354,0,"2023-08-13 06:01:07","Skills Quiz-10 Step-27 Correct",event-description
+85264,354,0,"2023-08-13 06:01:37","Skills Quiz 30 second Hint",30time
+85265,354,0,"2023-08-13 06:01:46","Skills Quiz-10 Step-29 Incorrect","Start Time"
+85266,354,0,"2023-08-13 06:01:57","Skills Quiz-10 Step-29 Incorrect",None
+85267,354,0,"2023-08-13 06:01:59","Skills Quiz-10 Step-29 Correct","60 min"
+0,0,0,"2023-08-13 06:02:05",module_end,none

@@ -1,0 +1,15 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+10642,253,0,"2023-01-31 14:01:49","Skills Quiz-6 Step-1 Correct",CALENDAR
+10643,253,0,"2023-01-31 14:01:50","Skills Quiz-6 Step-2 Incorrect","JUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930"
+10644,253,0,"2023-01-31 14:01:51","Skills Quiz-6 Step-2 Correct",right-arrow
+10645,253,0,"2023-01-31 14:01:52","Skills Quiz-6 Step-2 Incorrect","JULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031"
+10646,253,0,"2023-01-31 14:01:53","Skills Quiz-6 Step-2 Correct",right-arrow
+10647,253,0,"2023-01-31 14:01:54","Skills Quiz-6 Step-3 Correct",3
+10648,253,0,"2023-01-31 14:01:57","Skills Quiz-6 Step-4 Incorrect","Breakfast with John12:30 PM - 1:30 PM"
+10649,253,0,"2023-01-31 14:01:59","Skills Quiz-6 Step-4 Correct",Edit
+10653,253,0,"2023-01-31 14:02:03","Skills Quiz-6 Step-5 Correct",YES
+10654,253,0,"2023-01-31 14:02:04","Skills Quiz-6 Step-6 Correct","60 min"
+10655,253,0,"2023-01-31 14:02:05","Skills Quiz-6 Step-7 Incorrect","NoneStart Time10 min15 min30 min60 min"
+10656,253,0,"2023-01-31 14:02:06","Skills Quiz-6 Step-7 Incorrect","NoneStart Time10 min15 min30 min60 min"
+10657,253,0,"2023-01-31 14:02:07","Skills Quiz-6 Step-7 Correct",Save
+0,0,0,"2023-01-31 14:02:07",module_end,none

@@ -1,0 +1,37 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+87259,354,241,"2023-08-17 06:53:14",page-load,"skills quiz preview"
+87260,354,239,"2023-08-17 06:54:31",click,"skills quiz hint"
+87261,354,0,"2023-08-17 06:54:51","Skills Quiz-17 Step-8 Incorrect",Move
+87262,354,0,"2023-08-17 06:55:11","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+87263,354,0,"2023-08-17 06:55:24","Skills Quiz-17 Step-8 Incorrect","Chocolate Chip Cookies"
+87264,354,0,"2023-08-17 06:55:27","Skills Quiz-17 Step-8 Incorrect"," Move"
+87265,354,239,"2023-08-17 06:55:52",click,"skills quiz hint"
+87266,354,0,"2023-08-17 06:55:54","Skills Quiz-17 Step-8 Incorrect",CancelMove
+87267,354,0,"2023-08-17 06:55:56","Skills Quiz-17 Step-8 Incorrect",Move
+87268,354,0,"2023-08-17 06:56:01","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+87269,354,0,"2023-08-17 06:56:03","Skills Quiz-17 Step-8 Incorrect",Move
+87270,354,0,"2023-08-17 06:56:07","Skills Quiz-17 Step-8 Incorrect",Move
+87271,354,241,"2023-08-17 06:57:57",page-load,"skills quiz preview"
+87272,354,241,"2023-08-17 06:58:12",page-load,"skills quiz preview"
+87273,354,241,"2023-08-17 06:59:34",page-load,"skills quiz preview"
+87274,354,241,"2023-08-17 06:59:48",click,next-page
+87275,354,242,"2023-08-17 06:59:56",click,"skills quiz hint"
+87276,354,0,"2023-08-17 06:59:59","Skills Quiz-18 Step-1 Incorrect","Ginger Snap CookiesViewTree FarmView"
+87277,354,242,"2023-08-17 07:00:01",click,"skills quiz hint"
+87278,354,242,"2023-08-17 07:00:03",click,"skills quiz hint"
+87279,354,242,"2023-08-17 07:00:05",click,"skills quiz hint"
+87280,354,0,"2023-08-17 07:00:07","Skills Quiz-18 Step-1 Correct",View
+87281,354,0,"2023-08-17 07:00:13","Skills Quiz-18 Step-2 Correct",SAVE
+87282,354,0,"2023-08-17 07:00:15","Skills Quiz-18 Step-3 Correct",Delete
+87283,354,0,"2023-08-17 07:00:18","Skills Quiz-18 Step-4 Correct",Confirm
+87284,354,0,"2023-08-17 07:00:22","Skills Quiz-18 Step-5 Incorrect",Confirm
+87285,354,0,"2023-08-17 07:00:25","Skills Quiz-18 Step-5 Correct",Delete
+87286,354,0,"2023-08-17 07:00:25","Skills Quiz-18 Step-6 Incorrect",Delete
+87287,354,242,"2023-08-17 07:00:32",click,"skills quiz hint"
+87288,354,242,"2023-08-17 07:00:33",click,"skills quiz hint"
+87289,354,242,"2023-08-17 07:00:36",click,"skills quiz hint"
+87290,354,0,"2023-08-17 07:00:41","Skills Quiz-18 Step-7 Incorrect",View
+87291,354,0,"2023-08-17 07:00:41","Skills Quiz-18 Step-6 Correct",View
+87292,354,0,"2023-08-17 07:00:51","Skills Quiz-18 Step-7 Correct","Move Note"
+87293,354,0,"2023-08-17 07:00:56","Skills Quiz-18 Step-8 Incorrect","Cookie Recipes"
+0,0,0,"2023-08-17 07:00:58",module_end,none

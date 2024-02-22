@@ -1,0 +1,47 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+89738,352,225,"2023-08-21 17:49:40",page-load,video
+89739,352,226,"2023-08-21 17:52:36",page-load,"web form: question"
+89740,352,226,"2023-08-21 17:53:15",click,"incorrect-option: Question Mark"
+89741,352,226,"2023-08-21 17:53:21",click,"correct-option: Magnifying Glass"
+89742,352,226,"2023-08-21 17:53:25",click,next-page
+89743,352,227,"2023-08-21 17:53:25",page-load,video
+89744,352,228,"2023-08-21 17:55:49",page-load,"web form: what would you like to do next"
+89745,352,229,"2023-08-21 17:56:23",page-load,"skills quiz preview"
+89746,352,229,"2023-08-21 17:56:50",click,next-page
+89747,352,0,"2023-08-21 17:57:01","Skills Quiz-15 Step-1 Correct",Relevant
+89748,352,0,"2023-08-21 17:57:03","Skills Quiz-15 Step-2 Correct","A - Z"
+89749,352,0,"2023-08-21 17:57:11","Skills Quiz-15 Step-3 Incorrect",Search
+89750,352,0,"2023-08-21 17:57:16","Skills Quiz-15 Step-3 Incorrect",Edit
+89751,352,0,"2023-08-21 17:57:39","Skills Quiz-15 Step-3 Incorrect",SAVE
+89752,352,0,"2023-08-21 17:57:39","Skills Quiz-15 Step-4 Incorrect",SAVE
+89753,352,0,"2023-08-21 17:57:58","Skills Quiz-15 Step-3 Incorrect",SAVE
+89754,352,0,"2023-08-21 17:57:58","Skills Quiz-15 Step-4 Incorrect",SAVE
+89755,352,0,"2023-08-21 17:58:17","Skills Quiz-15 Step-3 Incorrect",SAVE
+89756,352,0,"2023-08-21 17:58:17","Skills Quiz-15 Step-4 Incorrect",SAVE
+89757,352,225,"2023-08-21 18:02:21",page-load,video
+90950,352,400,"2023-08-24 04:54:13",page-load,video
+90951,352,401,"2023-08-24 04:58:20",page-load,"web form: question"
+90952,352,401,"2023-08-24 04:58:28",click,"correct-option: False"
+90953,352,401,"2023-08-24 04:58:30",click,next-page
+90954,352,402,"2023-08-24 04:58:32",page-load,video
+90955,352,403,"2023-08-24 05:04:04",page-load,"web form: what would you like to do next"
+90956,352,403,"2023-08-24 05:04:15",click,next-page
+90957,352,404,"2023-08-24 05:04:15",page-load,"skills quiz preview"
+90958,352,404,"2023-08-24 05:04:39",click,next-page
+90959,352,0,"2023-08-24 05:04:54","Skills Quiz-19 Step-1 Correct",HEALTH
+90960,352,0,"2023-08-24 05:05:00","Skills Quiz-19 Step-2 Correct","Medical Information"
+90961,352,0,"2023-08-24 05:05:05","Skills Quiz-19 Step-3 Incorrect",folder-title-1
+90962,352,0,"2023-08-24 05:05:29","Skills Quiz-19 Step-3 Incorrect",Clear
+90963,352,0,"2023-08-24 05:05:31","Skills Quiz-19 Step-3 Correct","Add New Note"
+90964,352,0,"2023-08-24 05:05:39","Skills Quiz-19 Step-4 Correct",noteSpecialty
+90965,352,0,"2023-08-24 05:06:09","Skills Quiz 30 second Hint",30time
+90966,352,0,"2023-08-24 05:06:58","Skills Quiz-19 Step-6 Correct",noteName
+90967,352,0,"2023-08-24 05:07:35","Skills Quiz-19 Step-8 Correct",notePhone
+90968,352,0,"2023-08-24 05:08:05","Skills Quiz 30 second Hint",30time
+90969,352,0,"2023-08-24 05:08:26","Skills Quiz-19 Step-10 Correct",noteAddress
+90970,352,0,"2023-08-24 05:08:56","Skills Quiz 30 second Hint",30time
+90971,352,0,"2023-08-24 05:09:07","Skills Quiz-19 Step-12 Correct",noteDetails
+90972,352,0,"2023-08-24 05:09:37","Skills Quiz 30 second Hint",30time
+90973,352,0,"2023-08-24 05:10:11","Skills Quiz-19 Step-14 Correct"," SAVE"
+90974,352,0,"2023-08-24 05:10:26","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-08-24 05:10:26",module_end,none

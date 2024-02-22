@@ -1,0 +1,97 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+95865,356,33,"2023-09-11 21:49:14",click,"skills quiz hint"
+95866,356,37,"2023-09-11 21:49:15",page-load,video
+95867,356,38,"2023-09-11 21:49:50",page-load,"goal setting: importance"
+95868,356,38,"2023-09-11 21:50:49",click,next-page
+95869,356,39,"2023-09-11 21:50:50",page-load,video
+95870,356,40,"2023-09-11 21:51:34",page-load,"goal setting: pick three strategies"
+95871,356,40,"2023-09-11 21:52:04",click,next-page
+95872,356,40,"2023-09-11 21:52:04",click,next-page
+95873,356,41,"2023-09-11 21:52:05",page-load,"goal setting: pick top strategy"
+95874,356,41,"2023-09-11 21:52:25",click,next-page
+95875,356,42,"2023-09-11 21:52:26",page-load,"goal setting: top strategy display"
+95876,356,42,"2023-09-11 21:52:44",click,next-page
+95877,356,43,"2023-09-11 21:52:45",page-load,"goal setting: summary page one"
+95878,356,43,"2023-09-11 21:53:26",click,next-page
+95879,356,44,"2023-09-11 21:53:26",page-load,"goal setting: summary page two"
+95880,356,44,"2023-09-11 21:54:18",click,next-page
+95881,356,45,"2023-09-11 21:54:19",page-load,"goal setting: summary page two"
+95882,356,45,"2023-09-11 21:54:37",click,next-page
+95883,356,46,"2023-09-11 21:54:37",page-load,"goal setting: example plan"
+95884,356,46,"2023-09-11 21:55:02",click,next-page
+95885,356,47,"2023-09-11 21:55:03",page-load,"goal setting: when"
+95886,356,47,"2023-09-11 21:55:53",click,next-page
+95887,356,48,"2023-09-11 21:55:54",page-load,"goal setting: plan"
+95888,356,48,"2023-09-11 21:55:57",click,next-page
+95889,356,49,"2023-09-11 21:55:57",page-load,"goal setting: where"
+95890,356,49,"2023-09-11 21:56:06",click,next-page
+95891,356,50,"2023-09-11 21:56:06",page-load,"goal setting: plan"
+95892,356,50,"2023-09-11 21:56:08",click,next-page
+95893,356,51,"2023-09-11 21:56:08",page-load,"goal setting: with whom"
+95894,356,51,"2023-09-11 21:56:51",click,next-page
+95895,356,52,"2023-09-11 21:56:52",page-load,"goal setting: plan"
+95896,356,52,"2023-09-11 21:56:53",click,next-page
+95897,356,53,"2023-09-11 21:56:53",page-load,"goal setting: how"
+95898,356,53,"2023-09-11 21:57:42",click,next-page
+95899,356,54,"2023-09-11 21:57:43",page-load,"goal setting: plan"
+95900,356,54,"2023-09-11 21:57:52",click,next-page
+95901,356,55,"2023-09-11 21:57:53",page-load,"goal setting: barriers and alternatives"
+95902,356,55,"2023-09-11 21:58:45",click,next-page
+95903,356,56,"2023-09-11 21:58:46",page-load,"goal setting: motivation"
+95904,356,56,"2023-09-11 21:59:11",click,next-page
+95905,356,57,"2023-09-11 21:59:12",page-load,"goal setting: confidence"
+95906,356,57,"2023-09-11 21:59:24",click,next-page
+95907,356,58,"2023-09-11 21:59:24",page-load,"goal setting: plan"
+95908,356,58,"2023-09-11 21:59:43",click,next-page
+95909,356,59,"2023-09-11 21:59:44",page-load,"end of lesson: 2"
+96901,356,104,"2023-09-15 23:06:29",page-load,video
+96902,356,104,"2023-09-15 23:06:38",page-load,video
+96903,356,105,"2023-09-15 23:12:10",page-load,"web form: question"
+96904,356,105,"2023-09-15 23:12:19",click,"incorrect-option: Anniversaries"
+96905,356,105,"2023-09-15 23:12:20",click,next-page
+96906,356,106,"2023-09-15 23:12:21",page-load,video
+96907,356,107,"2023-09-15 23:12:38",page-load,"web form: question"
+96908,356,107,"2023-09-15 23:12:40",click,"incorrect-option: Daily Medication"
+96909,356,107,"2023-09-15 23:12:41",click,next-page
+96910,356,108,"2023-09-15 23:12:41",page-load,"web form: what would you like to do next"
+96911,356,108,"2023-09-15 23:12:47",click,previous-page
+96912,356,104,"2023-09-15 23:12:49",page-load,video
+96913,356,105,"2023-09-15 23:12:54",page-load,"web form: question"
+96914,356,105,"2023-09-15 23:12:55",click,hint
+96915,356,105,"2023-09-15 23:12:58",click,"correct-option: Birthdays"
+96916,356,105,"2023-09-15 23:12:59",click,next-page
+96917,356,106,"2023-09-15 23:12:59",page-load,video
+96918,356,107,"2023-09-15 23:13:07",page-load,"web form: question"
+96919,356,107,"2023-09-15 23:13:09",click,hint
+96920,356,107,"2023-09-15 23:13:11",click,"incorrect-option: Chores"
+96921,356,107,"2023-09-15 23:13:13",click,"incorrect-option: Daily Medication"
+96922,356,107,"2023-09-15 23:13:15",click,"correct-option: Exercise"
+96923,356,107,"2023-09-15 23:13:15",click,"incorrect-option: Daily Medication"
+96924,356,107,"2023-09-15 23:13:16",click,next-page
+96925,356,108,"2023-09-15 23:13:17",page-load,"web form: what would you like to do next"
+96926,356,108,"2023-09-15 23:13:18",click,next-page
+96927,356,109,"2023-09-15 23:13:19",page-load,video
+96928,356,110,"2023-09-15 23:17:52",page-load,"web form: question"
+96929,356,110,"2023-09-15 23:17:56",click,next-page
+96930,356,111,"2023-09-15 23:17:56",page-load,"web form: what would you like to do next"
+96931,356,111,"2023-09-15 23:17:58",click,next-page
+96932,356,112,"2023-09-15 23:17:58",page-load,video
+96933,356,113,"2023-09-15 23:18:47",page-load,"web form: question"
+96934,356,113,"2023-09-15 23:18:55",click,"correct-option: D. Both A and C"
+96935,356,113,"2023-09-15 23:19:02",click,next-page
+96936,356,114,"2023-09-15 23:19:03",page-load,video
+96937,356,115,"2023-09-15 23:20:39",page-load,"web form: question"
+96938,356,115,"2023-09-15 23:20:45",click,next-page
+96939,356,115,"2023-09-15 23:20:46",click,next-page
+96940,356,115,"2023-09-15 23:20:47",click,"correct-option: 30 minutes before"
+96941,356,115,"2023-09-15 23:20:48",click,next-page
+96942,356,116,"2023-09-15 23:20:49",page-load,"web form: what would you like to do next"
+96943,356,116,"2023-09-15 23:21:46",click,next-page
+96944,356,0,"2023-09-15 23:21:54","Skills Quiz-5 Step-1 Correct",CALENDAR
+96945,356,0,"2023-09-15 23:21:56","Skills Quiz-5 Step-2 Correct",right-arrow
+96946,356,0,"2023-09-15 23:21:58","Skills Quiz-5 Step-3 Correct",3
+96947,356,0,"2023-09-15 23:22:02","Skills Quiz-5 Step-4 Correct",Edit
+96948,356,0,"2023-09-15 23:22:05","Skills Quiz-5 Step-5 Correct",YES
+96949,356,0,"2023-09-15 23:22:06","Skills Quiz-5 Step-6 Correct","60 min"
+96950,356,0,"2023-09-15 23:22:08","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-09-15 23:22:09",module_end,none

@@ -1,0 +1,23 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+21887,245,528,"2023-02-14 14:24:59",page-load,"skills quiz preview"
+21888,245,528,"2023-02-14 14:25:02",click,next-page
+21889,245,0,"2023-02-14 14:25:10","Skills Quiz-28 Step-1 Incorrect",Edit
+21890,245,0,"2023-02-14 14:25:10","Skills Quiz-28 Step-2 Correct",Edit
+21891,245,0,"2023-02-14 14:25:13","Skills Quiz-28 Step-3 Correct",YES
+21892,245,0,"2023-02-14 14:25:14","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+21893,245,0,"2023-02-14 14:25:15","Skills Quiz-28 Step-5 Incorrect",Other
+21894,245,0,"2023-02-14 14:25:16","Skills Quiz-28 Step-5 Incorrect",Optimism
+21895,245,0,"2023-02-14 14:25:16","Skills Quiz-28 Step-5 Correct",Loneliness
+21896,245,0,"2023-02-14 14:25:17","Skills Quiz-28 Step-6 Correct","                  Select               "
+21897,245,0,"2023-02-14 14:25:17","Skills Quiz-28 Step-7 Correct",Save
+21898,245,0,"2023-02-14 14:25:19","Skills Quiz-28 Step-8 Incorrect",Loading...
+21899,245,0,"2023-02-14 14:25:21","Skills Quiz-28 Step-8 Incorrect",undefined
+21900,245,0,"2023-02-14 14:25:23","Skills Quiz-28 Step-8 Incorrect",12345
+21901,245,0,"2023-02-14 14:25:23","Skills Quiz-28 Step-9 Incorrect",12345
+21902,245,0,"2023-02-14 14:25:24","Skills Quiz-28 Step-8 Incorrect",2
+21903,245,0,"2023-02-14 14:25:24","Skills Quiz-28 Step-9 Correct",2
+21904,245,0,"2023-02-14 14:25:25","Skills Quiz-28 Step-8 Incorrect","Save and View Graph"
+21905,245,0,"2023-02-14 14:25:25","Skills Quiz-28 Step-10 Correct","Save and View Graph"
+21906,245,0,"2023-02-14 14:25:29","Skills Quiz-28 Step-11 Correct","View Progress"
+21907,245,0,"2023-02-14 14:25:32","Skills Quiz-28 Step-12 Correct",Close
+0,0,0,"2023-02-14 14:25:32",module_end,none

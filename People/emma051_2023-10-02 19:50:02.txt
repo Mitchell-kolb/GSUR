@@ -1,0 +1,121 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+98757,360,434,"2023-09-25 21:32:39",page-load,video
+98758,360,435,"2023-09-25 21:32:45",page-load,"goal setting: preview"
+98759,360,436,"2023-09-25 21:34:05",page-load,"goal setting: example plan"
+98760,360,436,"2023-09-28 03:18:17",page-load,"goal setting: example plan"
+98761,360,437,"2023-09-28 03:19:40",page-load,"goal setting: pick one strategy"
+98762,360,437,"2023-09-28 17:00:26",page-load,"goal setting: pick one strategy"
+98763,360,437,"2023-09-28 17:00:41",click,next-page
+98764,360,438,"2023-09-28 17:00:42",page-load,"goal setting: top strategy display"
+98765,360,438,"2023-09-28 17:00:57",click,next-page
+98766,360,439,"2023-09-28 17:01:07",page-load,"goal setting: when"
+98767,360,439,"2023-09-28 17:01:39",click,next-page
+98768,360,439,"2023-09-28 17:01:40",click,next-page
+98769,360,440,"2023-09-28 17:01:40",page-load,"goal setting: where"
+98770,360,440,"2023-09-28 17:02:17",click,next-page
+98771,360,441,"2023-09-28 17:02:18",page-load,"goal setting: with whom"
+98772,360,441,"2023-09-28 17:02:58",click,next-page
+98773,360,441,"2023-09-28 17:02:59",click,next-page
+98774,360,442,"2023-09-28 17:03:02",page-load,"goal setting: how"
+98775,360,442,"2023-09-28 17:05:48",click,next-page
+98776,360,443,"2023-09-28 17:05:49",page-load,"goal setting: barriers and alternatives"
+98777,360,443,"2023-09-28 17:06:42",click,next-page
+98778,360,444,"2023-09-28 17:06:43",page-load,"goal setting: motivation"
+98779,360,444,"2023-09-28 17:06:49",click,next-page
+98780,360,445,"2023-09-28 17:06:50",page-load,"goal setting: confidence"
+98781,360,445,"2023-09-28 17:06:55",click,next-page
+98782,360,446,"2023-09-28 17:06:56",page-load,"goal setting: plan"
+98783,360,446,"2023-09-28 17:07:11",click,previous-page
+98784,360,445,"2023-09-28 17:07:11",page-load,"goal setting: confidence"
+98785,360,445,"2023-09-28 17:07:13",click,previous-page
+98786,360,444,"2023-09-28 17:07:14",page-load,"goal setting: motivation"
+98787,360,444,"2023-09-28 17:07:14",click,previous-page
+98788,360,443,"2023-09-28 17:07:17",page-load,"goal setting: barriers and alternatives"
+98789,360,443,"2023-09-28 17:07:19",click,previous-page
+98790,360,442,"2023-09-28 17:07:20",page-load,"goal setting: how"
+98791,360,442,"2023-09-28 17:07:29",click,previous-page
+98792,360,441,"2023-09-28 17:07:30",page-load,"goal setting: with whom"
+98793,360,441,"2023-09-28 17:07:51",click,next-page
+98794,360,441,"2023-09-28 17:07:53",click,next-page
+98795,360,442,"2023-09-28 17:07:55",page-load,"goal setting: how"
+98796,360,442,"2023-09-28 17:09:41",click,next-page
+98797,360,443,"2023-09-28 17:09:43",page-load,"goal setting: barriers and alternatives"
+98798,360,443,"2023-09-28 17:10:38",click,next-page
+98799,360,444,"2023-09-28 17:10:38",page-load,"goal setting: motivation"
+98800,360,444,"2023-09-28 17:10:43",click,next-page
+98801,360,445,"2023-09-28 17:10:46",page-load,"goal setting: confidence"
+98802,360,445,"2023-09-28 17:10:49",click,next-page
+98803,360,446,"2023-09-28 17:10:50",page-load,"goal setting: plan"
+98804,360,446,"2023-09-28 17:10:53",click,next-page
+98805,360,447,"2023-09-28 17:10:53",page-load,"end of lesson: 5"
+98806,360,500,"2023-09-28 17:11:05",page-load,video
+98807,360,501,"2023-09-28 17:14:19",page-load,"web form: scheduling choices"
+98808,360,501,"2023-09-28 17:14:25",tracked,"better relationships"
+98809,360,501,"2023-09-28 17:14:26",tracked,"improve memory"
+98810,360,501,"2023-09-28 17:14:30",tracked,"improve my quality of life"
+98811,360,501,"2023-09-28 17:14:32",tracked,"improve emotion regulation/mood"
+98812,360,501,"2023-09-28 17:14:34",tracked,"make me a better friend"
+98813,360,501,"2023-09-28 17:14:35",tracked,"make me a better friend"
+98814,360,501,"2023-09-28 17:14:36",tracked,"make me a better friend"
+98815,360,501,"2023-09-28 17:14:37",tracked,"make me a better friend"
+98816,360,501,"2023-09-28 17:14:37",tracked,"make me a better friend"
+98817,360,501,"2023-09-28 17:14:41",tracked,"stay mobile and active"
+98818,360,501,"2023-09-28 17:14:48",tracked,"improve my quality of life"
+98819,360,501,"2023-09-28 17:14:53",tracked,"It has always been important to me to be healthy"
+98820,360,501,"2023-09-28 17:14:55",click,next-page
+98821,360,502,"2023-09-28 17:14:56",page-load,video
+98822,360,500,"2023-09-28 22:06:38",page-load,video
+98823,360,501,"2023-09-28 22:11:00",page-load,"web form: scheduling choices"
+98824,360,500,"2023-09-28 22:11:37",page-load,video
+98825,360,400,"2023-09-28 22:42:32",page-load,video
+98884,360,500,"2023-10-02 19:31:20",page-load,video
+98885,360,501,"2023-10-02 19:33:55",page-load,"web form: scheduling choices"
+98886,360,501,"2023-10-02 19:34:12",tracked,"It has always been important to me to be healthy"
+98887,360,501,"2023-10-02 19:34:15",tracked,"improve emotion regulation/mood"
+98888,360,501,"2023-10-02 19:34:20",tracked,"improve memory"
+98889,360,501,"2023-10-02 19:34:22",tracked,"improve my quality of life"
+98890,360,501,"2023-10-02 19:34:23",click,next-page
+98891,360,502,"2023-10-02 19:34:25",page-load,video
+98892,360,503,"2023-10-02 19:42:01",page-load,"web form: scheduling choices"
+98893,360,503,"2023-10-02 19:42:13",tracked,"Cooking a new recipe"
+98894,360,503,"2023-10-02 19:42:22",tracked,"Socialize with family and friends"
+98895,360,503,"2023-10-02 19:42:28",tracked,"Doing a crossword puzzle"
+98896,360,503,"2023-10-02 19:42:32",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+98897,360,503,"2023-10-02 19:42:33",click,next-page
+98898,360,504,"2023-10-02 19:42:35",page-load,video
+98899,360,505,"2023-10-02 19:47:13",page-load,"web form: what would you like to do next"
+98900,360,505,"2023-10-02 19:47:16",click,next-page
+98901,360,506,"2023-10-02 19:47:16",page-load,"skills quiz preview"
+98902,360,0,"2023-10-02 19:48:39","Skills Quiz-25 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+98903,360,0,"2023-10-02 19:48:43","Skills Quiz-25 Step-1 Correct",TODAY
+98904,360,0,"2023-10-02 19:49:07","Skills Quiz-25 Step-2 Incorrect",undefined
+98905,360,0,"2023-10-02 19:49:12","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+98906,360,0,"2023-10-02 19:49:12","Skills Quiz-25 Step-3 Correct","Tap Here"
+98907,360,0,"2023-10-02 19:49:13","Skills Quiz-25 Step-4 Incorrect",456
+98908,360,0,"2023-10-02 19:49:13","Skills Quiz-25 Step-2 Incorrect",456
+98909,360,0,"2023-10-02 19:49:14","Skills Quiz-25 Step-2 Incorrect",456
+98910,360,0,"2023-10-02 19:49:14","Skills Quiz-25 Step-4 Incorrect",456
+98911,360,0,"2023-10-02 19:49:19","Skills Quiz-25 Step-2 Incorrect",3
+98912,360,0,"2023-10-02 19:49:19","Skills Quiz-25 Step-4 Correct",3
+98913,360,0,"2023-10-02 19:49:21","Skills Quiz-25 Step-2 Incorrect",CancelSave
+98914,360,0,"2023-10-02 19:49:21","Skills Quiz-25 Step-5 Incorrect",CancelSave
+98915,360,0,"2023-10-02 19:49:26","Skills Quiz-25 Step-5 Correct",0
+98916,360,0,"2023-10-02 19:49:26","Skills Quiz-25 Step-2 Incorrect",0
+98917,360,0,"2023-10-02 19:49:28","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+98918,360,0,"2023-10-02 19:49:28","Skills Quiz-25 Step-6 Correct","                              Save            "
+98919,360,0,"2023-10-02 19:49:33","Skills Quiz-25 Step-2 Incorrect",Save
+98920,360,0,"2023-10-02 19:49:33","Skills Quiz-25 Step-7 Correct",Save
+98921,360,0,"2023-10-02 19:49:54","Skills Quiz-25 Step-2 Incorrect",undefined
+98922,360,0,"2023-10-02 19:49:54","Skills Quiz-25 Step-8 Incorrect",undefined
+98923,360,0,"2023-10-02 19:49:56","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+98924,360,0,"2023-10-02 19:49:56","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+98925,360,0,"2023-10-02 19:49:56","Skills Quiz-25 Step-9 Correct","Tap Here"
+98926,360,0,"2023-10-02 19:49:57","Skills Quiz-25 Step-8 Incorrect",1
+98927,360,0,"2023-10-02 19:49:57","Skills Quiz-25 Step-10 Correct",1
+98928,360,0,"2023-10-02 19:49:57","Skills Quiz-25 Step-2 Incorrect",1
+98929,360,0,"2023-10-02 19:49:58","Skills Quiz-25 Step-11 Correct","                              Save            "
+98930,360,0,"2023-10-02 19:49:58","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+98931,360,0,"2023-10-02 19:49:58","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+98932,360,0,"2023-10-02 19:50:01","Skills Quiz-25 Step-8 Incorrect",Save
+98933,360,0,"2023-10-02 19:50:01","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2023-10-02 19:50:02",module_end,none

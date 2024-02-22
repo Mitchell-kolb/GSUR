@@ -1,0 +1,33 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+73406,340,410,"2023-06-26 01:52:07",page-load,video
+73407,340,411,"2023-06-26 01:55:30",page-load,"web form: scheduling choices"
+73408,340,411,"2023-06-26 01:55:47",tracked,"Blood pressure"
+73409,340,411,"2023-06-26 01:55:56",click,next-page
+73410,340,412,"2023-06-26 01:55:57",page-load,video
+73411,340,412,"2023-06-26 02:16:16",page-load,video
+73412,340,413,"2023-06-26 02:16:48",page-load,"web form: question"
+73413,340,413,"2023-06-26 02:16:54",click,"correct-option: 4"
+73414,340,413,"2023-06-26 02:17:01",click,next-page
+73415,340,414,"2023-06-26 02:17:02",page-load,video
+73416,340,415,"2023-06-26 02:17:23",page-load,"web form: question"
+73417,340,415,"2023-06-26 02:17:29",click,"incorrect-option: True"
+73418,340,415,"2023-06-26 02:17:44",click,"correct-option: False"
+73419,340,415,"2023-06-26 02:17:46",click,next-page
+73420,340,416,"2023-06-26 02:17:47",page-load,video
+73421,340,417,"2023-06-26 02:20:32",page-load,"web form: what would you like to do next"
+73422,340,417,"2023-06-26 02:20:34",click,next-page
+73423,340,418,"2023-06-26 02:20:35",page-load,"skills quiz preview"
+73424,340,418,"2023-06-26 02:20:43",click,next-page
+73425,340,0,"2023-06-26 02:20:47","Skills Quiz-21 Step-1 Incorrect",HEALTH
+73426,340,0,"2023-06-26 02:20:48","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+73427,340,0,"2023-06-26 02:20:50","Skills Quiz-21 Step-3 Correct","Daily Medications"
+73428,340,0,"2023-06-26 02:20:56","Skills Quiz-21 Step-4 Correct",descriptionMorning
+73429,340,0,"2023-06-26 02:21:13","Skills Quiz-21 Step-6 Correct","8:00 AM"
+73430,340,0,"2023-06-26 02:21:15","Skills Quiz-21 Step-7 Correct",7
+73431,340,0,"2023-06-26 02:21:16","Skills Quiz-21 Step-8 Correct",00
+73432,340,0,"2023-06-26 02:21:17","Skills Quiz-21 Step-9 Correct",AM
+73433,340,0,"2023-06-26 02:21:18","Skills Quiz-21 Step-10 Correct",Save
+73434,340,0,"2023-06-26 02:21:21","Skills Quiz-21 Step-11 Incorrect",CloseSave
+73435,340,0,"2023-06-26 02:21:26","Skills Quiz-21 Step-11 Correct",checkMorning
+73436,340,0,"2023-06-26 02:21:26","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-06-26 02:21:28",module_end,none

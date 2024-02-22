@@ -1,0 +1,51 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+60995,324,435,"2023-06-04 16:28:04",page-load,"goal setting: preview"
+60996,324,435,"2023-06-04 16:28:08",click,next-page
+60997,324,436,"2023-06-04 16:28:08",page-load,"goal setting: example plan"
+60998,324,436,"2023-06-04 16:28:15",click,next-page
+60999,324,437,"2023-06-04 16:28:15",page-load,"goal setting: pick one strategy"
+61000,324,437,"2023-06-04 16:29:14",click,next-page
+61001,324,438,"2023-06-04 16:29:14",page-load,"goal setting: top strategy display"
+61002,324,438,"2023-06-04 16:29:18",click,next-page
+61003,324,439,"2023-06-04 16:29:18",page-load,"goal setting: when"
+61004,324,439,"2023-06-04 16:29:42",click,next-page
+61005,324,440,"2023-06-04 16:29:43",page-load,"goal setting: where"
+61006,324,440,"2023-06-04 16:30:35",click,next-page
+61007,324,441,"2023-06-04 16:30:35",page-load,"goal setting: with whom"
+61008,324,441,"2023-06-04 16:30:56",click,next-page
+61009,324,442,"2023-06-04 16:30:56",page-load,"goal setting: how"
+61701,324,439,"2023-06-04 23:25:34",page-load,"goal setting: when"
+61702,324,439,"2023-06-04 23:26:00",click,next-page
+61703,324,439,"2023-06-04 23:26:00",click,next-page
+61704,324,439,"2023-06-04 23:26:01",click,next-page
+61705,324,439,"2023-06-04 23:26:03",click,previous-page
+61706,324,438,"2023-06-04 23:26:04",page-load,"goal setting: top strategy display"
+63366,324,400,"2023-06-06 21:06:20",page-load,video
+63367,324,401,"2023-06-06 21:10:20",page-load,"web form: question"
+63368,324,401,"2023-06-06 21:10:29",click,"correct-option: False"
+63369,324,401,"2023-06-06 21:10:32",click,next-page
+63370,324,402,"2023-06-06 21:10:32",page-load,video
+63371,324,403,"2023-06-06 21:16:07",page-load,"web form: what would you like to do next"
+63372,324,403,"2023-06-06 21:16:10",click,next-page
+63373,324,404,"2023-06-06 21:16:11",page-load,"skills quiz preview"
+63374,324,404,"2023-06-06 21:16:19",click,next-page
+63375,324,0,"2023-06-06 21:16:26","Skills Quiz-19 Step-1 Incorrect",HEALTH
+63376,324,0,"2023-06-06 21:16:30","Skills Quiz-19 Step-2 Correct","Medical Information"
+63377,324,0,"2023-06-06 21:16:34","Skills Quiz-19 Step-3 Correct","Add New Note"
+63378,324,0,"2023-06-06 21:16:35","Skills Quiz-19 Step-4 Correct",noteSpecialty
+63379,324,0,"2023-06-06 21:17:05","Skills Quiz 30 second Hint",30time
+63380,324,0,"2023-06-06 21:19:20","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+63381,324,0,"2023-06-06 21:19:25","Skills Quiz-19 Step-6 Correct",noteName
+63382,324,0,"2023-06-06 21:19:33","Skills Quiz-19 Step-8 Correct",notePhone
+63383,324,0,"2023-06-06 21:19:39","Skills Quiz-19 Step-10 Correct",noteAddress
+63384,324,0,"2023-06-06 21:19:41","Skills Quiz-19 Step-12 Correct",noteDetails
+63385,324,0,"2023-06-06 21:19:45","Skills Quiz-19 Step-14 Correct",SAVE
+63386,324,0,"2023-06-06 21:19:50","Skills Quiz-19 Step-14 Incorrect","Close  EDIT"
+63387,324,0,"2023-06-06 21:19:50","Skills Quiz-19 Step-14 Incorrect","Close  EDIT"
+63388,324,0,"2023-06-06 21:19:56","Skills Quiz-19 Step-14 Incorrect","Press EditNote SavedDoctors InformationSpecialtyCardiologistNameDr. EvePhone Number5555555555Address2022 market StreetDetailsThis doctor reviews my daily blood pressure log.Close  EDIT"
+63389,324,0,"2023-06-06 21:20:14","Skills Quiz-19 Step-14 Incorrect","Doctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+63390,324,0,"2023-06-06 21:20:18","Skills Quiz-19 Step-14 Incorrect",View
+63391,324,0,"2023-06-06 21:20:19","Skills Quiz-19 Step-14 Incorrect","Close  EDIT"
+63392,324,0,"2023-06-06 21:20:19","Skills Quiz-19 Step-14 Correct",Close
+63395,324,405,"2023-06-06 21:20:51",click,"skills quiz hint"
+0,0,0,"2023-06-06 21:22:01",module_end,none

@@ -1,0 +1,26 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+28827,297,140,"2023-03-19 18:53:47",click,next-page
+28828,297,0,"2023-03-19 18:53:57","Skills Quiz-10 Step-1 Correct",Edit
+28829,297,0,"2023-03-19 18:53:59","Skills Quiz-10 Step-2 Correct",nos-time-check
+28830,297,0,"2023-03-19 18:54:00","Skills Quiz-10 Step-3 Correct",start-time
+28831,297,0,"2023-03-19 18:54:11","Skills Quiz-10 Step-6 Correct",end-time
+28832,297,0,"2023-03-19 18:54:20","Skills Quiz-10 Step-9 Correct",Save
+28833,297,0,"2023-03-19 18:54:34","Skills Quiz-10 Step-10 Correct",CALENDAR
+28834,297,0,"2023-03-19 18:54:36","Skills Quiz-10 Step-11 Correct",9
+28835,297,0,"2023-03-19 18:54:41","Skills Quiz-10 Step-12 Correct",Edit
+28836,297,0,"2023-03-19 18:54:43","Skills Quiz-10 Step-13 Correct","June 9, 2021"
+28837,297,0,"2023-03-19 18:54:44","Skills Quiz-10 Step-14 Correct",10
+28838,297,0,"2023-03-19 18:54:57","Skills Quiz-10 Step-15 Correct",OK
+28839,297,0,"2023-03-19 18:55:01","Skills Quiz-10 Step-16 Incorrect",undefined
+28840,297,0,"2023-03-19 18:55:03","Skills Quiz-10 Step-16 Correct",nos-time-check
+28841,297,0,"2023-03-19 18:55:05","Skills Quiz-10 Step-17 Correct",start-time
+28842,297,0,"2023-03-19 18:55:26","Skills Quiz-10 Step-20 Correct",end-time
+28843,297,0,"2023-03-19 18:55:38","Skills Quiz-10 Step-23 Correct",Save
+28844,297,0,"2023-03-19 18:56:04","Skills Quiz-10 Step-24 Incorrect",TODAY
+28845,297,0,"2023-03-19 18:56:05","Skills Quiz-10 Step-24 Correct",CALENDAR
+28846,297,0,"2023-03-19 18:56:08","Skills Quiz-10 Step-25 Correct",10
+28847,297,0,"2023-03-19 18:56:14","Skills Quiz-10 Step-26 Correct",Edit
+28848,297,0,"2023-03-19 18:56:24","Skills Quiz-10 Step-27 Correct",event-description
+28849,297,0,"2023-03-19 18:56:46","Skills Quiz-10 Step-29 Correct","60 min"
+28850,297,0,"2023-03-19 18:56:47","Skills Quiz-10 Step-30 Correct",Save
+0,0,0,"2023-03-19 18:56:48",module_end,none

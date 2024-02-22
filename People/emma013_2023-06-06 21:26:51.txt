@@ -1,0 +1,31 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+63401,324,407,"2023-06-06 21:22:03",page-load,"skills quiz preview"
+63403,324,407,"2023-06-06 21:22:16",click,next-page
+63406,324,0,"2023-06-06 21:22:26","Skills Quiz-20 Step-1 Incorrect",NOTES
+63407,324,0,"2023-06-06 21:22:29","Skills Quiz-20 Step-1 Incorrect",HEALTH
+63408,324,0,"2023-06-06 21:22:32","Skills Quiz-20 Step-2 Correct","Medical Information"
+63412,324,0,"2023-06-06 21:22:47","Skills Quiz-20 Step-3 Correct","Add New Note"
+63415,324,0,"2023-06-06 21:22:50","Skills Quiz-20 Step-4 Correct",noteSpecialty
+63416,324,0,"2023-06-06 21:23:20","Skills Quiz 30 second Hint",30time
+63418,324,0,"2023-06-06 21:23:53","Skills Quiz-20 Step-2 Correct","Medical Information"
+63421,324,0,"2023-06-06 21:23:57","Skills Quiz-20 Step-3 Incorrect",note-list
+63422,324,0,"2023-06-06 21:23:58","Skills Quiz-20 Step-3 Incorrect",note-list
+63425,324,0,"2023-06-06 21:24:00","Skills Quiz-20 Step-3 Correct","Add New Note"
+63426,324,0,"2023-06-06 21:24:02","Skills Quiz-20 Step-4 Correct",noteSpecialty
+63432,324,0,"2023-06-06 21:24:18","Skills Quiz-20 Step-6 Correct",noteName
+63433,324,0,"2023-06-06 21:24:37","Skills Quiz-20 Step-8 Correct",notePhone
+63434,324,0,"2023-06-06 21:24:51","Skills Quiz-20 Step-10 Correct",noteAddress
+63435,324,0,"2023-06-06 21:25:21","Skills Quiz 30 second Hint",30time
+63437,324,0,"2023-06-06 21:25:38","Skills Quiz-20 Step-12 Correct",noteDetails
+63438,324,0,"2023-06-06 21:26:08","Skills Quiz 30 second Hint",30time
+63440,324,0,"2023-06-06 21:26:21","Skills Quiz-20 Step-14 Incorrect",Details
+63441,324,0,"2023-06-06 21:26:27","Skills Quiz-20 Step-14 Incorrect",Address
+63442,324,0,"2023-06-06 21:26:29","Skills Quiz-20 Step-14 Incorrect","Close  SAVE"
+63443,324,0,"2023-06-06 21:26:31","Skills Quiz-20 Step-14 Correct",SAVE
+63444,324,0,"2023-06-06 21:26:34","Skills Quiz-20 Step-14 Incorrect","Close  EDIT"
+63445,324,0,"2023-06-06 21:26:44","Skills Quiz-20 Step-14 Incorrect",undefined
+63446,324,0,"2023-06-06 21:26:46","Skills Quiz-20 Step-14 Incorrect",undefined
+63447,324,0,"2023-06-06 21:26:48","Skills Quiz-20 Step-14 Incorrect","Close  EDIT"
+63448,324,0,"2023-06-06 21:26:48","Skills Quiz-20 Step-14 Incorrect","Close  EDIT"
+63449,324,0,"2023-06-06 21:26:51","Skills Quiz-20 Step-14 Correct",Close
+0,0,0,"2023-06-06 21:26:51",module_end,none

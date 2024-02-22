@@ -1,0 +1,99 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+60856,340,300,"2023-06-02 23:56:37",page-load,video
+60864,340,301,"2023-06-02 23:58:02",page-load,"web form: question"
+60865,340,300,"2023-06-02 23:58:47",page-load,video
+60876,340,300,"2023-06-03 00:03:29",page-load,video
+60878,340,300,"2023-06-03 00:04:02",page-load,video
+60881,340,300,"2023-06-03 00:04:53",page-load,video
+60882,340,300,"2023-06-03 00:06:03",page-load,video
+60887,340,300,"2023-06-03 00:06:48",page-load,video
+60889,340,301,"2023-06-03 00:07:19",page-load,"web form: question"
+60890,340,301,"2023-06-03 00:07:56",page-load,"web form: question"
+60891,340,301,"2023-06-03 00:08:30",page-load,"web form: question"
+60892,340,301,"2023-06-03 00:08:33",click,previous-page
+60893,340,300,"2023-06-03 00:08:34",page-load,video
+60894,340,300,"2023-06-03 00:21:01",page-load,video
+60895,340,300,"2023-06-03 00:21:27",page-load,video
+63393,340,300,"2023-06-06 21:20:39",page-load,video
+63394,340,301,"2023-06-06 21:20:43",page-load,"web form: question"
+63396,340,301,"2023-06-06 21:21:00",click,next-page
+63397,340,302,"2023-06-06 21:21:00",page-load,"web form: question"
+63398,340,301,"2023-06-06 21:21:11",page-load,"web form: question"
+63399,340,302,"2023-06-06 21:21:21",tracked,"Finding it increasingly difficult to participate in group events and community activities"
+63400,340,302,"2023-06-06 21:21:22",tracked,"Finding it increasingly difficult to participate in group events and community activities"
+63402,340,303,"2023-06-06 21:22:10",page-load,"web form: question"
+63404,340,303,"2023-06-06 21:22:25",click,next-page
+63405,340,304,"2023-06-06 21:22:25",page-load,"web form: question"
+63409,340,304,"2023-06-06 21:22:42",tracked,"Forgetting things more often"
+63410,340,304,"2023-06-06 21:22:44",click,next-page
+63411,340,305,"2023-06-06 21:22:44",page-load,"web form: question"
+63413,340,305,"2023-06-06 21:22:48",click,next-page
+63414,340,306,"2023-06-06 21:22:49",page-load,video
+63417,340,307,"2023-06-06 21:23:50",page-load,"tech comfort quiz, part one"
+63419,340,307,"2023-06-06 21:23:54",tracked,"Comfort with tech 7"
+63420,340,307,"2023-06-06 21:23:56",tracked,"Confidence in tech 7"
+63423,340,307,"2023-06-06 21:23:59",tracked,"Problem-solve tech 7"
+63424,340,308,"2023-06-06 21:24:00",page-load,"tech comfort quiz, part two"
+63427,340,308,"2023-06-06 21:24:07",tracked,"Operate tech 7"
+63428,340,308,"2023-06-06 21:24:08",tracked,"Use tech 7"
+63429,340,308,"2023-06-06 21:24:10",tracked,"Use touch-screen tablet 7"
+63430,340,308,"2023-06-06 21:24:10",click,next-page
+63431,340,309,"2023-06-06 21:24:11",page-load,video
+63436,340,10,"2023-06-06 21:25:33",page-load,video
+63459,340,11,"2023-06-06 21:28:10",page-load,video
+63470,340,12,"2023-06-06 21:30:21",page-load,"web form: scheduling choices"
+63472,340,12,"2023-06-06 21:30:40",tracked,"Remembering important events"
+63473,340,12,"2023-06-06 21:30:41",tracked,"Scheduling and keeping appointments"
+63478,340,12,"2023-06-06 21:31:02",tracked,"Scheduling time to work towards goals"
+63481,340,12,"2023-06-06 21:31:03",tracked,"Remembering day to day things"
+63485,340,12,"2023-06-06 21:31:05",click,next-page
+63486,340,13,"2023-06-06 21:31:06",page-load,video
+63502,340,14,"2023-06-06 21:32:04",page-load,"web form: what would you like to do next"
+63504,340,14,"2023-06-06 21:32:08",click,next-page
+63506,340,15,"2023-06-06 21:32:08",page-load,video
+63513,340,16,"2023-06-06 21:33:07",page-load,"web form: question"
+63517,340,16,"2023-06-06 21:33:14",click,"correct-option: Grey"
+63518,340,16,"2023-06-06 21:33:16",click,next-page
+63519,340,17,"2023-06-06 21:33:17",page-load,video
+63525,340,18,"2023-06-06 21:33:42",page-load,"web form: question"
+63526,340,18,"2023-06-06 21:33:48",click,"correct-option: 1:30 PM"
+63527,340,18,"2023-06-06 21:33:49",click,next-page
+63528,340,19,"2023-06-06 21:33:49",page-load,video
+63559,340,20,"2023-06-06 21:38:11",page-load,"web form: question"
+63561,340,20,"2023-06-06 21:38:19",click,"correct-option: Blue"
+63565,340,20,"2023-06-06 21:38:22",click,next-page
+63566,340,21,"2023-06-06 21:38:22",page-load,"web form: what would you like to do next"
+63574,340,0,"2023-06-06 21:39:31","Skills Quiz-1 Step-1 Incorrect","Add New Folder"
+63576,340,22,"2023-06-06 21:39:43",click,"skills quiz hint"
+63577,340,22,"2023-06-06 21:39:44",click,"skills quiz hint"
+63578,340,22,"2023-06-06 21:39:45",click,"skills quiz hint"
+63579,340,22,"2023-06-06 21:39:45",click,"skills quiz hint"
+63580,340,22,"2023-06-06 21:39:46",click,"skills quiz hint"
+63581,340,22,"2023-06-06 21:39:46",click,"skills quiz hint"
+63582,340,22,"2023-06-06 21:39:46",click,"skills quiz hint"
+63583,340,22,"2023-06-06 21:39:47",click,"skills quiz hint"
+63584,340,22,"2023-06-06 21:39:47",click,"skills quiz hint"
+63585,340,0,"2023-06-06 21:39:49","Skills Quiz-1 Step-1 Incorrect",note-list
+63586,340,0,"2023-06-06 21:39:50","Skills Quiz-1 Step-1 Incorrect",GoalsLists
+63587,340,0,"2023-06-06 21:39:51","Skills Quiz-1 Step-1 Incorrect",note-list
+63588,340,0,"2023-06-06 21:39:51","Skills Quiz-1 Step-1 Incorrect",GoalsLists
+63589,340,0,"2023-06-06 21:39:52","Skills Quiz-1 Step-1 Incorrect",note-list
+63590,340,0,"2023-06-06 21:39:52","Skills Quiz-1 Step-1 Incorrect",note-list
+63591,340,0,"2023-06-06 21:39:52","Skills Quiz-1 Step-1 Incorrect",note-list
+63592,340,0,"2023-06-06 21:39:53","Skills Quiz-1 Step-1 Incorrect",note-list
+63593,340,0,"2023-06-06 21:39:53","Skills Quiz-1 Step-1 Incorrect",undefined
+63594,340,0,"2023-06-06 21:39:56","Skills Quiz-1 Step-1 Incorrect",undefined
+63595,340,0,"2023-06-06 21:40:01","Skills Quiz-1 Step-1 Incorrect",GoalsLists
+63596,340,0,"2023-06-06 21:40:02","Skills Quiz-1 Step-1 Incorrect",GoalsLists
+63597,340,0,"2023-06-06 21:40:02","Skills Quiz-1 Step-1 Incorrect",GoalsLists
+63598,340,0,"2023-06-06 21:40:03","Skills Quiz-1 Step-1 Incorrect",note-list
+63599,340,0,"2023-06-06 21:40:03","Skills Quiz-1 Step-1 Incorrect",note-list
+63600,340,0,"2023-06-06 21:40:20","Skills Quiz-1 Step-1 Correct",TODAY
+63601,340,0,"2023-06-06 21:40:24","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+63603,340,0,"2023-06-06 21:40:31","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+63607,340,0,"2023-06-06 21:40:34","Skills Quiz-1 Step-4 Correct",right-arrow
+63609,340,0,"2023-06-06 21:40:35","Skills Quiz-1 Step-5 Incorrect",17
+63611,340,0,"2023-06-06 21:40:38","Skills Quiz-1 Step-5 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+63613,340,0,"2023-06-06 21:40:44","Skills Quiz-1 Step-5 Correct",14
+63615,340,0,"2023-06-06 21:40:46","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-06-06 21:40:46",module_end,none

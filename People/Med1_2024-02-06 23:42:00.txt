@@ -1,0 +1,19 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+121044,219,518,"2024-02-06 23:41:28",page-load,video
+121045,219,519,"2024-02-06 23:41:32",page-load,"web form: question"
+121046,219,519,"2024-02-06 23:41:34",click,next-page
+121050,219,519,"2024-02-06 23:41:37",click,"incorrect-option: True"
+121051,219,519,"2024-02-06 23:41:39",click,"correct-option: False"
+121052,219,519,"2024-02-06 23:41:39",click,next-page
+121053,219,520,"2024-02-06 23:41:39",page-load,"web form: what would you like to do next"
+121054,219,520,"2024-02-06 23:41:41",click,next-page
+121055,219,521,"2024-02-06 23:41:41",page-load,video
+121057,219,522,"2024-02-06 23:41:44",page-load,"web form: question"
+121058,219,522,"2024-02-06 23:41:46",click,"incorrect-option: 2"
+121060,219,522,"2024-02-06 23:41:48",click,"correct-option: 1"
+121061,219,522,"2024-02-06 23:41:49",click,next-page
+121062,219,523,"2024-02-06 23:41:50",page-load,video
+121064,219,524,"2024-02-06 23:41:54",page-load,"web form: what would you like to do next"
+121066,219,524,"2024-02-06 23:41:55",click,next-page
+121067,219,525,"2024-02-06 23:41:55",page-load,"skills quiz preview"
+0,0,0,"2024-02-06 23:42:00",module_end,none

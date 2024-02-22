@@ -1,0 +1,17 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+109682,411,236,"2023-12-26 20:07:39",page-load,"web form: question"
+109683,411,236,"2023-12-26 20:07:47",click,"correct-option: 1"
+109684,411,236,"2023-12-26 20:07:49",click,next-page
+109685,411,237,"2023-12-26 20:07:50",page-load,"web form: what would you like to do next"
+109686,411,237,"2023-12-26 20:07:52",click,next-page
+109687,411,238,"2023-12-26 20:07:53",page-load,"skills quiz preview"
+109688,411,0,"2023-12-26 20:08:55","Skills Quiz-17 Step-1 Correct",View
+109689,411,0,"2023-12-26 20:09:17","Skills Quiz-17 Step-2 Correct",SAVE
+109690,411,0,"2023-12-26 20:09:20","Skills Quiz-17 Step-3 Correct",Delete
+109691,411,0,"2023-12-26 20:09:24","Skills Quiz-17 Step-4 Correct",Confirm
+109692,411,0,"2023-12-26 20:09:28","Skills Quiz-17 Step-5 Correct",Delete
+109693,411,0,"2023-12-26 20:09:52","Skills Quiz-17 Step-6 Incorrect","Cookie RecipesEdit"
+109694,411,0,"2023-12-26 20:10:16","Skills Quiz-17 Step-6 Correct",View
+109695,411,0,"2023-12-26 20:10:27","Skills Quiz-17 Step-7 Correct","Move Note"
+109696,411,0,"2023-12-26 20:10:46","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+0,0,0,"2023-12-26 20:10:50",module_end,none

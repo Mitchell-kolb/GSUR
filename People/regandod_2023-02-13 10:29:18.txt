@@ -1,0 +1,5 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+17600,223,215,"2023-02-13 10:29:06",page-load,video
+17601,223,204,"2023-02-13 10:29:10",page-load,video
+17602,223,21,"2023-02-13 10:29:17",page-load,"web form: what would you like to do next"
+0,0,0,"2023-02-13 10:29:18",module_end,none

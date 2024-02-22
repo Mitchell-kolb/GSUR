@@ -1,0 +1,187 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+18505,223,15,"2023-02-13 11:19:55",page-load,video
+18506,223,204,"2023-02-13 11:19:59",page-load,video
+18507,223,26,"2023-02-13 11:20:00",page-load,video
+18508,223,204,"2023-02-13 11:20:32",page-load,video
+18509,223,27,"2023-02-13 11:20:34",page-load,"web form: question"
+18510,223,27,"2023-02-13 11:21:09",click,"incorrect-option: False"
+18511,223,27,"2023-02-13 11:21:10",click,hint
+18512,223,27,"2023-02-13 11:21:10",click,"correct-option: True"
+18513,223,27,"2023-02-13 11:21:11",click,previous-page
+18514,223,26,"2023-02-13 11:21:12",page-load,video
+18515,223,204,"2023-02-13 11:21:18",page-load,video
+18516,223,27,"2023-02-13 11:21:19",page-load,"web form: question"
+18517,223,27,"2023-02-13 11:21:40",click,"correct-option: True"
+18518,223,27,"2023-02-13 11:21:41",click,"incorrect-option: False"
+18519,223,27,"2023-02-13 11:21:42",click,hint
+18520,223,27,"2023-02-13 11:21:42",click,"correct-option: True"
+18521,223,27,"2023-02-13 11:21:48",click,next-page
+18522,223,28,"2023-02-13 11:21:49",page-load,"web form: question"
+18523,223,28,"2023-02-13 11:21:51",click,"incorrect-option: False"
+18524,223,28,"2023-02-13 11:21:52",click,hint
+18525,223,28,"2023-02-13 11:21:53",click,"correct-option: True"
+18526,223,28,"2023-02-13 11:21:54",click,previous-page
+18527,223,27,"2023-02-13 11:21:55",page-load,"web form: question"
+18528,223,27,"2023-02-13 11:21:56",click,"incorrect-option: False"
+18529,223,27,"2023-02-13 11:21:56",click,hint
+18530,223,27,"2023-02-13 11:21:57",click,"correct-option: True"
+18531,223,27,"2023-02-13 11:21:58",click,next-page
+18532,223,28,"2023-02-13 11:21:58",page-load,"web form: question"
+18533,223,28,"2023-02-13 11:21:59",click,"incorrect-option: False"
+18534,223,28,"2023-02-13 11:22:00",click,hint
+18535,223,28,"2023-02-13 11:22:00",click,"correct-option: True"
+18536,223,28,"2023-02-13 11:22:01",click,next-page
+18537,223,29,"2023-02-13 11:22:01",page-load,video
+18538,223,204,"2023-02-13 11:22:31",page-load,video
+18539,223,334,"2023-02-13 11:22:33",page-load,"end of lesson: 1"
+18540,223,30,"2023-02-13 11:22:33",page-load,"web form: question"
+18541,223,30,"2023-02-13 11:22:36",click,"incorrect-option: Who else is involved in the activity"
+18542,223,30,"2023-02-13 11:22:36",click,"incorrect-option: Where the activity will take place (address or room number)"
+18543,223,30,"2023-02-13 11:22:37",click,"incorrect-option: A list of the items you need to bring to the event"
+18544,223,30,"2023-02-13 11:22:37",click,"correct-option: All of the above"
+18545,223,30,"2023-02-13 11:22:39",click,"incorrect-option: A list of the items you need to bring to the event"
+18546,223,30,"2023-02-13 11:22:39",click,"incorrect-option: Where the activity will take place (address or room number)"
+18547,223,30,"2023-02-13 11:22:39",click,"incorrect-option: Who else is involved in the activity"
+18548,223,30,"2023-02-13 11:22:40",click,"incorrect-option: Where the activity will take place (address or room number)"
+18549,223,30,"2023-02-13 11:22:40",click,"incorrect-option: A list of the items you need to bring to the event"
+18550,223,30,"2023-02-13 11:22:41",click,hint
+18551,223,30,"2023-02-13 11:22:41",click,"correct-option: All of the above"
+18552,223,30,"2023-02-13 11:22:43",click,next-page
+18553,223,31,"2023-02-13 11:22:44",page-load,video
+18554,223,31,"2023-02-13 11:22:58",page-load,video
+18555,223,32,"2023-02-13 11:22:59",page-load,"web form: what would you like to do next"
+18556,223,32,"2023-02-13 11:23:32",click,take-a-break
+18557,223,32,"2023-02-13 11:23:35",click,previous-page
+18558,223,26,"2023-02-13 11:23:35",page-load,video
+18559,223,204,"2023-02-13 11:23:45",page-load,video
+18560,223,32,"2023-02-13 11:23:46",page-load,"web form: what would you like to do next"
+18561,223,0,"2023-02-13 11:24:45","Skills Quiz-3 Step-1 Incorrect",HEALTH
+18562,223,0,"2023-02-13 11:24:46","Skills Quiz-3 Step-1 Incorrect",help-link
+18563,223,0,"2023-02-13 11:24:47","Skills Quiz-3 Step-1 Incorrect","Add New Note"
+18564,223,0,"2023-02-13 11:24:48","Skills Quiz-3 Step-1 Incorrect",note-list
+18565,223,0,"2023-02-13 11:24:48","Skills Quiz-3 Step-1 Incorrect","Sort by:RelevantSearchClear"
+18566,223,0,"2023-02-13 11:24:49","Skills Quiz-3 Step-1 Incorrect",note-search
+18567,223,0,"2023-02-13 11:24:49","Skills Quiz-3 Step-1 Incorrect","Add New Folder"
+18568,223,0,"2023-02-13 11:24:50","Skills Quiz-3 Step-1 Incorrect",Goals
+18569,223,0,"2023-02-13 11:24:51","Skills Quiz-3 Step-1 Incorrect","Add New Note"
+18570,223,0,"2023-02-13 11:24:51","Skills Quiz-3 Step-1 Incorrect","Add New Note"
+18571,223,0,"2023-02-13 11:24:51","Skills Quiz-3 Step-1 Incorrect","Add New FolderGoalsLists"
+18572,223,0,"2023-02-13 11:24:52","Skills Quiz-3 Step-1 Incorrect",Goals
+18573,223,0,"2023-02-13 11:24:52","Skills Quiz-3 Step-1 Incorrect",Lists
+18574,223,0,"2023-02-13 11:24:52","Skills Quiz-3 Step-1 Incorrect",note-list
+18575,223,33,"2023-02-13 11:24:53",click,"skills quiz hint"
+18576,223,0,"2023-02-13 11:24:54","Skills Quiz-3 Step-1 Incorrect",help-link
+18577,223,0,"2023-02-13 11:24:54","Skills Quiz-3 Step-1 Incorrect",HEALTH
+18578,223,0,"2023-02-13 11:24:55","Skills Quiz-3 Step-1 Incorrect",HEALTH
+18579,223,0,"2023-02-13 11:24:56","Skills Quiz-3 Step-1 Correct",TODAY
+18580,223,0,"2023-02-13 11:24:57","Skills Quiz-3 Step-2 Incorrect",TODAY
+18581,223,33,"2023-02-13 11:24:59",click,"skills quiz hint"
+18582,223,0,"2023-02-13 11:24:59","Skills Quiz-3 Step-2 Incorrect",undefined
+18583,223,0,"2023-02-13 11:25:00","Skills Quiz-3 Step-2 Incorrect",CALENDAR
+18584,223,0,"2023-02-13 11:25:00","Skills Quiz-3 Step-2 Incorrect",HEALTH
+18585,223,0,"2023-02-13 11:25:01","Skills Quiz-3 Step-2 Incorrect",NOTES
+18586,223,0,"2023-02-13 11:25:01","Skills Quiz-3 Step-2 Incorrect",undefined
+18587,223,0,"2023-02-13 11:25:02","Skills Quiz-3 Step-2 Incorrect",NOTES
+18588,223,0,"2023-02-13 11:25:02","Skills Quiz-3 Step-2 Incorrect",HEALTH
+18589,223,0,"2023-02-13 11:25:02","Skills Quiz-3 Step-2 Incorrect",CALENDAR
+18590,223,0,"2023-02-13 11:25:03","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+18591,223,0,"2023-02-13 11:25:05","Skills Quiz-3 Step-3 Incorrect",undefined
+18592,223,0,"2023-02-13 11:25:08","Skills Quiz-3 Step-3 Incorrect","Tap Here"
+18593,223,0,"2023-02-13 11:25:08","Skills Quiz-3 Step-3 Incorrect","Tap Here"
+18594,223,0,"2023-02-13 11:25:08","Skills Quiz-3 Step-3 Incorrect",undefined
+18595,223,0,"2023-02-13 11:25:09","Skills Quiz-3 Step-3 Incorrect","No Specific Time "
+18596,223,0,"2023-02-13 11:25:09","Skills Quiz-3 Step-3 Incorrect",nos-time-check
+18597,223,0,"2023-02-13 11:25:10","Skills Quiz-3 Step-3 Incorrect",nos-time-check
+18598,223,0,"2023-02-13 11:25:10","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+18599,223,0,"2023-02-13 11:25:12","Skills Quiz-3 Step-4 Incorrect",3
+18600,223,0,"2023-02-13 11:25:12","Skills Quiz-3 Step-4 Incorrect",2
+18601,223,0,"2023-02-13 11:25:12","Skills Quiz-3 Step-4 Incorrect",1
+18602,223,0,"2023-02-13 11:25:13","Skills Quiz-3 Step-4 Incorrect",9
+18603,223,0,"2023-02-13 11:25:13","Skills Quiz-3 Step-4 Incorrect",8
+18604,223,0,"2023-02-13 11:25:14","Skills Quiz-3 Step-4 Incorrect",4
+18605,223,0,"2023-02-13 11:25:14","Skills Quiz-3 Step-4 Incorrect",3
+18606,223,0,"2023-02-13 11:25:14","Skills Quiz-3 Step-4 Incorrect",5
+18607,223,0,"2023-02-13 11:25:15","Skills Quiz-3 Step-4 Incorrect",11
+18608,223,0,"2023-02-13 11:25:15","Skills Quiz-3 Step-4 Incorrect",12
+18609,223,0,"2023-02-13 11:25:15","Skills Quiz-3 Step-4 Incorrect",19
+18610,223,0,"2023-02-13 11:25:16","Skills Quiz-3 Step-4 Incorrect",18
+18611,223,0,"2023-02-13 11:25:16","Skills Quiz-3 Step-4 Incorrect",25
+18612,223,0,"2023-02-13 11:25:16","Skills Quiz-3 Step-4 Incorrect",26
+18613,223,0,"2023-02-13 11:25:17","Skills Quiz-3 Step-4 Incorrect",24
+18614,223,0,"2023-02-13 11:25:17","Skills Quiz-3 Step-4 Incorrect",17
+18615,223,0,"2023-02-13 11:25:17","Skills Quiz-3 Step-4 Incorrect",30
+18616,223,0,"2023-02-13 11:25:18","Skills Quiz-3 Step-4 Incorrect",23
+18617,223,0,"2023-02-13 11:25:18","Skills Quiz-3 Step-4 Incorrect",16
+18618,223,0,"2023-02-13 11:25:19","Skills Quiz-3 Step-4 Incorrect",9
+18619,223,0,"2023-02-13 11:25:19","Skills Quiz-3 Step-4 Incorrect",29
+18620,223,0,"2023-02-13 11:25:20","Skills Quiz-3 Step-4 Incorrect",22
+18621,223,0,"2023-02-13 11:25:20","Skills Quiz-3 Step-4 Incorrect",15
+18622,223,0,"2023-02-13 11:25:21","Skills Quiz-3 Step-4 Incorrect",28
+18623,223,0,"2023-02-13 11:25:21","Skills Quiz-3 Step-4 Incorrect",21
+18624,223,0,"2023-02-13 11:25:21","Skills Quiz-3 Step-4 Incorrect",14
+18625,223,0,"2023-02-13 11:25:22","Skills Quiz-3 Step-4 Incorrect",27
+18626,223,0,"2023-02-13 11:25:22","Skills Quiz-3 Step-4 Incorrect",20
+18627,223,0,"2023-02-13 11:25:22","Skills Quiz-3 Step-4 Incorrect",13
+18628,223,0,"2023-02-13 11:25:23","Skills Quiz-3 Step-4 Incorrect",6
+18629,223,0,"2023-02-13 11:25:23","Skills Quiz-3 Step-4 Incorrect",7
+18630,223,0,"2023-02-13 11:25:23","Skills Quiz-3 Step-4 Incorrect",8
+18631,223,0,"2023-02-13 11:25:24","Skills Quiz-3 Step-4 Incorrect",9
+18632,223,0,"2023-02-13 11:25:24","Skills Quiz-3 Step-4 Incorrect",2
+18633,223,0,"2023-02-13 11:25:24","Skills Quiz-3 Step-4 Incorrect",1
+18634,223,0,"2023-02-13 11:25:24","Skills Quiz-3 Step-4 Incorrect",3
+18635,223,0,"2023-02-13 11:25:25","Skills Quiz-3 Step-4 Incorrect",10
+18636,223,0,"2023-02-13 11:25:26","Skills Quiz-3 Step-4 Incorrect","JUNE 2021"
+18637,223,0,"2023-02-13 11:25:28","Skills Quiz-3 Step-4 Correct",right-arrow
+18638,223,0,"2023-02-13 11:25:31","Skills Quiz-3 Step-5 Incorrect",2
+18639,223,0,"2023-02-13 11:25:31","Skills Quiz-3 Step-5 Incorrect",3
+18640,223,0,"2023-02-13 11:25:32","Skills Quiz-3 Step-5 Incorrect",1
+18641,223,0,"2023-02-13 11:25:32","Skills Quiz-3 Step-5 Incorrect",8
+18642,223,0,"2023-02-13 11:25:33","Skills Quiz-3 Step-5 Incorrect",9
+18643,223,0,"2023-02-13 11:25:33","Skills Quiz-3 Step-5 Incorrect",10
+18644,223,0,"2023-02-13 11:25:34","Skills Quiz-3 Step-5 Incorrect",17
+18645,223,0,"2023-02-13 11:25:34","Skills Quiz-3 Step-5 Incorrect",24
+18646,223,0,"2023-02-13 11:25:35","Skills Quiz-3 Step-5 Incorrect",31
+18647,223,0,"2023-02-13 11:25:35","Skills Quiz-3 Step-5 Incorrect",30
+18648,223,0,"2023-02-13 11:25:35","Skills Quiz-3 Step-5 Incorrect",23
+18649,223,0,"2023-02-13 11:25:35","Skills Quiz-3 Step-5 Incorrect",16
+18650,223,0,"2023-02-13 11:25:36","Skills Quiz-3 Step-5 Incorrect",29
+18651,223,0,"2023-02-13 11:25:36","Skills Quiz-3 Step-5 Incorrect",22
+18652,223,0,"2023-02-13 11:25:37","Skills Quiz-3 Step-5 Incorrect",15
+18653,223,0,"2023-02-13 11:25:37","Skills Quiz-3 Step-5 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+18654,223,0,"2023-02-13 11:25:38","Skills Quiz-3 Step-5 Incorrect",28
+18655,223,0,"2023-02-13 11:25:38","Skills Quiz-3 Step-5 Incorrect",21
+18656,223,0,"2023-02-13 11:25:39","Skills Quiz-3 Step-5 Incorrect",27
+18657,223,0,"2023-02-13 11:25:39","Skills Quiz-3 Step-5 Incorrect",20
+18658,223,0,"2023-02-13 11:25:39","Skills Quiz-3 Step-5 Incorrect",26
+18659,223,0,"2023-02-13 11:25:39","Skills Quiz-3 Step-5 Incorrect",19
+18660,223,0,"2023-02-13 11:25:40","Skills Quiz-3 Step-5 Incorrect",25
+18661,223,0,"2023-02-13 11:25:40","Skills Quiz-3 Step-5 Incorrect",18
+18662,223,0,"2023-02-13 11:25:40","Skills Quiz-3 Step-5 Incorrect",11
+18663,223,0,"2023-02-13 11:25:40","Skills Quiz-3 Step-5 Incorrect",5
+18664,223,0,"2023-02-13 11:25:41","Skills Quiz-3 Step-5 Incorrect",4
+18665,223,0,"2023-02-13 11:25:42","Skills Quiz-3 Step-5 Incorrect",12
+18666,223,0,"2023-02-13 11:25:42","Skills Quiz-3 Step-5 Incorrect",13
+18667,223,0,"2023-02-13 11:25:42","Skills Quiz-3 Step-5 Incorrect",6
+18668,223,0,"2023-02-13 11:25:43","Skills Quiz-3 Step-5 Incorrect",7
+18669,223,0,"2023-02-13 11:25:43","Skills Quiz-3 Step-5 Correct",14
+18670,223,0,"2023-02-13 11:25:44","Skills Quiz-3 Step-6 Correct",OK
+18671,223,0,"2023-02-13 11:25:48","Skills Quiz-3 Step-7 Correct","Tap Here"
+18672,223,0,"2023-02-13 11:26:21","Skills Quiz 30 second Hint",30time
+18673,223,0,"2023-02-13 11:26:59","Skills Quiz 30 second Hint",30time
+18674,223,0,"2023-02-13 11:27:17","Skills Quiz-3 Step-10 Correct","Tap Here"
+18675,223,0,"2023-02-13 11:27:31","Skills Quiz-3 Step-13 Correct",event-title
+18676,223,0,"2023-02-13 11:27:43","Skills Quiz-3 Step-2 Incorrect",undefined
+18677,223,0,"2023-02-13 11:27:44","Skills Quiz-3 Step-2 Incorrect",HEALTH
+18678,223,0,"2023-02-13 11:27:44","Skills Quiz-3 Step-2 Incorrect",NOTES
+18679,223,0,"2023-02-13 11:27:44","Skills Quiz-3 Step-2 Incorrect",undefined
+18680,223,0,"2023-02-13 11:28:28","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+18681,223,0,"2023-02-13 11:28:29","Skills Quiz-3 Step-4 Correct",right-arrow
+18682,223,0,"2023-02-13 11:28:30","Skills Quiz-3 Step-5 Correct",14
+18683,223,0,"2023-02-13 11:28:31","Skills Quiz-3 Step-6 Correct",OK
+18684,223,0,"2023-02-13 11:28:32","Skills Quiz-3 Step-7 Correct","Tap Here"
+18685,223,0,"2023-02-13 11:28:41","Skills Quiz-3 Step-10 Correct","Tap Here"
+18686,223,0,"2023-02-13 11:28:47","Skills Quiz-3 Step-13 Correct",event-title
+18687,223,0,"2023-02-13 11:29:17","Skills Quiz 30 second Hint",30time
+18688,223,0,"2023-02-13 11:30:49","Skills Quiz-3 Step-15 Correct",event-description
+18689,223,0,"2023-02-13 11:31:08","Skills Quiz-3 Step-17 Correct",Save
+0,0,0,"2023-02-13 11:31:08",module_end,none

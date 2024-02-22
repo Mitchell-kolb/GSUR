@@ -1,0 +1,52 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+54551,319,512,"2023-05-19 03:15:04",page-load,video
+54552,319,513,"2023-05-19 03:16:57",page-load,"web form: question"
+54553,319,513,"2023-05-19 03:17:12",click,"correct-option: at the same time every time and limiting distractions."
+54554,319,513,"2023-05-19 03:17:14",click,next-page
+54555,319,514,"2023-05-19 03:17:14",page-load,video
+54556,319,515,"2023-05-19 03:19:24",page-load,"web form: question"
+54557,319,515,"2023-05-19 03:19:31",click,"correct-option: On the help page"
+54558,319,515,"2023-05-19 03:19:33",click,next-page
+54559,319,516,"2023-05-19 03:19:35",page-load,video
+54560,319,517,"2023-05-19 03:22:01",page-load,"web form: question"
+54561,319,517,"2023-05-19 03:22:05",click,"correct-option: 45 seconds"
+54562,319,517,"2023-05-19 03:22:06",click,next-page
+54563,319,518,"2023-05-19 03:22:07",page-load,video
+54564,319,519,"2023-05-19 03:24:10",page-load,"web form: question"
+54565,319,519,"2023-05-19 03:24:17",click,"correct-option: False"
+54566,319,519,"2023-05-19 03:24:19",click,next-page
+54567,319,520,"2023-05-19 03:24:19",page-load,"web form: what would you like to do next"
+54568,319,520,"2023-05-19 03:24:24",click,next-page
+54569,319,521,"2023-05-19 03:24:24",page-load,video
+54570,319,522,"2023-05-19 03:27:46",page-load,"web form: question"
+54571,319,522,"2023-05-19 03:27:52",click,"correct-option: 1"
+54572,319,522,"2023-05-19 03:27:55",click,next-page
+54573,319,523,"2023-05-19 03:27:56",page-load,video
+54574,319,524,"2023-05-19 03:30:38",page-load,"web form: what would you like to do next"
+54575,319,524,"2023-05-19 03:30:45",click,next-page
+54576,319,525,"2023-05-19 03:30:45",page-load,"skills quiz preview"
+54577,319,525,"2023-05-19 03:31:11",click,next-page
+54578,319,0,"2023-05-19 03:32:44","Skills Quiz-27 Step-2 Incorrect","Entry/Event DetailsDate:Title:Optimism RatingDescription:Rate how optimistic I felt todayCancelDeleteEdit"
+54579,319,0,"2023-05-19 03:32:44","Skills Quiz-27 Step-1 Incorrect","Entry/Event DetailsDate:Title:Optimism RatingDescription:Rate how optimistic I felt todayCancelDeleteEdit"
+54580,319,0,"2023-05-19 03:32:50","Skills Quiz-27 Step-2 Correct",Edit
+54581,319,0,"2023-05-19 03:32:50","Skills Quiz-27 Step-1 Incorrect",Edit
+54582,319,0,"2023-05-19 03:32:58","Skills Quiz-27 Step-3 Incorrect",undefined
+54583,319,0,"2023-05-19 03:33:09","Skills Quiz-27 Step-3 Correct",YES
+54584,319,0,"2023-05-19 03:33:19","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+54585,319,0,"2023-05-19 03:33:24","Skills Quiz-27 Step-5 Correct",Optimism
+54586,319,0,"2023-05-19 03:33:25","Skills Quiz-27 Step-6 Correct","                  Select               "
+54587,319,0,"2023-05-19 03:33:30","Skills Quiz-27 Step-7 Incorrect",undefined
+54588,319,0,"2023-05-19 03:33:33","Skills Quiz-27 Step-7 Correct",Save
+54589,319,0,"2023-05-19 03:33:51","Skills Quiz-27 Step-9 Incorrect",Edit
+54590,319,0,"2023-05-19 03:33:51","Skills Quiz-27 Step-8 Incorrect",Edit
+54591,319,0,"2023-05-19 03:34:13","Skills Quiz-27 Step-3 Incorrect",undefined
+54592,319,0,"2023-05-19 03:34:15","Skills Quiz-27 Step-3 Correct",YES
+54593,319,0,"2023-05-19 03:34:22","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+54594,319,0,"2023-05-19 03:34:28","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+54595,319,0,"2023-05-19 03:34:33","Skills Quiz-27 Step-5 Correct",Optimism
+54596,319,0,"2023-05-19 03:34:36","Skills Quiz-27 Step-6 Correct","                  Select               "
+54597,319,0,"2023-05-19 03:34:41","Skills Quiz-27 Step-7 Incorrect",undefined
+54598,319,0,"2023-05-19 03:34:44","Skills Quiz-27 Step-7 Correct",Save
+54599,319,0,"2023-05-19 03:35:03","Skills Quiz-27 Step-11 Correct","View Progress"
+54600,319,0,"2023-05-19 03:35:08","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2023-05-19 03:35:08",module_end,none

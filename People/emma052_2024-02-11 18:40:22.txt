@@ -1,0 +1,79 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+122194,415,434,"2024-02-11 18:13:15",page-load,video
+122195,415,435,"2024-02-11 18:13:21",page-load,"goal setting: preview"
+122196,415,435,"2024-02-11 18:13:25",click,next-page
+122197,415,436,"2024-02-11 18:13:25",page-load,"goal setting: example plan"
+122198,415,437,"2024-02-11 18:14:17",page-load,"goal setting: pick one strategy"
+122199,415,437,"2024-02-11 18:14:39",click,next-page
+122200,415,438,"2024-02-11 18:14:41",page-load,"goal setting: top strategy display"
+122201,415,438,"2024-02-11 18:14:47",click,next-page
+122202,415,439,"2024-02-11 18:14:48",page-load,"goal setting: when"
+122203,415,439,"2024-02-11 18:15:37",click,hint
+122204,415,438,"2024-02-11 18:16:26",page-load,"goal setting: top strategy display"
+122205,415,438,"2024-02-11 18:16:30",click,next-page
+122206,415,439,"2024-02-11 18:16:31",page-load,"goal setting: when"
+122207,415,439,"2024-02-11 18:17:34",click,next-page
+122208,415,440,"2024-02-11 18:17:36",page-load,"goal setting: where"
+122209,415,440,"2024-02-11 18:18:31",click,next-page
+122210,415,441,"2024-02-11 18:18:32",page-load,"goal setting: with whom"
+122211,415,441,"2024-02-11 18:18:56",click,next-page
+122212,415,442,"2024-02-11 18:18:56",page-load,"goal setting: how"
+122213,415,442,"2024-02-11 18:19:08",click,hint
+122214,415,442,"2024-02-11 18:19:30",click,next-page
+122215,415,442,"2024-02-11 18:19:31",click,next-page
+122216,415,442,"2024-02-11 18:19:38",click,hint
+122217,415,442,"2024-02-11 18:20:26",click,hint
+122218,415,442,"2024-02-11 18:20:34",click,hint
+122219,415,442,"2024-02-11 18:20:56",click,previous-page
+122220,415,441,"2024-02-11 18:20:56",page-load,"goal setting: with whom"
+122221,415,441,"2024-02-11 18:20:57",click,hint
+122222,415,441,"2024-02-11 18:21:04",click,hint
+122223,415,441,"2024-02-11 18:21:13",click,next-page
+122224,415,441,"2024-02-11 18:21:34",click,next-page
+122225,415,442,"2024-02-11 18:21:36",page-load,"goal setting: how"
+122226,415,442,"2024-02-11 18:21:47",click,hint
+122227,415,442,"2024-02-11 18:21:51",click,hint
+122228,415,442,"2024-02-11 18:22:36",click,hint
+122229,415,442,"2024-02-11 18:22:40",click,hint
+122230,415,442,"2024-02-11 18:23:22",click,hint
+122231,415,442,"2024-02-11 18:23:28",click,hint
+122232,415,442,"2024-02-11 18:24:03",click,hint
+122233,415,442,"2024-02-11 18:24:07",click,hint
+122234,415,442,"2024-02-11 18:24:28",click,hint
+122235,415,442,"2024-02-11 18:24:33",click,hint
+122236,415,442,"2024-02-11 18:25:07",click,hint
+122237,415,442,"2024-02-11 18:25:12",click,hint
+122238,415,442,"2024-02-11 18:25:38",click,next-page
+122239,415,443,"2024-02-11 18:25:39",page-load,"goal setting: barriers and alternatives"
+122240,415,443,"2024-02-11 18:26:51",click,next-page
+122241,415,444,"2024-02-11 18:26:52",page-load,"goal setting: motivation"
+122242,415,444,"2024-02-11 18:27:00",click,next-page
+122243,415,445,"2024-02-11 18:27:00",page-load,"goal setting: confidence"
+122244,415,445,"2024-02-11 18:27:04",click,next-page
+122245,415,446,"2024-02-11 18:27:05",page-load,"goal setting: plan"
+122246,415,446,"2024-02-11 18:27:12",click,next-page
+122247,415,447,"2024-02-11 18:27:12",page-load,"end of lesson: 5"
+122248,415,400,"2024-02-11 18:27:22",page-load,video
+122249,415,401,"2024-02-11 18:31:22",page-load,"web form: question"
+122250,415,401,"2024-02-11 18:31:26",click,"correct-option: False"
+122251,415,401,"2024-02-11 18:31:27",click,next-page
+122252,415,402,"2024-02-11 18:31:28",page-load,video
+122253,415,403,"2024-02-11 18:37:00",page-load,"web form: what would you like to do next"
+122254,415,403,"2024-02-11 18:37:06",click,next-page
+122255,415,404,"2024-02-11 18:37:07",page-load,"skills quiz preview"
+122256,415,404,"2024-02-11 18:37:13",click,next-page
+122257,415,405,"2024-02-11 18:37:22",click,"skills quiz hint"
+122258,415,0,"2024-02-11 18:37:24","Skills Quiz-19 Step-1 Incorrect",HEALTH
+122259,415,405,"2024-02-11 18:37:33",click,"skills quiz hint"
+122260,415,0,"2024-02-11 18:37:35","Skills Quiz-19 Step-2 Correct","Medical Information"
+122261,415,0,"2024-02-11 18:37:44","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+122262,415,0,"2024-02-11 18:37:49","Skills Quiz-19 Step-3 Correct","Add New Note"
+122263,415,0,"2024-02-11 18:37:51","Skills Quiz-19 Step-4 Correct",noteSpecialty
+122264,415,0,"2024-02-11 18:38:21","Skills Quiz 30 second Hint",30time
+122265,415,0,"2024-02-11 18:38:43","Skills Quiz-19 Step-6 Correct",noteName
+122266,415,0,"2024-02-11 18:38:58","Skills Quiz-19 Step-8 Correct",notePhone
+122267,415,0,"2024-02-11 18:39:16","Skills Quiz-19 Step-10 Correct",noteAddress
+122268,415,0,"2024-02-11 18:39:43","Skills Quiz-19 Step-12 Correct",noteDetails
+122269,415,0,"2024-02-11 18:40:14","Skills Quiz-19 Step-14 Correct",SAVE
+122270,415,0,"2024-02-11 18:40:22","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2024-02-11 18:40:22",module_end,none

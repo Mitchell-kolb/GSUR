@@ -1,0 +1,64 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+114177,414,244,"2024-01-11 20:35:57",page-load,video
+114178,414,245,"2024-01-11 20:39:47",page-load,"goal setting: preview"
+114179,414,246,"2024-01-11 20:40:24",page-load,"goal setting: example plan"
+114180,414,247,"2024-01-11 20:41:10",page-load,"goal setting: pick one strategy"
+114181,414,247,"2024-01-11 20:41:40",click,next-page
+114182,414,248,"2024-01-11 20:41:41",page-load,"goal setting: top strategy display"
+114183,414,248,"2024-01-11 20:41:52",click,next-page
+114184,414,249,"2024-01-11 20:41:52",page-load,"goal setting: when"
+114185,414,249,"2024-01-11 20:43:21",click,next-page
+114186,414,250,"2024-01-11 20:43:21",page-load,"goal setting: where"
+114187,414,249,"2024-01-11 20:50:17",page-load,"goal setting: when"
+114188,414,248,"2024-01-11 20:52:07",page-load,"goal setting: top strategy display"
+114189,414,248,"2024-01-11 20:52:14",click,next-page
+114190,414,249,"2024-01-11 20:52:14",page-load,"goal setting: when"
+114191,414,249,"2024-01-11 20:52:27",click,next-page
+114192,414,249,"2024-01-11 20:52:30",click,previous-page
+114193,414,248,"2024-01-11 20:52:31",page-load,"goal setting: top strategy display"
+114194,414,248,"2024-01-11 20:52:36",click,next-page
+114195,414,249,"2024-01-11 20:52:37",page-load,"goal setting: when"
+114196,414,249,"2024-01-11 20:53:53",click,next-page
+114197,414,250,"2024-01-11 20:53:55",page-load,"goal setting: where"
+114198,414,250,"2024-01-11 20:55:52",click,next-page
+114199,414,251,"2024-01-11 20:55:52",page-load,"goal setting: with whom"
+114200,414,251,"2024-01-11 20:58:11",click,next-page
+114201,414,252,"2024-01-11 20:58:11",page-load,"goal setting: how"
+114202,414,252,"2024-01-11 21:02:36",click,next-page
+114203,414,253,"2024-01-11 21:02:37",page-load,"goal setting: barriers and alternatives"
+114204,414,253,"2024-01-11 21:05:44",click,next-page
+114205,414,254,"2024-01-11 21:05:45",page-load,"goal setting: motivation"
+114206,414,254,"2024-01-11 21:05:53",click,next-page
+114207,414,255,"2024-01-11 21:05:53",page-load,"goal setting: confidence"
+114208,414,255,"2024-01-11 21:06:00",click,next-page
+114209,414,256,"2024-01-11 21:06:02",page-load,"goal setting: plan"
+114210,414,256,"2024-01-11 21:06:15",click,next-page
+114211,414,257,"2024-01-11 21:06:16",page-load,"end of lesson: 4"
+114421,414,400,"2024-01-13 16:23:33",page-load,video
+114422,414,400,"2024-01-13 16:23:54",page-load,video
+114423,414,400,"2024-01-13 17:28:41",page-load,video
+114424,414,401,"2024-01-13 17:33:00",page-load,"web form: question"
+114425,414,400,"2024-01-13 17:35:53",page-load,video
+114426,414,401,"2024-01-13 17:43:17",page-load,"web form: question"
+114427,414,401,"2024-01-13 17:43:22",click,"correct-option: False"
+114428,414,401,"2024-01-13 17:43:25",click,next-page
+114429,414,402,"2024-01-13 17:43:25",page-load,video
+114430,414,403,"2024-01-13 17:49:04",page-load,"web form: what would you like to do next"
+114431,414,403,"2024-01-13 17:49:09",click,next-page
+114432,414,404,"2024-01-13 17:49:09",page-load,"skills quiz preview"
+114433,414,0,"2024-01-13 17:50:05","Skills Quiz-19 Step-1 Incorrect",HEALTH
+114434,414,0,"2024-01-13 17:50:08","Skills Quiz-19 Step-2 Correct","Medical Information"
+114435,414,0,"2024-01-13 17:50:12","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+114436,414,0,"2024-01-13 17:50:16","Skills Quiz-19 Step-3 Correct","Add New Note"
+114437,414,0,"2024-01-13 17:50:20","Skills Quiz-19 Step-4 Correct",noteSpecialty
+114438,414,0,"2024-01-13 17:50:50","Skills Quiz 30 second Hint",30time
+114439,414,0,"2024-01-13 17:51:36","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+114440,414,0,"2024-01-13 17:51:41","Skills Quiz-19 Step-6 Correct",noteName
+114441,414,0,"2024-01-13 17:51:58","Skills Quiz-19 Step-8 Incorrect",Address
+114442,414,0,"2024-01-13 17:51:59","Skills Quiz-19 Step-8 Correct",notePhone
+114443,414,0,"2024-01-13 17:52:11","Skills Quiz-19 Step-10 Correct",noteAddress
+114444,414,0,"2024-01-13 17:52:48","Skills Quiz-19 Step-12 Correct",noteDetails
+114446,414,0,"2024-01-13 17:53:18","Skills Quiz 30 second Hint",30time
+114447,414,0,"2024-01-13 17:53:40","Skills Quiz-19 Step-14 Correct",SAVE
+114448,414,0,"2024-01-13 17:53:52","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2024-01-13 17:53:52",module_end,none

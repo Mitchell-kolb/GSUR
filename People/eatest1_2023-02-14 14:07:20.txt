@@ -1,0 +1,22 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+21303,245,225,"2023-02-14 14:06:34",page-load,video
+21304,245,226,"2023-02-14 14:06:45",page-load,"web form: question"
+21305,245,226,"2023-02-14 14:06:47",click,"correct-option: Magnifying Glass"
+21306,245,226,"2023-02-14 14:06:47",click,"incorrect-option: Exclamation Point"
+21307,245,226,"2023-02-14 14:06:48",click,"incorrect-option: Question Mark"
+21308,245,226,"2023-02-14 14:06:48",click,"incorrect-option: Plus Sign"
+21309,245,226,"2023-02-14 14:06:48",click,"correct-option: Magnifying Glass"
+21310,245,226,"2023-02-14 14:06:49",click,next-page
+21311,245,227,"2023-02-14 14:06:49",page-load,video
+21312,245,228,"2023-02-14 14:07:00",page-load,"web form: what would you like to do next"
+21313,245,228,"2023-02-14 14:07:01",click,next-page
+21314,245,229,"2023-02-14 14:07:02",page-load,"skills quiz preview"
+21315,245,229,"2023-02-14 14:07:04",click,next-page
+21317,245,0,"2023-02-14 14:07:06","Skills Quiz-15 Step-1 Incorrect",Goals
+21318,245,0,"2023-02-14 14:07:07","Skills Quiz-15 Step-1 Correct",Relevant
+21319,245,0,"2023-02-14 14:07:09","Skills Quiz-15 Step-2 Correct","A - Z"
+21320,245,0,"2023-02-14 14:07:11","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+21321,245,0,"2023-02-14 14:07:14","Skills Quiz-15 Step-3 Incorrect",note-search
+21322,245,0,"2023-02-14 14:07:14","Skills Quiz-15 Step-4 Correct",note-search
+21323,245,0,"2023-02-14 14:07:20","Skills Quiz-15 Step-3 Incorrect",Next
+0,0,0,"2023-02-14 14:07:20",module_end,none

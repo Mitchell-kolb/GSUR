@@ -1,0 +1,25 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+27201,245,236,"2023-02-28 15:55:36",page-load,"web form: question"
+27202,245,236,"2023-02-28 15:55:38",click,"correct-option: 1"
+27203,245,236,"2023-02-28 15:55:39",click,next-page
+27204,245,237,"2023-02-28 15:55:39",page-load,"web form: what would you like to do next"
+27205,245,237,"2023-02-28 15:55:40",click,next-page
+27206,245,238,"2023-02-28 15:55:40",page-load,"skills quiz preview"
+27207,245,238,"2023-02-28 15:55:42",click,next-page
+27208,245,0,"2023-02-28 15:55:45","Skills Quiz-17 Step-1 Correct",View
+27209,245,0,"2023-02-28 15:55:46","Skills Quiz-17 Step-2 Correct",SAVE
+27210,245,0,"2023-02-28 15:55:48","Skills Quiz-17 Step-3 Correct",Delete
+27211,245,0,"2023-02-28 15:55:49","Skills Quiz-17 Step-4 Correct",Confirm
+27212,245,0,"2023-02-28 15:55:51","Skills Quiz-17 Step-5 Correct",Delete
+27213,245,0,"2023-02-28 15:55:53","Skills Quiz-17 Step-6 Correct",View
+27214,245,0,"2023-02-28 15:56:22","Skills Quiz 30 second Hint",30time
+27218,245,0,"2023-02-28 15:57:09","Skills Quiz-17 Step-1 Correct",View
+27219,245,0,"2023-02-28 15:57:11","Skills Quiz-17 Step-2 Correct",SAVE
+27220,245,0,"2023-02-28 15:57:13","Skills Quiz-17 Step-3 Incorrect","Close   Delete   Move Note"
+27221,245,0,"2023-02-28 15:57:14","Skills Quiz-17 Step-3 Correct",Delete
+27222,245,0,"2023-02-28 15:57:16","Skills Quiz-17 Step-4 Incorrect",modal-note-delete-content
+27223,245,0,"2023-02-28 15:57:17","Skills Quiz-17 Step-4 Correct",Confirm
+27224,245,0,"2023-02-28 15:57:19","Skills Quiz-17 Step-5 Correct"," Delete"
+27225,245,0,"2023-02-28 15:57:22","Skills Quiz-17 Step-6 Correct",View
+27226,245,0,"2023-02-28 15:57:50","Skills Quiz 30 second Hint",30time
+0,0,0,"2023-02-28 15:58:22",module_end,none

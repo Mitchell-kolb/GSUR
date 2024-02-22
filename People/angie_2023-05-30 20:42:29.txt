@@ -1,0 +1,72 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+59418,333,244,"2023-05-30 19:25:28",page-load,video
+59422,333,245,"2023-05-30 19:26:27",page-load,"goal setting: preview"
+59423,333,245,"2023-05-30 19:26:39",click,next-page
+59424,333,246,"2023-05-30 19:26:39",page-load,"goal setting: example plan"
+59425,333,246,"2023-05-30 19:26:40",click,next-page
+59426,333,247,"2023-05-30 19:26:41",page-load,"goal setting: pick one strategy"
+59427,333,247,"2023-05-30 19:26:50",click,next-page
+59428,333,248,"2023-05-30 19:26:52",page-load,"goal setting: top strategy display"
+59429,333,248,"2023-05-30 19:26:56",click,next-page
+59430,333,249,"2023-05-30 19:26:56",page-load,"goal setting: when"
+59431,333,249,"2023-05-30 19:27:01",click,next-page
+59432,333,250,"2023-05-30 19:27:02",page-load,"goal setting: where"
+59433,333,250,"2023-05-30 19:27:02",click,hint
+59434,333,250,"2023-05-30 19:27:03",click,hint
+59435,333,250,"2023-05-30 19:27:13",click,next-page
+59436,333,251,"2023-05-30 19:27:14",page-load,"goal setting: with whom"
+59437,333,251,"2023-05-30 19:27:18",click,hint
+59438,333,251,"2023-05-30 19:27:19",click,hint
+59439,333,251,"2023-05-30 19:27:19",click,next-page
+59440,333,252,"2023-05-30 19:27:19",page-load,"goal setting: how"
+59443,333,252,"2023-05-30 19:27:43",click,hint
+59444,333,252,"2023-05-30 19:27:44",click,hint
+59445,333,252,"2023-05-30 19:27:44",click,next-page
+59446,333,253,"2023-05-30 19:27:46",page-load,"goal setting: barriers and alternatives"
+59448,333,253,"2023-05-30 19:27:53",click,hint
+59449,333,253,"2023-05-30 19:27:54",click,hint
+59450,333,253,"2023-05-30 19:27:54",click,next-page
+59451,333,254,"2023-05-30 19:27:55",page-load,"goal setting: motivation"
+59453,333,254,"2023-05-30 19:27:58",click,hint
+59455,333,254,"2023-05-30 19:27:58",click,next-page
+59456,333,255,"2023-05-30 19:27:59",page-load,"goal setting: confidence"
+59458,333,255,"2023-05-30 19:28:01",click,hint
+59459,333,255,"2023-05-30 19:28:01",click,next-page
+59460,333,256,"2023-05-30 19:28:02",page-load,"goal setting: plan"
+59461,333,256,"2023-05-30 19:28:03",click,next-page
+59463,333,257,"2023-05-30 19:28:04",page-load,"end of lesson: 4"
+59570,333,400,"2023-05-30 20:33:44",page-load,video
+59585,333,401,"2023-05-30 20:39:10",page-load,"web form: question"
+59586,333,401,"2023-05-30 20:39:12",click,"correct-option: False"
+59589,333,401,"2023-05-30 20:39:13",click,hint
+59591,333,401,"2023-05-30 20:39:13",click,"incorrect-option: True"
+59592,333,401,"2023-05-30 20:39:14",click,"correct-option: False"
+59593,333,401,"2023-05-30 20:39:15",click,next-page
+59594,333,402,"2023-05-30 20:39:15",page-load,video
+59600,333,403,"2023-05-30 20:40:49",page-load,"web form: what would you like to do next"
+59601,333,403,"2023-05-30 20:40:50",click,take-a-break
+59602,333,403,"2023-05-30 20:40:51",click,previous-page
+59603,333,400,"2023-05-30 20:40:51",page-load,video
+59604,333,401,"2023-05-30 20:40:57",page-load,"web form: question"
+59605,333,401,"2023-05-30 20:40:58",click,"correct-option: False"
+59606,333,401,"2023-05-30 20:40:59",click,"incorrect-option: True"
+59607,333,401,"2023-05-30 20:41:00",click,hint
+59608,333,402,"2023-05-30 20:41:01",page-load,video
+59609,333,403,"2023-05-30 20:41:07",page-load,"web form: what would you like to do next"
+59610,333,403,"2023-05-30 20:41:08",click,take-a-break
+59611,333,403,"2023-05-30 20:41:08",click,next-page
+59612,333,404,"2023-05-30 20:41:08",page-load,"skills quiz preview"
+59613,333,404,"2023-05-30 20:41:09",click,next-page
+59614,333,0,"2023-05-30 20:41:14","Skills Quiz-19 Step-1 Incorrect",NOTES
+59615,333,0,"2023-05-30 20:41:16","Skills Quiz-19 Step-1 Incorrect",HEALTH
+59616,333,405,"2023-05-30 20:41:20",click,"skills quiz hint"
+59617,333,0,"2023-05-30 20:41:21","Skills Quiz-19 Step-2 Correct","Medical Information"
+59618,333,0,"2023-05-30 20:41:31","Skills Quiz-19 Step-3 Correct","Add New Note"
+59619,333,0,"2023-05-30 20:41:34","Skills Quiz-19 Step-4 Correct",noteSpecialty
+59620,333,0,"2023-05-30 20:41:46","Skills Quiz-19 Step-6 Correct",noteName
+59621,333,0,"2023-05-30 20:41:53","Skills Quiz-19 Step-8 Correct",notePhone
+59622,333,0,"2023-05-30 20:42:00","Skills Quiz-19 Step-10 Correct",noteAddress
+59623,333,0,"2023-05-30 20:42:16","Skills Quiz-19 Step-12 Correct",noteDetails
+59624,333,0,"2023-05-30 20:42:27","Skills Quiz-19 Step-14 Correct"," SAVE"
+59625,333,0,"2023-05-30 20:42:29","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-05-30 20:42:29",module_end,none

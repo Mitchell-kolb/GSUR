@@ -1,0 +1,121 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+12121,250,244,"2023-02-01 12:32:07",page-load,video
+12122,250,245,"2023-02-01 12:32:26",page-load,"goal setting: preview"
+12123,250,245,"2023-02-01 12:32:28",click,next-page
+12124,250,246,"2023-02-01 12:32:29",page-load,"goal setting: example plan"
+12125,250,246,"2023-02-01 12:32:30",click,next-page
+12126,250,247,"2023-02-01 12:32:31",page-load,"goal setting: pick one strategy"
+12127,250,247,"2023-02-01 12:32:37",click,next-page
+12128,250,248,"2023-02-01 12:32:38",page-load,"goal setting: top strategy display"
+12129,250,248,"2023-02-01 12:32:39",click,next-page
+12130,250,249,"2023-02-01 12:32:39",page-load,"goal setting: when"
+12131,250,249,"2023-02-01 12:32:49",click,next-page
+12132,250,250,"2023-02-01 12:32:50",page-load,"goal setting: where"
+12133,250,250,"2023-02-01 12:32:57",click,next-page
+12134,250,251,"2023-02-01 12:32:59",page-load,"goal setting: with whom"
+12135,250,251,"2023-02-01 12:33:06",click,next-page
+12136,250,252,"2023-02-01 12:33:07",page-load,"goal setting: how"
+12137,250,252,"2023-02-01 12:33:37",click,next-page
+12138,250,253,"2023-02-01 12:33:38",page-load,"goal setting: barriers and alternatives"
+12139,250,253,"2023-02-01 12:34:02",click,next-page
+12140,250,254,"2023-02-01 12:34:03",page-load,"goal setting: motivation"
+12141,250,254,"2023-02-01 12:34:06",click,next-page
+12142,250,255,"2023-02-01 12:34:07",page-load,"goal setting: confidence"
+12143,250,255,"2023-02-01 12:34:10",click,next-page
+12144,250,256,"2023-02-01 12:34:11",page-load,"goal setting: plan"
+12145,250,256,"2023-02-01 12:34:12",click,next-page
+12146,250,257,"2023-02-01 12:34:13",page-load,"end of lesson: 4"
+12147,250,400,"2023-02-01 12:34:18",page-load,video
+12148,250,401,"2023-02-01 12:34:47",page-load,"web form: question"
+12149,250,401,"2023-02-01 12:34:50",click,"correct-option: False"
+12150,250,401,"2023-02-01 12:34:52",click,next-page
+12151,250,402,"2023-02-01 12:34:53",page-load,video
+12152,250,403,"2023-02-01 12:35:11",page-load,"web form: what would you like to do next"
+12153,250,403,"2023-02-01 12:35:13",click,next-page
+12154,250,404,"2023-02-01 12:35:13",page-load,"skills quiz preview"
+12155,250,404,"2023-02-01 12:35:17",click,next-page
+12156,250,0,"2023-02-01 12:35:22","Skills Quiz-19 Step-1 Incorrect",NOTES
+12158,250,0,"2023-02-01 12:35:23","Skills Quiz-19 Step-1 Incorrect"," HEALTH"
+12159,250,0,"2023-02-01 12:35:25","Skills Quiz-19 Step-1 Incorrect",HEALTH
+12160,250,0,"2023-02-01 12:35:25","Skills Quiz-19 Step-2 Incorrect",TODAYCALENDARHEALTHNOTES
+12163,250,0,"2023-02-01 12:35:29","Skills Quiz-19 Step-2 Correct","Medical Information"
+12166,250,0,"2023-02-01 12:35:31","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+12167,250,0,"2023-02-01 12:35:32","Skills Quiz-19 Step-3 Correct","Add New Note"
+12168,250,0,"2023-02-01 12:35:34","Skills Quiz-19 Step-4 Correct",noteSpecialty
+12169,250,0,"2023-02-01 12:36:04","Skills Quiz 30 second Hint",30time
+12195,250,0,"2023-02-01 12:38:38","Skills Quiz-19 Step-1 Incorrect",HEALTH
+12196,250,0,"2023-02-01 12:38:40","Skills Quiz-19 Step-2 Correct","Medical Information"
+12197,250,0,"2023-02-01 12:38:46","Skills Quiz-19 Step-3 Correct","Add New Note"
+12198,250,0,"2023-02-01 12:38:48","Skills Quiz-19 Step-4 Correct",noteSpecialty
+12199,250,405,"2023-02-01 12:39:04",click,"skills quiz hint"
+12200,250,0,"2023-02-01 12:39:12","Skills Quiz-19 Step-1 Incorrect",HEALTH
+12201,250,0,"2023-02-01 12:39:13","Skills Quiz-19 Step-2 Correct","Medical Information"
+12202,250,0,"2023-02-01 12:39:19","Skills Quiz-19 Step-3 Correct","Add New Note"
+12203,250,0,"2023-02-01 12:39:22","Skills Quiz-19 Step-4 Correct",noteSpecialty
+12204,250,0,"2023-02-01 12:39:44","Skills Quiz 30 second Hint",30time
+12205,250,0,"2023-02-01 12:39:50","Skills Quiz-19 Step-1 Incorrect",undefined
+12206,250,0,"2023-02-01 12:39:52","Skills Quiz-19 Step-2 Incorrect","Tracked Health ActivitiesMedical Information"
+12207,250,0,"2023-02-01 12:39:52","Skills Quiz-19 Step-2 Correct","Medical Information"
+12208,250,0,"2023-02-01 12:39:55","Skills Quiz-19 Step-3 Incorrect","Doctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+12209,250,0,"2023-02-01 12:39:55","Skills Quiz-19 Step-3 Incorrect","Doctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+12210,250,0,"2023-02-01 12:39:56","Skills Quiz-19 Step-3 Correct","Add New Note"
+12211,250,0,"2023-02-01 12:40:00","Skills Quiz-19 Step-4 Correct",noteSpecialty
+12221,250,0,"2023-02-01 12:40:30","Skills Quiz 30 second Hint",30time
+12224,250,0,"2023-02-01 12:40:57","Skills Quiz-19 Step-2 Correct","Medical Information"
+12225,250,0,"2023-02-01 12:40:58","Skills Quiz-19 Step-3 Incorrect",note-list
+12226,250,0,"2023-02-01 12:40:58","Skills Quiz-19 Step-3 Correct","Add New Note"
+12238,250,0,"2023-02-01 12:42:00","Skills Quiz-19 Step-1 Incorrect",HEALTH
+12239,250,0,"2023-02-01 12:42:01","Skills Quiz-19 Step-2 Correct","Medical Information"
+12240,250,0,"2023-02-01 12:42:03","Skills Quiz-19 Step-3 Correct","Add New Note"
+12241,250,0,"2023-02-01 12:42:29","Skills Quiz-19 Step-4 Correct",noteSpecialty
+12242,250,0,"2023-02-01 12:42:32","Skills Quiz 30 second Hint",30time
+12243,250,405,"2023-02-01 12:42:37",click,"skills quiz hint"
+12244,250,0,"2023-02-01 12:42:43","Skills Quiz-19 Step-1 Incorrect"," TODAY CALENDAR HEALTH NOTES "
+12245,250,0,"2023-02-01 12:42:44","Skills Quiz-19 Step-1 Incorrect",HEALTH
+12246,250,0,"2023-02-01 12:42:45","Skills Quiz-19 Step-2 Correct","Medical Information"
+12247,250,0,"2023-02-01 12:42:46","Skills Quiz-19 Step-3 Incorrect","Add New Note"
+12248,250,0,"2023-02-01 12:42:47","Skills Quiz-19 Step-3 Correct","Add New Note"
+12249,250,0,"2023-02-01 12:42:48","Skills Quiz-19 Step-4 Correct",noteSpecialty
+12251,250,500,"2023-02-01 12:43:20",page-load,video
+12252,250,501,"2023-02-01 12:43:41",page-load,"web form: scheduling choices"
+12253,250,501,"2023-02-01 12:43:44",tracked,"improve my quality of life"
+12254,250,501,"2023-02-01 12:43:44",tracked,"improve emotion regulation/mood"
+12255,250,501,"2023-02-01 12:43:46",tracked,"make me a better friend"
+12256,250,501,"2023-02-01 12:43:46",tracked,"stay mobile and active"
+12257,250,501,"2023-02-01 12:43:48",click,next-page
+12258,250,502,"2023-02-01 12:43:49",page-load,video
+12260,250,503,"2023-02-01 12:44:23",page-load,"web form: scheduling choices"
+12261,250,503,"2023-02-01 12:44:25",tracked,"Cooking a new recipe"
+12262,250,503,"2023-02-01 12:44:26",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+12263,250,503,"2023-02-01 12:44:26",tracked,"Doing a crossword puzzle"
+12264,250,503,"2023-02-01 12:44:28",click,next-page
+12265,250,504,"2023-02-01 12:44:29",page-load,video
+12272,250,505,"2023-02-01 12:44:44",page-load,"web form: what would you like to do next"
+12273,250,505,"2023-02-01 12:44:46",click,next-page
+12274,250,506,"2023-02-01 12:44:47",page-load,"skills quiz preview"
+12286,250,0,"2023-02-01 12:46:12","Skills Quiz-25 Step-1 Incorrect","Add New FolderGoalsLists"
+12287,250,0,"2023-02-01 12:46:13","Skills Quiz-25 Step-1 Correct",TODAY
+12288,250,0,"2023-02-01 12:46:21","Skills Quiz-25 Step-2 Incorrect",undefined
+12289,250,0,"2023-02-01 12:46:22","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+12290,250,0,"2023-02-01 12:46:22","Skills Quiz-25 Step-3 Correct","Tap Here"
+12291,250,0,"2023-02-01 12:46:25","Skills Quiz-25 Step-4 Correct",3
+12292,250,0,"2023-02-01 12:46:25","Skills Quiz-25 Step-2 Incorrect",3
+12293,250,0,"2023-02-01 12:46:26","Skills Quiz-25 Step-5 Correct",0
+12294,250,0,"2023-02-01 12:46:26","Skills Quiz-25 Step-2 Incorrect",0
+12295,250,0,"2023-02-01 12:46:27","Skills Quiz-25 Step-6 Correct","                              Save            "
+12296,250,0,"2023-02-01 12:46:27","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+12297,250,0,"2023-02-01 12:46:29","Skills Quiz-25 Step-2 Incorrect",Save
+12298,250,0,"2023-02-01 12:46:29","Skills Quiz-25 Step-7 Correct",Save
+12299,250,0,"2023-02-01 12:46:36","Skills Quiz-25 Step-8 Incorrect",undefined
+12300,250,0,"2023-02-01 12:46:36","Skills Quiz-25 Step-2 Incorrect",undefined
+12301,250,0,"2023-02-01 12:46:37","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+12302,250,0,"2023-02-01 12:46:37","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+12303,250,0,"2023-02-01 12:46:37","Skills Quiz-25 Step-9 Correct","Tap Here"
+12304,250,0,"2023-02-01 12:46:40","Skills Quiz-25 Step-10 Correct",1
+12305,250,0,"2023-02-01 12:46:40","Skills Quiz-25 Step-8 Incorrect",1
+12306,250,0,"2023-02-01 12:46:40","Skills Quiz-25 Step-2 Incorrect",1
+12307,250,0,"2023-02-01 12:46:41","Skills Quiz-25 Step-11 Correct","                              Save            "
+12308,250,0,"2023-02-01 12:46:41","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+12309,250,0,"2023-02-01 12:46:41","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+12310,250,0,"2023-02-01 12:46:42","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2023-02-01 12:46:42",module_end,none

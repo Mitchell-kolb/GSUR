@@ -1,0 +1,27 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+30347,300,27,"2023-03-21 16:29:35",page-load,"web form: question"
+30348,300,27,"2023-03-21 16:29:44",click,"correct-option: True"
+30349,300,27,"2023-03-21 16:29:45",click,next-page
+30350,300,28,"2023-03-21 16:29:46",page-load,"web form: question"
+30351,300,28,"2023-03-21 16:29:52",click,"correct-option: True"
+30352,300,28,"2023-03-21 16:29:54",click,next-page
+30353,300,29,"2023-03-21 16:29:54",page-load,video
+30354,300,30,"2023-03-21 16:32:13",page-load,"web form: question"
+30355,300,30,"2023-03-21 16:32:21",click,"correct-option: All of the above"
+30356,300,30,"2023-03-21 16:32:24",click,next-page
+30357,300,31,"2023-03-21 16:32:24",page-load,video
+30358,300,32,"2023-03-21 16:35:40",page-load,"web form: what would you like to do next"
+30359,300,0,"2023-03-21 16:36:40","Skills Quiz-3 Step-1 Correct",TODAY
+30360,300,0,"2023-03-21 16:36:44","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+30361,300,0,"2023-03-21 16:36:48","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+30362,300,0,"2023-03-21 16:36:52","Skills Quiz-3 Step-4 Correct",right-arrow
+30363,300,0,"2023-03-21 16:36:54","Skills Quiz-3 Step-5 Correct",14
+30364,300,0,"2023-03-21 16:37:03","Skills Quiz-3 Step-6 Correct",OK
+30365,300,0,"2023-03-21 16:37:09","Skills Quiz-3 Step-7 Correct","Tap Here"
+30366,300,0,"2023-03-21 16:37:18","Skills Quiz-3 Step-10 Correct","Tap Here"
+30367,300,0,"2023-03-21 16:37:31","Skills Quiz-3 Step-13 Correct",event-title
+30368,300,0,"2023-03-21 16:38:09","Skills Quiz 30 second Hint",30time
+30369,300,0,"2023-03-21 16:38:11","Skills Quiz-3 Step-15 Incorrect",Next
+30370,300,0,"2023-03-21 16:38:12","Skills Quiz-3 Step-15 Correct",event-description
+30371,300,0,"2023-03-21 16:38:40","Skills Quiz-3 Step-17 Incorrect",Next
+0,0,0,"2023-03-21 16:38:40",module_end,none

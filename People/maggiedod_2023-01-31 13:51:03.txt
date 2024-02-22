@@ -1,0 +1,58 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+10343,221,235,"2023-01-31 13:43:58",page-load,video
+10399,221,236,"2023-01-31 13:48:51",page-load,"web form: question"
+10400,221,236,"2023-01-31 13:49:00",click,"correct-option: 1"
+10401,221,236,"2023-01-31 13:49:01",click,next-page
+10402,221,237,"2023-01-31 13:49:02",page-load,"web form: what would you like to do next"
+10403,221,237,"2023-01-31 13:49:03",click,next-page
+10405,221,238,"2023-01-31 13:49:04",page-load,"skills quiz preview"
+10406,221,238,"2023-01-31 13:49:25",click,next-page
+10407,221,0,"2023-01-31 13:49:34","Skills Quiz-17 Step-1 Correct",View
+10408,221,0,"2023-01-31 13:49:36","Skills Quiz-17 Step-2 Correct",SAVE
+10409,221,0,"2023-01-31 13:49:37","Skills Quiz-17 Step-3 Incorrect","Close   Delete   Move NoteSAVE"
+10411,221,0,"2023-01-31 13:49:39","Skills Quiz-17 Step-3 Correct",Delete
+10412,221,0,"2023-01-31 13:49:42","Skills Quiz-17 Step-4 Correct",Confirm
+10413,221,0,"2023-01-31 13:49:43","Skills Quiz-17 Step-5 Correct",Delete
+10415,221,0,"2023-01-31 13:49:48","Skills Quiz-17 Step-6 Incorrect","Chocolate Chip CookiesView"
+10416,221,0,"2023-01-31 13:49:50","Skills Quiz-17 Step-6 Incorrect","Close    Move Note"
+10417,221,0,"2023-01-31 13:49:52","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10418,221,0,"2023-01-31 13:49:54","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10419,221,0,"2023-01-31 13:49:55","Skills Quiz-17 Step-6 Incorrect","Close    Move Note"
+10420,221,0,"2023-01-31 13:49:56","Skills Quiz-17 Step-6 Incorrect","Chocolate Chip Cookies"
+10421,221,0,"2023-01-31 13:49:57","Skills Quiz 30 second Hint",30time
+10422,221,0,"2023-01-31 13:49:58","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10423,221,0,"2023-01-31 13:49:58","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10424,221,0,"2023-01-31 13:49:59","Skills Quiz-17 Step-6 Incorrect","Close    Move Note"
+10425,221,0,"2023-01-31 13:50:04","Skills Quiz 30 second Hint",30time
+10426,221,0,"2023-01-31 13:50:04","Skills Quiz-17 Step-6 Incorrect","Chocolate Chip Cookies"
+10427,221,0,"2023-01-31 13:50:06","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10430,221,0,"2023-01-31 13:50:06","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10431,221,0,"2023-01-31 13:50:07","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10433,221,0,"2023-01-31 13:50:07","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10434,221,0,"2023-01-31 13:50:08","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10436,221,0,"2023-01-31 13:50:09","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10437,221,0,"2023-01-31 13:50:09","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10438,221,0,"2023-01-31 13:50:09","Skills Quiz 30 second Hint",30time
+10439,221,0,"2023-01-31 13:50:10","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10440,221,0,"2023-01-31 13:50:12","Skills Quiz-17 Step-6 Incorrect",undefined
+10441,221,0,"2023-01-31 13:50:12","Skills Quiz 30 second Hint",30time
+10442,221,0,"2023-01-31 13:50:13","Skills Quiz-17 Step-6 Incorrect","Press Edit"
+10443,221,0,"2023-01-31 13:50:13","Skills Quiz-17 Step-6 Incorrect","Press Edit"
+10444,221,239,"2023-01-31 13:50:14",click,"skills quiz hint"
+10446,221,0,"2023-01-31 13:50:15","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10447,221,0,"2023-01-31 13:50:16","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10448,221,0,"2023-01-31 13:50:16","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10449,221,0,"2023-01-31 13:50:16","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10450,221,0,"2023-01-31 13:50:18","Skills Quiz-17 Step-6 Incorrect","Close    Move NoteEDIT"
+10458,221,0,"2023-01-31 13:50:41","Skills Quiz-17 Step-1 Correct",View
+10459,221,0,"2023-01-31 13:50:42","Skills Quiz-17 Step-2 Correct",SAVE
+10460,221,0,"2023-01-31 13:50:44","Skills Quiz-17 Step-3 Correct",Delete
+10461,221,0,"2023-01-31 13:50:46","Skills Quiz-17 Step-4 Correct",Confirm
+10462,221,0,"2023-01-31 13:50:47","Skills Quiz-17 Step-5 Correct",Delete
+10463,221,0,"2023-01-31 13:50:53","Skills Quiz-17 Step-6 Correct",View
+10464,221,0,"2023-01-31 13:50:55","Skills Quiz-17 Step-7 Incorrect","Chocolate Chip Cookies"
+10465,221,0,"2023-01-31 13:50:57","Skills Quiz-17 Step-7 Incorrect","Close    Move NoteEDIT"
+10466,221,0,"2023-01-31 13:50:57","Skills Quiz-17 Step-7 Correct","Move Note"
+10467,221,0,"2023-01-31 13:51:00","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+10468,221,0,"2023-01-31 13:51:03","Skills Quiz-17 Step-8 Incorrect"," Move"
+0,0,0,"2023-01-31 13:51:03",module_end,none

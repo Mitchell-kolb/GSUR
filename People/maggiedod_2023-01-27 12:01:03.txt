@@ -1,0 +1,192 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+9163,221,130,"2023-01-26 09:51:02",page-load,"web form: question"
+9164,221,130,"2023-01-26 09:51:08",click,"incorrect-option: In both the Time Schedule and the To Do list"
+9165,221,130,"2023-01-26 09:51:10",click,"incorrect-option: In the Time Schedule only"
+9166,221,130,"2023-01-26 09:51:10",click,"correct-option: In the To Do list only"
+9167,221,130,"2023-01-26 09:51:11",click,next-page
+9168,221,131,"2023-01-26 09:51:12",page-load,video
+9169,221,132,"2023-01-26 09:52:26",page-load,"web form: what would you like to do next"
+9170,221,132,"2023-01-26 09:52:40",click,next-page
+9171,221,133,"2023-01-26 09:52:40",page-load,video
+9172,221,134,"2023-01-26 09:55:04",page-load,"web form: question"
+9173,221,134,"2023-01-26 09:55:15",click,"incorrect-option: Check off all boxes"
+9174,221,134,"2023-01-26 09:55:16",click,"correct-option: Check off the empty box next to ""walk Buster"""
+9175,221,134,"2023-01-26 09:55:17",click,next-page
+9176,221,135,"2023-01-26 09:55:17",page-load,video
+9177,221,136,"2023-01-26 09:56:53",page-load,"web form: what would you like to do next"
+9178,221,136,"2023-01-26 09:56:55",click,next-page
+9179,221,137,"2023-01-26 09:56:56",page-load,"skills quiz 10: preview"
+9180,221,137,"2023-01-26 09:56:57",click,next-page
+9181,221,0,"2023-01-26 09:57:05","Skills Quiz-9 Step-1 Correct",Edit
+9182,221,0,"2023-01-26 09:57:07","Skills Quiz-9 Step-2 Incorrect",undefined
+9183,221,0,"2023-01-26 09:57:09","Skills Quiz-9 Step-2 Incorrect",undefined
+9184,221,0,"2023-01-26 09:57:10","Skills Quiz-9 Step-2 Correct",nos-time-check
+9185,221,0,"2023-01-26 09:57:11","Skills Quiz-9 Step-3 Correct",start-time
+9186,221,0,"2023-01-26 09:57:17","Skills Quiz-9 Step-6 Correct",end-time
+9187,221,0,"2023-01-26 09:57:30","Skills Quiz-9 Step-9 Correct",Save
+9188,221,0,"2023-01-26 09:57:50","Skills Quiz-9 Step-10 Incorrect",Edit
+9189,221,0,"2023-01-26 09:57:51","Skills Quiz-9 Step-2 Incorrect",undefined
+9190,221,0,"2023-01-26 09:57:52","Skills Quiz-9 Step-2 Incorrect",undefined
+9191,221,0,"2023-01-26 09:57:53","Skills Quiz-9 Step-2 Incorrect",undefined
+9192,221,0,"2023-01-26 09:57:54","Skills Quiz-9 Step-2 Incorrect",undefined
+9193,221,0,"2023-01-26 09:57:55","Skills Quiz-9 Step-2 Correct",nos-time-check
+9194,221,0,"2023-01-26 09:57:55","Skills Quiz-9 Step-3 Incorrect",undefined
+9195,221,0,"2023-01-26 09:57:56","Skills Quiz-9 Step-3 Incorrect",undefined
+9196,221,0,"2023-01-26 09:57:56","Skills Quiz-9 Step-3 Incorrect","No Specific Time "
+9197,221,0,"2023-01-26 09:57:57","Skills Quiz-9 Step-3 Incorrect",undefined
+9198,221,0,"2023-01-26 09:57:58","Skills Quiz-9 Step-3 Incorrect","No Specific Time "
+9199,221,0,"2023-01-26 09:58:00","Skills Quiz-9 Step-3 Incorrect","No Specific Time "
+9200,221,0,"2023-01-26 09:58:00","Skills Quiz-9 Step-3 Incorrect","No Specific Time "
+9201,221,0,"2023-01-26 09:58:00","Skills Quiz-9 Step-3 Incorrect","No Specific Time "
+9202,221,0,"2023-01-26 09:58:01","Skills Quiz-9 Step-3 Correct","5:00 PM"
+9203,221,0,"2023-01-26 09:58:31","Skills Quiz 30 second Hint",30time
+9204,221,138,"2023-01-26 09:59:12",click,"skills quiz hint"
+9205,221,138,"2023-01-26 09:59:12",click,"skills quiz hint"
+9206,221,138,"2023-01-26 09:59:13",click,"skills quiz hint"
+9207,221,138,"2023-01-26 09:59:13",click,"skills quiz hint"
+9208,221,138,"2023-01-26 09:59:13",click,"skills quiz hint"
+9209,221,0,"2023-01-26 09:59:56","Skills Quiz 30 second Hint",30time
+9210,221,0,"2023-01-26 10:01:51","Skills Quiz-9 Step-10 Incorrect","Laundry9:00 AM - 11:00 AMViewBake Apple Pie5:00 PM - 6:00 PMView"
+9211,221,0,"2023-01-26 10:01:52","Skills Quiz-9 Step-10 Incorrect","Laundry9:00 AM - 11:00 AMViewBake Apple Pie5:00 PM - 6:00 PMView"
+9212,221,0,"2023-01-26 10:01:58","Skills Quiz-9 Step-10 Correct",CALENDAR
+9213,221,0,"2023-01-26 10:01:59","Skills Quiz-9 Step-11 Incorrect",10
+9214,221,0,"2023-01-26 10:02:00","Skills Quiz-9 Step-11 Correct",9
+9215,221,0,"2023-01-26 10:02:57","Skills Quiz-9 Step-11 Incorrect",10
+9216,221,0,"2023-01-26 10:02:58","Skills Quiz-9 Step-11 Incorrect",10
+9217,221,0,"2023-01-26 10:02:58","Skills Quiz-9 Step-11 Incorrect",10
+9218,221,0,"2023-01-26 10:03:01","Skills Quiz-9 Step-11 Correct",9
+9219,221,0,"2023-01-26 10:04:10","Skills Quiz-9 Step-1 Incorrect","Entry/Event DetailsDate:Title:Bake Apple PieDescription:CancelDeleteEdit"
+9220,221,0,"2023-01-26 10:04:10","Skills Quiz-9 Step-1 Incorrect","Entry/Event DetailsDate:Title:Bake Apple PieDescription:CancelDeleteEdit"
+9221,221,0,"2023-01-26 10:04:10","Skills Quiz-9 Step-1 Incorrect","Entry/Event DetailsDate:Title:Bake Apple PieDescription:CancelDeleteEdit"
+9222,221,0,"2023-01-26 10:04:10","Skills Quiz-9 Step-1 Incorrect","Entry/Event DetailsDate:Title:Bake Apple PieDescription:CancelDeleteEdit"
+9223,221,0,"2023-01-26 10:04:11","Skills Quiz-9 Step-1 Incorrect","Entry/Event DetailsDate:Title:Bake Apple PieDescription:CancelDeleteEdit"
+9224,221,0,"2023-01-26 10:04:11","Skills Quiz-9 Step-1 Incorrect","Entry/Event DetailsDate:Title:Bake Apple PieDescription:CancelDeleteEdit"
+9225,221,0,"2023-01-26 10:04:11","Skills Quiz-9 Step-1 Incorrect","Entry/Event DetailsDate:Title:Bake Apple PieDescription:CancelDeleteEdit"
+9226,221,0,"2023-01-26 10:04:11","Skills Quiz-9 Step-1 Incorrect","Entry/Event DetailsDate:Title:Bake Apple PieDescription:CancelDeleteEdit"
+9227,221,0,"2023-01-26 10:04:12","Skills Quiz-9 Step-1 Correct",Edit
+9228,221,0,"2023-01-26 10:04:32","Skills Quiz-9 Step-2 Incorrect",YES
+9229,221,0,"2023-01-26 10:04:32","Skills Quiz-9 Step-2 Incorrect","60 min"
+9230,221,0,"2023-01-26 10:04:34","Skills Quiz-9 Step-2 Correct",nos-time-check
+9231,221,0,"2023-01-26 10:04:35","Skills Quiz-9 Step-3 Incorrect",YES
+9232,221,0,"2023-01-26 10:04:45","Skills Quiz-9 Step-3 Correct","5:00 PM"
+9233,221,138,"2023-01-26 10:04:53",click,"skills quiz hint"
+9234,221,0,"2023-01-26 10:05:15","Skills Quiz 30 second Hint",30time
+9235,221,0,"2023-01-26 10:06:32","Skills Quiz-9 Step-11 Incorrect",5
+9236,221,0,"2023-01-26 10:06:32","Skills Quiz-9 Step-11 Incorrect",12
+9237,221,0,"2023-01-26 10:06:33","Skills Quiz-9 Step-11 Incorrect",12
+9238,221,0,"2023-01-26 10:06:33","Skills Quiz-9 Step-11 Incorrect",12
+9239,221,0,"2023-01-26 10:06:33","Skills Quiz-9 Step-11 Incorrect",12
+9240,221,0,"2023-01-26 10:06:33","Skills Quiz-9 Step-11 Incorrect",12
+9241,221,0,"2023-01-26 10:06:37","Skills Quiz-9 Step-11 Incorrect",20
+9242,221,0,"2023-01-26 10:06:38","Skills Quiz-9 Step-11 Incorrect",20
+9243,221,0,"2023-01-26 10:06:38","Skills Quiz-9 Step-11 Incorrect",20
+9244,221,0,"2023-01-26 10:06:38","Skills Quiz-9 Step-11 Incorrect",20
+9245,221,0,"2023-01-26 10:07:17","Skills Quiz 30 second Hint",30time
+9247,221,300,"2023-01-27 10:59:40",page-load,video
+9248,221,301,"2023-01-27 11:04:46",page-load,"web form: question"
+9249,221,301,"2023-01-27 11:05:55",tracked,"Having a harder time remembering important events"
+9250,221,302,"2023-01-27 11:05:55",page-load,"web form: question"
+9251,221,302,"2023-01-27 11:05:57",tracked,"Greater difficulty managing finances"
+9252,221,302,"2023-01-27 11:05:57",click,next-page
+9253,221,303,"2023-01-27 11:05:58",page-load,"web form: question"
+9254,221,303,"2023-01-27 11:05:58",tracked,"Feeling increasingly overwhelmed by making decisions"
+9255,221,304,"2023-01-27 11:05:59",page-load,"web form: question"
+9256,221,304,"2023-01-27 11:06:00",tracked,"Becoming more impulsive and/or exercising poor judgment"
+9257,221,304,"2023-01-27 11:06:00",click,next-page
+9258,221,305,"2023-01-27 11:06:01",page-load,"web form: question"
+9259,221,305,"2023-01-27 11:06:02",click,next-page
+9260,221,306,"2023-01-27 11:06:03",page-load,video
+9261,221,307,"2023-01-27 11:07:55",page-load,"tech comfort quiz, part one"
+9262,221,307,"2023-01-27 11:09:05",tracked,"Comfort with tech 7"
+9263,221,307,"2023-01-27 11:09:06",tracked,"Problem-solve tech 7"
+9264,221,307,"2023-01-27 11:09:07",tracked,"Confidence in tech 7"
+9265,221,307,"2023-01-27 11:09:08",click,next-page
+9266,221,308,"2023-01-27 11:09:09",page-load,"tech comfort quiz, part two"
+9267,221,308,"2023-01-27 11:09:10",tracked,"Operate tech 7"
+9268,221,308,"2023-01-27 11:09:10",tracked,"Use tech 7"
+9269,221,308,"2023-01-27 11:09:10",tracked,"Use touch-screen tablet 7"
+9270,221,308,"2023-01-27 11:09:11",click,next-page
+9271,221,309,"2023-01-27 11:09:11",page-load,video
+9272,221,310,"2023-01-27 11:10:32",page-load,"web form: question"
+9273,221,310,"2023-01-27 11:10:35",click,"correct-option: Landscape"
+9274,221,310,"2023-01-27 11:10:35",click,next-page
+9275,221,311,"2023-01-27 11:10:36",page-load,video
+9276,221,312,"2023-01-27 11:46:54",page-load,"web form: question"
+9277,221,312,"2023-01-27 11:46:56",click,"correct-option: False"
+9278,221,312,"2023-01-27 11:46:57",click,next-page
+9279,221,313,"2023-01-27 11:46:57",page-load,video
+9280,221,314,"2023-01-27 11:48:26",page-load,"goal setting: example plan"
+9281,221,314,"2023-01-27 11:48:44",click,next-page
+9282,221,315,"2023-01-27 11:48:45",page-load,"goal setting: example plan"
+9283,221,315,"2023-01-27 11:48:46",click,next-page
+9284,221,316,"2023-01-27 11:48:46",page-load,"goal setting: example plan"
+9285,221,316,"2023-01-27 11:48:48",click,next-page
+9286,221,317,"2023-01-27 11:48:48",page-load,"goal setting: example plan"
+9287,221,317,"2023-01-27 11:48:49",click,next-page
+9288,221,318,"2023-01-27 11:48:49",page-load,"goal setting: example plan"
+9289,221,318,"2023-01-27 11:48:50",click,next-page
+9290,221,319,"2023-01-27 11:48:50",page-load,"goal setting: example plan"
+9291,221,319,"2023-01-27 11:48:51",click,next-page
+9292,221,320,"2023-01-27 11:48:51",page-load,"goal setting: example plan"
+9293,221,320,"2023-01-27 11:48:52",click,next-page
+9294,221,321,"2023-01-27 11:48:53",page-load,"goal setting: example plan"
+9295,221,321,"2023-01-27 11:48:53",click,next-page
+9296,221,322,"2023-01-27 11:48:54",page-load,"goal setting: example plan"
+9297,221,322,"2023-01-27 11:48:55",click,next-page
+9298,221,323,"2023-01-27 11:48:56",page-load,"goal setting: preview"
+9299,221,323,"2023-01-27 11:48:57",click,next-page
+9300,221,324,"2023-01-27 11:48:57",page-load,"goal setting: pick one strategy"
+9301,221,324,"2023-01-27 11:49:00",click,next-page
+9302,221,325,"2023-01-27 11:49:01",page-load,"goal setting: top strategy display"
+9303,221,325,"2023-01-27 11:49:02",click,next-page
+9304,221,326,"2023-01-27 11:49:02",page-load,"goal setting: when"
+9305,221,326,"2023-01-27 11:49:05",click,next-page
+9306,221,327,"2023-01-27 11:49:06",page-load,"goal setting: where"
+9307,221,327,"2023-01-27 11:49:09",click,next-page
+9308,221,328,"2023-01-27 11:49:10",page-load,"goal setting: with whom"
+9309,221,328,"2023-01-27 11:49:14",click,next-page
+9310,221,328,"2023-01-27 11:49:15",click,next-page
+9311,221,329,"2023-01-27 11:49:15",page-load,"goal setting: how"
+9312,221,329,"2023-01-27 11:49:21",click,next-page
+9313,221,330,"2023-01-27 11:49:22",page-load,"goal setting: barriers and alternatives"
+9314,221,330,"2023-01-27 11:49:32",click,next-page
+9315,221,331,"2023-01-27 11:49:33",page-load,"goal setting: motivation"
+9316,221,331,"2023-01-27 11:49:34",click,next-page
+9317,221,332,"2023-01-27 11:49:35",page-load,"goal setting: confidence"
+9318,221,333,"2023-01-27 11:49:36",page-load,"goal setting: plan"
+9319,221,333,"2023-01-27 11:49:37",click,next-page
+9320,221,334,"2023-01-27 11:49:38",page-load,"end of lesson: 1"
+9321,221,10,"2023-01-27 11:50:09",page-load,video
+9322,221,11,"2023-01-27 11:50:54",page-load,video
+9323,221,12,"2023-01-27 11:52:15",page-load,"web form: scheduling choices"
+9324,221,12,"2023-01-27 11:52:19",tracked,"Planning steps to accomplish a task"
+9325,221,12,"2023-01-27 11:52:20",click,next-page
+9326,221,13,"2023-01-27 11:52:21",page-load,video
+9327,221,14,"2023-01-27 11:52:57",page-load,"web form: what would you like to do next"
+9328,221,14,"2023-01-27 11:53:01",click,next-page
+9329,221,15,"2023-01-27 11:53:02",page-load,video
+9330,221,15,"2023-01-27 11:55:46",page-load,video
+9331,221,16,"2023-01-27 11:56:37",page-load,"web form: question"
+9332,221,16,"2023-01-27 11:56:42",click,"incorrect-option: Blue"
+9333,221,16,"2023-01-27 11:56:43",click,"correct-option: Grey"
+9334,221,16,"2023-01-27 11:56:44",click,next-page
+9335,221,17,"2023-01-27 11:56:45",page-load,video
+9336,221,18,"2023-01-27 11:57:08",page-load,"web form: question"
+9337,221,18,"2023-01-27 11:57:10",click,"correct-option: 1:30 PM"
+9338,221,18,"2023-01-27 11:57:11",click,next-page
+9339,221,19,"2023-01-27 11:57:11",page-load,video
+9340,221,20,"2023-01-27 12:00:00",page-load,"web form: question"
+9341,221,20,"2023-01-27 12:00:18",click,"incorrect-option: Red"
+9342,221,20,"2023-01-27 12:00:19",click,"correct-option: Blue"
+9343,221,20,"2023-01-27 12:00:20",click,next-page
+9344,221,21,"2023-01-27 12:00:21",page-load,"web form: what would you like to do next"
+9345,221,21,"2023-01-27 12:00:31",click,next-page
+9346,221,0,"2023-01-27 12:00:51","Skills Quiz-1 Step-1 Correct",TODAY
+9347,221,0,"2023-01-27 12:00:55","Skills Quiz-1 Step-2 Incorrect",CALENDAR
+9348,221,0,"2023-01-27 12:00:57","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+9349,221,0,"2023-01-27 12:00:59","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+9350,221,0,"2023-01-27 12:01:00","Skills Quiz-1 Step-4 Incorrect","JUNE 2021"
+9351,221,0,"2023-01-27 12:01:01","Skills Quiz-1 Step-4 Correct",right-arrow
+9352,221,0,"2023-01-27 12:01:02","Skills Quiz-1 Step-5 Correct",14
+9353,221,0,"2023-01-27 12:01:03","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-01-27 12:01:03",module_end,none

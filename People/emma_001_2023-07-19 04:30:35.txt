@@ -1,0 +1,31 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+78505,346,400,"2023-07-19 04:24:18",page-load,video
+78506,346,401,"2023-07-19 04:24:40",page-load,"web form: question"
+78507,346,401,"2023-07-19 04:24:45",click,"correct-option: False"
+78508,346,401,"2023-07-19 04:24:45",click,next-page
+78509,346,402,"2023-07-19 04:24:46",page-load,video
+78510,346,400,"2023-07-19 04:25:36",page-load,video
+78511,346,400,"2023-07-19 04:26:05",page-load,video
+78512,346,400,"2023-07-19 04:26:48",page-load,video
+78513,346,401,"2023-07-19 04:27:39",page-load,"web form: question"
+78514,346,401,"2023-07-19 04:27:43",click,"correct-option: False"
+78515,346,401,"2023-07-19 04:27:44",click,next-page
+78516,346,402,"2023-07-19 04:27:44",page-load,video
+78517,346,403,"2023-07-19 04:28:19",page-load,"web form: what would you like to do next"
+78518,346,403,"2023-07-19 04:28:23",click,next-page
+78519,346,404,"2023-07-19 04:28:23",page-load,"skills quiz preview"
+78520,346,404,"2023-07-19 04:28:25",click,next-page
+78521,346,0,"2023-07-19 04:28:38","Skills Quiz-19 Step-1 Incorrect",HEALTH
+78522,346,0,"2023-07-19 04:28:39","Skills Quiz-19 Step-2 Correct","Medical Information"
+78523,346,0,"2023-07-19 04:28:42","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+78524,346,0,"2023-07-19 04:28:44","Skills Quiz-19 Step-3 Correct","Add New Note"
+78525,346,0,"2023-07-19 04:28:45","Skills Quiz-19 Step-4 Correct",noteSpecialty
+78526,346,0,"2023-07-19 04:28:59","Skills Quiz-19 Step-6 Correct",noteName
+78527,346,0,"2023-07-19 04:29:10","Skills Quiz-19 Step-8 Correct",notePhone
+78528,346,0,"2023-07-19 04:29:20","Skills Quiz-19 Step-10 Correct",noteAddress
+78529,346,0,"2023-07-19 04:29:33","Skills Quiz-19 Step-12 Correct",noteDetails
+78530,346,0,"2023-07-19 04:30:03","Skills Quiz 30 second Hint",30time
+78531,346,0,"2023-07-19 04:30:08","Skills Quiz-19 Step-14 Correct"," SAVE"
+78532,346,405,"2023-07-19 04:30:32",click,"skills quiz hint"
+78533,346,0,"2023-07-19 04:30:35","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-07-19 04:30:35",module_end,none

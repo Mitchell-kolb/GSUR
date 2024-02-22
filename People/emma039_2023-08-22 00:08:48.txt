@@ -1,0 +1,64 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+90600,357,122,"2023-08-21 23:49:28",page-load,"web form: question"
+90602,357,122,"2023-08-21 23:49:45",click,"incorrect-option: In your calendar"
+90603,357,122,"2023-08-21 23:50:02",click,"correct-option: Both the To-do List and Time Schedule"
+90605,357,122,"2023-08-21 23:50:18",click,next-page
+90606,357,123,"2023-08-21 23:50:19",page-load,video
+90615,357,124,"2023-08-21 23:52:09",page-load,"web form: what would you like to do next"
+90616,357,124,"2023-08-21 23:52:23",click,take-a-break
+90617,357,124,"2023-08-21 23:52:23",click,take-a-break
+90618,357,124,"2023-08-21 23:52:28",click,take-a-break
+90623,357,124,"2023-08-21 23:52:36",click,take-a-break
+90624,357,124,"2023-08-21 23:52:38",click,take-a-break
+90639,357,125,"2023-08-22 00:05:35",click,"skills quiz hint"
+90640,357,0,"2023-08-22 00:05:39","Skills Quiz 30 second Hint",30time
+90641,357,0,"2023-08-22 00:05:46","Skills Quiz-7 Step-1 Correct",Edit
+90642,357,0,"2023-08-22 00:05:57","Skills Quiz-7 Step-2 Correct",event-description
+90643,357,0,"2023-08-22 00:06:42","Skills Quiz 30 second Hint",30time
+90644,357,0,"2023-08-22 00:07:09","Skills Quiz-7 Step-4 Incorrect",Daily
+90645,357,0,"2023-08-22 00:07:10","Skills Quiz-7 Step-4 Incorrect",Daily
+90646,357,0,"2023-08-22 00:07:11","Skills Quiz-7 Step-4 Incorrect",Daily
+90647,357,0,"2023-08-22 00:07:32","Skills Quiz-7 Step-4 Incorrect",Next
+90648,357,0,"2023-08-22 00:07:38","Skills Quiz-7 Step-4 Incorrect",Daily
+90649,357,0,"2023-08-22 00:07:38","Skills Quiz-7 Step-5 Incorrect",Daily
+90650,357,0,"2023-08-22 00:07:48","Skills Quiz-7 Step-4 Incorrect",Save
+90651,357,0,"2023-08-22 00:07:48","Skills Quiz-7 Step-5 Incorrect",Save
+90652,357,0,"2023-08-22 00:07:49","Skills Quiz-7 Step-5 Incorrect",Next
+90653,357,0,"2023-08-22 00:07:49","Skills Quiz-7 Step-4 Incorrect",Next
+90654,357,0,"2023-08-22 00:07:55","Skills Quiz-7 Step-4 Incorrect",Next
+90655,357,0,"2023-08-22 00:07:55","Skills Quiz-7 Step-5 Incorrect",Next
+90656,357,0,"2023-08-22 00:07:55","Skills Quiz-7 Step-6 Incorrect",Next
+90657,357,0,"2023-08-22 00:07:57","Skills Quiz-7 Step-5 Incorrect",Next
+90658,357,0,"2023-08-22 00:07:57","Skills Quiz-7 Step-7 Incorrect",Next
+90659,357,0,"2023-08-22 00:07:57","Skills Quiz-7 Step-4 Incorrect",Next
+90660,357,0,"2023-08-22 00:07:57","Skills Quiz-7 Step-6 Incorrect",Next
+90661,357,0,"2023-08-22 00:07:58","Skills Quiz-7 Step-5 Incorrect",Next
+90662,357,0,"2023-08-22 00:07:58","Skills Quiz-7 Step-6 Incorrect",Next
+90663,357,0,"2023-08-22 00:07:58","Skills Quiz-7 Step-7 Incorrect",Next
+90664,357,0,"2023-08-22 00:07:58","Skills Quiz-7 Step-4 Incorrect",Next
+90665,357,0,"2023-08-22 00:07:58","Skills Quiz-7 Step-8 Incorrect",Next
+90666,357,0,"2023-08-22 00:08:39","Skills Quiz-7 Step-7 Incorrect",Next
+90667,357,0,"2023-08-22 00:08:39","Skills Quiz-7 Step-9 Incorrect",Next
+90668,357,0,"2023-08-22 00:08:39","Skills Quiz-7 Step-4 Incorrect",Next
+90669,357,0,"2023-08-22 00:08:39","Skills Quiz-7 Step-8 Incorrect",Next
+90670,357,0,"2023-08-22 00:08:39","Skills Quiz-7 Step-5 Incorrect",Next
+90671,357,0,"2023-08-22 00:08:39","Skills Quiz-7 Step-6 Incorrect",Next
+90672,357,0,"2023-08-22 00:08:43","Skills Quiz-7 Step-5 Incorrect",Next
+90673,357,0,"2023-08-22 00:08:43","Skills Quiz-7 Step-4 Incorrect",Next
+90674,357,0,"2023-08-22 00:08:43","Skills Quiz-7 Step-9 Incorrect",Next
+90675,357,0,"2023-08-22 00:08:43","Skills Quiz-7 Step-8 Incorrect",Next
+90676,357,0,"2023-08-22 00:08:43","Skills Quiz-7 Step-7 Incorrect",Next
+90677,357,0,"2023-08-22 00:08:43","Skills Quiz-7 Step-6 Incorrect",Next
+90678,357,0,"2023-08-22 00:08:44","Skills Quiz-7 Step-10 Incorrect",Next
+90679,357,0,"2023-08-22 00:08:45","Skills Quiz-7 Step-6 Incorrect",Next
+90680,357,0,"2023-08-22 00:08:45","Skills Quiz-7 Step-7 Incorrect",Next
+90681,357,0,"2023-08-22 00:08:45","Skills Quiz-7 Step-4 Incorrect",Next
+90682,357,0,"2023-08-22 00:08:45","Skills Quiz-7 Step-8 Incorrect",Next
+90683,357,0,"2023-08-22 00:08:45","Skills Quiz-7 Step-5 Incorrect",Next
+90684,357,0,"2023-08-22 00:08:46","Skills Quiz-7 Step-9 Incorrect",Next
+90685,357,0,"2023-08-22 00:08:46","Skills Quiz-7 Step-10 Incorrect",Next
+90686,357,0,"2023-08-22 00:08:46","Skills Quiz-7 Step-5 Incorrect",Next
+90687,357,0,"2023-08-22 00:08:46","Skills Quiz-7 Step-11 Incorrect",Next
+90688,357,0,"2023-08-22 00:08:46","Skills Quiz-7 Step-6 Incorrect",Next
+90689,357,0,"2023-08-22 00:08:46","Skills Quiz-7 Step-4 Incorrect",Next
+0,0,0,"2023-08-22 00:08:48",module_end,none

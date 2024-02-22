@@ -1,0 +1,91 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+36685,302,509,"2023-04-03 11:37:50",page-load,"skills quiz preview"
+36686,302,509,"2023-04-03 11:38:05",click,next-page
+36687,302,0,"2023-04-03 11:38:13","Skills Quiz-26 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+36688,302,0,"2023-04-03 11:38:17","Skills Quiz-26 Step-1 Correct",TODAY
+36689,302,0,"2023-04-03 11:38:27","Skills Quiz-26 Step-2 Correct","Blood Pressure Reading12:30 PM - 1:15 PM"
+36690,302,0,"2023-04-03 11:38:31","Skills Quiz-26 Step-3 Correct","Tap Here"
+36691,302,0,"2023-04-03 11:38:33","Skills Quiz-26 Step-4 Correct",1
+36692,302,0,"2023-04-03 11:38:33","Skills Quiz-26 Step-5 Incorrect",123
+36693,302,0,"2023-04-03 11:38:40","Skills Quiz-26 Step-5 Incorrect",123
+36694,302,0,"2023-04-03 11:38:42","Skills Quiz-26 Step-5 Incorrect",123
+36695,302,0,"2023-04-03 11:38:55","Skills Quiz-26 Step-5 Incorrect",11234567890
+36696,302,0,"2023-04-03 11:38:57","Skills Quiz-26 Step-5 Incorrect",1
+36697,302,0,"2023-04-03 11:38:59","Skills Quiz-26 Step-5 Incorrect",1
+36698,302,0,"2023-04-03 11:38:59","Skills Quiz-26 Step-5 Incorrect",1
+36699,302,0,"2023-04-03 11:39:00","Skills Quiz-26 Step-5 Incorrect",1
+36700,302,0,"2023-04-03 11:39:02","Skills Quiz-26 Step-5 Incorrect",123
+36701,302,0,"2023-04-03 11:39:03","Skills Quiz-26 Step-5 Incorrect",123
+36702,302,0,"2023-04-03 11:39:04","Skills Quiz-26 Step-5 Incorrect",0
+36703,302,0,"2023-04-03 11:39:09","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36704,302,0,"2023-04-03 11:39:23","Skills Quiz-26 Step-1 Correct",TODAY
+36705,302,0,"2023-04-03 11:39:27","Skills Quiz-26 Step-2 Incorrect",undefined
+36706,302,0,"2023-04-03 11:39:29","Skills Quiz-26 Step-3 Correct","Tap Here"
+36707,302,0,"2023-04-03 11:39:29","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+36708,302,0,"2023-04-03 11:39:31","Skills Quiz-26 Step-2 Incorrect",1
+36709,302,0,"2023-04-03 11:39:31","Skills Quiz-26 Step-4 Correct",1
+36710,302,0,"2023-04-03 11:39:32","Skills Quiz-26 Step-5 Incorrect",123
+36711,302,0,"2023-04-03 11:39:32","Skills Quiz-26 Step-2 Incorrect",123
+36712,302,0,"2023-04-03 11:39:34","Skills Quiz-26 Step-5 Incorrect",123
+36713,302,0,"2023-04-03 11:39:34","Skills Quiz-26 Step-2 Incorrect",123
+36714,302,0,"2023-04-03 11:39:35","Skills Quiz-26 Step-5 Incorrect",0
+36715,302,0,"2023-04-03 11:39:35","Skills Quiz-26 Step-2 Incorrect",0
+36716,302,0,"2023-04-03 11:39:42","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36717,302,0,"2023-04-03 11:39:42","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36718,302,0,"2023-04-03 11:39:43","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36719,302,0,"2023-04-03 11:39:43","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36720,302,0,"2023-04-03 11:39:46","Skills Quiz-26 Step-5 Incorrect",123
+36721,302,0,"2023-04-03 11:39:46","Skills Quiz-26 Step-2 Incorrect",123
+36722,302,0,"2023-04-03 11:39:47","Skills Quiz-26 Step-2 Incorrect",0
+36723,302,0,"2023-04-03 11:39:47","Skills Quiz-26 Step-5 Incorrect",0
+36724,302,0,"2023-04-03 11:39:50","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36725,302,0,"2023-04-03 11:39:50","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36726,302,0,"2023-04-03 11:39:52","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36727,302,0,"2023-04-03 11:39:52","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36728,302,0,"2023-04-03 11:39:53","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36729,302,0,"2023-04-03 11:39:53","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36730,302,0,"2023-04-03 11:39:54","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36731,302,0,"2023-04-03 11:39:54","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36732,302,0,"2023-04-03 11:39:55","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36733,302,0,"2023-04-03 11:39:55","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36734,302,0,"2023-04-03 11:39:55","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36735,302,0,"2023-04-03 11:39:55","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36736,302,0,"2023-04-03 11:40:05","Skills Quiz-26 Step-5 Incorrect",0
+36737,302,0,"2023-04-03 11:40:05","Skills Quiz-26 Step-2 Incorrect",0
+36738,302,0,"2023-04-03 11:40:05","Skills Quiz-26 Step-5 Incorrect",0
+36739,302,0,"2023-04-03 11:40:05","Skills Quiz-26 Step-2 Incorrect",0
+36740,302,0,"2023-04-03 11:40:08","Skills Quiz-26 Step-2 Incorrect",11234567890
+36741,302,0,"2023-04-03 11:40:08","Skills Quiz-26 Step-5 Incorrect",11234567890
+36742,302,0,"2023-04-03 11:40:11","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36743,302,0,"2023-04-03 11:40:11","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36744,302,0,"2023-04-03 11:40:11","Skills Quiz-26 Step-2 Incorrect",CancelSave
+36745,302,0,"2023-04-03 11:40:11","Skills Quiz-26 Step-5 Incorrect",CancelSave
+36746,302,510,"2023-04-03 11:40:13",click,"skills quiz hint"
+36747,302,0,"2023-04-03 11:40:21","Skills Quiz-26 Step-2 Incorrect",3
+36748,302,0,"2023-04-03 11:40:21","Skills Quiz-26 Step-5 Correct",3
+36749,302,0,"2023-04-03 11:40:24","Skills Quiz-26 Step-2 Incorrect",0
+36750,302,0,"2023-04-03 11:40:24","Skills Quiz-26 Step-6 Correct",0
+36751,302,0,"2023-04-03 11:40:40","Skills Quiz-26 Step-7 Correct","                              Save            "
+36752,302,0,"2023-04-03 11:40:40","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+36753,302,0,"2023-04-03 11:40:43","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+36754,302,0,"2023-04-03 11:40:43","Skills Quiz-26 Step-8 Correct","Tap Here"
+36755,302,0,"2023-04-03 11:40:46","Skills Quiz-26 Step-9 Correct",8
+36756,302,0,"2023-04-03 11:40:46","Skills Quiz-26 Step-2 Incorrect",8
+36757,302,0,"2023-04-03 11:40:48","Skills Quiz-26 Step-2 Incorrect",0
+36758,302,0,"2023-04-03 11:40:48","Skills Quiz-26 Step-10 Correct",0
+36759,302,0,"2023-04-03 11:40:52","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+36760,302,0,"2023-04-03 11:40:52","Skills Quiz-26 Step-11 Correct","                              Save            "
+36761,302,0,"2023-04-03 11:41:04","Skills Quiz-26 Step-12 Incorrect","CancelSave and View GraphSave"
+36762,302,0,"2023-04-03 11:41:04","Skills Quiz-26 Step-2 Incorrect","CancelSave and View GraphSave"
+36763,302,0,"2023-04-03 11:41:08","Skills Quiz-26 Step-2 Incorrect","Enter Current Blood PressureSystolic130 /Diastolic80"
+36764,302,0,"2023-04-03 11:41:08","Skills Quiz-26 Step-12 Incorrect","Enter Current Blood PressureSystolic130 /Diastolic80"
+36765,302,0,"2023-04-03 11:41:12","Skills Quiz-26 Step-2 Incorrect",Save
+36766,302,0,"2023-04-03 11:41:13","Skills Quiz-26 Step-12 Correct",Save
+36767,302,0,"2023-04-03 11:41:25","Skills Quiz-26 Step-13 Incorrect",undefined
+36768,302,0,"2023-04-03 11:41:25","Skills Quiz-26 Step-2 Incorrect",undefined
+36769,302,0,"2023-04-03 11:41:28","Skills Quiz-26 Step-13 Incorrect",Yes
+36770,302,0,"2023-04-03 11:41:28","Skills Quiz-26 Step-2 Incorrect",Yes
+36771,302,0,"2023-04-03 11:41:28","Skills Quiz-26 Step-14 Correct",Yes
+36772,302,0,"2023-04-03 11:41:40","Skills Quiz-26 Step-2 Incorrect",Save
+36773,302,0,"2023-04-03 11:41:40","Skills Quiz-26 Step-13 Incorrect",Save
+0,0,0,"2023-04-03 11:41:41",module_end,none

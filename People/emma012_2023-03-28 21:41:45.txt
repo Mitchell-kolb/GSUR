@@ -1,0 +1,26 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+34424,302,225,"2023-03-28 17:09:56",page-load,video
+34425,302,226,"2023-03-28 17:10:57",page-load,"web form: question"
+34426,302,226,"2023-03-28 17:11:06",click,"correct-option: Magnifying Glass"
+34427,302,226,"2023-03-28 17:11:08",click,next-page
+34428,302,227,"2023-03-28 17:11:09",page-load,video
+34429,302,228,"2023-03-28 17:12:46",page-load,"web form: what would you like to do next"
+34430,302,228,"2023-03-28 17:12:50",click,take-a-break
+34431,302,228,"2023-03-28 21:39:20",page-load,"web form: what would you like to do next"
+34432,302,228,"2023-03-28 21:39:25",click,next-page
+34433,302,229,"2023-03-28 21:39:25",page-load,"skills quiz preview"
+34434,302,229,"2023-03-28 21:39:48",click,next-page
+34435,302,0,"2023-03-28 21:40:05","Skills Quiz-15 Step-1 Incorrect",NOTES
+34436,302,0,"2023-03-28 21:40:12","Skills Quiz-15 Step-1 Incorrect",note-list
+34437,302,0,"2023-03-28 21:40:18","Skills Quiz-15 Step-1 Correct",Relevant
+34438,302,0,"2023-03-28 21:40:21","Skills Quiz-15 Step-2 Incorrect","A - ZAlphabetical OrderRelevantMost Often Used"
+34439,302,0,"2023-03-28 21:40:41","Skills Quiz-15 Step-2 Incorrect",Close
+34440,302,0,"2023-03-28 21:40:42","Skills Quiz-15 Step-2 Incorrect",Close
+34441,302,229,"2023-03-28 21:40:54",click,next-page
+34442,302,0,"2023-03-28 21:40:59","Skills Quiz-15 Step-1 Correct",Relevant
+34443,302,0,"2023-03-28 21:41:02","Skills Quiz-15 Step-2 Correct","A - Z"
+34444,302,0,"2023-03-28 21:41:23","Skills Quiz-15 Step-3 Incorrect",folder-title-2
+34445,302,0,"2023-03-28 21:41:29","Skills Quiz-15 Step-4 Correct",note-search
+34446,302,0,"2023-03-28 21:41:29","Skills Quiz-15 Step-3 Incorrect",note-search
+34447,302,0,"2023-03-28 21:41:45","Skills Quiz-15 Step-3 Incorrect",Next
+0,0,0,"2023-03-28 21:41:45",module_end,none

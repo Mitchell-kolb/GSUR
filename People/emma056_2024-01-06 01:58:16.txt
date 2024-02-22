@@ -1,0 +1,22 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+112796,410,15,"2024-01-06 01:48:58",page-load,video
+112797,410,16,"2024-01-06 01:50:01",page-load,"web form: question"
+112798,410,16,"2024-01-06 01:50:05",click,"correct-option: Grey"
+112799,410,16,"2024-01-06 01:50:07",click,next-page
+112800,410,17,"2024-01-06 01:50:08",page-load,video
+112801,410,18,"2024-01-06 01:50:36",page-load,"web form: question"
+112802,410,18,"2024-01-06 01:50:42",click,"correct-option: 1:30 PM"
+112803,410,18,"2024-01-06 01:50:43",click,next-page
+112804,410,19,"2024-01-06 01:50:44",page-load,video
+112805,410,20,"2024-01-06 01:56:07",page-load,"web form: question"
+112806,410,20,"2024-01-06 01:56:15",click,"incorrect-option: Red"
+112807,410,20,"2024-01-06 01:56:19",click,next-page
+112808,410,21,"2024-01-06 01:56:19",page-load,"web form: what would you like to do next"
+112809,410,0,"2024-01-06 01:57:30","Skills Quiz-1 Step-1 Incorrect",CALENDAR
+112810,410,0,"2024-01-06 01:57:34","Skills Quiz-1 Step-1 Correct",TODAY
+112811,410,0,"2024-01-06 01:57:41","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+112812,410,0,"2024-01-06 01:58:08","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+112813,410,0,"2024-01-06 01:58:10","Skills Quiz-1 Step-4 Correct",right-arrow
+112814,410,0,"2024-01-06 01:58:12","Skills Quiz-1 Step-5 Correct",14
+112815,410,0,"2024-01-06 01:58:15","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2024-01-06 01:58:16",module_end,none

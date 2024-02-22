@@ -1,0 +1,145 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+50150,324,105,"2023-05-06 00:04:27",page-load,"web form: question"
+50151,324,105,"2023-05-07 00:29:55",page-load,"web form: question"
+52446,324,200,"2023-05-11 22:15:10",page-load,video
+52447,324,201,"2023-05-11 22:19:04",page-load,"web form: question"
+52448,324,201,"2023-05-11 22:19:14",click,previous-page
+52449,324,200,"2023-05-11 22:19:15",page-load,video
+52450,324,201,"2023-05-11 22:20:26",page-load,"web form: question"
+52451,324,201,"2023-05-11 22:20:30",click,"correct-option: D. All of the above"
+52452,324,201,"2023-05-11 22:20:34",click,next-page
+52453,324,202,"2023-05-11 22:20:34",page-load,video
+52454,324,203,"2023-05-11 22:21:17",page-load,"web form: scheduling choices"
+52455,324,203,"2023-05-11 22:21:27",tracked,"Project planning form"
+52456,324,203,"2023-05-11 22:21:32",tracked,"List of current books/movie list"
+52457,324,203,"2023-05-11 22:21:34",tracked,"Address book"
+52458,324,203,"2023-05-11 22:21:49",tracked,"Travel checklist"
+52459,324,203,"2023-05-11 22:21:56",click,next-page
+52460,324,204,"2023-05-11 22:21:57",page-load,video
+52461,324,205,"2023-05-11 22:24:20",page-load,"web form: question"
+52462,324,205,"2023-05-11 22:24:28",click,"correct-option: Add New Folder"
+52463,324,205,"2023-05-11 22:24:32",click,next-page
+52464,324,206,"2023-05-11 22:24:32",page-load,video
+52465,324,207,"2023-05-11 22:25:36",page-load,"web form: question"
+52466,324,207,"2023-05-11 22:25:54",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+52467,324,207,"2023-05-11 22:25:58",click,next-page
+52468,324,208,"2023-05-11 22:25:58",page-load,"web form: what would you like to do next"
+52469,324,208,"2023-05-11 22:26:05",click,take-a-break
+52470,324,208,"2023-05-11 23:14:00",page-load,"web form: what would you like to do next"
+52471,324,208,"2023-05-11 23:14:02",click,next-page
+52472,324,209,"2023-05-11 23:14:04",page-load,"skills quiz preview"
+52473,324,0,"2023-05-11 23:15:07","Skills Quiz-11 Step-1 Correct","Add New Folder"
+52474,324,0,"2023-05-11 23:15:07","Skills Quiz-11 Step-2 Incorrect",undefined
+52475,324,0,"2023-05-11 23:15:12","Skills Quiz-11 Step-2 Correct",modal-folder-title
+52476,324,0,"2023-05-11 23:15:27","Skills Quiz-11 Step-3 Incorrect",Title:
+52477,324,0,"2023-05-11 23:15:51","Skills Quiz-11 Step-3 Incorrect","New FolderTitle:CloseSAVE"
+52478,324,0,"2023-05-11 23:15:54","Skills Quiz-11 Step-3 Incorrect",Next
+52479,324,0,"2023-05-11 23:16:00","Skills Quiz-11 Step-3 Incorrect","Add New Folder"
+52480,324,0,"2023-05-11 23:16:00","Skills Quiz-11 Step-4 Incorrect","Add New Folder"
+52481,324,0,"2023-05-11 23:16:02","Skills Quiz-11 Step-4 Incorrect",modal-folder-title
+52482,324,0,"2023-05-11 23:16:02","Skills Quiz-11 Step-3 Correct",modal-folder-title
+52483,324,0,"2023-05-11 23:16:02","Skills Quiz-11 Step-5 Incorrect",modal-folder-title
+52484,324,0,"2023-05-11 23:16:04","Skills Quiz-11 Step-5 Incorrect",modal-folder-title
+52485,324,0,"2023-05-11 23:16:04","Skills Quiz-11 Step-4 Incorrect",modal-folder-title
+52486,324,0,"2023-05-11 23:16:06","Skills Quiz-11 Step-5 Incorrect",modal-folder-title
+52487,324,0,"2023-05-11 23:16:06","Skills Quiz-11 Step-4 Incorrect",modal-folder-title
+52488,324,0,"2023-05-11 23:16:07","Skills Quiz-11 Step-4 Incorrect",modal-folder-title
+52489,324,0,"2023-05-11 23:16:07","Skills Quiz-11 Step-5 Incorrect",modal-folder-title
+52490,324,0,"2023-05-11 23:16:18","Skills Quiz-11 Step-4 Incorrect",modal-folder-title
+52491,324,0,"2023-05-11 23:16:18","Skills Quiz-11 Step-5 Incorrect",modal-folder-title
+52492,324,0,"2023-05-11 23:16:19","Skills Quiz-11 Step-4 Incorrect",Title:
+52493,324,0,"2023-05-11 23:16:19","Skills Quiz-11 Step-5 Incorrect",Title:
+52494,324,0,"2023-05-11 23:16:20","Skills Quiz-11 Step-5 Incorrect",modal-folder-title
+52495,324,0,"2023-05-11 23:16:20","Skills Quiz-11 Step-4 Incorrect",modal-folder-title
+52496,324,0,"2023-05-11 23:16:23","Skills Quiz-11 Step-4 Incorrect",modal-folder-title
+52497,324,0,"2023-05-11 23:16:23","Skills Quiz-11 Step-5 Incorrect",modal-folder-title
+52498,324,0,"2023-05-11 23:16:30","Skills Quiz-11 Step-4 Incorrect",modal-folder-title
+52499,324,0,"2023-05-11 23:16:30","Skills Quiz-11 Step-5 Incorrect",modal-folder-title
+52500,324,0,"2023-05-11 23:16:35","Skills Quiz-11 Step-4 Incorrect",modal-folder-title
+52501,324,0,"2023-05-11 23:16:35","Skills Quiz-11 Step-5 Incorrect",modal-folder-title
+52502,324,0,"2023-05-11 23:16:38","Skills Quiz-11 Step-4 Incorrect",Title:
+52503,324,0,"2023-05-11 23:16:38","Skills Quiz-11 Step-5 Incorrect",Title:
+52504,324,0,"2023-05-11 23:16:38","Skills Quiz-11 Step-5 Incorrect",Title:
+52505,324,0,"2023-05-11 23:16:38","Skills Quiz-11 Step-4 Incorrect",Title:
+52506,324,0,"2023-05-11 23:16:38","Skills Quiz-11 Step-5 Incorrect",Title:
+52507,324,0,"2023-05-11 23:16:38","Skills Quiz-11 Step-4 Incorrect",Title:
+52508,324,209,"2023-05-11 23:16:48",click,next-page
+52509,324,0,"2023-05-11 23:16:55","Skills Quiz-11 Step-1 Correct","Add New Folder"
+52510,324,0,"2023-05-11 23:16:57","Skills Quiz-11 Step-2 Correct",modal-folder-title
+52511,324,0,"2023-05-11 23:17:12","Skills Quiz-11 Step-3 Incorrect",Next
+52512,324,0,"2023-05-11 23:17:20","Skills Quiz-11 Step-3 Incorrect",SAVE
+52513,324,0,"2023-05-11 23:17:20","Skills Quiz-11 Step-4 Correct",SAVE
+52514,324,0,"2023-05-11 23:17:37","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52515,324,0,"2023-05-11 23:17:37","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52516,324,0,"2023-05-11 23:17:45","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52517,324,0,"2023-05-11 23:17:45","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52518,324,0,"2023-05-11 23:17:50","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52519,324,0,"2023-05-11 23:17:50","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52520,324,0,"2023-05-11 23:17:50","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52521,324,0,"2023-05-11 23:17:50","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52522,324,0,"2023-05-11 23:17:51","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52523,324,0,"2023-05-11 23:17:51","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52524,324,0,"2023-05-11 23:17:53","Skills Quiz-11 Step-3 Incorrect","Book List"
+52525,324,0,"2023-05-11 23:17:53","Skills Quiz-11 Step-5 Incorrect","Book List"
+52526,324,0,"2023-05-11 23:17:53","Skills Quiz-11 Step-5 Incorrect","Book List"
+52527,324,0,"2023-05-11 23:17:53","Skills Quiz-11 Step-3 Incorrect","Book List"
+52528,324,0,"2023-05-11 23:18:02","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52529,324,0,"2023-05-11 23:18:02","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52530,324,0,"2023-05-11 23:18:03","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52531,324,0,"2023-05-11 23:18:03","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52532,324,0,"2023-05-11 23:18:14","Skills Quiz-11 Step-3 Incorrect","Title:Book List"
+52533,324,0,"2023-05-11 23:18:14","Skills Quiz-11 Step-5 Incorrect","Title:Book List"
+52534,324,0,"2023-05-11 23:18:16","Skills Quiz-11 Step-5 Incorrect","Title:Book List"
+52535,324,0,"2023-05-11 23:18:16","Skills Quiz-11 Step-3 Incorrect","Title:Book List"
+52536,324,0,"2023-05-11 23:18:19","Skills Quiz-11 Step-5 Incorrect","Press Edit"
+52537,324,0,"2023-05-11 23:18:19","Skills Quiz-11 Step-3 Incorrect","Press Edit"
+52538,324,0,"2023-05-11 23:18:21","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52539,324,0,"2023-05-11 23:18:22","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52540,324,0,"2023-05-11 23:18:22","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52541,324,0,"2023-05-11 23:18:22","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52542,324,0,"2023-05-11 23:18:23","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52543,324,0,"2023-05-11 23:18:23","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52544,324,0,"2023-05-11 23:18:24","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52545,324,0,"2023-05-11 23:18:24","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52546,324,0,"2023-05-11 23:18:24","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52547,324,0,"2023-05-11 23:18:24","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52548,324,0,"2023-05-11 23:18:26","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52549,324,0,"2023-05-11 23:18:26","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52550,324,0,"2023-05-11 23:18:27","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52551,324,0,"2023-05-11 23:18:27","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52552,324,0,"2023-05-11 23:18:28","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52553,324,0,"2023-05-11 23:18:28","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52554,324,0,"2023-05-11 23:18:29","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52555,324,0,"2023-05-11 23:18:29","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52556,324,0,"2023-05-11 23:18:31","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52557,324,0,"2023-05-11 23:18:31","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52558,324,0,"2023-05-11 23:18:31","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52559,324,0,"2023-05-11 23:18:31","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52560,324,0,"2023-05-11 23:18:33","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52561,324,0,"2023-05-11 23:18:33","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52562,324,0,"2023-05-11 23:18:39","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52563,324,0,"2023-05-11 23:18:39","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52564,324,0,"2023-05-11 23:18:40","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52565,324,0,"2023-05-11 23:18:40","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52566,324,0,"2023-05-11 23:18:47","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52567,324,0,"2023-05-11 23:18:47","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52568,324,0,"2023-05-11 23:18:49","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+52569,324,0,"2023-05-11 23:18:49","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+52570,324,0,"2023-05-11 23:18:56","Skills Quiz-11 Step-5 Correct",Close
+52571,324,0,"2023-05-11 23:18:56","Skills Quiz-11 Step-3 Incorrect",Close
+52572,324,0,"2023-05-11 23:19:02","Skills Quiz-11 Step-3 Incorrect",Edit
+52573,324,0,"2023-05-11 23:19:02","Skills Quiz-11 Step-6 Correct",Edit
+52574,324,0,"2023-05-11 23:19:09","Skills Quiz-11 Step-3 Incorrect",SAVE
+52575,324,0,"2023-05-11 23:19:09","Skills Quiz-11 Step-7 Correct",SAVE
+52576,324,0,"2023-05-11 23:19:13","Skills Quiz-11 Step-3 Correct",modal-folder-title
+52577,324,0,"2023-05-11 23:19:13","Skills Quiz-11 Step-8 Correct",modal-folder-title
+52578,324,0,"2023-05-11 23:19:36","Skills Quiz-11 Step-9 Incorrect",Next
+52579,324,0,"2023-05-11 23:19:36","Skills Quiz-11 Step-10 Incorrect",Title:
+52580,324,0,"2023-05-11 23:19:36","Skills Quiz-11 Step-9 Incorrect",Title:
+52581,324,0,"2023-05-11 23:19:42","Skills Quiz-11 Step-9 Incorrect"," SAVE"
+52582,324,0,"2023-05-11 23:19:42","Skills Quiz-11 Step-10 Correct"," SAVE"
+52583,324,0,"2023-05-11 23:20:03","Skills Quiz-11 Step-9 Incorrect","Title:Book Club List"
+52584,324,0,"2023-05-11 23:20:03","Skills Quiz-11 Step-11 Incorrect","Title:Book Club List"
+52585,324,0,"2023-05-11 23:20:07","Skills Quiz-11 Step-9 Incorrect",Close
+52586,324,0,"2023-05-11 23:20:07","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-05-11 23:20:08",module_end,none

@@ -1,0 +1,31 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+99356,359,212,"2023-10-08 03:31:23",page-load,"skills quiz preview"
+99357,359,212,"2023-10-08 03:31:50",click,next-page
+99358,359,0,"2023-10-08 03:31:54","Skills Quiz-12 Step-1 Correct","Add New Folder"
+99359,359,0,"2023-10-08 03:31:56","Skills Quiz-12 Step-2 Correct",modal-folder-title
+99360,359,0,"2023-10-08 03:32:12","Skills Quiz-12 Step-3 Incorrect",Next
+99361,359,0,"2023-10-08 03:32:15","Skills Quiz-12 Step-4 Correct",SAVE
+99362,359,0,"2023-10-08 03:32:15","Skills Quiz-12 Step-3 Incorrect",SAVE
+99363,359,0,"2023-10-08 03:32:18","Skills Quiz-12 Step-5 Correct",Close
+99364,359,0,"2023-10-08 03:32:18","Skills Quiz-12 Step-3 Incorrect",Close
+99365,359,0,"2023-10-08 03:32:26","Skills Quiz-12 Step-6 Incorrect","Holiday shopping"
+99366,359,0,"2023-10-08 03:32:26","Skills Quiz-12 Step-3 Incorrect","Holiday shopping"
+99367,359,0,"2023-10-08 03:32:27","Skills Quiz-12 Step-3 Incorrect",Edit
+99368,359,0,"2023-10-08 03:32:27","Skills Quiz-12 Step-6 Correct",Edit
+99369,359,0,"2023-10-08 03:32:34","Skills Quiz-12 Step-3 Incorrect","Holiday shopping"
+99370,359,0,"2023-10-08 03:32:34","Skills Quiz-12 Step-7 Incorrect","Holiday shopping"
+99371,359,0,"2023-10-08 03:32:36","Skills Quiz-12 Step-7 Incorrect","Holiday shopping"
+99372,359,0,"2023-10-08 03:32:36","Skills Quiz-12 Step-3 Incorrect","Holiday shopping"
+99373,359,0,"2023-10-08 03:32:36","Skills Quiz-12 Step-7 Incorrect","Holiday shopping"
+99374,359,0,"2023-10-08 03:32:36","Skills Quiz-12 Step-3 Incorrect","Holiday shopping"
+99375,359,0,"2023-10-08 03:32:39","Skills Quiz-12 Step-3 Incorrect",SAVE
+99376,359,0,"2023-10-08 03:32:39","Skills Quiz-12 Step-7 Correct",SAVE
+99377,359,0,"2023-10-08 03:32:40","Skills Quiz-12 Step-8 Correct",modal-folder-title
+99378,359,0,"2023-10-08 03:32:40","Skills Quiz-12 Step-3 Correct",modal-folder-title
+99379,359,0,"2023-10-08 03:33:10","Skills Quiz 30 second Hint",30time
+99380,359,0,"2023-10-08 03:33:14","Skills Quiz-12 Step-9 Incorrect",Next
+99381,359,0,"2023-10-08 03:33:16","Skills Quiz-12 Step-9 Incorrect",SAVE
+99382,359,0,"2023-10-08 03:33:17","Skills Quiz-12 Step-10 Correct",SAVE
+99383,359,0,"2023-10-08 03:33:18","Skills Quiz-12 Step-11 Correct",Close
+99384,359,0,"2023-10-08 03:33:18","Skills Quiz-12 Step-9 Incorrect",Close
+0,0,0,"2023-10-08 03:33:18",module_end,none

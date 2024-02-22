@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+12894,252,26,"2023-02-07 15:16:07",page-load,video
+12895,252,27,"2023-02-07 15:16:57",page-load,"web form: question"
+12896,252,27,"2023-02-07 15:17:05",click,"correct-option: True"
+12897,252,27,"2023-02-07 15:17:12",click,next-page
+12898,252,28,"2023-02-07 15:17:13",page-load,"web form: question"
+12899,252,28,"2023-02-07 15:17:36",click,"correct-option: True"
+12900,252,28,"2023-02-07 15:17:37",click,next-page
+12901,252,29,"2023-02-07 15:17:38",page-load,video
+12902,252,30,"2023-02-07 15:17:56",page-load,"web form: question"
+12903,252,30,"2023-02-07 15:18:01",click,"correct-option: All of the above"
+12904,252,30,"2023-02-07 15:18:02",click,next-page
+12905,252,31,"2023-02-07 15:18:03",page-load,video
+12906,252,32,"2023-02-07 15:19:07",page-load,"web form: what would you like to do next"
+12907,252,32,"2023-02-07 15:19:09",click,next-page
+12908,252,0,"2023-02-07 15:19:14","Skills Quiz-3 Step-1 Correct",TODAY
+12909,252,0,"2023-02-07 15:19:16","Skills Quiz-3 Step-2 Incorrect",CALENDAR
+12910,252,0,"2023-02-07 15:19:21","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+12911,252,0,"2023-02-07 15:19:26","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+12912,252,0,"2023-02-07 15:19:29","Skills Quiz-3 Step-4 Correct",right-arrow
+12913,252,0,"2023-02-07 15:19:31","Skills Quiz-3 Step-5 Correct",14
+12914,252,0,"2023-02-07 15:19:32","Skills Quiz-3 Step-6 Correct",OK
+12915,252,0,"2023-02-07 15:19:35","Skills Quiz-3 Step-7 Correct","Tap Here"
+12916,252,0,"2023-02-07 15:19:46","Skills Quiz-3 Step-10 Correct","Tap Here"
+12917,252,0,"2023-02-07 15:20:04","Skills Quiz-3 Step-13 Incorrect",undefined
+12918,252,0,"2023-02-07 15:20:05","Skills Quiz-3 Step-13 Correct",event-title
+12919,252,0,"2023-02-07 15:20:18","Skills Quiz-3 Step-15 Incorrect",undefined
+12920,252,0,"2023-02-07 15:20:18","Skills Quiz-3 Step-15 Correct",event-description
+12921,252,0,"2023-02-07 15:20:26","Skills Quiz-3 Step-17 Correct",Save
+0,0,0,"2023-02-07 15:20:26",module_end,none

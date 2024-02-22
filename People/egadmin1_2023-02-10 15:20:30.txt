@@ -1,0 +1,19 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+16207,254,104,"2023-02-10 15:18:49",page-load,video
+16208,254,143,"2023-02-10 15:18:55",page-load,video
+16209,254,0,"2023-02-10 15:19:08","Skills Quiz-7 Step-1 Correct",Edit
+16210,254,0,"2023-02-10 15:19:15","Skills Quiz-7 Step-2 Correct",event-description
+16211,254,0,"2023-02-10 15:19:45","Skills Quiz 30 second Hint",30time
+16212,254,0,"2023-02-10 15:19:59","Skills Quiz-7 Step-1 Correct",Edit
+16213,254,0,"2023-02-10 15:20:01","Skills Quiz-7 Step-2 Correct",event-description
+16214,254,0,"2023-02-10 15:20:19","Skills Quiz-7 Step-4 Correct",Weekly
+16215,254,0,"2023-02-10 15:20:20","Skills Quiz-7 Step-5 Correct",Tue
+16216,254,0,"2023-02-10 15:20:20","Skills Quiz-7 Step-6 Correct",Thu
+16217,254,0,"2023-02-10 15:20:23","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+16218,254,0,"2023-02-10 15:20:24","Skills Quiz-7 Step-8 Correct",end-right-arrow
+16219,254,0,"2023-02-10 15:20:25","Skills Quiz-7 Step-9 Correct",31
+16220,254,0,"2023-02-10 15:20:26","Skills Quiz-7 Step-10 Correct",OK
+16221,254,0,"2023-02-10 15:20:27","Skills Quiz-7 Step-11 Correct",YES
+16222,254,0,"2023-02-10 15:20:28","Skills Quiz-7 Step-12 Correct",Save
+16223,254,0,"2023-02-10 15:20:30","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-02-10 15:20:30",module_end,none

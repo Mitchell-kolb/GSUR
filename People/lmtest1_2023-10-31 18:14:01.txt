@@ -1,0 +1,18 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+100468,238,215,"2023-10-31 18:09:45",page-load,video
+100469,238,216,"2023-10-31 18:11:42",page-load,"web form: question"
+100470,238,216,"2023-10-31 18:11:44",click,"correct-option: 1"
+100471,238,217,"2023-10-31 18:11:45",page-load,video
+100472,238,218,"2023-10-31 18:11:57",page-load,"web form: what would you like to do next"
+100473,238,218,"2023-10-31 18:12:02",click,next-page
+100474,238,219,"2023-10-31 18:12:02",page-load,"skills quiz preview"
+100475,238,219,"2023-10-31 18:12:06",click,next-page
+100476,238,0,"2023-10-31 18:12:12","Skills Quiz-13 Step-1 Incorrect","Add New Note"
+100477,238,0,"2023-10-31 18:12:14","Skills Quiz-13 Step-1 Correct",Lists
+100478,238,0,"2023-10-31 18:12:14","Skills Quiz-13 Step-2 Correct","Add New Note"
+100479,238,0,"2023-10-31 18:12:44","Skills Quiz 30 second Hint",30time
+100480,238,0,"2023-10-31 18:13:37","Skills Quiz-13 Step-3 Correct",modal-note-title
+100481,238,0,"2023-10-31 18:13:46","Skills Quiz-13 Step-5 Correct",modal-note-content
+100482,238,0,"2023-10-31 18:13:58","Skills Quiz-13 Step-7 Correct"," SAVE"
+100483,238,0,"2023-10-31 18:14:01","Skills Quiz-13 Step-8 Correct",Close
+0,0,0,"2023-10-31 18:14:01",module_end,none

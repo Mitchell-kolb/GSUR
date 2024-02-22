@@ -1,0 +1,21 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+10092,221,0,"2023-01-31 12:21:17","Skills Quiz-8 Step-1 Correct",Edit
+10093,221,0,"2023-01-31 12:23:55","Skills Quiz-8 Step-1 Correct",Edit
+10094,221,0,"2023-01-31 12:24:05","Skills Quiz-8 Step-2 Correct",event-description
+10095,221,127,"2023-01-31 12:24:29",click,"skills quiz hint"
+10096,221,0,"2023-01-31 12:24:33","Skills Quiz-8 Step-4 Correct",Weekly
+10097,221,0,"2023-01-31 12:24:36","Skills Quiz-8 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+10098,221,0,"2023-01-31 12:24:39","Skills Quiz-8 Step-5 Correct",Mon
+10099,221,0,"2023-01-31 12:24:40","Skills Quiz-8 Step-6 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+10100,221,0,"2023-01-31 12:24:40","Skills Quiz-8 Step-6 Correct",Wed
+10101,221,0,"2023-01-31 12:24:41","Skills Quiz-8 Step-7 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+10102,221,0,"2023-01-31 12:24:42","Skills Quiz-8 Step-7 Correct","Repeat Forever (tap to change)"
+10103,221,0,"2023-01-31 12:24:45","Skills Quiz-8 Step-8 Correct",end-right-arrow
+10104,221,0,"2023-01-31 12:24:45","Skills Quiz-8 Step-0 Correct",end-right-arrow
+10105,221,0,"2023-01-31 12:24:46","Skills Quiz-8 Step-9 Correct",31
+10106,221,0,"2023-01-31 12:24:47","Skills Quiz-8 Step-10 Correct",OK
+10107,221,0,"2023-01-31 12:24:50","Skills Quiz-8 Step-11 Correct",YES
+10108,221,0,"2023-01-31 12:24:51","Skills Quiz-8 Step-12 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatAugust 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+10109,221,0,"2023-01-31 12:24:53","Skills Quiz-8 Step-12 Correct",Save
+10110,221,0,"2023-01-31 12:24:56","Skills Quiz-8 Step-13 Correct",Save
+0,0,0,"2023-01-31 12:24:56",module_end,none

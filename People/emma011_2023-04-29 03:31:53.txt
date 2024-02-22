@@ -1,0 +1,204 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+45985,308,512,"2023-04-29 02:49:22",page-load,video
+45986,308,513,"2023-04-29 02:51:47",page-load,"web form: question"
+45987,308,513,"2023-04-29 02:52:04",click,"correct-option: at the same time every time and limiting distractions."
+45988,308,513,"2023-04-29 02:52:05",click,next-page
+45989,308,514,"2023-04-29 02:52:05",page-load,video
+45990,308,515,"2023-04-29 03:01:26",page-load,"web form: question"
+45991,308,515,"2023-04-29 03:01:35",click,"correct-option: On the help page"
+45992,308,515,"2023-04-29 03:01:37",click,next-page
+45993,308,516,"2023-04-29 03:01:38",page-load,video
+45994,308,517,"2023-04-29 03:05:10",page-load,"web form: question"
+45995,308,517,"2023-04-29 03:05:16",click,"correct-option: 45 seconds"
+45996,308,517,"2023-04-29 03:05:18",click,next-page
+45997,308,518,"2023-04-29 03:05:19",page-load,video
+45998,308,519,"2023-04-29 03:08:24",page-load,"web form: question"
+45999,308,519,"2023-04-29 03:08:30",click,"correct-option: False"
+46000,308,519,"2023-04-29 03:08:32",click,next-page
+46001,308,520,"2023-04-29 03:08:32",page-load,"web form: what would you like to do next"
+46002,308,520,"2023-04-29 03:08:35",click,next-page
+46003,308,521,"2023-04-29 03:08:36",page-load,video
+46004,308,522,"2023-04-29 03:15:51",page-load,"web form: question"
+46005,308,522,"2023-04-29 03:15:56",click,"incorrect-option: Unlimited"
+46006,308,522,"2023-04-29 03:15:58",click,"incorrect-option: 2"
+46007,308,522,"2023-04-29 03:15:59",click,"incorrect-option: 2"
+46008,308,522,"2023-04-29 03:16:00",click,"incorrect-option: 0"
+46009,308,522,"2023-04-29 03:16:01",click,"correct-option: 1"
+46010,308,522,"2023-04-29 03:16:02",click,next-page
+46011,308,523,"2023-04-29 03:16:04",page-load,video
+46012,308,524,"2023-04-29 03:18:05",page-load,"web form: what would you like to do next"
+46013,308,524,"2023-04-29 03:18:08",click,next-page
+46014,308,525,"2023-04-29 03:18:08",page-load,"skills quiz preview"
+46015,308,525,"2023-04-29 03:18:14",click,next-page
+46016,308,0,"2023-04-29 03:18:24","Skills Quiz-27 Step-1 Incorrect"," HEALTH"
+46017,308,526,"2023-04-29 03:18:28",click,"skills quiz hint"
+46018,308,526,"2023-04-29 03:18:40",click,"skills quiz hint"
+46019,308,0,"2023-04-29 03:18:50","Skills Quiz-27 Step-1 Incorrect",Edit
+46020,308,0,"2023-04-29 03:19:06","Skills Quiz-27 Step-3 Incorrect",undefined
+46021,308,0,"2023-04-29 03:19:07","Skills Quiz-27 Step-3 Incorrect",undefined
+46022,308,0,"2023-04-29 03:19:08","Skills Quiz-27 Step-3 Incorrect",undefined
+46023,308,0,"2023-04-29 03:19:18","Skills Quiz-27 Step-3 Correct",YES
+46024,308,0,"2023-04-29 03:19:41","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+46025,308,0,"2023-04-29 03:19:51","Skills Quiz-27 Step-4 Incorrect",Close
+46026,308,0,"2023-04-29 03:19:52","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+46027,308,0,"2023-04-29 03:19:52","Skills Quiz-27 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+46028,308,0,"2023-04-29 03:19:53","Skills Quiz-27 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+46029,308,0,"2023-04-29 03:19:58","Skills Quiz-27 Step-5 Correct",Optimism
+46030,308,0,"2023-04-29 03:20:00","Skills Quiz-27 Step-6 Correct","                  Select               "
+46031,308,526,"2023-04-29 03:20:19",click,"skills quiz hint"
+46032,308,0,"2023-04-29 03:20:21","Skills Quiz-27 Step-7 Correct",Save
+46033,308,526,"2023-04-29 03:20:33",click,"skills quiz hint"
+46034,308,526,"2023-04-29 03:20:34",click,"skills quiz hint"
+46035,308,0,"2023-04-29 03:20:37","Skills Quiz-27 Step-9 Incorrect",Delete
+46036,308,0,"2023-04-29 03:20:37","Skills Quiz-27 Step-8 Incorrect",Delete
+46037,308,0,"2023-04-29 03:20:41","Skills Quiz-27 Step-9 Incorrect",Cancel
+46038,308,0,"2023-04-29 03:20:41","Skills Quiz-27 Step-8 Incorrect",Cancel
+46039,308,0,"2023-04-29 03:20:42","Skills Quiz-27 Step-9 Incorrect",Cancel
+46040,308,0,"2023-04-29 03:20:42","Skills Quiz-27 Step-8 Incorrect",Cancel
+46041,308,0,"2023-04-29 03:20:43","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46042,308,0,"2023-04-29 03:20:43","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46043,308,0,"2023-04-29 03:20:44","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46044,308,0,"2023-04-29 03:20:44","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46045,308,0,"2023-04-29 03:20:45","Skills Quiz-27 Step-9 Incorrect",Delete
+46046,308,0,"2023-04-29 03:20:45","Skills Quiz-27 Step-8 Incorrect",Delete
+46047,308,0,"2023-04-29 03:20:46","Skills Quiz-27 Step-8 Incorrect",eventDeleteExecute
+46048,308,0,"2023-04-29 03:20:46","Skills Quiz-27 Step-9 Incorrect",eventDeleteExecute
+46049,308,0,"2023-04-29 03:20:47","Skills Quiz-27 Step-8 Incorrect",eventDeleteExecute
+46050,308,0,"2023-04-29 03:20:47","Skills Quiz-27 Step-9 Incorrect",eventDeleteExecute
+46051,308,0,"2023-04-29 03:20:47","Skills Quiz-27 Step-8 Incorrect",eventDeleteExecute
+46052,308,0,"2023-04-29 03:20:47","Skills Quiz-27 Step-9 Incorrect",eventDeleteExecute
+46053,308,0,"2023-04-29 03:20:48","Skills Quiz-27 Step-9 Incorrect",Cancel
+46054,308,0,"2023-04-29 03:20:48","Skills Quiz-27 Step-8 Incorrect",Cancel
+46055,308,526,"2023-04-29 03:20:51",click,"skills quiz hint"
+46056,308,0,"2023-04-29 03:20:53","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46057,308,0,"2023-04-29 03:20:53","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46058,308,0,"2023-04-29 03:20:55","Skills Quiz-27 Step-9 Incorrect",Cancel
+46059,308,0,"2023-04-29 03:20:55","Skills Quiz-27 Step-8 Incorrect",Cancel
+46060,308,0,"2023-04-29 03:20:56","Skills Quiz-27 Step-9 Incorrect",Cancel
+46061,308,0,"2023-04-29 03:20:56","Skills Quiz-27 Step-8 Incorrect",Cancel
+46062,308,0,"2023-04-29 03:20:57","Skills Quiz-27 Step-9 Incorrect",Cancel
+46063,308,0,"2023-04-29 03:20:57","Skills Quiz-27 Step-8 Incorrect",Cancel
+46064,308,0,"2023-04-29 03:20:57","Skills Quiz-27 Step-8 Incorrect",Cancel
+46065,308,0,"2023-04-29 03:20:57","Skills Quiz-27 Step-9 Incorrect",Cancel
+46066,308,0,"2023-04-29 03:21:05","Skills Quiz-27 Step-9 Incorrect",Cancel
+46067,308,0,"2023-04-29 03:21:05","Skills Quiz-27 Step-8 Incorrect",Cancel
+46068,308,0,"2023-04-29 03:21:07","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46069,308,0,"2023-04-29 03:21:07","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46070,308,0,"2023-04-29 03:21:08","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46071,308,0,"2023-04-29 03:21:08","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46072,308,0,"2023-04-29 03:21:09","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46073,308,0,"2023-04-29 03:21:09","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46074,308,0,"2023-04-29 03:21:11","Skills Quiz-27 Step-9 Incorrect","Delete  "
+46075,308,0,"2023-04-29 03:21:11","Skills Quiz-27 Step-8 Incorrect","Delete  "
+46076,308,0,"2023-04-29 03:21:12","Skills Quiz-27 Step-9 Incorrect",eventDeleteExecute
+46077,308,0,"2023-04-29 03:21:12","Skills Quiz-27 Step-8 Incorrect",eventDeleteExecute
+46078,308,526,"2023-04-29 03:21:13",click,"skills quiz hint"
+46079,308,526,"2023-04-29 03:21:14",click,"skills quiz hint"
+46080,308,526,"2023-04-29 03:21:14",click,"skills quiz hint"
+46081,308,0,"2023-04-29 03:21:34","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46082,308,0,"2023-04-29 03:21:34","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46083,308,0,"2023-04-29 03:21:35","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46084,308,0,"2023-04-29 03:21:35","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46085,308,0,"2023-04-29 03:21:35","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46086,308,0,"2023-04-29 03:21:35","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46087,308,0,"2023-04-29 03:21:36","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46088,308,0,"2023-04-29 03:21:36","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46089,308,0,"2023-04-29 03:21:36","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46090,308,0,"2023-04-29 03:21:36","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46091,308,526,"2023-04-29 03:21:38",click,"skills quiz hint"
+46092,308,526,"2023-04-29 03:21:39",click,"skills quiz hint"
+46093,308,526,"2023-04-29 03:21:39",click,"skills quiz hint"
+46094,308,526,"2023-04-29 03:21:53",click,"skills quiz hint"
+46095,308,0,"2023-04-29 03:22:16","Skills Quiz-27 Step-2 Correct",Edit
+46096,308,0,"2023-04-29 03:22:16","Skills Quiz-27 Step-1 Incorrect",Edit
+46097,308,0,"2023-04-29 03:22:39","Skills Quiz-27 Step-3 Incorrect",Save
+46098,308,0,"2023-04-29 03:22:41","Skills Quiz-27 Step-3 Incorrect",Save
+46099,308,0,"2023-04-29 03:22:42","Skills Quiz-27 Step-3 Correct",YES
+46100,308,0,"2023-04-29 03:22:45","Skills Quiz-27 Step-4 Incorrect",Close
+46101,308,0,"2023-04-29 03:22:55","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+46102,308,0,"2023-04-29 03:22:58","Skills Quiz-27 Step-5 Incorrect",Happiness
+46103,308,0,"2023-04-29 03:23:01","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+46104,308,0,"2023-04-29 03:23:02","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+46105,308,0,"2023-04-29 03:23:03","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+46106,308,0,"2023-04-29 03:23:06","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+46107,308,0,"2023-04-29 03:23:07","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+46108,308,0,"2023-04-29 03:23:08","Skills Quiz-27 Step-5 Correct",Optimism
+46109,308,0,"2023-04-29 03:23:11","Skills Quiz-27 Step-6 Correct","                  Select               "
+46110,308,0,"2023-04-29 03:23:31","Skills Quiz-27 Step-7 Incorrect",undefined
+46111,308,0,"2023-04-29 03:23:36","Skills Quiz-27 Step-7 Incorrect",NO
+46112,308,0,"2023-04-29 03:23:37","Skills Quiz-27 Step-7 Incorrect",NO
+46113,308,0,"2023-04-29 03:23:39","Skills Quiz-27 Step-7 Correct",Save
+46114,308,526,"2023-04-29 03:23:51",click,"skills quiz hint"
+46115,308,526,"2023-04-29 03:23:52",click,"skills quiz hint"
+46116,308,0,"2023-04-29 03:23:53","Skills Quiz-27 Step-9 Incorrect",Edit
+46117,308,0,"2023-04-29 03:23:53","Skills Quiz-27 Step-8 Incorrect",Edit
+46118,308,0,"2023-04-29 03:24:00","Skills Quiz-27 Step-3 Incorrect",Save
+46119,308,0,"2023-04-29 03:24:16","Skills Quiz-27 Step-3 Correct",YES
+46120,308,0,"2023-04-29 03:24:36","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+46121,308,0,"2023-04-29 03:24:41","Skills Quiz-27 Step-5 Correct",Optimism
+46122,308,0,"2023-04-29 03:24:42","Skills Quiz-27 Step-6 Correct","                  Select               "
+46123,308,0,"2023-04-29 03:24:50","Skills Quiz-27 Step-7 Incorrect",undefined
+46124,308,0,"2023-04-29 03:24:52","Skills Quiz-27 Step-7 Incorrect",undefined
+46125,308,0,"2023-04-29 03:24:58","Skills Quiz-27 Step-7 Correct",Save
+46126,308,526,"2023-04-29 03:25:08",click,"skills quiz hint"
+46127,308,526,"2023-04-29 03:25:09",click,"skills quiz hint"
+46128,308,526,"2023-04-29 03:25:10",click,"skills quiz hint"
+46129,308,526,"2023-04-29 03:25:19",click,"skills quiz hint"
+46130,308,526,"2023-04-29 03:25:20",click,"skills quiz hint"
+46131,308,526,"2023-04-29 03:25:21",click,"skills quiz hint"
+46132,308,526,"2023-04-29 03:25:21",click,"skills quiz hint"
+46133,308,526,"2023-04-29 03:25:21",click,"skills quiz hint"
+46134,308,526,"2023-04-29 03:25:22",click,"skills quiz hint"
+46135,308,526,"2023-04-29 03:25:22",click,"skills quiz hint"
+46136,308,526,"2023-04-29 03:25:23",click,"skills quiz hint"
+46137,308,526,"2023-04-29 03:25:43",click,"skills quiz hint"
+46138,308,526,"2023-04-29 03:25:53",click,"skills quiz hint"
+46139,308,526,"2023-04-29 03:25:54",click,"skills quiz hint"
+46140,308,526,"2023-04-29 03:26:08",click,"skills quiz hint"
+46141,308,526,"2023-04-29 03:26:10",click,"skills quiz hint"
+46142,308,526,"2023-04-29 03:26:53",click,"skills quiz hint"
+46143,308,526,"2023-04-29 03:27:04",click,"skills quiz hint"
+46144,308,526,"2023-04-29 03:27:06",click,"skills quiz hint"
+46145,308,526,"2023-04-29 03:27:07",click,"skills quiz hint"
+46146,308,0,"2023-04-29 03:27:15","Skills Quiz-27 Step-8 Incorrect",Cancel
+46147,308,0,"2023-04-29 03:27:15","Skills Quiz-27 Step-9 Incorrect",Cancel
+46148,308,0,"2023-04-29 03:27:16","Skills Quiz-27 Step-8 Incorrect",Cancel
+46149,308,0,"2023-04-29 03:27:16","Skills Quiz-27 Step-9 Incorrect",Cancel
+46150,308,0,"2023-04-29 03:27:19","Skills Quiz-27 Step-8 Incorrect",Cancel
+46151,308,0,"2023-04-29 03:27:19","Skills Quiz-27 Step-9 Incorrect",Cancel
+46152,308,0,"2023-04-29 03:27:20","Skills Quiz-27 Step-8 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46153,308,0,"2023-04-29 03:27:20","Skills Quiz-27 Step-9 Incorrect","Event DeleteAre you sure?CancelDelete  "
+46154,308,0,"2023-04-29 03:27:21","Skills Quiz-27 Step-9 Incorrect",Delete
+46155,308,0,"2023-04-29 03:27:21","Skills Quiz-27 Step-8 Incorrect",Delete
+46156,308,0,"2023-04-29 03:27:22","Skills Quiz-27 Step-9 Incorrect",Delete
+46157,308,0,"2023-04-29 03:27:22","Skills Quiz-27 Step-8 Incorrect",Delete
+46158,308,0,"2023-04-29 03:27:23","Skills Quiz-27 Step-9 Incorrect","Are you sure?"
+46159,308,0,"2023-04-29 03:27:23","Skills Quiz-27 Step-8 Incorrect","Are you sure?"
+46160,308,526,"2023-04-29 03:29:58",click,"skills quiz hint"
+46161,308,0,"2023-04-29 03:30:05","Skills Quiz-27 Step-1 Incorrect","Optimism Rating View"
+46162,308,526,"2023-04-29 03:30:19",click,"skills quiz hint"
+46163,308,0,"2023-04-29 03:30:22","Skills Quiz-27 Step-1 Incorrect",Edit
+46164,308,0,"2023-04-29 03:30:34","Skills Quiz-27 Step-3 Incorrect",Save
+46165,308,0,"2023-04-29 03:30:38","Skills Quiz-27 Step-3 Incorrect",Save
+46166,308,0,"2023-04-29 03:30:51","Skills Quiz-27 Step-3 Correct",YES
+46167,308,0,"2023-04-29 03:30:57","Skills Quiz-27 Step-4 Incorrect",Close
+46168,308,0,"2023-04-29 03:31:04","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+46169,308,0,"2023-04-29 03:31:10","Skills Quiz-27 Step-5 Incorrect",Happiness
+46170,308,0,"2023-04-29 03:31:12","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+46171,308,0,"2023-04-29 03:31:13","Skills Quiz-27 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+46172,308,0,"2023-04-29 03:31:14","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+46173,308,0,"2023-04-29 03:31:16","Skills Quiz-27 Step-5 Correct",Optimism
+46174,308,0,"2023-04-29 03:31:18","Skills Quiz-27 Step-6 Correct","                  Select               "
+46175,308,0,"2023-04-29 03:31:22","Skills Quiz-27 Step-7 Correct",Save
+46176,308,526,"2023-04-29 03:31:29",click,"skills quiz hint"
+46177,308,0,"2023-04-29 03:31:32","Skills Quiz-27 Step-8 Incorrect","Optimism Rating "
+46178,308,526,"2023-04-29 03:31:37",click,"skills quiz hint"
+46179,308,0,"2023-04-29 03:31:39","Skills Quiz-27 Step-9 Correct",4
+46180,308,0,"2023-04-29 03:31:39","Skills Quiz-27 Step-8 Incorrect",4
+46181,308,0,"2023-04-29 03:31:44","Skills Quiz-27 Step-8 Incorrect","CancelSave and View GraphSave"
+46182,308,0,"2023-04-29 03:31:44","Skills Quiz-27 Step-10 Incorrect","CancelSave and View GraphSave"
+46183,308,0,"2023-04-29 03:31:45","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+46184,308,0,"2023-04-29 03:31:45","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+46185,308,0,"2023-04-29 03:31:52","Skills Quiz-27 Step-11 Correct","View Progress"
+46186,308,0,"2023-04-29 03:31:53","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2023-04-29 03:31:53",module_end,none

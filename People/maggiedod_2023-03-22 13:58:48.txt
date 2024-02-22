@@ -1,0 +1,28 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+31519,221,212,"2023-03-22 13:58:05",page-load,"skills quiz preview"
+31520,221,212,"2023-03-22 13:58:09",click,next-page
+31521,221,0,"2023-03-22 13:58:11","Skills Quiz-12 Step-1 Correct","Add New Folder"
+31522,221,0,"2023-03-22 13:58:12","Skills Quiz-12 Step-2 Correct",modal-folder-title
+31523,221,0,"2023-03-22 13:58:20","Skills Quiz-12 Step-3 Incorrect",Next
+31524,221,0,"2023-03-22 13:58:21","Skills Quiz-12 Step-3 Incorrect"," SAVE"
+31525,221,0,"2023-03-22 13:58:21","Skills Quiz-12 Step-4 Correct"," SAVE"
+31526,221,0,"2023-03-22 13:58:22","Skills Quiz-12 Step-3 Incorrect",CloseEDIT
+31527,221,0,"2023-03-22 13:58:22","Skills Quiz-12 Step-5 Incorrect",CloseEDIT
+31528,221,0,"2023-03-22 13:58:23","Skills Quiz-12 Step-5 Correct",Close
+31529,221,0,"2023-03-22 13:58:23","Skills Quiz-12 Step-3 Incorrect",Close
+31530,221,0,"2023-03-22 13:58:24","Skills Quiz-12 Step-6 Correct",Edit
+31531,221,0,"2023-03-22 13:58:24","Skills Quiz-12 Step-3 Incorrect",Edit
+31532,221,0,"2023-03-22 13:58:25","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping"
+31533,221,0,"2023-03-22 13:58:25","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping"
+31534,221,0,"2023-03-22 13:58:26","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping"
+31535,221,0,"2023-03-22 13:58:26","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping"
+31536,221,0,"2023-03-22 13:58:28","Skills Quiz-12 Step-3 Incorrect",SAVE
+31537,221,0,"2023-03-22 13:58:28","Skills Quiz-12 Step-7 Correct",SAVE
+31538,221,0,"2023-03-22 13:58:29","Skills Quiz-12 Step-3 Correct",modal-folder-title
+31539,221,0,"2023-03-22 13:58:29","Skills Quiz-12 Step-8 Correct",modal-folder-title
+31540,221,0,"2023-03-22 13:58:45","Skills Quiz-12 Step-9 Incorrect",Next
+31541,221,0,"2023-03-22 13:58:46","Skills Quiz-12 Step-9 Incorrect",SAVE
+31542,221,0,"2023-03-22 13:58:46","Skills Quiz-12 Step-10 Correct",SAVE
+31543,221,0,"2023-03-22 13:58:48","Skills Quiz-12 Step-11 Correct",Close
+31544,221,0,"2023-03-22 13:58:48","Skills Quiz-12 Step-9 Incorrect",Close
+0,0,0,"2023-03-22 13:58:48",module_end,none

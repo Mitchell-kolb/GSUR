@@ -1,0 +1,62 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+37894,296,225,"2023-04-05 08:57:56",page-load,video
+37895,296,226,"2023-04-05 09:03:10",page-load,"web form: question"
+37896,296,226,"2023-04-05 09:03:22",click,"correct-option: Magnifying Glass"
+37897,296,226,"2023-04-05 09:03:27",click,next-page
+37898,296,227,"2023-04-05 09:03:28",page-load,video
+38133,296,500,"2023-04-06 15:35:43",page-load,video
+38134,296,400,"2023-04-06 15:35:48",page-load,video
+38135,296,401,"2023-04-06 15:41:12",page-load,"web form: question"
+38136,296,401,"2023-04-06 15:41:16",click,"correct-option: False"
+38137,296,401,"2023-04-06 15:41:18",click,next-page
+38138,296,402,"2023-04-06 15:41:18",page-load,video
+38139,296,403,"2023-04-06 15:46:51",page-load,"web form: what would you like to do next"
+38140,296,403,"2023-04-06 15:46:54",click,next-page
+38141,296,404,"2023-04-06 15:46:55",page-load,"skills quiz preview"
+38142,296,404,"2023-04-06 15:47:03",click,next-page
+38143,296,0,"2023-04-06 15:47:11","Skills Quiz-19 Step-1 Incorrect",HEALTH
+38144,296,0,"2023-04-06 15:47:13","Skills Quiz-19 Step-2 Correct","Medical Information"
+38145,296,0,"2023-04-06 15:47:19","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+38146,296,0,"2023-04-06 15:47:22","Skills Quiz-19 Step-3 Correct","Add New Note"
+38147,296,0,"2023-04-06 15:47:27","Skills Quiz-19 Step-4 Correct",noteSpecialty
+38148,296,0,"2023-04-06 15:47:57","Skills Quiz 30 second Hint",30time
+38149,296,0,"2023-04-06 15:48:37","Skills Quiz-19 Step-6 Incorrect",Address
+38150,296,0,"2023-04-06 15:48:40","Skills Quiz-19 Step-6 Incorrect",Address
+38151,296,0,"2023-04-06 15:48:42","Skills Quiz-19 Step-6 Incorrect",Address
+38152,296,0,"2023-04-06 15:48:42","Skills Quiz-19 Step-6 Incorrect","SpecialtyNamePhone NumberAddressDetails"
+38153,296,0,"2023-04-06 15:48:43","Skills Quiz-19 Step-6 Incorrect","New Doctor NoteDoctors InformationSpecialtyNamePhone NumberAddressDetailsClose  SAVE"
+38154,296,0,"2023-04-06 15:48:43","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+38155,296,0,"2023-04-06 15:48:44","Skills Quiz-19 Step-6 Incorrect","SpecialtyNamePhone NumberAddressDetails"
+38156,296,0,"2023-04-06 15:48:44","Skills Quiz-19 Step-6 Incorrect","SpecialtyNamePhone NumberAddressDetails"
+38157,296,0,"2023-04-06 15:48:46","Skills Quiz-19 Step-6 Incorrect",Address
+38158,296,0,"2023-04-06 15:48:48","Skills Quiz-19 Step-6 Incorrect",Address
+38159,296,0,"2023-04-06 15:48:49","Skills Quiz-19 Step-6 Incorrect",Address
+38160,296,0,"2023-04-06 15:48:49","Skills Quiz-19 Step-6 Incorrect",Address
+38161,296,0,"2023-04-06 15:49:00","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+38162,296,0,"2023-04-06 15:49:10","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+38163,296,0,"2023-04-06 15:49:11","Skills Quiz-19 Step-6 Incorrect","Close  "
+38164,296,0,"2023-04-06 15:49:18","Skills Quiz-19 Step-2 Correct","Medical Information"
+38165,296,0,"2023-04-06 15:49:20","Skills Quiz-19 Step-3 Correct","Add New Note"
+38166,296,0,"2023-04-06 15:50:15","Skills Quiz 30 second Hint",30time
+38167,296,0,"2023-04-06 15:50:36","Skills Quiz-19 Step-4 Incorrect","Close  "
+38168,296,0,"2023-04-06 15:50:36","Skills Quiz-19 Step-4 Incorrect","Close  "
+38169,296,0,"2023-04-06 15:50:47","Skills Quiz-19 Step-2 Incorrect",TODAYCALENDARHEALTHNOTES
+38170,296,0,"2023-04-06 15:50:49","Skills Quiz-19 Step-2 Incorrect","Tracked Health ActivitiesMedical Information"
+38171,296,0,"2023-04-06 15:50:54","Skills Quiz-19 Step-1 Incorrect",NOTES
+38172,296,404,"2023-04-06 15:50:58",click,next-page
+38173,296,0,"2023-04-06 15:51:01","Skills Quiz-19 Step-1 Incorrect",HEALTH
+38174,296,0,"2023-04-06 15:51:04","Skills Quiz-19 Step-2 Correct","Medical Information"
+38175,296,0,"2023-04-06 15:51:08","Skills Quiz-19 Step-3 Correct","Add New Note"
+38176,296,0,"2023-04-06 15:51:10","Skills Quiz-19 Step-4 Correct",noteSpecialty
+38177,296,0,"2023-04-06 15:51:54","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+38178,296,0,"2023-04-06 15:51:55","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+38179,296,0,"2023-04-06 15:51:57","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+38180,296,0,"2023-04-06 15:52:00","Skills Quiz-19 Step-6 Correct",noteName
+38181,296,0,"2023-04-06 15:52:17","Skills Quiz-19 Step-8 Incorrect","Close  SAVE"
+38182,296,0,"2023-04-06 15:52:22","Skills Quiz-19 Step-8 Correct",notePhone
+38183,296,0,"2023-04-06 15:52:30","Skills Quiz-19 Step-10 Correct",noteAddress
+38184,296,0,"2023-04-06 15:52:46","Skills Quiz-19 Step-12 Incorrect",Address
+38185,296,0,"2023-04-06 15:52:49","Skills Quiz-19 Step-12 Correct",noteDetails
+38186,296,0,"2023-04-06 15:53:21","Skills Quiz-19 Step-14 Correct",SAVE
+38187,296,0,"2023-04-06 15:53:24","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-04-06 15:53:25",module_end,none

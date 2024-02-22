@@ -1,0 +1,25 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+108727,407,400,"2023-12-23 04:54:49",page-load,video
+108728,407,401,"2023-12-23 04:58:50",page-load,"web form: question"
+108729,407,401,"2023-12-23 04:59:00",click,"correct-option: False"
+108730,407,401,"2023-12-23 04:59:15",click,next-page
+108731,407,402,"2023-12-23 04:59:16",page-load,video
+108732,407,403,"2023-12-23 05:04:48",page-load,"web form: what would you like to do next"
+108733,407,403,"2023-12-23 05:04:55",click,next-page
+108734,407,404,"2023-12-23 05:04:55",page-load,"skills quiz preview"
+108735,407,404,"2023-12-23 05:05:22",click,next-page
+108736,407,0,"2023-12-23 05:05:27","Skills Quiz-19 Step-1 Incorrect",HEALTH
+108737,407,0,"2023-12-23 05:05:29","Skills Quiz-19 Step-2 Correct","Medical Information"
+108738,407,0,"2023-12-23 05:06:00","Skills Quiz 30 second Hint",30time
+108739,407,0,"2023-12-23 05:06:07","Skills Quiz-19 Step-3 Correct","Add New Note"
+108740,407,0,"2023-12-23 05:06:10","Skills Quiz-19 Step-4 Correct",noteSpecialty
+108741,407,0,"2023-12-23 05:06:40","Skills Quiz 30 second Hint",30time
+108742,407,0,"2023-12-23 05:06:48","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+108743,407,0,"2023-12-23 05:06:53","Skills Quiz-19 Step-6 Correct",noteName
+108744,407,0,"2023-12-23 05:07:11","Skills Quiz-19 Step-8 Correct",notePhone
+108745,407,0,"2023-12-23 05:07:28","Skills Quiz-19 Step-10 Correct",noteAddress
+108746,407,0,"2023-12-23 05:07:58","Skills Quiz-19 Step-12 Correct",noteDetails
+108747,407,0,"2023-12-23 05:08:28","Skills Quiz 30 second Hint",30time
+108748,407,0,"2023-12-23 05:09:09","Skills Quiz-19 Step-14 Correct"," SAVE"
+108749,407,0,"2023-12-23 05:09:11","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-12-23 05:09:11",module_end,none

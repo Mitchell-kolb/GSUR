@@ -1,0 +1,31 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+41144,315,27,"2023-04-17 11:23:22",page-load,"web form: question"
+41145,315,27,"2023-04-17 11:23:28",click,"correct-option: True"
+41146,315,27,"2023-04-17 11:23:30",click,next-page
+41147,315,28,"2023-04-17 11:23:30",page-load,"web form: question"
+41148,315,28,"2023-04-17 11:23:35",click,"correct-option: True"
+41149,315,28,"2023-04-17 11:23:36",click,next-page
+41150,315,29,"2023-04-17 11:23:37",page-load,video
+41151,315,30,"2023-04-17 11:25:50",page-load,"web form: question"
+41152,315,30,"2023-04-17 11:25:56",click,"incorrect-option: Who else is involved in the activity"
+41153,315,30,"2023-04-17 11:25:57",click,"incorrect-option: Where the activity will take place (address or room number)"
+41154,315,30,"2023-04-17 11:25:58",click,"incorrect-option: A list of the items you need to bring to the event"
+41155,315,30,"2023-04-17 11:25:59",click,"correct-option: All of the above"
+41156,315,30,"2023-04-17 11:26:01",click,next-page
+41157,315,31,"2023-04-17 11:26:01",page-load,video
+41158,315,32,"2023-04-17 11:30:04",page-load,"web form: what would you like to do next"
+41159,315,0,"2023-04-17 11:31:04","Skills Quiz-3 Step-1 Correct",TODAY
+41160,315,0,"2023-04-17 11:31:07","Skills Quiz-3 Step-2 Incorrect","Add Entry/Event"
+41161,315,0,"2023-04-17 11:31:15","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+41162,315,0,"2023-04-17 11:31:16","Skills Quiz-3 Step-4 Correct",right-arrow
+41163,315,0,"2023-04-17 11:31:18","Skills Quiz-3 Step-5 Correct",14
+41164,315,0,"2023-04-17 11:31:20","Skills Quiz-3 Step-6 Correct",OK
+41165,315,0,"2023-04-17 11:31:22","Skills Quiz-3 Step-7 Correct","Tap Here"
+41166,315,0,"2023-04-17 11:31:30","Skills Quiz-3 Step-10 Correct","Tap Here"
+41167,315,0,"2023-04-17 11:31:40","Skills Quiz-3 Step-13 Correct",event-title
+41168,315,0,"2023-04-17 11:32:14","Skills Quiz-3 Step-15 Incorrect",undefined
+41169,315,0,"2023-04-17 11:32:16","Skills Quiz-3 Step-15 Incorrect",undefined
+41170,315,0,"2023-04-17 11:32:18","Skills Quiz-3 Step-15 Correct",event-description
+41171,315,0,"2023-04-17 11:32:36","Skills Quiz-3 Step-17 Incorrect",undefined
+41172,315,0,"2023-04-17 11:32:40","Skills Quiz-3 Step-17 Incorrect",Next
+0,0,0,"2023-04-17 11:32:40",module_end,none

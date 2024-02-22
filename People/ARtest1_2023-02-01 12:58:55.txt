@@ -1,0 +1,132 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+12395,250,528,"2023-02-01 12:52:05",click,next-page
+12396,250,0,"2023-02-01 12:52:11","Skills Quiz-28 Step-1 Incorrect",Edit
+12397,250,0,"2023-02-01 12:52:11","Skills Quiz-28 Step-2 Correct",Edit
+12398,250,0,"2023-02-01 12:52:13","Skills Quiz-28 Step-3 Correct",YES
+12399,250,0,"2023-02-01 12:52:18","Skills Quiz-28 Step-4 Incorrect","WeightBlood PressureMedications"
+12400,250,0,"2023-02-01 12:52:19","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12401,250,0,"2023-02-01 12:52:23","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12402,250,0,"2023-02-01 12:52:24","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12403,250,0,"2023-02-01 12:52:25","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12404,250,0,"2023-02-01 12:52:25","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12405,250,0,"2023-02-01 12:52:27","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12406,250,0,"2023-02-01 12:52:28","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12407,250,0,"2023-02-01 12:52:30","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12408,250,0,"2023-02-01 12:52:32","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12409,250,0,"2023-02-01 12:52:33","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12410,250,0,"2023-02-01 12:52:33","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12411,250,0,"2023-02-01 12:52:39","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12412,250,0,"2023-02-01 12:52:39","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12413,250,0,"2023-02-01 12:52:47","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12414,250,0,"2023-02-01 12:52:48","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12415,250,0,"2023-02-01 12:52:48","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12416,250,0,"2023-02-01 12:52:49","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12417,250,0,"2023-02-01 12:54:56","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12418,250,0,"2023-02-01 12:54:56","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12419,250,0,"2023-02-01 12:54:57","Skills Quiz-28 Step-4 Incorrect","WeightBlood PressureMedications"
+12420,250,0,"2023-02-01 12:55:25","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12421,250,0,"2023-02-01 12:55:26","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12422,250,0,"2023-02-01 12:55:26","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12423,250,0,"2023-02-01 12:56:18","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12424,250,0,"2023-02-01 12:56:18","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12425,250,0,"2023-02-01 12:56:19","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12426,250,0,"2023-02-01 12:56:20","Skills Quiz-28 Step-4 Incorrect","Tracked Health ActivitiesWeightBlood PressureMedicationsPhysical ExerciseCognitive ExerciseWell-being ExerciseCognitive TestingHealth RatingEmotion RatingClose"
+12427,250,0,"2023-02-01 12:56:21","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12428,250,0,"2023-02-01 12:56:22","Skills Quiz-28 Step-4 Incorrect","WeightBlood PressureMedications"
+12429,250,0,"2023-02-01 12:56:30","Skills Quiz-28 Step-2 Correct",Edit
+12430,250,0,"2023-02-01 12:56:30","Skills Quiz-28 Step-1 Incorrect",Edit
+12431,250,0,"2023-02-01 12:56:32","Skills Quiz-28 Step-3 Correct",YES
+12432,250,0,"2023-02-01 12:56:33","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12433,250,0,"2023-02-01 12:56:34","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12434,250,0,"2023-02-01 12:56:37","Skills Quiz-28 Step-4 Incorrect","Cognitive TestingHealth RatingEmotion Rating"
+12435,250,0,"2023-02-01 12:56:38","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12436,250,0,"2023-02-01 12:56:41","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12437,250,0,"2023-02-01 12:56:51","Skills Quiz-28 Step-4 Incorrect","WeightBlood PressureMedications"
+12438,250,0,"2023-02-01 12:56:52","Skills Quiz-28 Step-4 Incorrect","WeightBlood PressureMedicationsPhysical ExerciseCognitive ExerciseWell-being ExerciseCognitive TestingHealth RatingEmotion Rating"
+12439,250,0,"2023-02-01 12:56:54","Skills Quiz-28 Step-4 Incorrect","WeightBlood PressureMedicationsPhysical ExerciseCognitive ExerciseWell-being ExerciseCognitive TestingHealth RatingEmotion Rating"
+12440,250,0,"2023-02-01 12:56:55","Skills Quiz-28 Step-4 Incorrect","Cognitive TestingHealth RatingEmotion Rating"
+12441,250,0,"2023-02-01 12:56:56","Skills Quiz-28 Step-4 Incorrect","Cognitive TestingHealth RatingEmotion Rating"
+12442,250,0,"2023-02-01 12:57:05","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12443,250,0,"2023-02-01 12:57:21","Skills Quiz-28 Step-4 Incorrect","Cognitive TestingHealth RatingEmotion Rating"
+12444,250,0,"2023-02-01 12:57:21","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12445,250,0,"2023-02-01 12:57:22","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12446,250,0,"2023-02-01 12:57:22","Skills Quiz-28 Step-4 Incorrect",Close
+12447,250,0,"2023-02-01 12:57:23","Skills Quiz-28 Step-4 Incorrect",Close
+12448,250,0,"2023-02-01 12:57:23","Skills Quiz-28 Step-4 Incorrect",Close
+12449,250,0,"2023-02-01 12:57:24","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12450,250,0,"2023-02-01 12:57:28","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12451,250,0,"2023-02-01 12:57:34","Skills Quiz-28 Step-1 Incorrect",Edit
+12452,250,0,"2023-02-01 12:57:34","Skills Quiz-28 Step-2 Correct",Edit
+12453,250,0,"2023-02-01 12:57:36","Skills Quiz-28 Step-3 Correct",YES
+12454,250,0,"2023-02-01 12:57:36","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12455,250,0,"2023-02-01 12:57:37","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12456,250,0,"2023-02-01 12:57:38","Skills Quiz-28 Step-4 Incorrect","WeightBlood PressureMedications"
+12457,250,0,"2023-02-01 12:57:38","Skills Quiz-28 Step-4 Incorrect","WeightBlood PressureMedications"
+12458,250,0,"2023-02-01 12:57:39","Skills Quiz-28 Step-4 Incorrect","WeightBlood PressureMedications"
+12459,250,0,"2023-02-01 12:57:40","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12460,250,0,"2023-02-01 12:57:40","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12461,250,0,"2023-02-01 12:57:40","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12462,250,0,"2023-02-01 12:57:41","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12463,250,0,"2023-02-01 12:57:42","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12464,250,0,"2023-02-01 12:57:42","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12465,250,0,"2023-02-01 12:57:44","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+12466,250,0,"2023-02-01 12:57:49","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12467,250,0,"2023-02-01 12:57:51","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12468,250,0,"2023-02-01 12:57:53","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12469,250,0,"2023-02-01 12:57:53","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12470,250,0,"2023-02-01 12:57:54","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12471,250,0,"2023-02-01 12:57:55","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12472,250,0,"2023-02-01 12:57:55","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12473,250,0,"2023-02-01 12:57:56","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12474,250,0,"2023-02-01 12:57:56","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12475,250,0,"2023-02-01 12:57:57","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12476,250,0,"2023-02-01 12:57:58","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12477,250,0,"2023-02-01 12:57:58","Skills Quiz-28 Step-5 Incorrect",Optimism
+12478,250,0,"2023-02-01 12:57:59","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating QuestionHappinessStressOptimismLonelinessOtherCancelSelect"
+12479,250,0,"2023-02-01 12:57:59","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12480,250,0,"2023-02-01 12:58:00","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12481,250,0,"2023-02-01 12:58:01","Skills Quiz-28 Step-5 Incorrect",Optimism
+12482,250,0,"2023-02-01 12:58:02","Skills Quiz-28 Step-5 Incorrect",Stress
+12483,250,0,"2023-02-01 12:58:03","Skills Quiz-28 Step-5 Incorrect",Other
+12484,250,0,"2023-02-01 12:58:03","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12485,250,0,"2023-02-01 12:58:04","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12486,250,0,"2023-02-01 12:58:05","Skills Quiz-28 Step-5 Incorrect",Stress
+12487,250,0,"2023-02-01 12:58:05","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12488,250,0,"2023-02-01 12:58:06","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12489,250,0,"2023-02-01 12:58:07","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12490,250,0,"2023-02-01 12:58:07","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12491,250,0,"2023-02-01 12:58:08","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12492,250,0,"2023-02-01 12:58:08","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12493,250,0,"2023-02-01 12:58:09","Skills Quiz-28 Step-5 Incorrect",Stress
+12494,250,0,"2023-02-01 12:58:10","Skills Quiz-28 Step-5 Correct",Loneliness
+12495,250,0,"2023-02-01 12:58:11","Skills Quiz-28 Step-6 Incorrect",HappinessStressOptimismLonelinessOther
+12496,250,0,"2023-02-01 12:58:12","Skills Quiz-28 Step-6 Incorrect",HappinessStressOptimismLonelinessOther
+12497,250,0,"2023-02-01 12:58:13","Skills Quiz-28 Step-6 Incorrect",HappinessStressOptimismLonelinessOther
+12498,250,0,"2023-02-01 12:58:13","Skills Quiz-28 Step-6 Correct","                  Select               "
+12499,250,0,"2023-02-01 12:58:18","Skills Quiz-28 Step-7 Correct",Save
+12500,250,0,"2023-02-01 12:58:23","Skills Quiz-28 Step-8 Incorrect",Edit
+12501,250,0,"2023-02-01 12:58:23","Skills Quiz-28 Step-9 Incorrect",Edit
+12502,250,0,"2023-02-01 12:58:25","Skills Quiz-28 Step-3 Incorrect",Cancel
+12503,250,0,"2023-02-01 12:58:26","Skills Quiz-28 Step-3 Correct",YES
+12504,250,0,"2023-02-01 12:58:28","Skills Quiz-28 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+12505,250,0,"2023-02-01 12:58:29","Skills Quiz-28 Step-4 Correct","Emotion Rating"
+12506,250,0,"2023-02-01 12:58:30","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12507,250,0,"2023-02-01 12:58:30","Skills Quiz-28 Step-5 Incorrect",Other
+12508,250,0,"2023-02-01 12:58:31","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12509,250,0,"2023-02-01 12:58:32","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12510,250,0,"2023-02-01 12:58:32","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12511,250,0,"2023-02-01 12:58:33","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12512,250,0,"2023-02-01 12:58:33","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12513,250,0,"2023-02-01 12:58:34","Skills Quiz-28 Step-5 Incorrect",CancelSelect
+12514,250,0,"2023-02-01 12:58:35","Skills Quiz-28 Step-5 Incorrect","Select Emotion Rating Question"
+12515,250,0,"2023-02-01 12:58:36","Skills Quiz-28 Step-5 Incorrect",HappinessStressOptimismLonelinessOther
+12516,250,0,"2023-02-01 12:58:36","Skills Quiz-28 Step-5 Incorrect",Happiness
+12517,250,0,"2023-02-01 12:58:37","Skills Quiz-28 Step-5 Incorrect",Stress
+12518,250,0,"2023-02-01 12:58:38","Skills Quiz-28 Step-5 Correct",Loneliness
+12519,250,0,"2023-02-01 12:58:39","Skills Quiz-28 Step-6 Incorrect",HappinessStressOptimismLonelinessOther
+12520,250,0,"2023-02-01 12:58:40","Skills Quiz-28 Step-6 Incorrect",HappinessStressOptimismLonelinessOther
+12521,250,0,"2023-02-01 12:58:40","Skills Quiz-28 Step-6 Correct","                  Select               "
+12522,250,0,"2023-02-01 12:58:42","Skills Quiz-28 Step-7 Correct",Save
+12523,250,0,"2023-02-01 12:58:52","Skills Quiz-28 Step-11 Correct","View Progress"
+12524,250,0,"2023-02-01 12:58:55","Skills Quiz-28 Step-12 Correct",Close
+0,0,0,"2023-02-01 12:58:55",module_end,none

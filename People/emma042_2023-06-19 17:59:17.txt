@@ -1,0 +1,5 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+69029,332,434,"2023-06-19 17:58:42",page-load,video
+69030,332,435,"2023-06-19 17:58:48",page-load,"goal setting: preview"
+69031,332,435,"2023-06-19 17:59:16",click,previous-page
+0,0,0,"2023-06-19 17:59:17",module_end,none

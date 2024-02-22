@@ -1,0 +1,16 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+66570,337,0,"2023-06-15 17:25:13","Skills Quiz 30 second Hint",30time
+66571,337,0,"2023-06-15 17:25:48","Skills Quiz-16 Step-1 Correct",Relevant
+66572,337,0,"2023-06-15 17:25:49","Skills Quiz-16 Step-2 Correct","A - Z"
+66573,337,0,"2023-06-15 17:26:16","Skills Quiz-16 Step-3 Incorrect",folder-title-3
+66574,337,0,"2023-06-15 17:26:19","Skills Quiz-16 Step-3 Incorrect",Edit
+66575,337,0,"2023-06-15 17:26:24","Skills Quiz-16 Step-3 Incorrect",SAVE
+66576,337,0,"2023-06-15 17:26:24","Skills Quiz-16 Step-4 Incorrect",SAVE
+66577,337,0,"2023-06-15 17:26:32","Skills Quiz-16 Step-3 Incorrect"," SAVE"
+66578,337,0,"2023-06-15 17:26:32","Skills Quiz-16 Step-4 Incorrect"," SAVE"
+66579,337,0,"2023-06-15 17:26:34","Skills Quiz-16 Step-3 Incorrect",Close
+66580,337,0,"2023-06-15 17:26:34","Skills Quiz-16 Step-4 Incorrect",Close
+66581,337,0,"2023-06-15 17:26:39","Skills Quiz-16 Step-4 Correct",note-search
+66582,337,0,"2023-06-15 17:26:39","Skills Quiz-16 Step-3 Incorrect",note-search
+66583,337,0,"2023-06-15 17:27:06","Skills Quiz-16 Step-3 Incorrect",Next
+0,0,0,"2023-06-15 17:27:07",module_end,none

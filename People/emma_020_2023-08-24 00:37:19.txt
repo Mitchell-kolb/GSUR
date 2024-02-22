@@ -1,0 +1,28 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+90906,358,140,"2023-08-24 00:34:21",click,next-page
+90907,358,0,"2023-08-24 00:34:40","Skills Quiz-10 Step-1 Correct",Edit
+90908,358,0,"2023-08-24 00:34:45","Skills Quiz-10 Step-2 Correct",nos-time-check
+90909,358,0,"2023-08-24 00:34:47","Skills Quiz-10 Step-3 Correct",start-time
+90910,358,0,"2023-08-24 00:34:53","Skills Quiz-10 Step-6 Correct",end-time
+90911,358,0,"2023-08-24 00:35:15","Skills Quiz-10 Step-9 Correct",Save
+90912,358,0,"2023-08-24 00:35:21","Skills Quiz-10 Step-10 Correct",CALENDAR
+90913,358,0,"2023-08-24 00:35:23","Skills Quiz-10 Step-11 Correct",9
+90914,358,0,"2023-08-24 00:35:29","Skills Quiz-10 Step-12 Correct",Edit
+90915,358,0,"2023-08-24 00:35:33","Skills Quiz-10 Step-13 Incorrect",nos-time-check
+90916,358,0,"2023-08-24 00:35:35","Skills Quiz-10 Step-13 Correct","June 9, 2021"
+90917,358,0,"2023-08-24 00:35:36","Skills Quiz-10 Step-14 Correct",10
+90918,358,0,"2023-08-24 00:35:37","Skills Quiz-10 Step-15 Correct",OK
+90919,358,0,"2023-08-24 00:35:39","Skills Quiz-10 Step-16 Correct",nos-time-check
+90920,358,0,"2023-08-24 00:35:42","Skills Quiz-10 Step-17 Correct",start-time
+90921,358,0,"2023-08-24 00:35:50","Skills Quiz-10 Step-20 Correct",end-time
+90922,358,0,"2023-08-24 00:36:04","Skills Quiz-10 Step-23 Correct",Save
+90923,358,0,"2023-08-24 00:36:15","Skills Quiz-10 Step-24 Correct",CALENDAR
+90924,358,0,"2023-08-24 00:36:17","Skills Quiz-10 Step-25 Correct",10
+90925,358,0,"2023-08-24 00:36:20","Skills Quiz-10 Step-26 Incorrect","4:00 PM - 6:00 PM"
+90926,358,0,"2023-08-24 00:36:23","Skills Quiz-10 Step-26 Incorrect","Bake cookies4:00 PM - 6:00 PM"
+90927,358,0,"2023-08-24 00:36:33","Skills Quiz-10 Step-26 Correct",Edit
+90928,358,0,"2023-08-24 00:36:39","Skills Quiz-10 Step-27 Correct",event-description
+90929,358,0,"2023-08-24 00:37:08","Skills Quiz-10 Step-29 Incorrect",event-description
+90930,358,0,"2023-08-24 00:37:18","Skills Quiz-10 Step-29 Correct","60 min"
+90931,358,0,"2023-08-24 00:37:19","Skills Quiz-10 Step-30 Incorrect","60 min"
+0,0,0,"2023-08-24 00:37:19",module_end,none

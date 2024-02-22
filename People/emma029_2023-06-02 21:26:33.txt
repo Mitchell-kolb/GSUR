@@ -1,0 +1,129 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+56642,329,144,"2023-05-26 19:58:47",page-load,"goal setting: pick three strategies"
+56643,329,144,"2023-05-26 20:00:11",click,next-page
+56644,329,145,"2023-05-26 20:00:11",page-load,"goal setting: pick top strategy"
+56645,329,145,"2023-05-26 20:00:54",click,next-page
+56646,329,146,"2023-05-26 20:00:55",page-load,"goal setting: top strategy display"
+56647,329,146,"2023-05-26 20:01:08",click,next-page
+56648,329,147,"2023-05-26 20:01:08",page-load,"goal setting: example plan"
+56649,329,148,"2023-05-26 20:01:47",page-load,"goal setting: when"
+56650,329,148,"2023-05-26 20:01:53",click,hint
+56651,329,148,"2023-05-26 20:02:27",click,next-page
+56652,329,148,"2023-05-26 20:02:44",click,hint
+56653,329,148,"2023-05-26 20:03:47",click,next-page
+56654,329,149,"2023-05-26 20:03:47",page-load,"goal setting: plan"
+56655,329,149,"2023-05-26 20:04:00",click,previous-page
+56656,329,148,"2023-05-26 20:04:00",page-load,"goal setting: when"
+56657,329,148,"2023-05-26 20:04:31",click,next-page
+56658,329,149,"2023-05-26 20:04:32",page-load,"goal setting: plan"
+56659,329,149,"2023-05-26 20:04:37",click,next-page
+56660,329,150,"2023-05-26 20:04:37",page-load,"goal setting: where"
+56661,329,150,"2023-05-26 20:04:42",click,hint
+56662,329,150,"2023-05-26 20:04:58",click,previous-page
+56663,329,149,"2023-05-26 20:04:59",page-load,"goal setting: plan"
+56664,329,149,"2023-05-26 20:05:02",click,next-page
+56665,329,150,"2023-05-26 20:05:03",page-load,"goal setting: where"
+56666,329,150,"2023-05-26 20:05:07",click,hint
+56667,329,150,"2023-05-26 20:05:11",click,hint
+56668,329,150,"2023-05-26 20:05:45",click,next-page
+56669,329,151,"2023-05-26 20:05:46",page-load,"goal setting: plan"
+56670,329,151,"2023-05-26 20:05:49",click,next-page
+56671,329,152,"2023-05-26 20:05:49",page-load,"goal setting: with whom"
+56672,329,152,"2023-05-26 20:06:19",click,hint
+56673,329,152,"2023-05-26 20:06:31",click,hint
+56674,329,152,"2023-05-26 20:07:06",click,next-page
+56675,329,153,"2023-05-26 20:07:06",page-load,"goal setting: plan"
+56676,329,153,"2023-05-26 20:07:10",click,next-page
+56677,329,154,"2023-05-26 20:07:10",page-load,"goal setting: how"
+56678,329,154,"2023-05-26 20:07:21",click,hint
+56679,329,154,"2023-05-26 20:10:50",click,next-page
+56680,329,154,"2023-05-26 20:10:56",click,hint
+56681,329,154,"2023-05-26 20:13:10",click,hint
+56682,329,154,"2023-05-26 20:13:29",click,next-page
+56683,329,155,"2023-05-26 20:13:29",page-load,"goal setting: plan"
+56684,329,155,"2023-05-26 20:13:33",click,next-page
+56685,329,156,"2023-05-26 20:13:34",page-load,"goal setting: barriers and alternatives"
+56686,329,156,"2023-05-26 20:13:38",click,hint
+56687,329,156,"2023-05-26 20:15:18",click,next-page
+56688,329,156,"2023-05-26 20:15:32",click,next-page
+56689,329,156,"2023-05-26 20:15:34",click,next-page
+56690,329,156,"2023-05-26 20:15:35",click,hint
+56691,329,156,"2023-05-26 20:15:47",click,hint
+56692,329,156,"2023-05-26 20:15:55",click,previous-page
+56693,329,155,"2023-05-26 20:15:55",page-load,"goal setting: plan"
+56694,329,155,"2023-05-26 20:15:59",click,next-page
+56695,329,156,"2023-05-26 20:15:59",page-load,"goal setting: barriers and alternatives"
+56696,329,156,"2023-05-26 20:17:04",click,next-page
+56697,329,157,"2023-05-26 20:17:05",page-load,"goal setting: motivation"
+56698,329,157,"2023-05-26 20:17:32",click,next-page
+56699,329,158,"2023-05-26 20:17:34",page-load,"goal setting: confidence"
+56700,329,158,"2023-05-26 20:17:52",click,next-page
+56701,329,159,"2023-05-26 20:17:53",page-load,"goal setting: plan"
+56702,329,160,"2023-05-26 20:19:20",page-load,"end of lesson: 3"
+60773,329,104,"2023-06-02 20:13:53",page-load,video
+60774,329,200,"2023-06-02 20:14:02",page-load,video
+60775,329,200,"2023-06-02 20:14:51",page-load,video
+60777,329,200,"2023-06-02 21:07:34",page-load,video
+60778,329,201,"2023-06-02 21:11:19",page-load,"web form: question"
+60779,329,201,"2023-06-02 21:11:28",click,hint
+60780,329,201,"2023-06-02 21:11:37",click,"correct-option: D. All of the above"
+60781,329,201,"2023-06-02 21:11:40",click,next-page
+60782,329,202,"2023-06-02 21:11:40",page-load,video
+60783,329,203,"2023-06-02 21:12:19",page-load,"web form: scheduling choices"
+60784,329,203,"2023-06-02 21:12:26",click,hint
+60785,329,203,"2023-06-02 21:12:36",tracked,"Monthly expenditures form"
+60786,329,203,"2023-06-02 21:12:43",tracked,"Address book"
+60787,329,203,"2023-06-02 21:12:44",click,next-page
+60788,329,204,"2023-06-02 21:12:44",page-load,video
+60789,329,205,"2023-06-02 21:15:06",page-load,"web form: question"
+60790,329,205,"2023-06-02 21:15:23",click,"correct-option: Add New Folder"
+60791,329,205,"2023-06-02 21:15:25",click,next-page
+60792,329,206,"2023-06-02 21:15:25",page-load,video
+60793,329,207,"2023-06-02 21:16:28",page-load,"web form: question"
+60794,329,207,"2023-06-02 21:16:39",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+60795,329,207,"2023-06-02 21:16:41",click,next-page
+60796,329,208,"2023-06-02 21:16:42",page-load,"web form: what would you like to do next"
+60797,329,208,"2023-06-02 21:16:44",click,next-page
+60798,329,209,"2023-06-02 21:16:45",page-load,"skills quiz preview"
+60799,329,200,"2023-06-02 21:18:19",page-load,video
+60800,329,201,"2023-06-02 21:18:28",page-load,"web form: question"
+60801,329,201,"2023-06-02 21:18:35",click,"correct-option: D. All of the above"
+60802,329,201,"2023-06-02 21:18:36",click,next-page
+60803,329,202,"2023-06-02 21:18:37",page-load,video
+60804,329,203,"2023-06-02 21:19:18",page-load,"web form: scheduling choices"
+60805,329,203,"2023-06-02 21:19:26",tracked,"Monthly expenditures form"
+60806,329,203,"2023-06-02 21:19:28",tracked,"Address book"
+60807,329,203,"2023-06-02 21:19:36",click,next-page
+60808,329,204,"2023-06-02 21:19:37",page-load,video
+60809,329,205,"2023-06-02 21:22:07",page-load,"web form: question"
+60810,329,205,"2023-06-02 21:22:14",click,"correct-option: Add New Folder"
+60811,329,205,"2023-06-02 21:22:16",click,next-page
+60812,329,206,"2023-06-02 21:22:16",page-load,video
+60813,329,207,"2023-06-02 21:23:21",page-load,"web form: question"
+60814,329,207,"2023-06-02 21:23:28",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+60815,329,207,"2023-06-02 21:23:29",click,next-page
+60816,329,208,"2023-06-02 21:23:30",page-load,"web form: what would you like to do next"
+60817,329,208,"2023-06-02 21:23:32",click,next-page
+60818,329,209,"2023-06-02 21:23:32",page-load,"skills quiz preview"
+60819,329,210,"2023-06-02 21:24:34",click,"skills quiz hint"
+60820,329,0,"2023-06-02 21:24:37","Skills Quiz-11 Step-1 Correct","Add New Folder"
+60821,329,0,"2023-06-02 21:24:48","Skills Quiz-11 Step-2 Incorrect",Title:
+60822,329,210,"2023-06-02 21:24:59",click,"skills quiz hint"
+60823,329,210,"2023-06-02 21:25:00",click,"skills quiz hint"
+60824,329,0,"2023-06-02 21:25:09","Skills Quiz-11 Step-2 Correct",modal-folder-title
+60825,329,0,"2023-06-02 21:25:10","Skills Quiz-11 Step-3 Correct",modal-folder-title
+60826,329,0,"2023-06-02 21:25:22","Skills Quiz-11 Step-4 Correct",SAVE
+60827,329,0,"2023-06-02 21:25:26","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+60828,329,0,"2023-06-02 21:25:30","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+60829,329,0,"2023-06-02 21:25:32","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+60830,329,0,"2023-06-02 21:25:36","Skills Quiz-11 Step-5 Correct",Close
+60831,329,0,"2023-06-02 21:25:55","Skills Quiz-11 Step-6 Correct",Edit
+60832,329,0,"2023-06-02 21:25:56","Skills Quiz-11 Step-7 Incorrect",CloseEDIT
+60833,329,0,"2023-06-02 21:26:00","Skills Quiz-11 Step-7 Correct",SAVE
+60834,329,0,"2023-06-02 21:26:02","Skills Quiz-11 Step-8 Correct",modal-folder-title
+60835,329,0,"2023-06-02 21:26:16","Skills Quiz-11 Step-9 Incorrect",Next
+60836,329,0,"2023-06-02 21:26:25","Skills Quiz-11 Step-9 Incorrect",SAVE
+60837,329,0,"2023-06-02 21:26:25","Skills Quiz-11 Step-10 Correct",SAVE
+60838,329,0,"2023-06-02 21:26:33","Skills Quiz-11 Step-11 Correct",Close
+60839,329,0,"2023-06-02 21:26:33","Skills Quiz-11 Step-9 Incorrect",Close
+0,0,0,"2023-06-02 21:26:33",module_end,none

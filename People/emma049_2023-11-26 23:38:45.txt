@@ -1,0 +1,107 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+102262,359,143,"2023-11-25 02:10:55",page-load,video
+102263,359,144,"2023-11-25 02:12:15",page-load,"goal setting: pick three strategies"
+102264,359,144,"2023-11-25 02:12:35",click,next-page
+102265,359,145,"2023-11-25 02:12:36",page-load,"goal setting: pick top strategy"
+102266,359,145,"2023-11-25 02:12:50",click,next-page
+102267,359,146,"2023-11-25 02:12:52",page-load,"goal setting: top strategy display"
+102268,359,146,"2023-11-25 02:12:59",click,next-page
+102269,359,147,"2023-11-25 02:13:00",page-load,"goal setting: example plan"
+102270,359,148,"2023-11-25 02:14:14",page-load,"goal setting: when"
+102271,359,148,"2023-11-25 02:14:42",click,hint
+102272,359,148,"2023-11-25 02:14:48",click,next-page
+102273,359,149,"2023-11-25 02:14:50",page-load,"goal setting: plan"
+102274,359,149,"2023-11-25 02:14:51",click,next-page
+102275,359,150,"2023-11-25 02:14:52",page-load,"goal setting: where"
+102276,359,150,"2023-11-25 02:15:10",click,next-page
+102277,359,151,"2023-11-25 02:15:11",page-load,"goal setting: plan"
+102278,359,151,"2023-11-25 02:15:20",click,next-page
+102279,359,152,"2023-11-25 02:15:21",page-load,"goal setting: with whom"
+102280,359,152,"2023-11-25 02:15:37",click,next-page
+102281,359,153,"2023-11-25 02:15:38",page-load,"goal setting: plan"
+102282,359,153,"2023-11-25 02:15:42",click,next-page
+102283,359,154,"2023-11-25 02:15:42",page-load,"goal setting: how"
+102284,359,154,"2023-11-25 02:17:10",click,next-page
+102285,359,155,"2023-11-25 02:17:11",page-load,"goal setting: plan"
+102286,359,155,"2023-11-25 02:17:26",click,next-page
+102287,359,156,"2023-11-25 02:17:27",page-load,"goal setting: barriers and alternatives"
+102288,359,156,"2023-11-25 02:18:29",click,next-page
+102289,359,157,"2023-11-25 02:18:30",page-load,"goal setting: motivation"
+102290,359,157,"2023-11-25 02:18:37",click,next-page
+102291,359,158,"2023-11-25 02:18:37",page-load,"goal setting: confidence"
+102292,359,158,"2023-11-25 02:18:51",click,next-page
+102293,359,159,"2023-11-25 02:18:51",page-load,"goal setting: plan"
+102294,359,159,"2023-11-25 02:18:55",click,next-page
+102295,359,160,"2023-11-25 02:18:56",page-load,"end of lesson: 3"
+102296,359,160,"2023-11-25 02:19:12",page-load,"end of lesson: 3"
+102381,359,200,"2023-11-26 23:24:08",page-load,video
+102382,359,201,"2023-11-26 23:27:59",page-load,"web form: question"
+102383,359,201,"2023-11-26 23:28:08",click,"correct-option: D. All of the above"
+102384,359,201,"2023-11-26 23:28:11",click,next-page
+102385,359,202,"2023-11-26 23:28:11",page-load,video
+102386,359,203,"2023-11-26 23:28:53",page-load,"web form: scheduling choices"
+102387,359,203,"2023-11-26 23:29:07",tracked,"Photos/pictures of important people"
+102388,359,203,"2023-11-26 23:29:14",tracked,"Phone messages form"
+102389,359,203,"2023-11-26 23:29:19",tracked,"Travel checklist"
+102390,359,203,"2023-11-26 23:29:26",click,hint
+102391,359,203,"2023-11-26 23:29:27",click,hint
+102392,359,203,"2023-11-26 23:29:28",click,next-page
+102393,359,204,"2023-11-26 23:29:29",page-load,video
+102394,359,205,"2023-11-26 23:32:11",page-load,"web form: question"
+102395,359,205,"2023-11-26 23:32:22",click,"correct-option: Add New Folder"
+102396,359,205,"2023-11-26 23:32:24",click,next-page
+102397,359,206,"2023-11-26 23:32:25",page-load,video
+102398,359,207,"2023-11-26 23:33:32",page-load,"web form: question"
+102399,359,207,"2023-11-26 23:33:44",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+102400,359,207,"2023-11-26 23:33:50",click,next-page
+102401,359,208,"2023-11-26 23:33:51",page-load,"web form: what would you like to do next"
+102402,359,208,"2023-11-26 23:33:54",click,next-page
+102403,359,209,"2023-11-26 23:33:55",page-load,"skills quiz preview"
+102404,359,209,"2023-11-26 23:34:12",click,next-page
+102405,359,0,"2023-11-26 23:34:27","Skills Quiz-11 Step-1 Correct","Add New Folder"
+102406,359,0,"2023-11-26 23:34:33","Skills Quiz-11 Step-2 Correct",modal-folder-title
+102407,359,0,"2023-11-26 23:35:03","Skills Quiz 30 second Hint",30time
+102408,359,0,"2023-11-26 23:35:51","Skills Quiz-11 Step-3 Incorrect",Next
+102409,359,0,"2023-11-26 23:35:57","Skills Quiz-11 Step-4 Correct"," SAVE"
+102410,359,0,"2023-11-26 23:35:57","Skills Quiz-11 Step-3 Incorrect"," SAVE"
+102411,359,0,"2023-11-26 23:35:58","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+102412,359,0,"2023-11-26 23:35:58","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+102413,359,0,"2023-11-26 23:36:03","Skills Quiz-11 Step-5 Correct",Close
+102414,359,0,"2023-11-26 23:36:03","Skills Quiz-11 Step-3 Incorrect",Close
+102415,359,0,"2023-11-26 23:36:41","Skills Quiz-11 Step-1 Correct","Add New Folder"
+102416,359,0,"2023-11-26 23:36:46","Skills Quiz-11 Step-2 Correct",modal-folder-title
+102417,359,0,"2023-11-26 23:37:02","Skills Quiz-11 Step-3 Incorrect",Next
+102418,359,0,"2023-11-26 23:37:11","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+102419,359,0,"2023-11-26 23:37:11","Skills Quiz-11 Step-4 Incorrect",CloseSAVE
+102420,359,0,"2023-11-26 23:37:15","Skills Quiz-11 Step-4 Incorrect",Title:
+102421,359,0,"2023-11-26 23:37:15","Skills Quiz-11 Step-3 Incorrect",Title:
+102422,359,0,"2023-11-26 23:37:15","Skills Quiz-11 Step-3 Incorrect",SAVE
+102423,359,0,"2023-11-26 23:37:16","Skills Quiz-11 Step-4 Correct",SAVE
+102424,359,0,"2023-11-26 23:37:20","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+102425,359,0,"2023-11-26 23:37:20","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+102426,359,0,"2023-11-26 23:37:23","Skills Quiz-11 Step-5 Correct",Close
+102427,359,0,"2023-11-26 23:37:23","Skills Quiz-11 Step-3 Incorrect",Close
+102428,359,0,"2023-11-26 23:37:30","Skills Quiz-11 Step-6 Incorrect","Add New FolderGoalsListsBook listEdit"
+102429,359,0,"2023-11-26 23:37:30","Skills Quiz-11 Step-3 Incorrect","Add New FolderGoalsListsBook listEdit"
+102430,359,0,"2023-11-26 23:37:38","Skills Quiz-11 Step-3 Incorrect",Edit
+102431,359,0,"2023-11-26 23:37:38","Skills Quiz-11 Step-6 Correct",Edit
+102432,359,0,"2023-11-26 23:37:41","Skills Quiz-11 Step-7 Incorrect","Book list"
+102433,359,0,"2023-11-26 23:37:41","Skills Quiz-11 Step-3 Incorrect","Book list"
+102434,359,0,"2023-11-26 23:37:43","Skills Quiz-11 Step-3 Incorrect","Book list"
+102435,359,0,"2023-11-26 23:37:43","Skills Quiz-11 Step-7 Incorrect","Book list"
+102436,359,0,"2023-11-26 23:37:45","Skills Quiz-11 Step-3 Incorrect","Title:Book list"
+102437,359,0,"2023-11-26 23:37:45","Skills Quiz-11 Step-7 Incorrect","Title:Book list"
+102438,359,0,"2023-11-26 23:37:46","Skills Quiz-11 Step-3 Incorrect","Book list"
+102439,359,0,"2023-11-26 23:37:46","Skills Quiz-11 Step-7 Incorrect","Book list"
+102440,359,0,"2023-11-26 23:37:49","Skills Quiz-11 Step-3 Incorrect",SAVE
+102441,359,0,"2023-11-26 23:37:49","Skills Quiz-11 Step-7 Correct",SAVE
+102442,359,0,"2023-11-26 23:37:50","Skills Quiz-11 Step-3 Correct",modal-folder-title
+102443,359,0,"2023-11-26 23:37:50","Skills Quiz-11 Step-8 Correct",modal-folder-title
+102444,359,0,"2023-11-26 23:38:16","Skills Quiz-11 Step-9 Correct",modal-folder-title
+102445,359,0,"2023-11-26 23:38:20","Skills Quiz 30 second Hint",30time
+102446,359,0,"2023-11-26 23:38:34","Skills Quiz-11 Step-10 Incorrect",CloseSAVE
+102447,359,0,"2023-11-26 23:38:37","Skills Quiz-11 Step-10 Incorrect",Title:
+102448,359,0,"2023-11-26 23:38:40","Skills Quiz-11 Step-10 Correct",SAVE
+102449,359,0,"2023-11-26 23:38:42","Skills Quiz-11 Step-11 Incorrect",CloseEDIT
+102450,359,0,"2023-11-26 23:38:45","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-11-26 23:38:45",module_end,none

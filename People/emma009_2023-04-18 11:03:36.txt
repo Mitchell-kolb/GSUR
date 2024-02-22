@@ -1,0 +1,79 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+41408,309,204,"2023-04-18 10:37:52",page-load,video
+41409,309,205,"2023-04-18 10:38:43",page-load,"web form: question"
+41410,309,205,"2023-04-18 10:38:49",click,"correct-option: Add New Folder"
+41411,309,205,"2023-04-18 10:38:51",click,next-page
+41412,309,206,"2023-04-18 10:38:51",page-load,video
+41413,309,207,"2023-04-18 10:39:26",page-load,"web form: question"
+41414,309,207,"2023-04-18 10:39:29",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+41415,309,207,"2023-04-18 10:39:30",click,next-page
+41416,309,208,"2023-04-18 10:39:31",page-load,"web form: what would you like to do next"
+41417,309,208,"2023-04-18 10:39:33",click,next-page
+41418,309,209,"2023-04-18 10:39:34",page-load,"skills quiz preview"
+41419,309,111,"2023-04-18 10:40:02",page-load,"web form: what would you like to do next"
+41420,309,111,"2023-04-18 10:40:20",click,next-page
+41421,309,112,"2023-04-18 10:40:21",page-load,video
+41422,309,113,"2023-04-18 10:40:59",page-load,"web form: question"
+41423,309,113,"2023-04-18 10:41:14",click,"correct-option: D. Both A and C"
+41424,309,113,"2023-04-18 10:41:16",click,next-page
+41425,309,114,"2023-04-18 10:41:17",page-load,video
+41426,309,115,"2023-04-18 10:42:24",page-load,"web form: question"
+41427,309,115,"2023-04-18 10:42:53",click,"correct-option: 30 minutes before"
+41428,309,115,"2023-04-18 10:42:55",click,next-page
+41429,309,116,"2023-04-18 10:42:55",page-load,"web form: what would you like to do next"
+41430,309,200,"2023-04-18 10:43:28",page-load,video
+41431,309,201,"2023-04-18 10:45:05",page-load,"web form: question"
+41432,309,201,"2023-04-18 10:45:15",click,next-page
+41433,309,201,"2023-04-18 10:45:16",click,"correct-option: D. All of the above"
+41434,309,201,"2023-04-18 10:45:17",click,next-page
+41435,309,202,"2023-04-18 10:45:18",page-load,video
+41436,309,200,"2023-04-18 11:01:11",page-load,video
+41437,309,201,"2023-04-18 11:01:26",page-load,"web form: question"
+41438,309,201,"2023-04-18 11:01:28",click,"correct-option: D. All of the above"
+41439,309,201,"2023-04-18 11:01:30",click,next-page
+41440,309,202,"2023-04-18 11:01:30",page-load,video
+41441,309,203,"2023-04-18 11:01:38",page-load,"web form: scheduling choices"
+41442,309,203,"2023-04-18 11:01:43",tracked,"List of current books/movie list"
+41443,309,203,"2023-04-18 11:01:44",tracked,"Travel checklist"
+41444,309,203,"2023-04-18 11:01:46",tracked,"Project planning form"
+41445,309,203,"2023-04-18 11:01:47",tracked,"Phone messages form"
+41446,309,203,"2023-04-18 11:01:50",tracked,"Monthly expenditures form"
+41447,309,203,"2023-04-18 11:01:51",click,next-page
+41448,309,204,"2023-04-18 11:01:52",page-load,video
+41449,309,205,"2023-04-18 11:02:05",page-load,"web form: question"
+41450,309,205,"2023-04-18 11:02:10",click,"correct-option: Add New Folder"
+41451,309,205,"2023-04-18 11:02:12",click,next-page
+41452,309,206,"2023-04-18 11:02:12",page-load,video
+41453,309,207,"2023-04-18 11:02:22",page-load,"web form: question"
+41454,309,207,"2023-04-18 11:02:26",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+41455,309,207,"2023-04-18 11:02:27",click,next-page
+41456,309,208,"2023-04-18 11:02:28",page-load,"web form: what would you like to do next"
+41457,309,208,"2023-04-18 11:02:30",click,next-page
+41458,309,209,"2023-04-18 11:02:31",page-load,"skills quiz preview"
+41459,309,209,"2023-04-18 11:02:47",click,next-page
+41460,309,0,"2023-04-18 11:02:52","Skills Quiz-11 Step-1 Incorrect",NOTES
+41461,309,0,"2023-04-18 11:02:58","Skills Quiz-11 Step-1 Correct","Add New Folder"
+41462,309,0,"2023-04-18 11:03:06","Skills Quiz-11 Step-2 Correct",modal-folder-title
+41463,309,0,"2023-04-18 11:03:13","Skills Quiz-11 Step-3 Incorrect",Next
+41464,309,0,"2023-04-18 11:03:15","Skills Quiz-11 Step-4 Correct"," SAVE"
+41465,309,0,"2023-04-18 11:03:15","Skills Quiz-11 Step-3 Incorrect"," SAVE"
+41466,309,0,"2023-04-18 11:03:17","Skills Quiz-11 Step-3 Incorrect",Close
+41467,309,0,"2023-04-18 11:03:17","Skills Quiz-11 Step-5 Correct",Close
+41468,309,0,"2023-04-18 11:03:19","Skills Quiz-11 Step-6 Correct",Edit
+41469,309,0,"2023-04-18 11:03:19","Skills Quiz-11 Step-3 Incorrect",Edit
+41470,309,0,"2023-04-18 11:03:21","Skills Quiz-11 Step-3 Incorrect","Book list"
+41471,309,0,"2023-04-18 11:03:21","Skills Quiz-11 Step-7 Incorrect","Book list"
+41472,309,0,"2023-04-18 11:03:22","Skills Quiz-11 Step-7 Correct",SAVE
+41473,309,0,"2023-04-18 11:03:22","Skills Quiz-11 Step-3 Incorrect",SAVE
+41474,309,0,"2023-04-18 11:03:23","Skills Quiz-11 Step-8 Correct",modal-folder-title
+41475,309,0,"2023-04-18 11:03:23","Skills Quiz-11 Step-3 Correct",modal-folder-title
+41476,309,0,"2023-04-18 11:03:29","Skills Quiz-11 Step-9 Incorrect",Next
+41477,309,0,"2023-04-18 11:03:30","Skills Quiz-11 Step-10 Correct"," SAVE"
+41478,309,0,"2023-04-18 11:03:30","Skills Quiz-11 Step-9 Incorrect"," SAVE"
+41479,309,0,"2023-04-18 11:03:32","Skills Quiz-11 Step-9 Incorrect",CloseEDIT
+41480,309,0,"2023-04-18 11:03:32","Skills Quiz-11 Step-11 Incorrect",CloseEDIT
+41481,309,0,"2023-04-18 11:03:34","Skills Quiz-11 Step-9 Incorrect",CloseEDIT
+41482,309,0,"2023-04-18 11:03:34","Skills Quiz-11 Step-11 Incorrect",CloseEDIT
+41483,309,0,"2023-04-18 11:03:35","Skills Quiz-11 Step-9 Incorrect",Close
+41484,309,0,"2023-04-18 11:03:35","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-04-18 11:03:36",module_end,none

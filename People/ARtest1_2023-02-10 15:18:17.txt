@@ -1,0 +1,20 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+16188,250,232,"2023-02-10 15:17:08",page-load,"skills quiz preview"
+16189,250,232,"2023-02-10 15:17:10",click,next-page
+16190,250,0,"2023-02-10 15:17:41","Skills Quiz 30 second Hint",30time
+16191,250,0,"2023-02-10 15:18:01","Skills Quiz-16 Step-1 Correct",Relevant
+16192,250,0,"2023-02-10 15:18:02","Skills Quiz-16 Step-2 Correct","A - Z"
+16193,250,0,"2023-02-10 15:18:05","Skills Quiz-16 Step-3 Incorrect",Edit
+16194,250,0,"2023-02-10 15:18:07","Skills Quiz-16 Step-4 Incorrect","Title:Holiday Gifts"
+16195,250,0,"2023-02-10 15:18:07","Skills Quiz-16 Step-3 Incorrect","Title:Holiday Gifts"
+16196,250,0,"2023-02-10 15:18:08","Skills Quiz-16 Step-3 Incorrect",CloseEDIT
+16197,250,0,"2023-02-10 15:18:08","Skills Quiz-16 Step-4 Incorrect",CloseEDIT
+16198,250,0,"2023-02-10 15:18:10","Skills Quiz-16 Step-3 Incorrect",CloseEDIT
+16199,250,0,"2023-02-10 15:18:10","Skills Quiz-16 Step-4 Incorrect",CloseEDIT
+16200,250,0,"2023-02-10 15:18:10","Skills Quiz-16 Step-3 Incorrect",Close
+16201,250,0,"2023-02-10 15:18:10","Skills Quiz-16 Step-4 Incorrect",Close
+16202,250,0,"2023-02-10 15:18:11","Skills Quiz-16 Step-3 Incorrect",note-search
+16203,250,0,"2023-02-10 15:18:11","Skills Quiz-16 Step-4 Correct",note-search
+16204,250,0,"2023-02-10 15:18:13","Skills Quiz-16 Step-3 Incorrect",note-search
+16205,250,0,"2023-02-10 15:18:17","Skills Quiz-16 Step-3 Incorrect",Next
+0,0,0,"2023-02-10 15:18:17",module_end,none

@@ -1,0 +1,21 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+19158,254,204,"2023-02-13 15:37:38",page-load,video
+19159,254,205,"2023-02-13 15:37:43",page-load,"web form: question"
+19160,254,205,"2023-02-13 15:37:44",click,"incorrect-option: View"
+19161,254,205,"2023-02-13 15:37:45",click,next-page
+19162,254,206,"2023-02-13 15:37:45",page-load,video
+19163,254,20,"2023-02-13 15:37:48",page-load,"web form: question"
+19164,254,207,"2023-02-13 15:37:49",page-load,"web form: question"
+19165,254,207,"2023-02-13 15:37:50",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+19166,254,208,"2023-02-13 15:37:50",page-load,"web form: what would you like to do next"
+19167,254,208,"2023-02-13 15:37:51",click,next-page
+19168,254,209,"2023-02-13 15:37:52",page-load,"skills quiz preview"
+19169,254,204,"2023-02-13 15:37:57",page-load,video
+19170,254,229,"2023-02-13 15:37:58",page-load,"skills quiz preview"
+19171,254,204,"2023-02-13 15:37:59",page-load,video
+19172,254,21,"2023-02-13 15:38:00",page-load,"web form: what would you like to do next"
+19173,254,21,"2023-02-13 15:38:05",page-load,"web form: what would you like to do next"
+19174,254,212,"2023-02-13 15:38:06",page-load,"skills quiz preview"
+19175,254,212,"2023-02-13 15:38:10",click,next-page
+19176,254,21,"2023-02-13 15:38:18",page-load,"web form: what would you like to do next"
+0,0,0,"2023-02-13 15:38:19",module_end,none

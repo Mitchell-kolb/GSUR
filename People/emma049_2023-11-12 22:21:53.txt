@@ -1,0 +1,46 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+100919,359,407,"2023-11-12 22:17:33",click,next-page
+100920,359,0,"2023-11-12 22:17:53","Skills Quiz-20 Step-1 Incorrect",NOTES
+100921,359,0,"2023-11-12 22:17:58","Skills Quiz-20 Step-1 Incorrect",HEALTH
+100922,359,0,"2023-11-12 22:18:00","Skills Quiz-20 Step-2 Correct","Medical Information"
+100923,359,0,"2023-11-12 22:18:03","Skills Quiz-20 Step-3 Incorrect",note-list
+100924,359,0,"2023-11-12 22:18:08","Skills Quiz-20 Step-3 Incorrect",undefined
+100925,359,0,"2023-11-12 22:18:10","Skills Quiz-20 Step-3 Incorrect",noteSpecialty
+100926,359,0,"2023-11-12 22:18:11","Skills Quiz-20 Step-4 Correct",noteSpecialty
+100927,359,0,"2023-11-12 22:18:29","Skills Quiz-20 Step-3 Incorrect",Name
+100928,359,0,"2023-11-12 22:18:31","Skills Quiz-20 Step-3 Incorrect",Next
+100929,359,0,"2023-11-12 22:18:33","Skills Quiz-20 Step-3 Incorrect",noteName
+100930,359,0,"2023-11-12 22:18:33","Skills Quiz-20 Step-6 Correct",noteName
+100931,359,0,"2023-11-12 22:18:45","Skills Quiz-20 Step-3 Incorrect",Next
+100932,359,0,"2023-11-12 22:18:46","Skills Quiz-20 Step-8 Correct",notePhone
+100933,359,0,"2023-11-12 22:18:46","Skills Quiz-20 Step-3 Incorrect",notePhone
+100934,359,0,"2023-11-12 22:19:00","Skills Quiz-20 Step-3 Incorrect",Next
+100935,359,0,"2023-11-12 22:19:02","Skills Quiz-20 Step-10 Correct",noteAddress
+100936,359,0,"2023-11-12 22:19:02","Skills Quiz-20 Step-3 Incorrect",noteAddress
+100937,359,0,"2023-11-12 22:19:14","Skills Quiz-20 Step-3 Incorrect","Close  SAVE"
+100938,359,0,"2023-11-12 22:19:15","Skills Quiz-20 Step-3 Incorrect","SpecialtyNamePhone NumberAddressDetails"
+100939,359,0,"2023-11-12 22:19:15","Skills Quiz-20 Step-3 Incorrect","SpecialtyNamePhone NumberAddressDetails"
+100940,359,0,"2023-11-12 22:19:16","Skills Quiz-20 Step-3 Incorrect",Details
+100941,359,0,"2023-11-12 22:19:25","Skills Quiz-20 Step-3 Incorrect",noteAddress
+100942,359,0,"2023-11-12 22:19:29","Skills Quiz-20 Step-3 Incorrect","Close  SAVE"
+100943,359,0,"2023-11-12 22:19:31","Skills Quiz-20 Step-3 Incorrect","Close  SAVE"
+100944,359,0,"2023-11-12 22:19:36","Skills Quiz-20 Step-3 Incorrect",Details
+100945,359,0,"2023-11-12 22:19:37","Skills Quiz-20 Step-3 Incorrect",Details
+100946,359,0,"2023-11-12 22:19:37","Skills Quiz-20 Step-3 Incorrect","SpecialtyNamePhone NumberAddressDetails"
+100947,359,0,"2023-11-12 22:19:37","Skills Quiz-20 Step-3 Incorrect",Details
+100948,359,0,"2023-11-12 22:19:47","Skills Quiz-20 Step-3 Incorrect","Close  SAVE"
+100949,359,0,"2023-11-12 22:19:47","Skills Quiz-20 Step-3 Incorrect",Next
+100950,359,0,"2023-11-12 22:19:47","Skills Quiz-20 Step-3 Incorrect","Close  SAVE"
+100951,359,0,"2023-11-12 22:19:48","Skills Quiz-20 Step-12 Incorrect",Next
+100952,359,0,"2023-11-12 22:19:48","Skills Quiz-20 Step-3 Incorrect",Next
+100953,359,0,"2023-11-12 22:19:48","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+100954,359,0,"2023-11-12 22:19:58","Skills Quiz-20 Step-3 Incorrect",noteDetails
+100955,359,0,"2023-11-12 22:19:58","Skills Quiz-20 Step-12 Correct",noteDetails
+100956,359,0,"2023-11-12 22:21:44","Skills Quiz-20 Step-3 Incorrect","Close  SAVE"
+100957,359,0,"2023-11-12 22:21:46","Skills Quiz-20 Step-3 Incorrect","Close  SAVE"
+100958,359,0,"2023-11-12 22:21:47","Skills Quiz-20 Step-3 Incorrect",Next
+100959,359,0,"2023-11-12 22:21:48","Skills Quiz-20 Step-14 Correct",SAVE
+100960,359,0,"2023-11-12 22:21:48","Skills Quiz-20 Step-3 Incorrect",SAVE
+100961,359,0,"2023-11-12 22:21:53","Skills Quiz-20 Step-3 Incorrect",Close
+100962,359,0,"2023-11-12 22:21:53","Skills Quiz-20 Step-14 Correct",Close
+0,0,0,"2023-11-12 22:21:53",module_end,none

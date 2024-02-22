@@ -1,0 +1,69 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+101920,359,119,"2023-11-25 00:44:27",click,"skills quiz hint"
+101921,359,0,"2023-11-25 00:44:30","Skills Quiz-6 Step-1 Correct",CALENDAR
+101922,359,0,"2023-11-25 00:44:36","Skills Quiz-6 Step-2 Incorrect","JUNE 2021"
+101923,359,0,"2023-11-25 00:44:37","Skills Quiz-6 Step-2 Correct",right-arrow
+101924,359,0,"2023-11-25 00:44:42","Skills Quiz-6 Step-2 Correct",right-arrow
+101925,359,0,"2023-11-25 00:44:51","Skills Quiz-6 Step-3 Correct",3
+101926,359,119,"2023-11-25 00:45:29",click,"skills quiz hint"
+101927,359,119,"2023-11-25 00:47:04",click,"skills quiz hint"
+101928,359,119,"2023-11-25 00:47:48",click,"skills quiz hint"
+101929,359,119,"2023-11-25 00:49:34",click,"skills quiz hint"
+101930,359,119,"2023-11-25 00:49:38",click,"skills quiz hint"
+101931,359,119,"2023-11-25 00:49:39",click,"skills quiz hint"
+101932,359,119,"2023-11-25 00:49:40",click,"skills quiz hint"
+101933,359,119,"2023-11-25 00:49:40",click,"skills quiz hint"
+101934,359,119,"2023-11-25 00:50:07",click,"skills quiz hint"
+101935,359,119,"2023-11-25 00:50:14",click,"skills quiz hint"
+101936,359,119,"2023-11-25 00:50:15",click,"skills quiz hint"
+101937,359,119,"2023-11-25 00:50:15",click,"skills quiz hint"
+101938,359,119,"2023-11-25 00:50:16",click,"skills quiz hint"
+101939,359,119,"2023-11-25 00:50:16",click,"skills quiz hint"
+101940,359,119,"2023-11-25 00:50:16",click,"skills quiz hint"
+101941,359,119,"2023-11-25 00:50:17",click,"skills quiz hint"
+101942,359,119,"2023-11-25 00:50:37",click,"skills quiz hint"
+101943,359,119,"2023-11-25 00:50:39",click,"skills quiz hint"
+101944,359,119,"2023-11-25 00:50:40",click,"skills quiz hint"
+101945,359,119,"2023-11-25 00:50:40",click,"skills quiz hint"
+101946,359,119,"2023-11-25 00:50:41",click,"skills quiz hint"
+101947,359,119,"2023-11-25 00:51:09",click,"skills quiz hint"
+101948,359,119,"2023-11-25 00:51:10",click,"skills quiz hint"
+101949,359,119,"2023-11-25 00:51:11",click,"skills quiz hint"
+101950,359,119,"2023-11-25 00:51:11",click,"skills quiz hint"
+101951,359,119,"2023-11-25 00:51:11",click,"skills quiz hint"
+101952,359,119,"2023-11-25 00:51:11",click,"skills quiz hint"
+101953,359,119,"2023-11-25 00:51:12",click,"skills quiz hint"
+101954,359,119,"2023-11-25 00:51:14",click,"skills quiz hint"
+101955,359,119,"2023-11-25 00:51:43",click,"skills quiz hint"
+101956,359,119,"2023-11-25 00:52:00",click,"skills quiz hint"
+101957,359,119,"2023-11-25 00:52:03",click,"skills quiz hint"
+101958,359,119,"2023-11-25 00:52:04",click,"skills quiz hint"
+101959,359,119,"2023-11-25 00:52:05",click,"skills quiz hint"
+101960,359,119,"2023-11-25 00:53:09",click,"skills quiz hint"
+101961,359,119,"2023-11-25 00:53:11",click,"skills quiz hint"
+101962,359,119,"2023-11-25 00:53:11",click,"skills quiz hint"
+101963,359,119,"2023-11-25 00:53:12",click,"skills quiz hint"
+101964,359,119,"2023-11-25 00:53:12",click,"skills quiz hint"
+101965,359,119,"2023-11-25 00:53:16",click,"skills quiz hint"
+101966,359,119,"2023-11-25 00:54:00",click,"skills quiz hint"
+101967,359,119,"2023-11-25 00:54:01",click,"skills quiz hint"
+101968,359,119,"2023-11-25 00:56:04",click,"skills quiz hint"
+101969,359,119,"2023-11-25 00:56:06",click,"skills quiz hint"
+101970,359,119,"2023-11-25 00:56:10",click,"skills quiz hint"
+101971,359,119,"2023-11-25 00:56:10",click,"skills quiz hint"
+101972,359,119,"2023-11-25 00:56:10",click,"skills quiz hint"
+101973,359,119,"2023-11-25 00:56:10",click,"skills quiz hint"
+101974,359,119,"2023-11-25 00:56:11",click,"skills quiz hint"
+101975,359,119,"2023-11-25 00:57:50",click,"skills quiz hint"
+101976,359,0,"2023-11-25 00:58:22","Skills Quiz 30 second Hint",30time
+101977,359,0,"2023-11-25 00:58:30","Skills Quiz-6 Step-1 Correct",CALENDAR
+101978,359,0,"2023-11-25 00:58:35","Skills Quiz-6 Step-2 Correct",right-arrow
+101979,359,0,"2023-11-25 00:58:36","Skills Quiz-6 Step-2 Correct",right-arrow
+101980,359,119,"2023-11-25 00:58:38",click,"skills quiz hint"
+101981,359,0,"2023-11-25 00:58:41","Skills Quiz-6 Step-3 Correct",3
+101982,359,0,"2023-11-25 00:59:06","Skills Quiz-6 Step-4 Incorrect",undefined
+101983,359,0,"2023-11-25 00:59:23","Skills Quiz-6 Step-4 Correct",Edit
+101984,359,0,"2023-11-25 00:59:41","Skills Quiz-6 Step-5 Correct",YES
+101985,359,0,"2023-11-25 00:59:43","Skills Quiz-6 Step-6 Correct","60 min"
+101986,359,0,"2023-11-25 00:59:58","Skills Quiz-6 Step-7 Correct",Save
+0,0,0,"2023-11-25 00:59:59",module_end,none

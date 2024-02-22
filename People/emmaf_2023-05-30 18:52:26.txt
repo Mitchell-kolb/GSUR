@@ -1,0 +1,90 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+58914,334,502,"2023-05-30 18:46:45",page-load,video
+58943,334,503,"2023-05-30 18:49:11",page-load,"web form: scheduling choices"
+58944,334,503,"2023-05-30 18:49:17",tracked,"Cooking a new recipe"
+58945,334,503,"2023-05-30 18:49:18",tracked,"Reading a book"
+58946,334,503,"2023-05-30 18:49:19",tracked,"Socialize with family and friends"
+58947,334,503,"2023-05-30 18:49:19",click,next-page
+58948,334,504,"2023-05-30 18:49:20",page-load,video
+58957,334,505,"2023-05-30 18:50:48",page-load,"web form: what would you like to do next"
+58958,334,505,"2023-05-30 18:50:50",click,next-page
+58959,334,506,"2023-05-30 18:50:51",page-load,"skills quiz preview"
+58960,334,506,"2023-05-30 18:50:52",click,next-page
+58961,334,0,"2023-05-30 18:51:22","Skills Quiz 30 second Hint",30time
+58962,334,0,"2023-05-30 18:51:40","Skills Quiz-25 Step-1 Correct",TODAY
+58963,334,0,"2023-05-30 18:51:41","Skills Quiz-25 Step-2 Incorrect",undefined
+58964,334,0,"2023-05-30 18:51:42","Skills Quiz-25 Step-3 Correct","Tap Here"
+58965,334,0,"2023-05-30 18:51:42","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+58966,334,0,"2023-05-30 18:51:43","Skills Quiz-25 Step-4 Correct",3
+58967,334,0,"2023-05-30 18:51:43","Skills Quiz-25 Step-2 Incorrect",3
+58968,334,0,"2023-05-30 18:51:44","Skills Quiz-25 Step-5 Correct",0
+58969,334,0,"2023-05-30 18:51:44","Skills Quiz-25 Step-2 Incorrect",0
+58970,334,0,"2023-05-30 18:51:44","Skills Quiz-25 Step-6 Correct","                              Save            "
+58971,334,0,"2023-05-30 18:51:44","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+58972,334,0,"2023-05-30 18:51:46","Skills Quiz-25 Step-2 Incorrect",Save
+58973,334,0,"2023-05-30 18:51:46","Skills Quiz-25 Step-7 Correct",Save
+58974,334,0,"2023-05-30 18:51:48","Skills Quiz-25 Step-2 Incorrect",undefined
+58975,334,0,"2023-05-30 18:51:48","Skills Quiz-25 Step-8 Incorrect",undefined
+58976,334,0,"2023-05-30 18:51:49","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being ExercisesTap Here"
+58977,334,0,"2023-05-30 18:51:49","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being ExercisesTap Here"
+58978,334,0,"2023-05-30 18:51:51","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being Exercises"
+58979,334,0,"2023-05-30 18:51:51","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being Exercises"
+58980,334,0,"2023-05-30 18:51:51","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being ExercisesTap Here"
+58981,334,0,"2023-05-30 18:51:51","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being ExercisesTap Here"
+58982,334,0,"2023-05-30 18:51:51","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being ExercisesTap Here"
+58983,334,0,"2023-05-30 18:51:51","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being ExercisesTap Here"
+58984,334,0,"2023-05-30 18:51:55","Skills Quiz-25 Step-1 Correct",TODAY
+58985,334,0,"2023-05-30 18:51:57","Skills Quiz-25 Step-2 Incorrect",undefined
+58986,334,0,"2023-05-30 18:51:57","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+58987,334,0,"2023-05-30 18:51:57","Skills Quiz-25 Step-3 Correct","Tap Here"
+58988,334,0,"2023-05-30 18:51:58","Skills Quiz-25 Step-2 Incorrect",3
+58989,334,0,"2023-05-30 18:51:58","Skills Quiz-25 Step-4 Correct",3
+58990,334,0,"2023-05-30 18:51:58","Skills Quiz-25 Step-2 Incorrect",0
+58991,334,0,"2023-05-30 18:51:58","Skills Quiz-25 Step-5 Correct",0
+58992,334,0,"2023-05-30 18:51:59","Skills Quiz-25 Step-6 Correct","                              Save            "
+58993,334,0,"2023-05-30 18:51:59","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+58994,334,0,"2023-05-30 18:52:00","Skills Quiz-25 Step-7 Correct",Save
+58995,334,0,"2023-05-30 18:52:00","Skills Quiz-25 Step-2 Incorrect",Save
+58996,334,0,"2023-05-30 18:52:02","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+58997,334,0,"2023-05-30 18:52:02","Skills Quiz-25 Step-8 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+58998,334,0,"2023-05-30 18:52:03","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being ExercisesTap Here"
+58999,334,0,"2023-05-30 18:52:03","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59000,334,0,"2023-05-30 18:52:03","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59001,334,0,"2023-05-30 18:52:03","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59002,334,0,"2023-05-30 18:52:04","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59003,334,0,"2023-05-30 18:52:04","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59004,334,0,"2023-05-30 18:52:04","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59005,334,0,"2023-05-30 18:52:04","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59006,334,0,"2023-05-30 18:52:04","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59007,334,0,"2023-05-30 18:52:04","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59008,334,0,"2023-05-30 18:52:05","Skills Quiz-25 Step-2 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59009,334,0,"2023-05-30 18:52:05","Skills Quiz-25 Step-8 Incorrect","Enter Number of Well-being ExercisesTap Here"
+59010,334,0,"2023-05-30 18:52:06","Skills Quiz-25 Step-8 Incorrect","CancelSave and View GraphSave"
+59011,334,0,"2023-05-30 18:52:06","Skills Quiz-25 Step-2 Incorrect","CancelSave and View GraphSave"
+59012,334,0,"2023-05-30 18:52:06","Skills Quiz-25 Step-8 Incorrect","CancelSave and View GraphSave"
+59013,334,0,"2023-05-30 18:52:06","Skills Quiz-25 Step-2 Incorrect","CancelSave and View GraphSave"
+59014,334,0,"2023-05-30 18:52:07","Skills Quiz-25 Step-2 Incorrect","CancelSave and View GraphSave"
+59015,334,0,"2023-05-30 18:52:07","Skills Quiz-25 Step-8 Incorrect","CancelSave and View GraphSave"
+59016,334,0,"2023-05-30 18:52:10","Skills Quiz-25 Step-1 Correct",TODAY
+59017,334,0,"2023-05-30 18:52:11","Skills Quiz-25 Step-2 Incorrect",undefined
+59018,334,0,"2023-05-30 18:52:12","Skills Quiz-25 Step-3 Correct","Tap Here"
+59019,334,0,"2023-05-30 18:52:12","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+59020,334,0,"2023-05-30 18:52:12","Skills Quiz-25 Step-4 Correct",3
+59021,334,0,"2023-05-30 18:52:12","Skills Quiz-25 Step-2 Incorrect",3
+59022,334,0,"2023-05-30 18:52:13","Skills Quiz-25 Step-5 Correct",0
+59023,334,0,"2023-05-30 18:52:13","Skills Quiz-25 Step-2 Incorrect",0
+59024,334,0,"2023-05-30 18:52:14","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+59025,334,0,"2023-05-30 18:52:14","Skills Quiz-25 Step-6 Correct","                              Save            "
+59026,334,0,"2023-05-30 18:52:15","Skills Quiz-25 Step-2 Incorrect",Save
+59027,334,0,"2023-05-30 18:52:15","Skills Quiz-25 Step-7 Correct",Save
+59028,334,0,"2023-05-30 18:52:21","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+59029,334,0,"2023-05-30 18:52:21","Skills Quiz-25 Step-8 Correct","Gratitude Journal2:00 PM - 2:30 PM"
+59030,334,0,"2023-05-30 18:52:22","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+59031,334,0,"2023-05-30 18:52:22","Skills Quiz-25 Step-9 Correct","Tap Here"
+59032,334,0,"2023-05-30 18:52:24","Skills Quiz-25 Step-2 Incorrect",1
+59033,334,0,"2023-05-30 18:52:24","Skills Quiz-25 Step-10 Correct",1
+59034,334,0,"2023-05-30 18:52:25","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+59035,334,0,"2023-05-30 18:52:25","Skills Quiz-25 Step-11 Correct","                              Save            "
+59036,334,0,"2023-05-30 18:52:26","Skills Quiz-25 Step-2 Incorrect",Save
+59037,334,0,"2023-05-30 18:52:26","Skills Quiz-25 Step-12 Correct",Save
+0,0,0,"2023-05-30 18:52:26",module_end,none

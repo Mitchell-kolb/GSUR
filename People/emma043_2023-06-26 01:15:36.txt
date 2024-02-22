@@ -1,0 +1,28 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+73216,340,212,"2023-06-26 01:14:16",page-load,"skills quiz preview"
+73217,340,212,"2023-06-26 01:14:42",click,next-page
+73218,340,0,"2023-06-26 01:14:51","Skills Quiz-12 Step-1 Correct","Add New Folder"
+73219,340,0,"2023-06-26 01:14:52","Skills Quiz-12 Step-2 Correct",modal-folder-title
+73220,340,0,"2023-06-26 01:15:02","Skills Quiz-12 Step-3 Incorrect",Next
+73221,340,0,"2023-06-26 01:15:04","Skills Quiz-12 Step-3 Incorrect",SAVE
+73222,340,0,"2023-06-26 01:15:04","Skills Quiz-12 Step-4 Correct",SAVE
+73223,340,0,"2023-06-26 01:15:05","Skills Quiz-12 Step-5 Correct",Close
+73224,340,0,"2023-06-26 01:15:05","Skills Quiz-12 Step-3 Incorrect",Close
+73225,340,0,"2023-06-26 01:15:10","Skills Quiz-12 Step-6 Correct",Edit
+73226,340,0,"2023-06-26 01:15:10","Skills Quiz-12 Step-3 Incorrect",Edit
+73227,340,0,"2023-06-26 01:15:13","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping"
+73228,340,0,"2023-06-26 01:15:13","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping"
+73229,340,0,"2023-06-26 01:15:15","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping"
+73230,340,0,"2023-06-26 01:15:15","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping"
+73231,340,0,"2023-06-26 01:15:16","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping"
+73232,340,0,"2023-06-26 01:15:16","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping"
+73233,340,0,"2023-06-26 01:15:17","Skills Quiz-12 Step-3 Incorrect",SAVE
+73234,340,0,"2023-06-26 01:15:17","Skills Quiz-12 Step-7 Correct",SAVE
+73235,340,0,"2023-06-26 01:15:19","Skills Quiz-12 Step-8 Correct",modal-folder-title
+73236,340,0,"2023-06-26 01:15:19","Skills Quiz-12 Step-3 Correct",modal-folder-title
+73237,340,0,"2023-06-26 01:15:31","Skills Quiz-12 Step-9 Incorrect",Next
+73238,340,0,"2023-06-26 01:15:32","Skills Quiz-12 Step-10 Correct",SAVE
+73239,340,0,"2023-06-26 01:15:32","Skills Quiz-12 Step-9 Incorrect",SAVE
+73240,340,0,"2023-06-26 01:15:36","Skills Quiz-12 Step-11 Correct",Close
+73241,340,0,"2023-06-26 01:15:36","Skills Quiz-12 Step-9 Incorrect",Close
+0,0,0,"2023-06-26 01:15:36",module_end,none

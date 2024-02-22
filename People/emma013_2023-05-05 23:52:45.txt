@@ -1,0 +1,36 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+50037,324,121,"2023-05-05 23:43:52",page-load,video
+50038,324,122,"2023-05-05 23:44:12",page-load,"web form: question"
+50039,324,122,"2023-05-05 23:44:23",click,"incorrect-option: In your calendar"
+50040,324,122,"2023-05-05 23:44:25",click,"incorrect-option: In your notes"
+50041,324,122,"2023-05-05 23:44:33",click,"correct-option: Both the To-do List and Time Schedule"
+50042,324,122,"2023-05-05 23:44:39",click,next-page
+50043,324,123,"2023-05-05 23:44:40",page-load,video
+50044,324,124,"2023-05-05 23:46:31",page-load,"web form: what would you like to do next"
+50045,324,0,"2023-05-05 23:47:41","Skills Quiz-7 Step-1 Correct",Edit
+50046,324,0,"2023-05-05 23:47:48","Skills Quiz-7 Step-2 Correct",event-description
+50047,324,0,"2023-05-05 23:48:18","Skills Quiz 30 second Hint",30time
+50048,324,125,"2023-05-05 23:50:11",click,"skills quiz hint"
+50049,324,0,"2023-05-05 23:50:42","Skills Quiz-7 Step-4 Incorrect",Cancel
+50050,324,125,"2023-05-05 23:51:12",click,"skills quiz hint"
+50051,324,125,"2023-05-05 23:51:13",click,"skills quiz hint"
+50052,324,0,"2023-05-05 23:51:18","Skills Quiz-7 Step-4 Correct",Weekly
+50053,324,0,"2023-05-05 23:51:25","Skills Quiz-7 Step-5 Incorrect","Repeat Forever (tap to change)"
+50054,324,0,"2023-05-05 23:51:27","Skills Quiz-7 Step-5 Incorrect","Repeat Forever (tap to change)"
+50055,324,0,"2023-05-05 23:51:28","Skills Quiz-7 Step-5 Correct",Tue
+50056,324,0,"2023-05-05 23:51:30","Skills Quiz-7 Step-6 Incorrect",Tue
+50057,324,0,"2023-05-05 23:51:31","Skills Quiz-7 Step-6 Incorrect",SunMonTueWedThuFriSat
+50058,324,0,"2023-05-05 23:51:32","Skills Quiz-7 Step-6 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+50059,324,0,"2023-05-05 23:51:33","Skills Quiz-7 Step-6 Correct",Thu
+50060,324,0,"2023-05-05 23:51:37","Skills Quiz-7 Step-7 Incorrect",Weekly
+50061,324,0,"2023-05-05 23:51:48","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+50062,324,0,"2023-05-05 23:51:59","Skills Quiz-7 Step-8 Correct",end-right-arrow
+50063,324,0,"2023-05-05 23:52:04","Skills Quiz-7 Step-9 Correct",31
+50064,324,0,"2023-05-05 23:52:07","Skills Quiz-7 Step-10 Correct",OK
+50065,324,0,"2023-05-05 23:52:09","Skills Quiz-7 Step-11 Incorrect",Tue
+50066,324,0,"2023-05-05 23:52:10","Skills Quiz-7 Step-11 Incorrect",Tue
+50067,324,0,"2023-05-05 23:52:14","Skills Quiz-7 Step-11 Correct",YES
+50068,324,0,"2023-05-05 23:52:16","Skills Quiz-7 Step-12 Incorrect",Tue
+50069,324,0,"2023-05-05 23:52:21","Skills Quiz-7 Step-12 Correct",Save
+50070,324,0,"2023-05-05 23:52:45","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-05-05 23:52:45",module_end,none

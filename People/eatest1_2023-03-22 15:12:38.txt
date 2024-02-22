@@ -1,0 +1,87 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+31852,245,37,"2023-03-22 15:06:21",page-load,video
+31853,245,38,"2023-03-22 15:06:35",page-load,"goal setting: importance"
+31854,245,38,"2023-03-22 15:06:37",click,next-page
+31855,245,39,"2023-03-22 15:06:37",page-load,video
+31856,245,40,"2023-03-22 15:06:49",page-load,"goal setting: pick three strategies"
+31857,245,40,"2023-03-22 15:06:52",click,next-page
+31858,245,41,"2023-03-22 15:06:53",page-load,"goal setting: pick top strategy"
+31859,245,41,"2023-03-22 15:06:54",click,next-page
+31860,245,41,"2023-03-22 15:06:57",click,next-page
+31861,245,42,"2023-03-22 15:06:58",page-load,"goal setting: top strategy display"
+31862,245,42,"2023-03-22 15:07:00",click,next-page
+31863,245,43,"2023-03-22 15:07:00",page-load,"goal setting: summary page one"
+31864,245,43,"2023-03-22 15:07:01",click,next-page
+31865,245,44,"2023-03-22 15:07:01",page-load,"goal setting: summary page two"
+31866,245,44,"2023-03-22 15:07:02",click,next-page
+31867,245,45,"2023-03-22 15:07:03",page-load,"goal setting: summary page two"
+31868,245,45,"2023-03-22 15:07:03",click,next-page
+31869,245,46,"2023-03-22 15:07:04",page-load,"goal setting: example plan"
+31870,245,46,"2023-03-22 15:07:07",click,next-page
+31871,245,47,"2023-03-22 15:07:07",page-load,"goal setting: when"
+31872,245,47,"2023-03-22 15:07:11",click,next-page
+31873,245,48,"2023-03-22 15:07:12",page-load,"goal setting: plan"
+31874,245,48,"2023-03-22 15:07:13",click,next-page
+31875,245,49,"2023-03-22 15:07:13",page-load,"goal setting: where"
+31876,245,49,"2023-03-22 15:07:17",click,next-page
+31877,245,50,"2023-03-22 15:07:18",page-load,"goal setting: plan"
+31878,245,50,"2023-03-22 15:07:19",click,next-page
+31879,245,51,"2023-03-22 15:07:19",page-load,"goal setting: with whom"
+31880,245,51,"2023-03-22 15:07:34",click,next-page
+31881,245,52,"2023-03-22 15:07:34",page-load,"goal setting: plan"
+31882,245,52,"2023-03-22 15:07:35",click,next-page
+31883,245,53,"2023-03-22 15:07:35",page-load,"goal setting: how"
+31884,245,53,"2023-03-22 15:07:41",click,next-page
+31885,245,54,"2023-03-22 15:07:41",page-load,"goal setting: plan"
+31886,245,54,"2023-03-22 15:07:42",click,next-page
+31887,245,55,"2023-03-22 15:07:42",page-load,"goal setting: barriers and alternatives"
+31888,245,55,"2023-03-22 15:07:50",click,next-page
+31889,245,56,"2023-03-22 15:07:51",page-load,"goal setting: motivation"
+31890,245,56,"2023-03-22 15:07:53",click,next-page
+31891,245,57,"2023-03-22 15:07:53",page-load,"goal setting: confidence"
+31892,245,57,"2023-03-22 15:07:55",click,next-page
+31893,245,58,"2023-03-22 15:07:55",page-load,"goal setting: plan"
+31894,245,58,"2023-03-22 15:07:56",click,next-page
+31895,245,59,"2023-03-22 15:07:56",page-load,"end of lesson: 2"
+31896,245,200,"2023-03-22 15:07:59",page-load,video
+31897,245,201,"2023-03-22 15:08:26",page-load,"web form: question"
+31898,245,201,"2023-03-22 15:08:28",click,"correct-option: D. All of the above"
+31899,245,201,"2023-03-22 15:08:29",click,next-page
+31900,245,202,"2023-03-22 15:08:29",page-load,video
+31901,245,203,"2023-03-22 15:09:07",page-load,"web form: scheduling choices"
+31902,245,203,"2023-03-22 15:09:09",tracked,"Meal Planner"
+31903,245,203,"2023-03-22 15:09:11",tracked,"Travel checklist"
+31904,245,203,"2023-03-22 15:09:12",tracked,"Travel checklist"
+31905,245,203,"2023-03-22 15:09:12",tracked,"List of current books/movie list"
+31906,245,203,"2023-03-22 15:09:13",click,next-page
+31907,245,204,"2023-03-22 15:09:13",page-load,video
+31908,245,205,"2023-03-22 15:10:38",page-load,"web form: question"
+31909,245,205,"2023-03-22 15:10:46",click,"correct-option: Add New Folder"
+31910,245,206,"2023-03-22 15:10:47",page-load,video
+31911,245,207,"2023-03-22 15:11:52",page-load,"web form: question"
+31912,245,207,"2023-03-22 15:11:53",click,"incorrect-option: Sorts your folders alphabetically."
+31913,245,207,"2023-03-22 15:11:54",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+31914,245,207,"2023-03-22 15:11:55",click,next-page
+31915,245,208,"2023-03-22 15:11:55",page-load,"web form: what would you like to do next"
+31916,245,208,"2023-03-22 15:11:56",click,next-page
+31917,245,209,"2023-03-22 15:11:56",page-load,"skills quiz preview"
+31918,245,209,"2023-03-22 15:12:00",click,next-page
+31919,245,0,"2023-03-22 15:12:05","Skills Quiz-11 Step-1 Correct","Add New Folder"
+31920,245,0,"2023-03-22 15:12:08","Skills Quiz-11 Step-2 Correct",modal-folder-title
+31921,245,0,"2023-03-22 15:12:14","Skills Quiz-11 Step-3 Incorrect",Next
+31922,245,0,"2023-03-22 15:12:18","Skills Quiz-11 Step-4 Correct"," SAVE"
+31923,245,0,"2023-03-22 15:12:18","Skills Quiz-11 Step-3 Incorrect"," SAVE"
+31924,245,0,"2023-03-22 15:12:21","Skills Quiz-11 Step-3 Incorrect",Close
+31925,245,0,"2023-03-22 15:12:21","Skills Quiz-11 Step-5 Correct",Close
+31926,245,0,"2023-03-22 15:12:24","Skills Quiz-11 Step-6 Correct",Edit
+31927,245,0,"2023-03-22 15:12:24","Skills Quiz-11 Step-3 Incorrect",Edit
+31928,245,0,"2023-03-22 15:12:26","Skills Quiz-11 Step-7 Correct",SAVE
+31929,245,0,"2023-03-22 15:12:26","Skills Quiz-11 Step-3 Incorrect",SAVE
+31930,245,0,"2023-03-22 15:12:27","Skills Quiz-11 Step-3 Correct",modal-folder-title
+31931,245,0,"2023-03-22 15:12:27","Skills Quiz-11 Step-8 Correct",modal-folder-title
+31932,245,0,"2023-03-22 15:12:34","Skills Quiz-11 Step-9 Incorrect",Next
+31933,245,0,"2023-03-22 15:12:35","Skills Quiz-11 Step-9 Incorrect",SAVE
+31934,245,0,"2023-03-22 15:12:35","Skills Quiz-11 Step-10 Correct",SAVE
+31935,245,0,"2023-03-22 15:12:38","Skills Quiz-11 Step-9 Incorrect",Close
+31936,245,0,"2023-03-22 15:12:38","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-03-22 15:12:38",module_end,none

@@ -1,0 +1,117 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+46648,321,144,"2023-04-30 21:37:29",page-load,"goal setting: pick three strategies"
+46649,321,144,"2023-04-30 21:39:19",click,next-page
+46650,321,145,"2023-04-30 21:39:20",page-load,"goal setting: pick top strategy"
+46651,321,145,"2023-04-30 21:40:00",click,next-page
+46652,321,146,"2023-04-30 21:40:01",page-load,"goal setting: top strategy display"
+46653,321,146,"2023-04-30 21:40:27",click,next-page
+46654,321,147,"2023-04-30 21:40:28",page-load,"goal setting: example plan"
+46655,321,147,"2023-04-30 21:40:28",click,next-page
+46656,321,148,"2023-04-30 21:40:28",page-load,"goal setting: when"
+46657,321,148,"2023-04-30 21:40:31",click,previous-page
+46658,321,147,"2023-04-30 21:40:31",page-load,"goal setting: example plan"
+46659,321,147,"2023-04-30 21:41:00",click,previous-page
+46660,321,146,"2023-04-30 21:41:01",page-load,"goal setting: top strategy display"
+46661,321,146,"2023-04-30 21:41:04",click,previous-page
+46662,321,145,"2023-04-30 21:41:05",page-load,"goal setting: pick top strategy"
+46663,321,145,"2023-04-30 21:41:10",click,next-page
+46664,321,146,"2023-04-30 21:41:10",page-load,"goal setting: top strategy display"
+46665,321,147,"2023-04-30 21:41:53",page-load,"goal setting: example plan"
+46666,321,148,"2023-04-30 21:43:02",page-load,"goal setting: when"
+46667,321,148,"2023-04-30 21:43:51",click,next-page
+46668,321,149,"2023-04-30 21:43:51",page-load,"goal setting: plan"
+46669,321,149,"2023-04-30 21:43:59",click,next-page
+46670,321,150,"2023-04-30 21:44:00",page-load,"goal setting: where"
+46671,321,150,"2023-04-30 21:44:27",click,next-page
+46672,321,151,"2023-04-30 21:44:28",page-load,"goal setting: plan"
+46673,321,151,"2023-04-30 21:44:39",click,next-page
+46674,321,152,"2023-04-30 21:44:39",page-load,"goal setting: with whom"
+46675,321,152,"2023-04-30 21:45:14",click,next-page
+46676,321,153,"2023-04-30 21:45:15",page-load,"goal setting: plan"
+46677,321,153,"2023-04-30 21:45:17",click,next-page
+46678,321,154,"2023-04-30 21:45:17",page-load,"goal setting: how"
+46679,321,154,"2023-04-30 21:52:26",click,next-page
+46680,321,155,"2023-04-30 21:52:27",page-load,"goal setting: plan"
+46681,321,155,"2023-04-30 21:52:32",click,next-page
+46682,321,156,"2023-04-30 21:52:32",page-load,"goal setting: barriers and alternatives"
+46683,321,156,"2023-04-30 21:53:41",click,next-page
+46684,321,157,"2023-04-30 21:53:42",page-load,"goal setting: motivation"
+46685,321,157,"2023-04-30 21:53:50",click,next-page
+46686,321,158,"2023-04-30 21:53:50",page-load,"goal setting: confidence"
+46687,321,158,"2023-04-30 21:54:14",click,next-page
+46688,321,159,"2023-04-30 21:54:15",page-load,"goal setting: plan"
+46689,321,160,"2023-04-30 21:54:56",page-load,"end of lesson: 3"
+46690,321,160,"2023-04-30 21:55:10",page-load,"end of lesson: 3"
+48951,321,200,"2023-05-04 01:43:05",page-load,video
+48952,321,201,"2023-05-04 01:48:09",page-load,"web form: question"
+48953,321,201,"2023-05-04 01:48:27",click,"correct-option: D. All of the above"
+48954,321,201,"2023-05-04 01:48:31",click,next-page
+48955,321,202,"2023-05-04 01:48:31",page-load,video
+48956,321,203,"2023-05-04 01:49:24",page-load,"web form: scheduling choices"
+48957,321,203,"2023-05-04 01:49:34",tracked,"Monthly expenditures form"
+48958,321,203,"2023-05-04 01:49:37",tracked,"Meal Planner"
+48959,321,203,"2023-05-04 01:49:45",tracked,"Address book"
+48960,321,203,"2023-05-04 01:49:53",tracked,"Phone messages form"
+48961,321,203,"2023-05-04 01:49:56",tracked,"Project planning form"
+48962,321,203,"2023-05-04 01:49:58",tracked,"Project planning form"
+48963,321,203,"2023-05-04 01:49:59",tracked,"Project planning form"
+48964,321,203,"2023-05-04 01:49:59",tracked,"Project planning form"
+48965,321,203,"2023-05-04 01:49:59",tracked,"Project planning form"
+48966,321,203,"2023-05-04 01:50:04",tracked,"List of current books/movie list"
+48967,321,203,"2023-05-04 01:50:06",tracked,"List of current books/movie list"
+48968,321,203,"2023-05-04 01:50:07",tracked,"Travel checklist"
+48969,321,203,"2023-05-04 01:50:08",tracked,"Project planning form"
+48970,321,203,"2023-05-04 01:50:08",tracked,"Phone messages form"
+48971,321,203,"2023-05-04 01:50:09",tracked,"Project planning form"
+48972,321,203,"2023-05-04 01:50:10",tracked,"Phone messages form"
+48973,321,203,"2023-05-04 01:50:11",tracked,"Phone messages form"
+48974,321,203,"2023-05-04 01:50:11",tracked,"Project planning form"
+48975,321,203,"2023-05-04 01:50:20",tracked,"Address book"
+48976,321,203,"2023-05-04 01:50:21",tracked,"Meal Planner"
+48977,321,203,"2023-05-04 01:50:21",tracked,"Monthly expenditures form"
+48978,321,203,"2023-05-04 01:50:48",tracked,"Travel checklist"
+48979,321,203,"2023-05-04 01:50:51",tracked,"Project planning form"
+48980,321,203,"2023-05-04 01:50:54",tracked,"List of current books/movie list"
+48981,321,203,"2023-05-04 01:50:57",tracked,"List of current books/movie list"
+48982,321,203,"2023-05-04 01:50:57",tracked,"Address book"
+48983,321,203,"2023-05-04 01:51:02",tracked,"Monthly expenditures form"
+48984,321,203,"2023-05-04 01:51:03",tracked,"Photos/pictures of important people"
+48985,321,203,"2023-05-04 01:51:04",click,next-page
+48986,321,204,"2023-05-04 01:51:05",page-load,video
+48987,321,205,"2023-05-04 01:54:15",page-load,"web form: question"
+48988,321,205,"2023-05-04 01:54:25",click,"correct-option: Add New Folder"
+48989,321,205,"2023-05-04 01:54:27",click,next-page
+48990,321,206,"2023-05-04 01:54:28",page-load,video
+48991,321,207,"2023-05-04 01:55:53",page-load,"web form: question"
+48992,321,207,"2023-05-04 01:56:03",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+48993,321,207,"2023-05-04 01:56:08",click,next-page
+48994,321,208,"2023-05-04 01:56:10",page-load,"web form: what would you like to do next"
+48995,321,208,"2023-05-04 01:56:15",click,next-page
+48996,321,209,"2023-05-04 01:56:15",page-load,"skills quiz preview"
+48997,321,0,"2023-05-04 01:57:31","Skills Quiz-11 Step-1 Correct","Add New Folder"
+48998,321,0,"2023-05-04 01:57:35","Skills Quiz-11 Step-2 Correct",modal-folder-title
+48999,321,0,"2023-05-04 01:57:59","Skills Quiz-11 Step-3 Incorrect",Next
+49000,321,0,"2023-05-04 01:58:04","Skills Quiz-11 Step-4 Correct",SAVE
+49001,321,0,"2023-05-04 01:58:04","Skills Quiz-11 Step-3 Incorrect",SAVE
+49002,321,0,"2023-05-04 01:58:08","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+49003,321,0,"2023-05-04 01:58:08","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+49004,321,0,"2023-05-04 01:58:15","Skills Quiz-11 Step-5 Correct",Close
+49005,321,0,"2023-05-04 01:58:15","Skills Quiz-11 Step-3 Incorrect",Close
+49006,321,0,"2023-05-04 01:58:20","Skills Quiz-11 Step-6 Correct",Edit
+49007,321,0,"2023-05-04 01:58:20","Skills Quiz-11 Step-3 Incorrect",Edit
+49008,321,0,"2023-05-04 01:58:22","Skills Quiz-11 Step-7 Incorrect","Book list"
+49009,321,0,"2023-05-04 01:58:22","Skills Quiz-11 Step-3 Incorrect","Book list"
+49010,321,0,"2023-05-04 01:58:29","Skills Quiz-11 Step-3 Incorrect","Book list"
+49011,321,0,"2023-05-04 01:58:29","Skills Quiz-11 Step-7 Incorrect","Book list"
+49012,321,0,"2023-05-04 01:58:29","Skills Quiz-11 Step-7 Incorrect","Book list"
+49013,321,0,"2023-05-04 01:58:29","Skills Quiz-11 Step-3 Incorrect","Book list"
+49014,321,0,"2023-05-04 01:58:34","Skills Quiz-11 Step-7 Correct",SAVE
+49015,321,0,"2023-05-04 01:58:34","Skills Quiz-11 Step-3 Incorrect",SAVE
+49016,321,0,"2023-05-04 01:58:36","Skills Quiz-11 Step-8 Correct",modal-folder-title
+49017,321,0,"2023-05-04 01:58:36","Skills Quiz-11 Step-3 Correct",modal-folder-title
+49018,321,0,"2023-05-04 01:58:50","Skills Quiz-11 Step-9 Incorrect",Next
+49019,321,0,"2023-05-04 01:58:52","Skills Quiz-11 Step-9 Incorrect",SAVE
+49020,321,0,"2023-05-04 01:58:52","Skills Quiz-11 Step-10 Correct",SAVE
+49021,321,0,"2023-05-04 01:58:57","Skills Quiz-11 Step-9 Incorrect",Close
+49022,321,0,"2023-05-04 01:58:57","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-05-04 01:58:57",module_end,none

@@ -1,0 +1,36 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+119022,410,503,"2024-01-29 06:12:00",page-load,"web form: scheduling choices"
+119023,410,503,"2024-01-29 06:12:08",tracked,"Going to a museum"
+119605,410,200,"2024-01-30 22:05:03",page-load,video
+119606,410,400,"2024-01-30 22:05:50",page-load,video
+119607,410,401,"2024-01-30 22:06:18",page-load,"web form: question"
+119608,410,401,"2024-01-30 22:06:22",click,"correct-option: False"
+119609,410,401,"2024-01-30 22:06:24",click,next-page
+119610,410,402,"2024-01-30 22:06:25",page-load,video
+119611,410,403,"2024-01-30 22:07:03",page-load,"web form: what would you like to do next"
+119612,410,403,"2024-01-30 22:07:06",click,next-page
+119613,410,404,"2024-01-30 22:07:06",page-load,"skills quiz preview"
+119614,410,404,"2024-01-30 22:07:16",click,next-page
+119615,410,0,"2024-01-30 22:07:24","Skills Quiz-19 Step-1 Incorrect",TODAY
+119616,410,0,"2024-01-30 22:07:33","Skills Quiz-19 Step-1 Incorrect","Add Entry/Event"
+119617,410,0,"2024-01-30 22:07:41","Skills Quiz-19 Step-1 Incorrect",HEALTH
+119618,410,0,"2024-01-30 22:07:48","Skills Quiz-19 Step-2 Correct","Medical Information"
+119619,410,0,"2024-01-30 22:07:52","Skills Quiz-19 Step-3 Correct","Add New Note"
+119620,410,0,"2024-01-30 22:07:55","Skills Quiz-19 Step-4 Correct",noteSpecialty
+119621,410,405,"2024-01-30 22:08:16",click,"skills quiz hint"
+119622,410,0,"2024-01-30 22:08:25","Skills Quiz 30 second Hint",30time
+119623,410,405,"2024-01-30 22:08:31",click,"skills quiz hint"
+119624,410,405,"2024-01-30 22:08:59",click,"skills quiz hint"
+119625,410,0,"2024-01-30 22:09:04","Skills Quiz-19 Step-6 Incorrect",Name
+119626,410,0,"2024-01-30 22:09:15","Skills Quiz-19 Step-6 Correct",noteName
+119627,410,0,"2024-01-30 22:09:38","Skills Quiz-19 Step-8 Incorrect","Phone Number"
+119628,410,0,"2024-01-30 22:09:43","Skills Quiz-19 Step-8 Correct",notePhone
+119629,410,0,"2024-01-30 22:10:00","Skills Quiz-19 Step-10 Incorrect",Address
+119630,410,0,"2024-01-30 22:10:02","Skills Quiz-19 Step-10 Correct",noteAddress
+119631,410,0,"2024-01-30 22:10:20","Skills Quiz-19 Step-12 Incorrect",Details
+119632,410,0,"2024-01-30 22:10:20","Skills Quiz-19 Step-12 Incorrect",Details
+119633,410,0,"2024-01-30 22:10:22","Skills Quiz-19 Step-12 Correct",noteDetails
+119634,410,0,"2024-01-30 22:10:39","Skills Quiz-19 Step-14 Correct"," SAVE"
+119635,410,405,"2024-01-30 22:10:47",click,"skills quiz hint"
+119636,410,0,"2024-01-30 22:10:50","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2024-01-30 22:10:51",module_end,none

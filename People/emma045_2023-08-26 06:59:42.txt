@@ -1,0 +1,42 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+91962,354,400,"2023-08-26 06:41:45",page-load,video
+91963,354,400,"2023-08-26 06:43:43",page-load,video
+91964,354,401,"2023-08-26 06:47:53",page-load,"web form: question"
+91965,354,401,"2023-08-26 06:47:57",click,hint
+91966,354,401,"2023-08-26 06:48:00",click,"correct-option: False"
+91967,354,401,"2023-08-26 06:48:02",click,next-page
+91968,354,402,"2023-08-26 06:48:03",page-load,video
+91969,354,403,"2023-08-26 06:53:17",page-load,"web form: what would you like to do next"
+91970,354,403,"2023-08-26 06:53:23",click,next-page
+91971,354,404,"2023-08-26 06:53:24",page-load,"skills quiz preview"
+91972,354,405,"2023-08-26 06:54:38",click,"skills quiz hint"
+91973,354,0,"2023-08-26 06:54:42","Skills Quiz-19 Step-1 Incorrect",HEALTH
+91974,354,405,"2023-08-26 06:54:44",click,"skills quiz hint"
+91975,354,0,"2023-08-26 06:54:46","Skills Quiz-19 Step-2 Correct","Medical Information"
+91976,354,405,"2023-08-26 06:54:51",click,"skills quiz hint"
+91977,354,0,"2023-08-26 06:54:53","Skills Quiz-19 Step-3 Correct","Add New Note"
+91978,354,405,"2023-08-26 06:54:59",click,"skills quiz hint"
+91979,354,0,"2023-08-26 06:55:02","Skills Quiz-19 Step-4 Correct",noteSpecialty
+91980,354,405,"2023-08-26 06:55:10",click,"skills quiz hint"
+91981,354,0,"2023-08-26 06:55:32","Skills Quiz 30 second Hint",30time
+91982,354,405,"2023-08-26 06:55:50",click,"skills quiz hint"
+91983,354,405,"2023-08-26 06:55:51",click,"skills quiz hint"
+91984,354,405,"2023-08-26 06:56:05",click,"skills quiz hint"
+91985,354,0,"2023-08-26 06:56:09","Skills Quiz-19 Step-6 Correct",noteName
+91986,354,405,"2023-08-26 06:56:11",click,"skills quiz hint"
+91987,354,405,"2023-08-26 06:56:36",click,"skills quiz hint"
+91988,354,0,"2023-08-26 06:56:40","Skills Quiz-19 Step-8 Correct",notePhone
+91989,354,405,"2023-08-26 06:56:49",click,"skills quiz hint"
+91990,354,405,"2023-08-26 06:57:07",click,"skills quiz hint"
+91991,354,0,"2023-08-26 06:57:10","Skills Quiz-19 Step-10 Correct",noteAddress
+91992,354,405,"2023-08-26 06:57:15",click,"skills quiz hint"
+91993,354,0,"2023-08-26 06:57:40","Skills Quiz 30 second Hint",30time
+91994,354,405,"2023-08-26 06:57:54",click,"skills quiz hint"
+91995,354,0,"2023-08-26 06:57:56","Skills Quiz-19 Step-12 Correct",noteDetails
+91996,354,405,"2023-08-26 06:58:03",click,"skills quiz hint"
+91997,354,0,"2023-08-26 06:58:26","Skills Quiz 30 second Hint",30time
+91998,354,405,"2023-08-26 06:59:14",click,"skills quiz hint"
+91999,354,0,"2023-08-26 06:59:16","Skills Quiz-19 Step-14 Correct",SAVE
+92000,354,405,"2023-08-26 06:59:20",click,"skills quiz hint"
+92001,354,0,"2023-08-26 06:59:42","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-08-26 06:59:42",module_end,none

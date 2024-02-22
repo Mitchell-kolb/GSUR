@@ -1,0 +1,46 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+93364,354,510,"2023-08-28 03:53:22",click,"skills quiz hint"
+93365,354,0,"2023-08-28 03:53:27","Skills Quiz-26 Step-1 Correct",TODAY
+93366,354,510,"2023-08-28 03:53:31",click,"skills quiz hint"
+93367,354,0,"2023-08-28 03:53:34","Skills Quiz-26 Step-2 Incorrect",undefined
+93368,354,510,"2023-08-28 03:53:42",click,"skills quiz hint"
+93369,354,0,"2023-08-28 03:53:44","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+93370,354,0,"2023-08-28 03:53:44","Skills Quiz-26 Step-3 Correct","Tap Here"
+93371,354,510,"2023-08-28 03:53:45",click,"skills quiz hint"
+93372,354,0,"2023-08-28 03:53:47","Skills Quiz-26 Step-4 Correct",1
+93373,354,0,"2023-08-28 03:53:47","Skills Quiz-26 Step-2 Incorrect",1
+93374,354,510,"2023-08-28 03:53:48",click,"skills quiz hint"
+93375,354,0,"2023-08-28 03:53:50","Skills Quiz-26 Step-2 Incorrect",3
+93376,354,0,"2023-08-28 03:53:50","Skills Quiz-26 Step-5 Correct",3
+93377,354,510,"2023-08-28 03:53:53",click,"skills quiz hint"
+93378,354,0,"2023-08-28 03:53:54","Skills Quiz-26 Step-6 Correct",0
+93379,354,0,"2023-08-28 03:53:54","Skills Quiz-26 Step-2 Incorrect",0
+93380,354,510,"2023-08-28 03:53:57",click,"skills quiz hint"
+93381,354,0,"2023-08-28 03:53:59","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+93382,354,0,"2023-08-28 03:53:59","Skills Quiz-26 Step-7 Correct","                              Save            "
+93383,354,510,"2023-08-28 03:54:01",click,"skills quiz hint"
+93384,354,0,"2023-08-28 03:54:03","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+93385,354,0,"2023-08-28 03:54:03","Skills Quiz-26 Step-8 Correct","Tap Here"
+93386,354,510,"2023-08-28 03:54:06",click,"skills quiz hint"
+93387,354,0,"2023-08-28 03:54:07","Skills Quiz-26 Step-2 Incorrect",8
+93388,354,0,"2023-08-28 03:54:07","Skills Quiz-26 Step-9 Correct",8
+93389,354,510,"2023-08-28 03:54:09",click,"skills quiz hint"
+93390,354,0,"2023-08-28 03:54:10","Skills Quiz-26 Step-2 Incorrect",0
+93391,354,0,"2023-08-28 03:54:10","Skills Quiz-26 Step-10 Correct",0
+93392,354,510,"2023-08-28 03:54:12",click,"skills quiz hint"
+93393,354,0,"2023-08-28 03:54:21","Skills Quiz-26 Step-11 Correct","                              Save            "
+93394,354,0,"2023-08-28 03:54:21","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+93395,354,0,"2023-08-28 03:54:24","Skills Quiz-26 Step-2 Incorrect",Save
+93396,354,0,"2023-08-28 03:54:24","Skills Quiz-26 Step-12 Correct",Save
+93397,354,510,"2023-08-28 03:54:27",click,"skills quiz hint"
+93398,354,510,"2023-08-28 03:54:28",click,"skills quiz hint"
+93399,354,0,"2023-08-28 03:54:31","Skills Quiz-26 Step-2 Incorrect",undefined
+93400,354,0,"2023-08-28 03:54:31","Skills Quiz-26 Step-13 Incorrect",undefined
+93401,354,510,"2023-08-28 03:54:34",click,"skills quiz hint"
+93402,354,0,"2023-08-28 03:54:36","Skills Quiz-26 Step-2 Incorrect",Yes
+93403,354,0,"2023-08-28 03:54:36","Skills Quiz-26 Step-13 Incorrect",Yes
+93404,354,0,"2023-08-28 03:54:36","Skills Quiz-26 Step-14 Correct",Yes
+93405,354,510,"2023-08-28 03:54:38",click,"skills quiz hint"
+93406,354,0,"2023-08-28 03:54:40","Skills Quiz-26 Step-2 Incorrect",Save
+93407,354,0,"2023-08-28 03:54:40","Skills Quiz-26 Step-13 Incorrect",Save
+0,0,0,"2023-08-28 03:54:40",module_end,none

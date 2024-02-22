@@ -1,0 +1,48 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+108799,407,424,"2023-12-23 05:28:01",page-load,video
+108800,407,425,"2023-12-23 05:32:49",page-load,"web form: question"
+108801,407,425,"2023-12-23 05:33:02",click,"correct-option: True"
+108802,407,425,"2023-12-23 05:33:16",click,next-page
+108803,407,426,"2023-12-23 05:33:17",page-load,video
+108804,407,427,"2023-12-23 05:37:47",page-load,"web form: what would you like to do next"
+108805,407,427,"2023-12-23 05:37:56",click,take-a-break
+108806,407,427,"2023-12-23 05:51:47",page-load,"web form: what would you like to do next"
+108807,407,427,"2023-12-23 05:51:49",click,next-page
+108808,407,428,"2023-12-23 05:51:50",page-load,"skills quiz preview"
+108809,407,0,"2023-12-23 05:53:02","Skills Quiz-23 Step-1 Incorrect",HEALTH
+108810,407,0,"2023-12-23 05:53:14","Skills Quiz-23 Step-1 Correct",Edit
+108811,407,0,"2023-12-23 05:53:45","Skills Quiz 30 second Hint",30time
+108812,407,0,"2023-12-23 05:53:58","Skills Quiz-23 Step-2 Correct",Weekly
+108813,407,429,"2023-12-23 05:54:14",click,"skills quiz hint"
+108814,407,0,"2023-12-23 05:54:24","Skills Quiz-23 Step-3 Correct",Thu
+108815,407,0,"2023-12-23 05:54:34","Skills Quiz-23 Step-4 Correct","Repeat Forever (tap to change)"
+108816,407,0,"2023-12-23 05:54:47","Skills Quiz-23 Step-5 Incorrect",17
+108817,407,0,"2023-12-23 05:54:48","Skills Quiz-23 Step-5 Incorrect",24
+108818,407,0,"2023-12-23 05:54:50","Skills Quiz-23 Step-5 Incorrect",24
+108819,407,0,"2023-12-23 05:54:52","Skills Quiz-23 Step-5 Incorrect","Please choose a Date to Stop RepeatingJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+108820,407,0,"2023-12-23 05:54:53","Skills Quiz-23 Step-5 Incorrect","Please choose a Date to Stop RepeatingJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+108821,407,0,"2023-12-23 05:54:53","Skills Quiz-23 Step-5 Incorrect","Please choose a Date to Stop RepeatingJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+108822,407,0,"2023-12-23 05:55:05","Skills Quiz-23 Step-5 Incorrect","Please choose a Date to Stop RepeatingJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+108823,407,0,"2023-12-23 05:55:06","Skills Quiz-23 Step-5 Correct",end-right-arrow
+108824,407,429,"2023-12-23 05:55:14",click,"skills quiz hint"
+108825,407,0,"2023-12-23 05:55:21","Skills Quiz-23 Step-6 Correct",8
+108826,407,0,"2023-12-23 05:55:27","Skills Quiz-23 Step-7 Correct",OK
+108827,407,0,"2023-12-23 05:55:34","Skills Quiz-23 Step-8 Incorrect",YES
+108828,407,0,"2023-12-23 05:55:39","Skills Quiz-23 Step-8 Correct",Save
+108829,407,429,"2023-12-23 05:55:54",click,"skills quiz hint"
+108830,407,0,"2023-12-23 05:56:09","Skills Quiz-23 Step-9 Correct",YES
+108831,407,429,"2023-12-23 05:56:21",click,"skills quiz hint"
+108832,407,0,"2023-12-23 05:56:25","Skills Quiz-23 Step-10 Correct","                        Blood Pressure                     "
+108833,407,0,"2023-12-23 05:56:28","Skills Quiz-23 Step-11 Correct","Tap Here"
+108834,407,0,"2023-12-23 05:56:31","Skills Quiz-23 Step-12 Correct",1
+108835,407,0,"2023-12-23 05:56:32","Skills Quiz-23 Step-13 Correct",2
+108836,407,0,"2023-12-23 05:56:32","Skills Quiz-23 Step-14 Correct",0
+108837,407,0,"2023-12-23 05:56:36","Skills Quiz-23 Step-15 Correct","                                    Save               "
+108838,407,0,"2023-12-23 05:56:38","Skills Quiz-23 Step-16 Correct","Tap Here"
+108839,407,0,"2023-12-23 05:56:40","Skills Quiz-23 Step-17 Correct",8
+108840,407,0,"2023-12-23 05:56:40","Skills Quiz-23 Step-18 Correct",0
+108841,407,0,"2023-12-23 05:56:41","Skills Quiz-23 Step-19 Correct","                                    Save               "
+108842,407,0,"2023-12-23 05:56:45","Skills Quiz-23 Step-20 Correct","                                    Save               "
+108843,407,429,"2023-12-23 05:56:56",click,"skills quiz hint"
+108844,407,0,"2023-12-23 05:57:00","Skills Quiz-23 Step-21 Correct",Save
+0,0,0,"2023-12-23 05:57:01",module_end,none

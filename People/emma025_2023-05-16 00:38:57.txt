@@ -1,0 +1,46 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+52943,321,513,"2023-05-15 22:10:22",page-load,"web form: question"
+52944,321,513,"2023-05-15 22:10:39",click,"correct-option: at the same time every time and limiting distractions."
+52945,321,513,"2023-05-15 22:10:41",click,next-page
+52946,321,514,"2023-05-15 22:10:41",page-load,video
+52947,321,515,"2023-05-15 22:13:35",page-load,"web form: question"
+52948,321,515,"2023-05-15 22:13:41",click,"correct-option: On the help page"
+52949,321,515,"2023-05-15 22:13:45",click,next-page
+52950,321,516,"2023-05-15 22:13:45",page-load,video
+52951,321,517,"2023-05-15 22:16:53",page-load,"web form: question"
+52952,321,517,"2023-05-15 22:16:57",click,"correct-option: 45 seconds"
+52953,321,517,"2023-05-15 22:16:59",click,next-page
+52954,321,518,"2023-05-15 22:17:00",page-load,video
+52956,321,519,"2023-05-15 22:19:45",page-load,"web form: question"
+52957,321,519,"2023-05-15 22:19:53",click,"correct-option: False"
+52958,321,519,"2023-05-15 22:19:55",click,next-page
+52959,321,520,"2023-05-15 22:19:55",page-load,"web form: what would you like to do next"
+52960,321,520,"2023-05-15 22:20:02",click,take-a-break
+53321,321,520,"2023-05-16 00:28:29",page-load,"web form: what would you like to do next"
+53322,321,520,"2023-05-16 00:28:31",click,next-page
+53323,321,521,"2023-05-16 00:28:32",page-load,video
+53324,321,522,"2023-05-16 00:33:06",page-load,"web form: question"
+53325,321,522,"2023-05-16 00:33:11",click,"correct-option: 1"
+53326,321,522,"2023-05-16 00:33:13",click,next-page
+53327,321,523,"2023-05-16 00:33:14",page-load,video
+53328,321,524,"2023-05-16 00:36:48",page-load,"web form: what would you like to do next"
+53329,321,524,"2023-05-16 00:36:51",click,next-page
+53330,321,525,"2023-05-16 00:36:51",page-load,"skills quiz preview"
+53331,321,0,"2023-05-16 00:38:11","Skills Quiz-27 Step-1 Incorrect",Edit
+53332,321,0,"2023-05-16 00:38:11","Skills Quiz-27 Step-2 Correct",Edit
+53333,321,0,"2023-05-16 00:38:23","Skills Quiz-27 Step-3 Incorrect",RepeatNoneDailyWeeklyMonthlyYearly
+53334,321,0,"2023-05-16 00:38:27","Skills Quiz-27 Step-3 Correct",YES
+53335,321,0,"2023-05-16 00:38:30","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+53336,321,0,"2023-05-16 00:38:32","Skills Quiz-27 Step-5 Correct",Optimism
+53337,321,0,"2023-05-16 00:38:34","Skills Quiz-27 Step-6 Correct","                  Select               "
+53338,321,0,"2023-05-16 00:38:37","Skills Quiz-27 Step-7 Correct",Save
+53339,321,0,"2023-05-16 00:38:40","Skills Quiz-27 Step-8 Incorrect","Optimism Rating "
+53340,321,0,"2023-05-16 00:38:42","Skills Quiz-27 Step-9 Correct",4
+53341,321,0,"2023-05-16 00:38:42","Skills Quiz-27 Step-8 Incorrect",4
+53342,321,0,"2023-05-16 00:38:43","Skills Quiz-27 Step-8 Incorrect","CancelSave and View GraphSave"
+53343,321,0,"2023-05-16 00:38:43","Skills Quiz-27 Step-10 Incorrect","CancelSave and View GraphSave"
+53344,321,0,"2023-05-16 00:38:46","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+53345,321,0,"2023-05-16 00:38:47","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+53346,321,0,"2023-05-16 00:38:54","Skills Quiz-27 Step-11 Correct","View Progress"
+53347,321,0,"2023-05-16 00:38:57","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2023-05-16 00:38:57",module_end,none

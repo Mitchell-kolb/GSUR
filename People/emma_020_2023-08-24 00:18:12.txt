@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+90827,358,121,"2023-08-24 00:09:27",page-load,video
+90828,358,122,"2023-08-24 00:14:04",page-load,"web form: question"
+90829,358,122,"2023-08-24 00:14:12",click,"correct-option: Both the To-do List and Time Schedule"
+90830,358,122,"2023-08-24 00:14:13",click,next-page
+90831,358,123,"2023-08-24 00:14:14",page-load,video
+90832,358,124,"2023-08-24 00:15:27",page-load,"web form: what would you like to do next"
+90833,358,124,"2023-08-24 00:16:22",click,next-page
+90834,358,0,"2023-08-24 00:16:44","Skills Quiz-7 Step-1 Incorrect",undefined
+90835,358,0,"2023-08-24 00:16:45","Skills Quiz-7 Step-1 Incorrect",undefined
+90836,358,0,"2023-08-24 00:16:50","Skills Quiz-7 Step-1 Correct",Edit
+90837,358,0,"2023-08-24 00:16:52","Skills Quiz-7 Step-2 Correct",event-description
+90838,358,0,"2023-08-24 00:17:14","Skills Quiz-7 Step-4 Incorrect",undefined
+90839,358,0,"2023-08-24 00:17:15","Skills Quiz-7 Step-4 Incorrect",undefined
+90840,358,0,"2023-08-24 00:17:15","Skills Quiz-7 Step-4 Incorrect",undefined
+90841,358,0,"2023-08-24 00:17:16","Skills Quiz-7 Step-4 Incorrect",undefined
+90842,358,0,"2023-08-24 00:17:17","Skills Quiz-7 Step-4 Incorrect",undefined
+90843,358,0,"2023-08-24 00:17:18","Skills Quiz-7 Step-4 Incorrect",undefined
+90844,358,0,"2023-08-24 00:17:37","Skills Quiz-7 Step-4 Correct",Weekly
+90845,358,0,"2023-08-24 00:17:41","Skills Quiz-7 Step-5 Incorrect",YES
+90846,358,0,"2023-08-24 00:17:43","Skills Quiz-7 Step-5 Correct",Tue
+90847,358,0,"2023-08-24 00:17:45","Skills Quiz-7 Step-6 Correct",Thu
+90848,358,0,"2023-08-24 00:17:48","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+90849,358,0,"2023-08-24 00:17:51","Skills Quiz-7 Step-8 Correct",end-right-arrow
+90850,358,0,"2023-08-24 00:17:53","Skills Quiz-7 Step-9 Correct",31
+90851,358,0,"2023-08-24 00:17:54","Skills Quiz-7 Step-10 Correct",OK
+90852,358,0,"2023-08-24 00:17:55","Skills Quiz-7 Step-11 Correct",YES
+90853,358,0,"2023-08-24 00:18:01","Skills Quiz-7 Step-12 Correct",Save
+90854,358,0,"2023-08-24 00:18:12","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-08-24 00:18:12",module_end,none

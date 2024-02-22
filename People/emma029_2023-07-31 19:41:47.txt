@@ -1,0 +1,32 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+80912,329,510,"2023-07-31 19:41:00",click,"skills quiz hint"
+80913,329,0,"2023-07-31 19:41:02","Skills Quiz-26 Step-1 Correct",TODAY
+80914,329,0,"2023-07-31 19:41:09","Skills Quiz-26 Step-2 Incorrect",undefined
+80915,329,0,"2023-07-31 19:41:14","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+80916,329,0,"2023-07-31 19:41:14","Skills Quiz-26 Step-3 Correct","Tap Here"
+80917,329,0,"2023-07-31 19:41:15","Skills Quiz-26 Step-2 Incorrect",1
+80918,329,0,"2023-07-31 19:41:15","Skills Quiz-26 Step-4 Correct",1
+80919,329,0,"2023-07-31 19:41:16","Skills Quiz-26 Step-2 Incorrect",3
+80920,329,0,"2023-07-31 19:41:16","Skills Quiz-26 Step-5 Correct",3
+80921,329,0,"2023-07-31 19:41:17","Skills Quiz-26 Step-6 Correct",0
+80922,329,0,"2023-07-31 19:41:17","Skills Quiz-26 Step-2 Incorrect",0
+80923,329,0,"2023-07-31 19:41:21","Skills Quiz-26 Step-7 Correct","                              Save            "
+80924,329,0,"2023-07-31 19:41:21","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+80925,329,0,"2023-07-31 19:41:23","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+80926,329,0,"2023-07-31 19:41:23","Skills Quiz-26 Step-8 Correct","Tap Here"
+80927,329,0,"2023-07-31 19:41:24","Skills Quiz-26 Step-2 Incorrect",8
+80928,329,0,"2023-07-31 19:41:24","Skills Quiz-26 Step-9 Correct",8
+80929,329,0,"2023-07-31 19:41:25","Skills Quiz-26 Step-10 Correct",0
+80930,329,0,"2023-07-31 19:41:25","Skills Quiz-26 Step-2 Incorrect",0
+80931,329,0,"2023-07-31 19:41:26","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+80932,329,0,"2023-07-31 19:41:26","Skills Quiz-26 Step-11 Correct","                              Save            "
+80933,329,0,"2023-07-31 19:41:29","Skills Quiz-26 Step-2 Incorrect",Save
+80934,329,0,"2023-07-31 19:41:29","Skills Quiz-26 Step-12 Correct",Save
+80935,329,0,"2023-07-31 19:41:40","Skills Quiz-26 Step-2 Incorrect",undefined
+80936,329,0,"2023-07-31 19:41:40","Skills Quiz-26 Step-13 Incorrect",undefined
+80937,329,0,"2023-07-31 19:41:44","Skills Quiz-26 Step-13 Incorrect",Yes
+80938,329,0,"2023-07-31 19:41:44","Skills Quiz-26 Step-2 Incorrect",Yes
+80939,329,0,"2023-07-31 19:41:44","Skills Quiz-26 Step-14 Correct",Yes
+80940,329,0,"2023-07-31 19:41:47","Skills Quiz-26 Step-2 Incorrect",Save
+80941,329,0,"2023-07-31 19:41:47","Skills Quiz-26 Step-13 Incorrect",Save
+0,0,0,"2023-07-31 19:41:47",module_end,none

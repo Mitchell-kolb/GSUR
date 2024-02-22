@@ -1,0 +1,40 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+41590,308,411,"2023-04-18 13:57:43",page-load,"web form: scheduling choices"
+41591,308,411,"2023-04-18 13:57:52",tracked,Medications
+41592,308,411,"2023-04-18 13:57:56",tracked,"Well-being activities"
+41593,308,411,"2023-04-18 13:57:58",tracked,"Cognitive Activity"
+41594,308,411,"2023-04-18 13:58:01",tracked,Weight
+41595,308,411,"2023-04-18 13:58:02",tracked,Fatigue
+41596,308,411,"2023-04-18 13:58:03",tracked,Fatigue
+41597,308,411,"2023-04-18 13:58:06",click,next-page
+41598,308,412,"2023-04-18 13:58:06",page-load,video
+41599,308,413,"2023-04-18 14:00:22",page-load,"web form: question"
+41600,308,413,"2023-04-18 14:00:26",click,"correct-option: 4"
+41601,308,413,"2023-04-18 14:00:27",click,next-page
+41602,308,414,"2023-04-18 14:00:27",page-load,video
+41603,308,415,"2023-04-18 14:01:10",page-load,"web form: question"
+41604,308,415,"2023-04-18 14:01:14",click,"incorrect-option: True"
+41605,308,415,"2023-04-18 14:01:16",click,"incorrect-option: True"
+41606,308,415,"2023-04-18 14:01:25",click,"correct-option: False"
+41607,308,415,"2023-04-18 14:01:27",click,next-page
+41608,308,416,"2023-04-18 14:01:27",page-load,video
+41609,308,417,"2023-04-18 14:08:25",page-load,"web form: what would you like to do next"
+41610,308,417,"2023-04-18 14:08:28",click,next-page
+41611,308,418,"2023-04-18 14:08:29",page-load,"skills quiz preview"
+41612,308,418,"2023-04-18 14:08:32",click,next-page
+41613,308,0,"2023-04-18 14:08:35","Skills Quiz-21 Step-1 Incorrect",HEALTH
+41614,308,0,"2023-04-18 14:08:41","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+41615,308,0,"2023-04-18 14:08:45","Skills Quiz-21 Step-3 Correct","Daily Medications"
+41616,308,0,"2023-04-18 14:09:01","Skills Quiz-21 Step-4 Incorrect","Turn On (green)"
+41617,308,419,"2023-04-18 14:09:13",click,"skills quiz hint"
+41618,308,0,"2023-04-18 14:09:30","Skills Quiz-21 Step-4 Incorrect",CloseSave
+41619,308,0,"2023-04-18 14:09:31","Skills Quiz-21 Step-4 Correct",descriptionMorning
+41620,308,419,"2023-04-18 14:09:46",click,"skills quiz hint"
+41621,308,0,"2023-04-18 14:09:48","Skills Quiz-21 Step-6 Correct","8:00 AM"
+41622,308,0,"2023-04-18 14:09:50","Skills Quiz-21 Step-7 Correct",7
+41623,308,0,"2023-04-18 14:09:51","Skills Quiz-21 Step-8 Correct",00
+41624,308,0,"2023-04-18 14:09:52","Skills Quiz-21 Step-9 Correct",AM
+41625,308,0,"2023-04-18 14:09:52","Skills Quiz-21 Step-10 Correct",Save
+41626,308,0,"2023-04-18 14:09:55","Skills Quiz-21 Step-11 Correct",checkMorning
+41627,308,0,"2023-04-18 14:09:57","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-04-18 14:09:57",module_end,none

@@ -1,0 +1,48 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+29719,221,244,"2023-03-20 13:59:51",page-load,video
+29738,221,245,"2023-03-20 14:02:03",page-load,"goal setting: preview"
+29739,221,245,"2023-03-20 14:02:08",click,next-page
+29740,221,246,"2023-03-20 14:02:08",page-load,"goal setting: example plan"
+29741,221,246,"2023-03-20 14:02:14",click,next-page
+29742,221,247,"2023-03-20 14:02:15",page-load,"goal setting: pick one strategy"
+29743,221,247,"2023-03-20 14:02:23",click,next-page
+29744,221,248,"2023-03-20 14:02:23",page-load,"goal setting: top strategy display"
+29745,221,248,"2023-03-20 14:02:25",click,next-page
+29746,221,249,"2023-03-20 14:02:26",page-load,"goal setting: when"
+29747,221,249,"2023-03-20 14:02:39",click,next-page
+29748,221,250,"2023-03-20 14:02:40",page-load,"goal setting: where"
+29749,221,250,"2023-03-20 14:02:54",click,next-page
+29750,221,251,"2023-03-20 14:02:54",page-load,"goal setting: with whom"
+29751,221,251,"2023-03-20 14:03:03",click,next-page
+29752,221,252,"2023-03-20 14:03:04",page-load,"goal setting: how"
+29753,221,252,"2023-03-20 14:03:31",click,next-page
+29754,221,253,"2023-03-20 14:03:31",page-load,"goal setting: barriers and alternatives"
+29757,221,253,"2023-03-20 14:04:02",click,next-page
+29759,221,254,"2023-03-20 14:04:02",page-load,"goal setting: motivation"
+29760,221,254,"2023-03-20 14:04:04",click,next-page
+29761,221,255,"2023-03-20 14:04:04",page-load,"goal setting: confidence"
+29762,221,255,"2023-03-20 14:04:05",click,next-page
+29764,221,256,"2023-03-20 14:04:06",page-load,"goal setting: plan"
+29765,221,256,"2023-03-20 14:04:07",click,next-page
+29766,221,257,"2023-03-20 14:04:07",page-load,"end of lesson: 4"
+29770,221,400,"2023-03-20 14:04:14",page-load,video
+29780,221,401,"2023-03-20 14:06:17",page-load,"web form: question"
+29781,221,401,"2023-03-20 14:06:19",click,"correct-option: False"
+29782,221,401,"2023-03-20 14:06:20",click,next-page
+29783,221,402,"2023-03-20 14:06:20",page-load,video
+29788,221,403,"2023-03-20 14:07:46",page-load,"web form: what would you like to do next"
+29789,221,403,"2023-03-20 14:07:48",click,next-page
+29790,221,404,"2023-03-20 14:07:48",page-load,"skills quiz preview"
+29791,221,404,"2023-03-20 14:07:53",click,next-page
+29792,221,0,"2023-03-20 14:07:58","Skills Quiz-19 Step-1 Incorrect",HEALTH
+29793,221,0,"2023-03-20 14:08:03","Skills Quiz-19 Step-2 Correct","Medical Information"
+29794,221,0,"2023-03-20 14:08:06","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+29795,221,0,"2023-03-20 14:08:06","Skills Quiz-19 Step-3 Correct","Add New Note"
+29796,221,0,"2023-03-20 14:08:09","Skills Quiz-19 Step-4 Correct",noteSpecialty
+29797,221,0,"2023-03-20 14:08:17","Skills Quiz-19 Step-6 Correct",noteName
+29798,221,0,"2023-03-20 14:08:31","Skills Quiz-19 Step-8 Correct",notePhone
+29799,221,0,"2023-03-20 14:08:41","Skills Quiz-19 Step-10 Correct",noteAddress
+29800,221,0,"2023-03-20 14:09:01","Skills Quiz-19 Step-12 Correct",noteDetails
+29801,221,0,"2023-03-20 14:09:18","Skills Quiz-19 Step-14 Correct",SAVE
+29802,221,0,"2023-03-20 14:09:27","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-03-20 14:09:27",module_end,none

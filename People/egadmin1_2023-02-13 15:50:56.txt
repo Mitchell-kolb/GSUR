@@ -1,0 +1,27 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+19431,254,434,"2023-02-13 15:50:21",page-load,video
+19432,254,435,"2023-02-13 15:50:28",page-load,"goal setting: preview"
+19433,254,407,"2023-02-13 15:50:28",page-load,"skills quiz preview"
+19434,254,0,"2023-02-13 15:50:32","Skills Quiz-23 Step-1 Correct",Edit
+19435,254,0,"2023-02-13 15:50:36","Skills Quiz-23 Step-2 Correct",Weekly
+19436,254,0,"2023-02-13 15:50:37","Skills Quiz-23 Step-3 Correct",Thu
+19437,254,0,"2023-02-13 15:50:38","Skills Quiz-23 Step-4 Correct","Repeat Forever (tap to change)"
+19438,254,0,"2023-02-13 15:50:38","Skills Quiz-23 Step-5 Correct",end-right-arrow
+19439,254,0,"2023-02-13 15:50:39","Skills Quiz-23 Step-6 Correct",8
+19440,254,0,"2023-02-13 15:50:40","Skills Quiz-23 Step-7 Correct",OK
+19441,254,0,"2023-02-13 15:50:41","Skills Quiz-23 Step-8 Correct",Save
+19442,254,0,"2023-02-13 15:50:42","Skills Quiz-23 Step-9 Incorrect",YES
+19443,254,0,"2023-02-13 15:50:43","Skills Quiz-23 Step-9 Correct",YES
+19444,254,0,"2023-02-13 15:50:44","Skills Quiz-23 Step-10 Correct","                        Blood Pressure                     "
+19445,254,0,"2023-02-13 15:50:46","Skills Quiz-23 Step-11 Correct","Tap Here"
+19446,254,0,"2023-02-13 15:50:46","Skills Quiz-23 Step-12 Correct",1
+19447,254,0,"2023-02-13 15:50:47","Skills Quiz-23 Step-13 Correct",2
+19448,254,0,"2023-02-13 15:50:48","Skills Quiz-23 Step-14 Correct",0
+19449,254,0,"2023-02-13 15:50:49","Skills Quiz-23 Step-15 Correct","                                    Save               "
+19450,254,0,"2023-02-13 15:50:50","Skills Quiz-23 Step-16 Correct","Tap Here"
+19451,254,0,"2023-02-13 15:50:52","Skills Quiz-23 Step-17 Correct",8
+19452,254,0,"2023-02-13 15:50:52","Skills Quiz-23 Step-18 Correct",0
+19453,254,0,"2023-02-13 15:50:53","Skills Quiz-23 Step-19 Correct","                                    Save               "
+19454,254,0,"2023-02-13 15:50:54","Skills Quiz-23 Step-20 Correct","                                    Save               "
+19455,254,0,"2023-02-13 15:50:56","Skills Quiz-23 Step-21 Correct",Save
+0,0,0,"2023-02-13 15:50:56",module_end,none

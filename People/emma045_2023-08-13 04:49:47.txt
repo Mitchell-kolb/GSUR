@@ -1,0 +1,33 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+85160,354,122,"2023-08-13 04:42:10",page-load,"web form: question"
+85161,354,122,"2023-08-13 04:42:18",click,hint
+85162,354,122,"2023-08-13 04:42:21",click,"correct-option: Both the To-do List and Time Schedule"
+85163,354,122,"2023-08-13 04:42:25",click,next-page
+85164,354,123,"2023-08-13 04:42:25",page-load,video
+85165,354,124,"2023-08-13 04:43:56",page-load,"web form: what would you like to do next"
+85166,354,125,"2023-08-13 04:44:59",click,"skills quiz hint"
+85167,354,0,"2023-08-13 04:45:20","Skills Quiz-7 Step-1 Correct",Edit
+85168,354,0,"2023-08-13 04:45:40","Skills Quiz-7 Step-2 Correct",event-description
+85169,354,125,"2023-08-13 04:46:33",click,"skills quiz hint"
+85170,354,0,"2023-08-13 04:46:38","Skills Quiz-7 Step-1 Correct",Edit
+85171,354,0,"2023-08-13 04:46:51","Skills Quiz-7 Step-2 Correct",event-description
+85172,354,0,"2023-08-13 04:47:21","Skills Quiz 30 second Hint",30time
+85173,354,125,"2023-08-13 04:48:23",click,"skills quiz hint"
+85174,354,0,"2023-08-13 04:48:25","Skills Quiz 30 second Hint",30time
+85175,354,0,"2023-08-13 04:48:28","Skills Quiz-7 Step-4 Correct",Weekly
+85176,354,125,"2023-08-13 04:48:40",click,"skills quiz hint"
+85177,354,0,"2023-08-13 04:48:47","Skills Quiz-7 Step-5 Correct",Tue
+85178,354,125,"2023-08-13 04:48:49",click,"skills quiz hint"
+85179,354,0,"2023-08-13 04:48:52","Skills Quiz-7 Step-6 Correct",Thu
+85180,354,0,"2023-08-13 04:49:02","Skills Quiz-7 Step-7 Incorrect",YES
+85181,354,0,"2023-08-13 04:49:19","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+85182,354,0,"2023-08-13 04:49:21","Skills Quiz-7 Step-8 Correct",end-right-arrow
+85183,354,0,"2023-08-13 04:49:22","Skills Quiz-7 Step-9 Incorrect","JULY 2021"
+85184,354,0,"2023-08-13 04:49:23","Skills Quiz-7 Step-9 Correct",31
+85185,354,0,"2023-08-13 04:49:25","Skills Quiz-7 Step-10 Correct",OK
+85186,354,0,"2023-08-13 04:49:33","Skills Quiz-7 Step-11 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatJuly 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+85187,354,0,"2023-08-13 04:49:39","Skills Quiz-7 Step-11 Correct",YES
+85188,354,125,"2023-08-13 04:49:41",click,"skills quiz hint"
+85189,354,0,"2023-08-13 04:49:44","Skills Quiz-7 Step-12 Correct",Save
+85190,354,0,"2023-08-13 04:49:47","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-08-13 04:49:47",module_end,none

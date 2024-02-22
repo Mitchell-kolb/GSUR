@@ -1,0 +1,25 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+88880,350,216,"2023-08-20 22:37:46",page-load,"web form: question"
+88881,350,216,"2023-08-20 22:37:51",click,"correct-option: 1"
+88882,350,216,"2023-08-20 22:37:55",click,next-page
+88883,350,217,"2023-08-20 22:37:56",page-load,video
+88885,350,218,"2023-08-20 22:41:43",page-load,"web form: what would you like to do next"
+88886,350,218,"2023-08-20 22:41:50",click,next-page
+88887,350,219,"2023-08-20 22:41:51",page-load,"skills quiz preview"
+88888,350,219,"2023-08-20 22:42:14",click,next-page
+88889,350,220,"2023-08-20 22:42:53",click,"skills quiz hint"
+88890,350,0,"2023-08-20 22:43:08","Skills Quiz 30 second Hint",30time
+88891,350,0,"2023-08-20 22:43:09","Skills Quiz-13 Step-1 Incorrect",GoalsLists
+88892,350,0,"2023-08-20 22:43:11","Skills Quiz-13 Step-1 Incorrect",folder-title-2
+88893,350,0,"2023-08-20 22:43:18","Skills Quiz-13 Step-2 Correct","Add New Note"
+88894,350,0,"2023-08-20 22:43:18","Skills Quiz-13 Step-1 Incorrect","Add New Note"
+88895,350,0,"2023-08-20 22:43:24","Skills Quiz-13 Step-3 Correct",modal-note-title
+88896,350,0,"2023-08-20 22:43:24","Skills Quiz-13 Step-1 Incorrect",modal-note-title
+88897,350,0,"2023-08-20 22:43:44","Skills Quiz-13 Step-1 Incorrect",modal-note-content
+88898,350,0,"2023-08-20 22:43:48","Skills Quiz-13 Step-1 Incorrect",Next
+88899,350,0,"2023-08-20 22:43:53","Skills Quiz-13 Step-5 Correct",modal-note-content
+88900,350,0,"2023-08-20 22:43:53","Skills Quiz-13 Step-1 Incorrect",modal-note-content
+88901,350,0,"2023-08-20 22:44:27","Skills Quiz-13 Step-1 Incorrect",Next
+88902,350,0,"2023-08-20 22:44:32","Skills Quiz-13 Step-7 Correct"," SAVE"
+88903,350,0,"2023-08-20 22:44:32","Skills Quiz-13 Step-1 Incorrect"," SAVE"
+0,0,0,"2023-08-20 22:44:36",module_end,none

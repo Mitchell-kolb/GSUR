@@ -1,0 +1,100 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+40060,309,144,"2023-04-12 11:19:32",page-load,"goal setting: pick three strategies"
+40061,309,144,"2023-04-12 11:20:26",click,next-page
+40062,309,145,"2023-04-12 11:20:27",page-load,"goal setting: pick top strategy"
+40063,309,145,"2023-04-12 11:20:52",click,next-page
+40064,309,146,"2023-04-12 11:20:52",page-load,"goal setting: top strategy display"
+40065,309,146,"2023-04-12 11:20:57",click,next-page
+40066,309,147,"2023-04-12 11:20:57",page-load,"goal setting: example plan"
+40067,309,148,"2023-04-12 11:21:30",page-load,"goal setting: when"
+40068,309,148,"2023-04-12 11:21:49",click,next-page
+40069,309,149,"2023-04-12 11:21:50",page-load,"goal setting: plan"
+40070,309,149,"2023-04-12 11:21:59",click,next-page
+40071,309,150,"2023-04-12 11:21:59",page-load,"goal setting: where"
+40072,309,150,"2023-04-12 11:24:09",click,next-page
+40073,309,151,"2023-04-12 11:24:09",page-load,"goal setting: plan"
+40074,309,151,"2023-04-12 11:24:13",click,next-page
+40075,309,152,"2023-04-12 11:24:14",page-load,"goal setting: with whom"
+40076,309,152,"2023-04-12 11:24:25",click,next-page
+40077,309,153,"2023-04-12 11:24:26",page-load,"goal setting: plan"
+40078,309,153,"2023-04-12 11:24:28",click,next-page
+40079,309,154,"2023-04-12 11:24:28",page-load,"goal setting: how"
+40080,309,154,"2023-04-12 11:25:54",click,next-page
+40081,309,155,"2023-04-12 11:25:55",page-load,"goal setting: plan"
+40082,309,155,"2023-04-12 11:25:58",click,next-page
+40083,309,156,"2023-04-12 11:25:59",page-load,"goal setting: barriers and alternatives"
+40084,309,156,"2023-04-12 11:26:18",click,next-page
+40085,309,157,"2023-04-12 11:26:19",page-load,"goal setting: motivation"
+40086,309,157,"2023-04-12 11:26:25",click,next-page
+40087,309,158,"2023-04-12 11:26:26",page-load,"goal setting: confidence"
+40088,309,158,"2023-04-12 11:26:32",click,next-page
+40089,309,159,"2023-04-12 11:26:32",page-load,"goal setting: plan"
+40090,309,159,"2023-04-12 11:26:35",click,next-page
+40091,309,160,"2023-04-12 11:26:36",page-load,"end of lesson: 3"
+41319,309,200,"2023-04-18 10:27:27",page-load,video
+41320,309,201,"2023-04-18 10:30:07",page-load,"web form: question"
+41321,309,201,"2023-04-18 10:30:14",click,"incorrect-option: A. To jot down notes about an event, such as a movie you watched or a book you read"
+41322,309,201,"2023-04-18 10:30:21",click,"incorrect-option: B. To write down instructions for a household chore"
+41323,309,201,"2023-04-18 10:30:24",click,"incorrect-option: C. To make a grocery list"
+41324,309,201,"2023-04-18 10:30:27",click,"correct-option: D. All of the above"
+41325,309,201,"2023-04-18 10:30:31",click,next-page
+41326,309,202,"2023-04-18 10:30:32",page-load,video
+41327,309,203,"2023-04-18 10:31:05",page-load,"web form: scheduling choices"
+41328,309,203,"2023-04-18 10:31:13",tracked,"Phone messages form"
+41329,309,203,"2023-04-18 10:31:16",tracked,"Project planning form"
+41330,309,203,"2023-04-18 10:31:18",tracked,"Travel checklist"
+41331,309,203,"2023-04-18 10:31:24",tracked,"Meal Planner"
+41332,309,203,"2023-04-18 10:31:26",tracked,"Monthly expenditures form"
+41333,309,203,"2023-04-18 10:31:27",tracked,"Monthly expenditures form"
+41334,309,203,"2023-04-18 10:31:29",tracked,"Monthly expenditures form"
+41335,309,203,"2023-04-18 10:31:30",tracked,"Monthly expenditures form"
+41336,309,203,"2023-04-18 10:31:33",tracked,"Monthly expenditures form"
+41337,309,203,"2023-04-18 10:31:33",tracked,"Monthly expenditures form"
+41338,309,203,"2023-04-18 10:31:35",tracked,"Address book"
+41339,309,203,"2023-04-18 10:31:36",tracked,"Address book"
+41340,309,203,"2023-04-18 10:31:40",tracked,"List of current books/movie list"
+41341,309,203,"2023-04-18 10:31:40",tracked,"List of current books/movie list"
+41342,309,203,"2023-04-18 10:31:41",tracked,"Travel checklist"
+41343,309,203,"2023-04-18 10:31:43",tracked,"Monthly expenditures form"
+41344,309,203,"2023-04-18 10:31:44",tracked,"Travel checklist"
+41345,309,203,"2023-04-18 10:31:45",tracked,"Travel checklist"
+41346,309,203,"2023-04-18 10:31:47",click,next-page
+41347,309,204,"2023-04-18 10:31:48",page-load,video
+41348,309,205,"2023-04-18 10:33:28",page-load,"web form: question"
+41349,309,205,"2023-04-18 10:33:43",click,"correct-option: Add New Folder"
+41350,309,205,"2023-04-18 10:33:47",click,next-page
+41351,309,206,"2023-04-18 10:33:47",page-load,video
+41352,309,207,"2023-04-18 10:34:34",page-load,"web form: question"
+41353,309,207,"2023-04-18 10:34:43",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+41354,309,207,"2023-04-18 10:34:45",click,next-page
+41355,309,208,"2023-04-18 10:34:46",page-load,"web form: what would you like to do next"
+41356,309,208,"2023-04-18 10:34:49",click,next-page
+41357,309,209,"2023-04-18 10:34:50",page-load,"skills quiz preview"
+41358,309,209,"2023-04-18 10:35:13",click,next-page
+41359,309,0,"2023-04-18 10:35:18","Skills Quiz-11 Step-1 Correct","Add New Folder"
+41360,309,0,"2023-04-18 10:35:22","Skills Quiz-11 Step-2 Correct",modal-folder-title
+41361,309,0,"2023-04-18 10:35:30","Skills Quiz-11 Step-3 Incorrect",Next
+41362,309,0,"2023-04-18 10:35:33","Skills Quiz-11 Step-3 Incorrect",SAVE
+41363,309,0,"2023-04-18 10:35:33","Skills Quiz-11 Step-4 Correct",SAVE
+41364,309,0,"2023-04-18 10:35:38","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+41365,309,0,"2023-04-18 10:35:38","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+41366,309,0,"2023-04-18 10:35:42","Skills Quiz-11 Step-3 Incorrect",Close
+41367,309,0,"2023-04-18 10:35:42","Skills Quiz-11 Step-5 Correct",Close
+41368,309,0,"2023-04-18 10:35:47","Skills Quiz-11 Step-3 Incorrect",Edit
+41369,309,0,"2023-04-18 10:35:47","Skills Quiz-11 Step-6 Correct",Edit
+41370,309,0,"2023-04-18 10:35:49","Skills Quiz-11 Step-3 Incorrect","Book list"
+41371,309,0,"2023-04-18 10:35:49","Skills Quiz-11 Step-7 Incorrect","Book list"
+41372,309,0,"2023-04-18 10:35:50","Skills Quiz-11 Step-3 Incorrect","Book list"
+41373,309,0,"2023-04-18 10:35:50","Skills Quiz-11 Step-7 Incorrect","Book list"
+41374,309,0,"2023-04-18 10:35:50","Skills Quiz-11 Step-3 Incorrect","Book list"
+41375,309,0,"2023-04-18 10:35:50","Skills Quiz-11 Step-7 Incorrect","Book list"
+41376,309,0,"2023-04-18 10:35:51","Skills Quiz-11 Step-3 Incorrect","Book list"
+41377,309,0,"2023-04-18 10:35:51","Skills Quiz-11 Step-7 Incorrect","Book list"
+41378,309,0,"2023-04-18 10:35:54","Skills Quiz-11 Step-3 Incorrect",SAVE
+41379,309,0,"2023-04-18 10:35:54","Skills Quiz-11 Step-7 Correct",SAVE
+41380,309,0,"2023-04-18 10:35:56","Skills Quiz-11 Step-8 Correct",modal-folder-title
+41381,309,0,"2023-04-18 10:35:56","Skills Quiz-11 Step-3 Correct",modal-folder-title
+41382,309,0,"2023-04-18 10:35:57","Skills Quiz-11 Step-9 Correct",modal-folder-title
+41383,309,0,"2023-04-18 10:36:10","Skills Quiz-11 Step-10 Correct",SAVE
+41384,309,0,"2023-04-18 10:36:14","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-04-18 10:36:14",module_end,none

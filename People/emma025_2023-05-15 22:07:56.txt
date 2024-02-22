@@ -1,0 +1,87 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+51402,321,435,"2023-05-09 03:40:56",page-load,"goal setting: preview"
+51403,321,436,"2023-05-09 03:42:08",page-load,"goal setting: example plan"
+51404,321,437,"2023-05-09 03:43:31",page-load,"goal setting: pick one strategy"
+51405,321,437,"2023-05-09 03:44:23",page-load,"goal setting: pick one strategy"
+51406,321,437,"2023-05-09 03:44:32",click,next-page
+51407,321,438,"2023-05-09 03:44:33",page-load,"goal setting: top strategy display"
+51408,321,438,"2023-05-09 03:44:52",click,previous-page
+51409,321,437,"2023-05-09 03:44:52",page-load,"goal setting: pick one strategy"
+51410,321,437,"2023-05-09 03:45:28",click,next-page
+51411,321,438,"2023-05-09 03:45:28",page-load,"goal setting: top strategy display"
+51412,321,438,"2023-05-09 03:45:31",click,next-page
+51413,321,439,"2023-05-09 03:45:32",page-load,"goal setting: when"
+51414,321,439,"2023-05-09 03:45:59",click,next-page
+51415,321,440,"2023-05-09 03:45:59",page-load,"goal setting: where"
+51416,321,440,"2023-05-09 03:46:24",click,next-page
+51417,321,441,"2023-05-09 03:46:25",page-load,"goal setting: with whom"
+51418,321,441,"2023-05-09 03:46:43",click,next-page
+51419,321,442,"2023-05-09 03:46:43",page-load,"goal setting: how"
+51420,321,442,"2023-05-09 03:51:20",click,next-page
+51421,321,443,"2023-05-09 03:51:21",page-load,"goal setting: barriers and alternatives"
+51422,321,443,"2023-05-09 03:51:55",click,next-page
+51423,321,444,"2023-05-09 03:51:56",page-load,"goal setting: motivation"
+51424,321,444,"2023-05-09 03:52:02",click,next-page
+51425,321,445,"2023-05-09 03:52:02",page-load,"goal setting: confidence"
+51426,321,445,"2023-05-09 03:52:06",click,next-page
+51427,321,446,"2023-05-09 03:52:07",page-load,"goal setting: plan"
+51428,321,446,"2023-05-09 03:52:25",click,next-page
+51429,321,447,"2023-05-09 03:52:25",page-load,"end of lesson: 5"
+52846,321,500,"2023-05-15 21:36:45",page-load,video
+52879,321,501,"2023-05-15 21:41:25",page-load,"web form: scheduling choices"
+52880,321,501,"2023-05-15 21:41:37",tracked,"reduce stress"
+52881,321,501,"2023-05-15 21:41:40",tracked,"improve memory"
+52882,321,501,"2023-05-15 21:41:43",tracked,"improve my quality of life"
+52883,321,501,"2023-05-15 21:41:46",tracked,"improve emotion regulation/mood"
+52884,321,501,"2023-05-15 21:41:57",click,next-page
+52885,321,502,"2023-05-15 21:41:57",page-load,video
+52892,321,502,"2023-05-15 21:55:09",page-load,video
+52893,321,503,"2023-05-15 21:55:24",page-load,"web form: scheduling choices"
+52894,321,503,"2023-05-15 21:55:59",tracked,"Going to a museum"
+52895,321,503,"2023-05-15 21:56:06",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+52896,321,503,"2023-05-15 21:56:17",click,next-page
+52897,321,504,"2023-05-15 21:56:18",page-load,video
+52898,321,504,"2023-05-15 21:56:58",page-load,video
+52899,321,500,"2023-05-15 21:57:08",page-load,video
+52900,321,501,"2023-05-15 21:57:22",page-load,"web form: scheduling choices"
+52901,321,501,"2023-05-15 21:57:27",tracked,"improve memory"
+52902,321,501,"2023-05-15 21:57:29",tracked,"improve my quality of life"
+52903,321,501,"2023-05-15 21:57:31",tracked,"reduce stress"
+52904,321,501,"2023-05-15 21:57:33",tracked,"improve emotion regulation/mood"
+52905,321,501,"2023-05-15 21:57:34",click,next-page
+52906,321,502,"2023-05-15 21:57:36",page-load,video
+52907,321,503,"2023-05-15 21:58:01",page-load,"web form: scheduling choices"
+52908,321,503,"2023-05-15 21:58:05",tracked,"Going to a museum"
+52909,321,503,"2023-05-15 21:58:08",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+52910,321,503,"2023-05-15 21:58:09",tracked,"Watching a TED talk"
+52911,321,503,"2023-05-15 21:58:11",click,next-page
+52912,321,504,"2023-05-15 21:58:11",page-load,video
+52914,321,505,"2023-05-15 22:05:50",page-load,"web form: what would you like to do next"
+52915,321,505,"2023-05-15 22:05:58",click,next-page
+52916,321,506,"2023-05-15 22:05:59",page-load,"skills quiz preview"
+52917,321,0,"2023-05-15 22:07:27","Skills Quiz-25 Step-1 Correct",TODAY
+52918,321,0,"2023-05-15 22:07:37","Skills Quiz-25 Step-2 Incorrect",undefined
+52919,321,0,"2023-05-15 22:07:38","Skills Quiz-25 Step-3 Correct","Tap Here"
+52920,321,0,"2023-05-15 22:07:38","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+52921,321,0,"2023-05-15 22:07:39","Skills Quiz-25 Step-2 Incorrect",3
+52922,321,0,"2023-05-15 22:07:39","Skills Quiz-25 Step-4 Correct",3
+52923,321,0,"2023-05-15 22:07:41","Skills Quiz-25 Step-2 Incorrect",0
+52924,321,0,"2023-05-15 22:07:41","Skills Quiz-25 Step-5 Correct",0
+52925,321,0,"2023-05-15 22:07:42","Skills Quiz-25 Step-6 Correct","                              Save            "
+52926,321,0,"2023-05-15 22:07:42","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+52927,321,0,"2023-05-15 22:07:44","Skills Quiz-25 Step-7 Correct",Save
+52928,321,0,"2023-05-15 22:07:44","Skills Quiz-25 Step-2 Incorrect",Save
+52929,321,0,"2023-05-15 22:07:50","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+52930,321,0,"2023-05-15 22:07:50","Skills Quiz-25 Step-8 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+52931,321,0,"2023-05-15 22:07:52","Skills Quiz-25 Step-9 Correct","Tap Here"
+52932,321,0,"2023-05-15 22:07:52","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+52933,321,0,"2023-05-15 22:07:52","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+52934,321,0,"2023-05-15 22:07:53","Skills Quiz-25 Step-10 Correct",1
+52935,321,0,"2023-05-15 22:07:53","Skills Quiz-25 Step-2 Incorrect",1
+52936,321,0,"2023-05-15 22:07:53","Skills Quiz-25 Step-8 Incorrect",1
+52937,321,0,"2023-05-15 22:07:55","Skills Quiz-25 Step-11 Correct","                              Save            "
+52938,321,0,"2023-05-15 22:07:55","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+52939,321,0,"2023-05-15 22:07:55","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+52940,321,0,"2023-05-15 22:07:56","Skills Quiz-25 Step-2 Incorrect",Save
+52941,321,0,"2023-05-15 22:07:56","Skills Quiz-25 Step-8 Incorrect",Save
+0,0,0,"2023-05-15 22:07:56",module_end,none

@@ -1,0 +1,16 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+110666,407,0,"2023-12-29 21:40:43","Skills Quiz-22 Step-1 Incorrect",HEALTH
+110667,407,0,"2023-12-29 21:40:45","Skills Quiz-22 Step-2 Correct","Tracked Health Activities"
+110668,407,0,"2023-12-29 21:40:47","Skills Quiz-22 Step-3 Correct","Daily Medications"
+110669,407,0,"2023-12-29 21:40:52","Skills Quiz-22 Step-4 Correct",descriptionMorning
+110670,407,0,"2023-12-29 21:41:22","Skills Quiz 30 second Hint",30time
+110671,407,0,"2023-12-29 21:42:11","Skills Quiz 30 second Hint",30time
+110672,407,0,"2023-12-29 21:42:21","Skills Quiz-22 Step-6 Correct","8:00 AM"
+110673,407,0,"2023-12-29 21:42:23","Skills Quiz-22 Step-7 Correct",9
+110674,407,0,"2023-12-29 21:42:25","Skills Quiz-22 Step-8 Correct",00
+110675,407,0,"2023-12-29 21:42:26","Skills Quiz-22 Step-9 Correct",AM
+110676,407,0,"2023-12-29 21:42:29","Skills Quiz-22 Step-10 Correct",Save
+110677,407,0,"2023-12-29 21:42:36","Skills Quiz-22 Step-11 Incorrect",descriptionMorning
+110678,407,0,"2023-12-29 21:42:38","Skills Quiz-22 Step-11 Correct",checkMorning
+110679,407,0,"2023-12-29 21:42:44","Skills Quiz-22 Step-12 Correct"," Save"
+0,0,0,"2023-12-29 21:42:44",module_end,none

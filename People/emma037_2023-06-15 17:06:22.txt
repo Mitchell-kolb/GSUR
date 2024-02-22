@@ -1,0 +1,86 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+66465,337,0,"2023-06-15 17:03:44","Skills Quiz-13 Step-1 Incorrect",View
+66466,337,0,"2023-06-15 17:03:44","Skills Quiz-13 Step-2 Incorrect",View
+66467,337,0,"2023-06-15 17:03:46","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66468,337,0,"2023-06-15 17:03:46","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66469,337,0,"2023-06-15 17:03:49","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66470,337,0,"2023-06-15 17:03:49","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66471,337,0,"2023-06-15 17:03:50","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66472,337,0,"2023-06-15 17:03:50","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66473,337,0,"2023-06-15 17:03:50","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66474,337,0,"2023-06-15 17:03:50","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66475,337,0,"2023-06-15 17:03:54","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66476,337,0,"2023-06-15 17:03:54","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66477,337,0,"2023-06-15 17:03:55","Skills Quiz-13 Step-2 Incorrect",undefined
+66478,337,0,"2023-06-15 17:03:55","Skills Quiz-13 Step-1 Incorrect",undefined
+66479,337,0,"2023-06-15 17:03:56","Skills Quiz-13 Step-1 Incorrect",undefined
+66480,337,0,"2023-06-15 17:03:56","Skills Quiz-13 Step-2 Incorrect",undefined
+66481,337,0,"2023-06-15 17:03:57","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66482,337,0,"2023-06-15 17:03:57","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66483,337,0,"2023-06-15 17:03:58","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66484,337,0,"2023-06-15 17:03:58","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66485,337,0,"2023-06-15 17:03:58","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66486,337,0,"2023-06-15 17:03:58","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66487,337,0,"2023-06-15 17:03:59","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66488,337,0,"2023-06-15 17:03:59","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66489,337,0,"2023-06-15 17:03:59","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66490,337,0,"2023-06-15 17:03:59","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66491,337,0,"2023-06-15 17:03:59","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66492,337,0,"2023-06-15 17:03:59","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66493,337,0,"2023-06-15 17:03:59","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66494,337,0,"2023-06-15 17:03:59","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66495,337,0,"2023-06-15 17:04:03","Skills Quiz-13 Step-2 Incorrect","Press Edit"
+66496,337,0,"2023-06-15 17:04:03","Skills Quiz-13 Step-1 Incorrect","Press Edit"
+66497,337,0,"2023-06-15 17:04:04","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66498,337,0,"2023-06-15 17:04:04","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66499,337,0,"2023-06-15 17:04:05","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66500,337,0,"2023-06-15 17:04:05","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66501,337,0,"2023-06-15 17:04:06","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66502,337,0,"2023-06-15 17:04:06","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66503,337,0,"2023-06-15 17:04:06","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66504,337,0,"2023-06-15 17:04:06","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66505,337,0,"2023-06-15 17:04:07","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66506,337,0,"2023-06-15 17:04:07","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66507,337,0,"2023-06-15 17:04:07","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66508,337,0,"2023-06-15 17:04:07","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66509,337,0,"2023-06-15 17:04:09","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66510,337,0,"2023-06-15 17:04:09","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66511,337,0,"2023-06-15 17:04:09","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66512,337,0,"2023-06-15 17:04:09","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66513,337,0,"2023-06-15 17:04:10","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66514,337,0,"2023-06-15 17:04:10","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66515,337,0,"2023-06-15 17:04:10","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66516,337,0,"2023-06-15 17:04:10","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66517,337,0,"2023-06-15 17:04:10","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66518,337,0,"2023-06-15 17:04:10","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66519,337,0,"2023-06-15 17:04:10","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66520,337,0,"2023-06-15 17:04:10","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66521,337,0,"2023-06-15 17:04:11","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66522,337,0,"2023-06-15 17:04:11","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66523,337,0,"2023-06-15 17:04:11","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66524,337,0,"2023-06-15 17:04:11","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66525,337,0,"2023-06-15 17:04:12","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66526,337,0,"2023-06-15 17:04:12","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66527,337,0,"2023-06-15 17:04:12","Skills Quiz-13 Step-2 Incorrect","Close   EDIT"
+66528,337,0,"2023-06-15 17:04:12","Skills Quiz-13 Step-1 Incorrect","Close   EDIT"
+66529,337,218,"2023-06-15 17:04:18",page-load,"web form: what would you like to do next"
+66530,337,218,"2023-06-15 17:04:20",click,next-page
+66531,337,219,"2023-06-15 17:04:20",page-load,"skills quiz preview"
+66532,337,0,"2023-06-15 17:05:09","Skills Quiz-13 Step-1 Correct",Lists
+66533,337,0,"2023-06-15 17:05:10","Skills Quiz-13 Step-2 Incorrect",undefined
+66534,337,0,"2023-06-15 17:05:12","Skills Quiz-13 Step-3 Correct",modal-note-title
+66535,337,0,"2023-06-15 17:05:12","Skills Quiz-13 Step-2 Incorrect",modal-note-title
+66536,337,0,"2023-06-15 17:05:30","Skills Quiz-13 Step-2 Incorrect",modal-note-content
+66537,337,0,"2023-06-15 17:05:40","Skills Quiz-13 Step-2 Incorrect",Next
+66538,337,0,"2023-06-15 17:05:43","Skills Quiz-13 Step-2 Incorrect",modal-note-content
+66539,337,0,"2023-06-15 17:05:44","Skills Quiz-13 Step-5 Correct",modal-note-content
+66540,337,0,"2023-06-15 17:06:07","Skills Quiz-13 Step-2 Incorrect",Next
+66541,337,0,"2023-06-15 17:06:13","Skills Quiz-13 Step-2 Incorrect"," SAVE"
+66542,337,0,"2023-06-15 17:06:13","Skills Quiz-13 Step-7 Correct"," SAVE"
+66543,337,0,"2023-06-15 17:06:19","Skills Quiz-13 Step-8 Incorrect","Onion Bread 1 Dozen Eggs"
+66544,337,0,"2023-06-15 17:06:19","Skills Quiz-13 Step-2 Incorrect","Onion Bread 1 Dozen Eggs"
+66545,337,0,"2023-06-15 17:06:20","Skills Quiz-13 Step-2 Incorrect","Onion Bread 1 Dozen Eggs"
+66546,337,0,"2023-06-15 17:06:20","Skills Quiz-13 Step-8 Incorrect","Onion Bread 1 Dozen Eggs"
+66547,337,0,"2023-06-15 17:06:22","Skills Quiz-13 Step-8 Correct",Close
+66548,337,0,"2023-06-15 17:06:22","Skills Quiz-13 Step-2 Incorrect",Close
+0,0,0,"2023-06-15 17:06:22",module_end,none

@@ -1,0 +1,57 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+20151,255,400,"2023-02-14 11:08:21",page-load,video
+20152,255,401,"2023-02-14 11:11:59",page-load,"web form: question"
+20153,255,401,"2023-02-14 11:12:04",click,"correct-option: False"
+20154,255,401,"2023-02-14 11:12:08",click,next-page
+20155,255,402,"2023-02-14 11:12:09",page-load,video
+20156,255,403,"2023-02-14 11:17:38",page-load,"web form: what would you like to do next"
+20157,255,403,"2023-02-14 11:17:45",click,next-page
+20158,255,404,"2023-02-14 11:17:45",page-load,"skills quiz preview"
+20159,255,404,"2023-02-14 11:17:57",click,next-page
+20160,255,0,"2023-02-14 11:18:05","Skills Quiz-19 Step-1 Incorrect",HEALTH
+20161,255,0,"2023-02-14 11:18:08","Skills Quiz-19 Step-2 Correct","Medical Information"
+20162,255,0,"2023-02-14 11:18:17","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+20163,255,0,"2023-02-14 11:18:28","Skills Quiz-19 Step-3 Correct","Add New Note"
+20164,255,0,"2023-02-14 11:18:33","Skills Quiz-19 Step-4 Correct",noteSpecialty
+20165,255,0,"2023-02-14 11:18:59","Skills Quiz-19 Step-6 Incorrect","Close SAVE"
+20166,255,0,"2023-02-14 11:19:02","Skills Quiz-19 Step-6 Correct",noteName
+20167,255,0,"2023-02-14 11:19:03","Skills Quiz 30 second Hint",30time
+20168,255,0,"2023-02-14 11:19:14","Skills Quiz-19 Step-8 Incorrect","Close SAVE"
+20169,255,0,"2023-02-14 11:19:18","Skills Quiz-19 Step-8 Correct",notePhone
+20170,255,0,"2023-02-14 11:19:24","Skills Quiz-19 Step-10 Incorrect","Phone Number"
+20171,255,0,"2023-02-14 11:19:27","Skills Quiz-19 Step-10 Incorrect","Phone Number"
+20172,255,0,"2023-02-14 11:19:31","Skills Quiz-19 Step-10 Incorrect","Phone Number"
+20173,255,0,"2023-02-14 11:19:32","Skills Quiz 30 second Hint",30time
+20174,255,0,"2023-02-14 11:19:35","Skills Quiz-19 Step-10 Incorrect","Phone Number"
+20175,255,0,"2023-02-14 11:19:42","Skills Quiz-19 Step-10 Incorrect","Phone Number"
+20176,255,0,"2023-02-14 11:19:43","Skills Quiz-19 Step-10 Incorrect","Phone Number"
+20177,255,0,"2023-02-14 11:19:47","Skills Quiz-19 Step-10 Correct",noteAddress
+20178,255,0,"2023-02-14 11:19:48","Skills Quiz 30 second Hint",30time
+20179,255,0,"2023-02-14 11:20:17","Skills Quiz 30 second Hint",30time
+20180,255,0,"2023-02-14 11:20:19","Skills Quiz-19 Step-12 Incorrect","Phone Number"
+20181,255,0,"2023-02-14 11:20:20","Skills Quiz-19 Step-12 Incorrect","Phone Number"
+20182,255,0,"2023-02-14 11:20:21","Skills Quiz-19 Step-12 Incorrect","Phone Number"
+20183,255,0,"2023-02-14 11:20:23","Skills Quiz-19 Step-12 Incorrect","Phone Number"
+20184,255,0,"2023-02-14 11:20:24","Skills Quiz-19 Step-12 Incorrect","Phone Number"
+20185,255,0,"2023-02-14 11:20:26","Skills Quiz-19 Step-12 Incorrect","Phone Number"
+20186,255,0,"2023-02-14 11:20:30","Skills Quiz-19 Step-12 Incorrect",Address
+20187,255,0,"2023-02-14 11:20:32","Skills Quiz-19 Step-12 Incorrect",Address
+20188,255,0,"2023-02-14 11:20:32","Skills Quiz-19 Step-12 Incorrect",Address
+20189,255,0,"2023-02-14 11:20:32","Skills Quiz-19 Step-12 Incorrect",Address
+20190,255,0,"2023-02-14 11:20:38","Skills Quiz-19 Step-12 Correct",noteDetails
+20191,255,0,"2023-02-14 11:21:02","Skills Quiz-19 Step-14 Incorrect","Phone Number"
+20192,255,0,"2023-02-14 11:21:07","Skills Quiz-19 Step-14 Incorrect",Address
+20193,255,0,"2023-02-14 11:21:08","Skills Quiz 30 second Hint",30time
+20194,255,0,"2023-02-14 11:21:12","Skills Quiz-19 Step-14 Incorrect",Details
+20195,255,0,"2023-02-14 11:21:23","Skills Quiz-19 Step-14 Correct",SAVE
+20196,255,0,"2023-02-14 11:21:27","Skills Quiz-19 Step-14 Incorrect",undefined
+20197,255,0,"2023-02-14 11:21:29","Skills Quiz-19 Step-14 Incorrect","Close EDIT"
+20198,255,0,"2023-02-14 11:21:30","Skills Quiz-19 Step-14 Incorrect","Close EDIT"
+20199,255,0,"2023-02-14 11:21:33","Skills Quiz-19 Step-14 Incorrect",undefined
+20200,255,0,"2023-02-14 11:21:36","Skills Quiz-19 Step-14 Incorrect","Close EDIT"
+20201,255,0,"2023-02-14 11:21:37","Skills Quiz-19 Step-14 Incorrect","Close EDIT"
+20202,255,0,"2023-02-14 11:21:37","Skills Quiz-19 Step-14 Incorrect","Close EDIT"
+20203,255,0,"2023-02-14 11:21:38","Skills Quiz-19 Step-14 Incorrect","Close EDIT"
+20204,255,0,"2023-02-14 11:21:39","Skills Quiz-19 Step-14 Incorrect",undefined
+20205,255,0,"2023-02-14 11:21:43","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-02-14 11:21:43",module_end,none

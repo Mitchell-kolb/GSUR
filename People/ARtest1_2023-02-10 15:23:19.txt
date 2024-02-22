@@ -1,0 +1,8 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+16277,250,232,"2023-02-10 15:23:06",page-load,"skills quiz preview"
+16278,250,232,"2023-02-10 15:23:07",click,next-page
+16279,250,0,"2023-02-10 15:23:11","Skills Quiz-16 Step-1 Correct",Relevant
+16280,250,0,"2023-02-10 15:23:12","Skills Quiz-16 Step-2 Correct","Alphabetical Order"
+16281,250,0,"2023-02-10 15:23:13","Skills Quiz-16 Step-3 Correct","Holiday GiftsEdit"
+16282,250,0,"2023-02-10 15:23:15","Skills Quiz-16 Step-4 Correct",note-search
+0,0,0,"2023-02-10 15:23:19",module_end,none

@@ -1,0 +1,74 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+59708,305,0,"2023-05-30 20:47:28","Skills Quiz-3 Step-17 Correct",Save
+59709,305,37,"2023-05-30 20:47:28",page-load,video
+59717,305,38,"2023-05-30 20:48:38",page-load,"goal setting: importance"
+59722,305,38,"2023-05-30 20:48:43",click,next-page
+59723,305,39,"2023-05-30 20:48:44",page-load,video
+59753,305,40,"2023-05-30 20:49:43",page-load,"goal setting: pick three strategies"
+59768,305,40,"2023-05-30 20:51:18",click,next-page
+59769,305,41,"2023-05-30 20:51:19",page-load,"goal setting: pick top strategy"
+59772,305,41,"2023-05-30 20:51:28",click,next-page
+59773,305,42,"2023-05-30 20:51:28",page-load,"goal setting: top strategy display"
+59779,305,43,"2023-05-30 20:52:30",page-load,"goal setting: summary page one"
+59781,305,43,"2023-05-30 20:52:43",click,next-page
+59782,305,44,"2023-05-30 20:52:44",page-load,"goal setting: summary page two"
+59784,305,45,"2023-05-30 20:53:33",page-load,"goal setting: summary page two"
+59785,305,45,"2023-05-30 20:53:55",click,next-page
+59786,305,46,"2023-05-30 20:53:55",page-load,"goal setting: example plan"
+59789,305,47,"2023-05-30 20:54:33",page-load,"goal setting: when"
+59791,305,47,"2023-05-30 20:54:58",click,next-page
+59792,305,48,"2023-05-30 20:54:58",page-load,"goal setting: plan"
+59798,305,49,"2023-05-30 20:56:17",page-load,"goal setting: where"
+59799,305,49,"2023-05-30 20:56:21",click,next-page
+59800,305,49,"2023-05-30 20:56:39",click,next-page
+59801,305,50,"2023-05-30 20:56:40",page-load,"goal setting: plan"
+59817,305,51,"2023-05-30 20:58:55",page-load,"goal setting: with whom"
+59818,305,51,"2023-05-30 20:59:05",click,next-page
+59819,305,52,"2023-05-30 20:59:05",page-load,"goal setting: plan"
+59820,305,52,"2023-05-30 20:59:06",click,next-page
+59821,305,53,"2023-05-30 20:59:06",page-load,"goal setting: how"
+59822,305,53,"2023-05-30 20:59:38",click,next-page
+59823,305,54,"2023-05-30 20:59:39",page-load,"goal setting: plan"
+59841,305,55,"2023-05-30 21:01:32",page-load,"goal setting: barriers and alternatives"
+59850,305,55,"2023-05-30 21:01:47",click,next-page
+59851,305,56,"2023-05-30 21:01:48",page-load,"goal setting: motivation"
+59914,305,57,"2023-05-30 21:03:16",page-load,"goal setting: confidence"
+59915,305,57,"2023-05-30 21:03:19",click,next-page
+59916,305,58,"2023-05-30 21:03:20",page-load,"goal setting: plan"
+59919,305,58,"2023-05-30 21:03:31",click,next-page
+59920,305,59,"2023-05-30 21:03:32",page-load,"end of lesson: 2"
+60174,305,300,"2023-05-30 22:18:12",page-load,video
+60176,305,300,"2023-05-30 22:26:10",page-load,video
+60177,305,300,"2023-05-31 17:40:37",page-load,video
+60297,305,300,"2023-05-31 19:30:40",page-load,video
+60579,305,10,"2023-06-01 16:40:10",page-load,video
+60582,305,11,"2023-06-01 16:43:09",page-load,video
+60586,305,12,"2023-06-01 16:46:18",page-load,"web form: scheduling choices"
+60591,305,12,"2023-06-01 16:47:17",tracked,"Scheduling time to work towards goals"
+60592,305,12,"2023-06-01 16:47:18",tracked,"Managing medications"
+60593,305,12,"2023-06-01 16:47:18",tracked,"Scheduling and keeping appointments"
+60594,305,12,"2023-06-01 16:47:19",click,next-page
+60595,305,13,"2023-06-01 16:47:19",page-load,video
+60599,305,14,"2023-06-01 16:48:13",page-load,"web form: what would you like to do next"
+60600,305,14,"2023-06-01 16:48:17",click,next-page
+60601,305,15,"2023-06-01 16:48:17",page-load,video
+60610,305,16,"2023-06-01 16:50:11",page-load,"web form: question"
+60611,305,16,"2023-06-01 16:50:14",click,"correct-option: Grey"
+60612,305,16,"2023-06-01 16:50:15",click,next-page
+60613,305,17,"2023-06-01 16:50:15",page-load,video
+60614,305,18,"2023-06-01 16:50:29",page-load,"web form: question"
+60615,305,18,"2023-06-01 16:51:54",click,"correct-option: 1:30 PM"
+60616,305,18,"2023-06-01 16:51:55",click,next-page
+60617,305,19,"2023-06-01 16:51:55",page-load,video
+60618,305,20,"2023-06-01 16:52:39",page-load,"web form: question"
+60619,305,20,"2023-06-01 16:52:42",click,"correct-option: Blue"
+60620,305,20,"2023-06-01 16:52:43",click,next-page
+60621,305,21,"2023-06-01 16:52:43",page-load,"web form: what would you like to do next"
+60661,305,21,"2023-06-01 17:14:07",page-load,"web form: what would you like to do next"
+60667,305,0,"2023-06-01 17:16:11","Skills Quiz-1 Step-1 Correct",TODAY
+60668,305,0,"2023-06-01 17:16:12","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+60669,305,0,"2023-06-01 17:16:16","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+60670,305,0,"2023-06-01 17:16:19","Skills Quiz-1 Step-4 Correct",right-arrow
+60671,305,0,"2023-06-01 17:16:21","Skills Quiz-1 Step-5 Correct",14
+60672,305,0,"2023-06-01 17:16:22","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-06-01 17:16:22",module_end,none

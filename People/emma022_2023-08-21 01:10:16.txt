@@ -1,0 +1,23 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+89325,350,407,"2023-08-21 01:07:40",page-load,"skills quiz preview"
+89326,350,407,"2023-08-21 01:07:52",click,next-page
+89327,350,0,"2023-08-21 01:07:57","Skills Quiz-20 Step-1 Incorrect",HEALTH
+89328,350,0,"2023-08-21 01:07:59","Skills Quiz-20 Step-2 Correct","Medical Information"
+89329,350,0,"2023-08-21 01:08:01","Skills Quiz-20 Step-3 Incorrect","Doctors Information"
+89331,350,0,"2023-08-21 01:08:03","Skills Quiz-20 Step-3 Incorrect",folder-title-1
+89332,350,0,"2023-08-21 01:08:09","Skills Quiz-20 Step-3 Incorrect","Add New FolderDoctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+89333,350,0,"2023-08-21 01:08:10","Skills Quiz-20 Step-3 Incorrect","Add New FolderDoctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+89335,350,0,"2023-08-21 01:08:18","Skills Quiz-20 Step-3 Incorrect","Sort by:RelevantSearchClear"
+89336,350,0,"2023-08-21 01:08:21","Skills Quiz-20 Step-3 Correct","Add New Note"
+89337,350,0,"2023-08-21 01:08:25","Skills Quiz-20 Step-4 Correct",noteSpecialty
+89339,350,0,"2023-08-21 01:08:42","Skills Quiz-20 Step-6 Incorrect","Close  SAVE"
+89341,350,0,"2023-08-21 01:08:54","Skills Quiz-20 Step-6 Correct",noteName
+89342,350,0,"2023-08-21 01:09:08","Skills Quiz-20 Step-8 Incorrect","Close  SAVE"
+89343,350,0,"2023-08-21 01:09:10","Skills Quiz-20 Step-8 Correct",notePhone
+89346,350,0,"2023-08-21 01:09:21","Skills Quiz-20 Step-10 Incorrect","Close  SAVE"
+89347,350,0,"2023-08-21 01:09:23","Skills Quiz-20 Step-10 Correct",noteAddress
+89350,350,0,"2023-08-21 01:09:41","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+89352,350,0,"2023-08-21 01:09:44","Skills Quiz-20 Step-12 Correct",noteDetails
+89362,350,0,"2023-08-21 01:10:11","Skills Quiz-20 Step-14 Correct",SAVE
+89364,350,0,"2023-08-21 01:10:16","Skills Quiz-20 Step-14 Correct",Close
+0,0,0,"2023-08-21 01:10:16",module_end,none

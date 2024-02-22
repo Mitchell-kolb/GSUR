@@ -1,0 +1,50 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+117030,416,27,"2024-01-19 19:26:21",page-load,"web form: question"
+117032,416,27,"2024-01-19 19:26:35",click,"correct-option: True"
+117033,416,27,"2024-01-19 19:26:37",click,next-page
+117034,416,28,"2024-01-19 19:26:38",page-load,"web form: question"
+117035,416,28,"2024-01-19 19:26:43",click,"correct-option: True"
+117036,416,28,"2024-01-19 19:26:44",click,next-page
+117037,416,29,"2024-01-19 19:26:45",page-load,video
+117044,416,30,"2024-01-19 19:29:09",page-load,"web form: question"
+117045,416,30,"2024-01-19 19:29:21",click,"incorrect-option: Who else is involved in the activity"
+117047,416,30,"2024-01-19 19:29:25",click,"incorrect-option: Where the activity will take place (address or room number)"
+117048,416,30,"2024-01-19 19:29:30",click,"incorrect-option: A list of the items you need to bring to the event"
+117049,416,30,"2024-01-19 19:29:31",click,"incorrect-option: Where the activity will take place (address or room number)"
+117050,416,30,"2024-01-19 19:29:38",click,"incorrect-option: A list of the items you need to bring to the event"
+117051,416,30,"2024-01-19 19:29:42",click,next-page
+117052,416,31,"2024-01-19 19:29:42",page-load,video
+117059,416,32,"2024-01-19 19:33:47",page-load,"web form: what would you like to do next"
+117061,416,0,"2024-01-19 19:35:19","Skills Quiz-3 Step-1 Correct",TODAY
+117062,416,0,"2024-01-19 19:35:23","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+117063,416,0,"2024-01-19 19:35:39","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+117064,416,0,"2024-01-19 19:35:41","Skills Quiz-3 Step-4 Correct",right-arrow
+117065,416,0,"2024-01-19 19:35:43","Skills Quiz-3 Step-5 Correct",14
+117066,416,0,"2024-01-19 19:35:45","Skills Quiz-3 Step-6 Correct",OK
+117067,416,0,"2024-01-19 19:35:52","Skills Quiz-3 Step-7 Correct","Tap Here"
+117068,416,0,"2024-01-19 19:36:14","Skills Quiz-3 Step-10 Correct","Tap Here"
+117069,416,0,"2024-01-19 19:36:29","Skills Quiz-3 Step-13 Correct",event-title
+117070,416,0,"2024-01-19 19:36:50","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+117071,416,0,"2024-01-19 19:37:00","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+117072,416,0,"2024-01-19 19:37:01","Skills Quiz-3 Step-4 Correct",right-arrow
+117073,416,0,"2024-01-19 19:37:03","Skills Quiz-3 Step-5 Correct",14
+117074,416,0,"2024-01-19 19:37:05","Skills Quiz-3 Step-6 Correct",OK
+117075,416,0,"2024-01-19 19:37:07","Skills Quiz-3 Step-7 Correct","Tap Here"
+117076,416,0,"2024-01-19 19:37:16","Skills Quiz-3 Step-10 Correct","Tap Here"
+117077,416,0,"2024-01-19 19:37:31","Skills Quiz-3 Step-13 Correct",event-title
+117078,416,0,"2024-01-19 19:37:52","Skills Quiz-3 Step-15 Correct",event-description
+117079,416,0,"2024-01-19 19:38:22","Skills Quiz 30 second Hint",30time
+117080,416,33,"2024-01-19 19:38:33",click,"skills quiz hint"
+117081,416,0,"2024-01-19 19:38:43","Skills Quiz-3 Step-2 Incorrect",CALENDAR
+117082,416,0,"2024-01-19 19:38:45","Skills Quiz-3 Step-2 Incorrect",TODAY
+117083,416,0,"2024-01-19 19:38:46","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+117084,416,0,"2024-01-19 19:38:56","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+117085,416,0,"2024-01-19 19:38:57","Skills Quiz-3 Step-4 Correct",right-arrow
+117086,416,0,"2024-01-19 19:38:59","Skills Quiz-3 Step-5 Correct",14
+117087,416,0,"2024-01-19 19:39:00","Skills Quiz-3 Step-6 Correct",OK
+117088,416,0,"2024-01-19 19:39:02","Skills Quiz-3 Step-7 Correct","Tap Here"
+117089,416,0,"2024-01-19 19:39:12","Skills Quiz-3 Step-10 Correct","Tap Here"
+117090,416,0,"2024-01-19 19:39:21","Skills Quiz-3 Step-13 Correct",event-title
+117091,416,0,"2024-01-19 19:39:46","Skills Quiz-3 Step-15 Correct",event-description
+117092,416,0,"2024-01-19 19:40:13","Skills Quiz-3 Step-17 Correct",Save
+0,0,0,"2024-01-19 19:40:13",module_end,none

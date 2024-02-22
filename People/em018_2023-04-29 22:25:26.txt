@@ -1,0 +1,35 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+46305,315,122,"2023-04-29 22:19:53",page-load,"web form: question"
+46306,315,122,"2023-04-29 22:20:02",click,"correct-option: Both the To-do List and Time Schedule"
+46307,315,122,"2023-04-29 22:20:04",click,next-page
+46308,315,123,"2023-04-29 22:20:04",page-load,video
+46309,315,124,"2023-04-29 22:21:55",page-load,"web form: what would you like to do next"
+46310,315,0,"2023-04-29 22:22:55","Skills Quiz-7 Step-1 Correct",Edit
+46311,315,0,"2023-04-29 22:23:04","Skills Quiz-7 Step-2 Incorrect",Weekly
+46312,315,0,"2023-04-29 22:23:11","Skills Quiz-7 Step-2 Correct",event-description
+46313,315,0,"2023-04-29 22:23:38","Skills Quiz-7 Step-1 Correct",Edit
+46314,315,0,"2023-04-29 22:23:41","Skills Quiz-7 Step-2 Correct",event-description
+46315,315,0,"2023-04-29 22:24:11","Skills Quiz 30 second Hint",30time
+46316,315,0,"2023-04-29 22:24:31","Skills Quiz-7 Step-4 Incorrect",undefined
+46317,315,0,"2023-04-29 22:24:34","Skills Quiz-7 Step-4 Incorrect",undefined
+46318,315,0,"2023-04-29 22:24:35","Skills Quiz-7 Step-4 Incorrect",undefined
+46319,315,0,"2023-04-29 22:24:39","Skills Quiz-7 Step-4 Incorrect",undefined
+46320,315,0,"2023-04-29 22:24:40","Skills Quiz-7 Step-4 Incorrect",undefined
+46321,315,0,"2023-04-29 22:24:44","Skills Quiz-7 Step-4 Incorrect",green-check-descr
+46322,315,0,"2023-04-29 22:24:51","Skills Quiz-7 Step-4 Correct",Weekly
+46323,315,0,"2023-04-29 22:24:53","Skills Quiz-7 Step-5 Correct",Tue
+46324,315,0,"2023-04-29 22:24:55","Skills Quiz-7 Step-6 Correct",Thu
+46325,315,0,"2023-04-29 22:24:58","Skills Quiz-7 Step-7 Incorrect",YES
+46326,315,0,"2023-04-29 22:25:00","Skills Quiz-7 Step-7 Incorrect",YES
+46327,315,0,"2023-04-29 22:25:01","Skills Quiz-7 Step-7 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+46328,315,0,"2023-04-29 22:25:03","Skills Quiz-7 Step-7 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+46329,315,0,"2023-04-29 22:25:09","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+46330,315,0,"2023-04-29 22:25:12","Skills Quiz-7 Step-8 Correct",end-right-arrow
+46331,315,0,"2023-04-29 22:25:13","Skills Quiz-7 Step-9 Correct",31
+46332,315,0,"2023-04-29 22:25:14","Skills Quiz-7 Step-10 Correct",OK
+46333,315,0,"2023-04-29 22:25:18","Skills Quiz-7 Step-11 Correct",YES
+46334,315,0,"2023-04-29 22:25:21","Skills Quiz-7 Step-12 Correct",Save
+46335,315,0,"2023-04-29 22:25:23","Skills Quiz-7 Step-13 Incorrect",undefined
+46336,315,0,"2023-04-29 22:25:24","Skills Quiz-7 Step-13 Incorrect",undefined
+46337,315,0,"2023-04-29 22:25:26","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-04-29 22:25:26",module_end,none

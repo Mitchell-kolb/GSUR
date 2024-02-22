@@ -1,0 +1,57 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+44266,297,502,"2023-04-27 02:10:10",page-load,video
+44267,297,503,"2023-04-27 02:10:32",page-load,"web form: scheduling choices"
+44268,297,503,"2023-04-27 02:11:06",page-load,"web form: scheduling choices"
+44269,297,503,"2023-04-27 02:11:12",page-load,"web form: scheduling choices"
+44270,297,503,"2023-04-27 02:11:24",click,next-page
+44271,297,503,"2023-04-27 02:11:27",tracked,"Going to a museum"
+44272,297,503,"2023-04-27 02:11:32",tracked,"Reading a book"
+44273,297,503,"2023-04-27 02:11:32",click,next-page
+44274,297,504,"2023-04-27 02:11:33",page-load,video
+44275,297,500,"2023-04-27 02:12:19",page-load,video
+44276,297,206,"2023-04-27 02:12:50",page-load,video
+44277,297,104,"2023-04-27 02:12:51",page-load,video
+44278,297,59,"2023-04-27 02:12:53",page-load,"end of lesson: 2"
+44279,297,500,"2023-04-27 02:13:01",page-load,video
+44280,297,501,"2023-04-27 02:13:40",page-load,"web form: scheduling choices"
+44281,297,501,"2023-04-27 02:13:42",tracked,"reduce stress"
+44282,297,501,"2023-04-27 02:13:43",tracked,"improve my quality of life"
+44283,297,501,"2023-04-27 02:13:44",click,next-page
+44284,297,502,"2023-04-27 02:13:45",page-load,video
+44285,297,503,"2023-04-27 02:14:00",page-load,"web form: scheduling choices"
+44286,297,503,"2023-04-27 02:14:01",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+44287,297,503,"2023-04-27 02:14:02",tracked,"Going to a museum"
+44288,297,503,"2023-04-27 02:14:03",tracked,"Reading a book"
+44289,297,503,"2023-04-27 02:14:04",click,next-page
+44290,297,504,"2023-04-27 02:14:04",page-load,video
+44291,297,505,"2023-04-27 02:14:29",page-load,"web form: what would you like to do next"
+44292,297,505,"2023-04-27 02:14:30",click,next-page
+44293,297,506,"2023-04-27 02:14:30",page-load,"skills quiz preview"
+44294,297,506,"2023-04-27 02:14:32",click,next-page
+44295,297,0,"2023-04-27 02:14:35","Skills Quiz-25 Step-1 Correct",TODAY
+44296,297,0,"2023-04-27 02:14:37","Skills Quiz-25 Step-2 Incorrect",undefined
+44297,297,0,"2023-04-27 02:14:38","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+44298,297,0,"2023-04-27 02:14:38","Skills Quiz-25 Step-3 Correct","Tap Here"
+44299,297,0,"2023-04-27 02:14:39","Skills Quiz-25 Step-2 Incorrect",3
+44300,297,0,"2023-04-27 02:14:39","Skills Quiz-25 Step-4 Correct",3
+44301,297,0,"2023-04-27 02:14:40","Skills Quiz-25 Step-5 Correct",0
+44302,297,0,"2023-04-27 02:14:40","Skills Quiz-25 Step-2 Incorrect",0
+44303,297,0,"2023-04-27 02:14:40","Skills Quiz-25 Step-6 Correct","                              Save            "
+44304,297,0,"2023-04-27 02:14:40","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+44305,297,0,"2023-04-27 02:14:43","Skills Quiz-25 Step-2 Incorrect",Save
+44306,297,0,"2023-04-27 02:14:43","Skills Quiz-25 Step-7 Correct",Save
+44307,297,0,"2023-04-27 02:14:46","Skills Quiz-25 Step-2 Incorrect",undefined
+44308,297,0,"2023-04-27 02:14:46","Skills Quiz-25 Step-8 Incorrect",undefined
+44309,297,0,"2023-04-27 02:14:47","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+44310,297,0,"2023-04-27 02:14:47","Skills Quiz-25 Step-9 Correct","Tap Here"
+44311,297,0,"2023-04-27 02:14:47","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+44312,297,0,"2023-04-27 02:14:48","Skills Quiz-25 Step-2 Incorrect",1
+44313,297,0,"2023-04-27 02:14:48","Skills Quiz-25 Step-8 Incorrect",1
+44314,297,0,"2023-04-27 02:14:48","Skills Quiz-25 Step-10 Correct",1
+44315,297,0,"2023-04-27 02:14:48","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+44316,297,0,"2023-04-27 02:14:48","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+44317,297,0,"2023-04-27 02:14:48","Skills Quiz-25 Step-11 Correct","                              Save            "
+44318,297,0,"2023-04-27 02:14:50","Skills Quiz-25 Step-12 Correct",Save
+44319,297,0,"2023-04-27 02:14:50","Skills Quiz-25 Step-8 Incorrect",Save
+44320,297,0,"2023-04-27 02:14:50","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2023-04-27 02:14:50",module_end,none

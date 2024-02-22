@@ -1,0 +1,17 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+115039,406,0,"2024-01-15 05:52:36","Skills Quiz-14 Step-1 Correct",Lists
+115040,406,0,"2024-01-15 05:52:44","Skills Quiz-14 Step-2 Correct","Add New Note"
+115041,406,0,"2024-01-15 05:52:51","Skills Quiz-14 Step-3 Correct",modal-note-title
+115042,406,0,"2024-01-15 05:53:21","Skills Quiz 30 second Hint",30time
+115043,406,0,"2024-01-15 05:54:17","Skills Quiz-14 Step-5 Correct",modal-note-content
+115044,406,0,"2024-01-15 05:54:47","Skills Quiz 30 second Hint",30time
+115045,406,0,"2024-01-15 05:55:21","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+115046,406,0,"2024-01-15 05:55:24","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+115047,406,0,"2024-01-15 05:55:33","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+115048,406,0,"2024-01-15 05:55:34","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+115049,406,0,"2024-01-15 05:55:34","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+115050,406,0,"2024-01-15 05:55:39","Skills Quiz-14 Step-7 Correct",SAVE
+115051,406,0,"2024-01-15 05:55:42","Skills Quiz-14 Step-8 Incorrect","Driver’s License"
+115052,406,0,"2024-01-15 05:55:43","Skills Quiz-14 Step-8 Incorrect","Driver’s License"
+115053,406,0,"2024-01-15 05:55:49","Skills Quiz-14 Step-8 Correct",Close
+0,0,0,"2024-01-15 05:55:49",module_end,none

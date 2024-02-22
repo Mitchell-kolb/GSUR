@@ -1,0 +1,144 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+45727,316,130,"2023-04-29 00:57:16",page-load,"web form: question"
+45728,316,130,"2023-04-29 00:57:29",click,"incorrect-option: In both the Time Schedule and the To Do list"
+45729,316,130,"2023-04-29 00:57:30",click,"correct-option: In the To Do list only"
+45730,316,130,"2023-04-29 00:57:31",click,next-page
+45731,316,131,"2023-04-29 00:57:32",page-load,video
+45732,316,132,"2023-04-29 00:58:22",page-load,"web form: what would you like to do next"
+45733,316,132,"2023-04-29 00:58:24",click,next-page
+45734,316,133,"2023-04-29 00:58:24",page-load,video
+45735,316,134,"2023-04-29 00:59:52",page-load,"web form: question"
+45736,316,134,"2023-04-29 01:00:03",click,"incorrect-option: Check off all boxes"
+45737,316,134,"2023-04-29 01:00:14",click,"correct-option: Check off the empty box next to ""walk Buster"""
+45738,316,134,"2023-04-29 01:00:15",click,next-page
+45739,316,135,"2023-04-29 01:00:16",page-load,video
+45740,316,136,"2023-04-29 01:01:20",page-load,"web form: what would you like to do next"
+45741,316,136,"2023-04-29 01:01:22",click,next-page
+45742,316,137,"2023-04-29 01:01:23",page-load,"skills quiz 10: preview"
+45743,316,0,"2023-04-29 01:03:37","Skills Quiz-9 Step-1 Correct",Edit
+45744,316,138,"2023-04-29 01:03:57",click,"skills quiz hint"
+45745,316,0,"2023-04-29 01:04:02","Skills Quiz-9 Step-2 Incorrect",undefined
+45746,316,0,"2023-04-29 01:04:03","Skills Quiz-9 Step-2 Incorrect",Weekly
+45747,316,0,"2023-04-29 01:04:05","Skills Quiz-9 Step-2 Correct",nos-time-check
+45748,316,0,"2023-04-29 01:04:06","Skills Quiz-9 Step-3 Correct",start-time
+45749,316,0,"2023-04-29 01:04:29","Skills Quiz-9 Step-6 Correct",end-time
+45750,316,0,"2023-04-29 01:04:36","Skills Quiz-9 Step-9 Correct",Save
+45751,316,0,"2023-04-29 01:04:51","Skills Quiz-9 Step-10 Correct",CALENDAR
+45752,316,0,"2023-04-29 01:04:55","Skills Quiz-9 Step-11 Correct",9
+45753,316,138,"2023-04-29 01:05:11",click,"skills quiz hint"
+45754,316,138,"2023-04-29 01:05:13",click,"skills quiz hint"
+45755,316,138,"2023-04-29 01:05:25",click,"skills quiz hint"
+45756,316,138,"2023-04-29 01:05:26",click,"skills quiz hint"
+45757,316,138,"2023-04-29 01:05:26",click,"skills quiz hint"
+45758,316,138,"2023-04-29 01:05:44",click,"skills quiz hint"
+45759,316,138,"2023-04-29 01:05:45",click,"skills quiz hint"
+45760,316,138,"2023-04-29 01:05:45",click,"skills quiz hint"
+45761,316,138,"2023-04-29 01:05:45",click,"skills quiz hint"
+45762,316,138,"2023-04-29 01:05:45",click,"skills quiz hint"
+45763,316,138,"2023-04-29 01:05:45",click,"skills quiz hint"
+45764,316,138,"2023-04-29 01:05:45",click,"skills quiz hint"
+45765,316,138,"2023-04-29 01:05:46",click,"skills quiz hint"
+45766,316,138,"2023-04-29 01:05:46",click,"skills quiz hint"
+45767,316,138,"2023-04-29 01:05:46",click,"skills quiz hint"
+45768,316,138,"2023-04-29 01:05:47",click,"skills quiz hint"
+45769,316,0,"2023-04-29 01:05:54","Skills Quiz-9 Step-1 Incorrect","Bake Apple Pie"
+45770,316,0,"2023-04-29 01:06:08","Skills Quiz-9 Step-1 Incorrect","Laundry "
+45771,316,0,"2023-04-29 01:06:10","Skills Quiz-9 Step-1 Incorrect","Bake Apple Pie"
+45772,316,0,"2023-04-29 01:06:10","Skills Quiz-9 Step-1 Incorrect"," Add Entry/EventThursday, June 10 Tap the View button for any item in the To Do List for more informationLaundry ViewBake Apple Pie5:00 PM - 6:00 PMView"
+45773,316,0,"2023-04-29 01:06:16","Skills Quiz-9 Step-1 Correct",Edit
+45774,316,0,"2023-04-29 01:06:19","Skills Quiz-9 Step-2 Correct",nos-time-check
+45775,316,0,"2023-04-29 01:06:20","Skills Quiz-9 Step-3 Correct",start-time
+45776,316,0,"2023-04-29 01:06:27","Skills Quiz-9 Step-6 Correct",end-time
+45777,316,0,"2023-04-29 01:06:39","Skills Quiz-9 Step-9 Incorrect",Save
+45778,316,0,"2023-04-29 01:06:41","Skills Quiz-9 Step-9 Correct",Save
+45779,316,0,"2023-04-29 01:06:44","Skills Quiz-9 Step-10 Incorrect","Bake Apple Pie5:00 PM - 6:00 PM"
+45780,316,0,"2023-04-29 01:06:47","Skills Quiz-9 Step-10 Incorrect",Edit
+45781,316,0,"2023-04-29 01:06:59","Skills Quiz-9 Step-2 Incorrect",undefined
+45782,316,0,"2023-04-29 01:07:01","Skills Quiz-9 Step-2 Correct",nos-time-check
+45783,316,0,"2023-04-29 01:07:03","Skills Quiz-9 Step-3 Incorrect",undefined
+45784,316,0,"2023-04-29 01:07:04","Skills Quiz-9 Step-3 Incorrect",undefined
+45785,316,0,"2023-04-29 01:07:17","Skills Quiz-9 Step-3 Incorrect","60 min"
+45786,316,0,"2023-04-29 01:07:18","Skills Quiz-9 Step-3 Correct","5:00 PM"
+45787,316,138,"2023-04-29 01:07:25",click,"skills quiz hint"
+45788,316,0,"2023-04-29 01:07:48","Skills Quiz 30 second Hint",30time
+45789,316,138,"2023-04-29 01:08:00",click,"skills quiz hint"
+45790,316,138,"2023-04-29 01:08:01",click,"skills quiz hint"
+45791,316,138,"2023-04-29 01:08:17",click,"skills quiz hint"
+45792,316,138,"2023-04-29 01:09:20",click,"skills quiz hint"
+45793,316,138,"2023-04-29 01:09:21",click,"skills quiz hint"
+45794,316,104,"2023-04-29 01:21:38",page-load,video
+45795,316,105,"2023-04-29 01:21:45",page-load,"web form: question"
+45796,316,105,"2023-04-29 01:21:57",click,previous-page
+45797,316,104,"2023-04-29 01:21:58",page-load,video
+45798,316,105,"2023-04-29 01:22:02",page-load,"web form: question"
+45799,316,105,"2023-04-29 01:22:06",click,previous-page
+45800,316,104,"2023-04-29 01:22:07",page-load,video
+45801,316,105,"2023-04-29 01:22:12",page-load,"web form: question"
+45802,316,105,"2023-04-29 01:22:15",click,next-page
+45803,316,105,"2023-04-29 01:22:15",click,next-page
+45804,316,105,"2023-04-29 01:22:15",click,next-page
+45805,316,105,"2023-04-29 01:22:15",click,next-page
+45806,316,105,"2023-04-29 01:22:16",click,next-page
+45807,316,105,"2023-04-29 01:22:21",click,previous-page
+45808,316,104,"2023-04-29 01:22:21",page-load,video
+45809,316,105,"2023-04-29 01:22:59",page-load,"web form: question"
+45810,316,105,"2023-04-29 01:23:05",click,"correct-option: Birthdays"
+45811,316,105,"2023-04-29 01:23:07",click,next-page
+45812,316,106,"2023-04-29 01:23:08",page-load,video
+49119,316,200,"2023-05-04 02:14:25",page-load,video
+49120,316,201,"2023-05-04 02:16:59",page-load,"web form: question"
+49121,316,201,"2023-05-04 02:17:13",click,next-page
+49122,316,201,"2023-05-04 02:17:15",click,next-page
+49123,316,201,"2023-05-04 02:17:17",click,next-page
+49124,316,201,"2023-05-04 02:17:18",click,"incorrect-option: A. To jot down notes about an event, such as a movie you watched or a book you read"
+49125,316,201,"2023-05-04 02:17:20",click,"incorrect-option: B. To write down instructions for a household chore"
+49126,316,201,"2023-05-04 02:17:21",click,"incorrect-option: C. To make a grocery list"
+49127,316,201,"2023-05-04 02:17:22",click,next-page
+49128,316,202,"2023-05-04 02:17:23",page-load,video
+49129,316,203,"2023-05-04 02:17:51",page-load,"web form: scheduling choices"
+49130,316,203,"2023-05-04 02:17:59",tracked,"Meal Planner"
+49131,316,203,"2023-05-04 02:18:05",tracked,"Address book"
+49132,316,203,"2023-05-04 02:18:06",tracked,"Travel checklist"
+49133,316,203,"2023-05-04 02:18:07",click,next-page
+49134,316,204,"2023-05-04 02:18:08",page-load,video
+49136,316,205,"2023-05-04 02:19:42",page-load,"web form: question"
+49137,316,205,"2023-05-04 02:19:51",click,"correct-option: Add New Folder"
+49138,316,205,"2023-05-04 02:19:53",click,next-page
+49139,316,206,"2023-05-04 02:19:53",page-load,video
+49144,316,207,"2023-05-04 02:20:36",page-load,"web form: question"
+49145,316,207,"2023-05-04 02:20:51",click,next-page
+49146,316,207,"2023-05-04 02:20:52",click,hint
+49147,316,207,"2023-05-04 02:20:57",click,"incorrect-option: Sorts your folders alphabetically."
+49148,316,207,"2023-05-04 02:21:02",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+49149,316,207,"2023-05-04 02:21:02",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+49150,316,207,"2023-05-04 02:21:02",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+49151,316,207,"2023-05-04 02:21:04",click,next-page
+49152,316,208,"2023-05-04 02:21:07",page-load,"web form: what would you like to do next"
+49153,316,208,"2023-05-04 02:21:10",click,next-page
+49154,316,209,"2023-05-04 02:21:11",page-load,"skills quiz preview"
+49155,316,209,"2023-05-04 02:21:31",click,next-page
+49156,316,0,"2023-05-04 02:21:36","Skills Quiz-11 Step-1 Correct","Add New Folder"
+49157,316,0,"2023-05-04 02:21:39","Skills Quiz-11 Step-2 Correct",modal-folder-title
+49158,316,0,"2023-05-04 02:21:47","Skills Quiz-11 Step-3 Incorrect",Next
+49159,316,0,"2023-05-04 02:21:49","Skills Quiz-11 Step-3 Incorrect",SAVE
+49160,316,0,"2023-05-04 02:21:49","Skills Quiz-11 Step-4 Correct",SAVE
+49161,316,0,"2023-05-04 02:21:52","Skills Quiz-11 Step-3 Incorrect",CloseEDIT
+49162,316,0,"2023-05-04 02:21:52","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+49163,316,0,"2023-05-04 02:21:56","Skills Quiz-11 Step-5 Correct",Close
+49164,316,0,"2023-05-04 02:21:56","Skills Quiz-11 Step-3 Incorrect",Close
+49165,316,0,"2023-05-04 02:22:01","Skills Quiz-11 Step-6 Correct",Edit
+49166,316,0,"2023-05-04 02:22:01","Skills Quiz-11 Step-3 Incorrect",Edit
+49167,316,0,"2023-05-04 02:22:05","Skills Quiz-11 Step-7 Correct",SAVE
+49168,316,0,"2023-05-04 02:22:05","Skills Quiz-11 Step-3 Incorrect",SAVE
+49169,316,0,"2023-05-04 02:22:08","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+49170,316,0,"2023-05-04 02:22:08","Skills Quiz-11 Step-8 Incorrect",CloseSAVE
+49171,316,0,"2023-05-04 02:22:14","Skills Quiz-11 Step-3 Correct",modal-folder-title
+49172,316,0,"2023-05-04 02:22:14","Skills Quiz-11 Step-8 Correct",modal-folder-title
+49173,316,0,"2023-05-04 02:22:16","Skills Quiz-11 Step-9 Incorrect",Next
+49174,316,0,"2023-05-04 02:22:19","Skills Quiz-11 Step-9 Incorrect",SAVE
+49175,316,0,"2023-05-04 02:22:19","Skills Quiz-11 Step-10 Correct",SAVE
+49176,316,0,"2023-05-04 02:22:20","Skills Quiz-11 Step-9 Incorrect",CloseEDIT
+49177,316,0,"2023-05-04 02:22:20","Skills Quiz-11 Step-11 Incorrect",CloseEDIT
+49178,316,0,"2023-05-04 02:22:23","Skills Quiz-11 Step-11 Correct",Close
+49179,316,0,"2023-05-04 02:22:23","Skills Quiz-11 Step-9 Incorrect",Close
+0,0,0,"2023-05-04 02:22:23",module_end,none

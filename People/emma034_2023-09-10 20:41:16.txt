@@ -1,0 +1,10 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+95540,341,0,"2023-09-10 20:39:54","Skills Quiz-15 Step-3 Incorrect","Tree: AppleViewTree: PearView"
+95541,341,232,"2023-09-10 20:39:54",page-load,"skills quiz preview"
+95542,341,0,"2023-09-10 20:40:43","Skills Quiz-16 Step-1 Correct",Relevant
+95543,341,0,"2023-09-10 20:40:45","Skills Quiz-16 Step-2 Correct","A - ZAlphabetical Order"
+95544,341,0,"2023-09-10 20:40:52","Skills Quiz-16 Step-3 Incorrect","Holiday Gifts"
+95545,341,0,"2023-09-10 20:41:00","Skills Quiz-16 Step-3 Incorrect",note-search
+95546,341,0,"2023-09-10 20:41:00","Skills Quiz-16 Step-4 Correct",note-search
+95547,341,0,"2023-09-10 20:41:15","Skills Quiz-16 Step-3 Incorrect",Next
+0,0,0,"2023-09-10 20:41:16",module_end,none

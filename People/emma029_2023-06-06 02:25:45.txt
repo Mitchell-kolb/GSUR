@@ -1,0 +1,31 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+62580,329,225,"2023-06-05 22:52:07",page-load,video
+62619,329,225,"2023-06-05 22:59:18",page-load,video
+62757,329,225,"2023-06-06 02:18:16",page-load,video
+62758,329,226,"2023-06-06 02:21:12",page-load,"web form: question"
+62759,329,226,"2023-06-06 02:21:18",click,"correct-option: Magnifying Glass"
+62760,329,226,"2023-06-06 02:21:19",click,next-page
+62761,329,227,"2023-06-06 02:21:19",page-load,video
+62762,329,228,"2023-06-06 02:22:53",page-load,"web form: what would you like to do next"
+62763,329,228,"2023-06-06 02:22:55",click,next-page
+62764,329,229,"2023-06-06 02:22:56",page-load,"skills quiz preview"
+62765,329,230,"2023-06-06 02:24:07",click,"skills quiz hint"
+62766,329,0,"2023-06-06 02:24:11","Skills Quiz-15 Step-1 Correct",Relevant
+62767,329,0,"2023-06-06 02:24:16","Skills Quiz-15 Step-2 Correct","Alphabetical Order"
+62768,329,0,"2023-06-06 02:24:20","Skills Quiz-15 Step-3 Incorrect",Search
+62769,329,0,"2023-06-06 02:24:23","Skills Quiz-15 Step-3 Incorrect",note-search
+62770,329,230,"2023-06-06 02:24:26",click,"skills quiz hint"
+62771,329,0,"2023-06-06 02:24:29","Skills Quiz-15 Step-3 Correct","Lawn IdeasEdit"
+62772,329,0,"2023-06-06 02:24:37","Skills Quiz-15 Step-4 Incorrect",View
+62773,329,230,"2023-06-06 02:24:48",click,"skills quiz hint"
+62774,329,230,"2023-06-06 02:24:49",click,"skills quiz hint"
+62775,329,228,"2023-06-06 02:24:53",click,next-page
+62776,329,229,"2023-06-06 02:24:54",page-load,"skills quiz preview"
+62777,329,229,"2023-06-06 02:24:59",click,next-page
+62778,329,0,"2023-06-06 02:25:06","Skills Quiz-15 Step-1 Incorrect","Lawn IdeasEdit"
+62779,329,0,"2023-06-06 02:25:09","Skills Quiz-15 Step-1 Correct",Relevant
+62780,329,0,"2023-06-06 02:25:12","Skills Quiz-15 Step-2 Correct","A - Z"
+62781,329,230,"2023-06-06 02:25:19",click,"skills quiz hint"
+62782,329,0,"2023-06-06 02:25:23","Skills Quiz-15 Step-3 Correct","Lawn IdeasEdit"
+62783,329,0,"2023-06-06 02:25:30","Skills Quiz-15 Step-4 Correct",note-search
+0,0,0,"2023-06-06 02:25:45",module_end,none

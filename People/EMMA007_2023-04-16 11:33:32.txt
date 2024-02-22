@@ -1,0 +1,101 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+40760,298,434,"2023-04-16 10:35:08",page-load,video
+40761,298,435,"2023-04-16 10:35:13",page-load,"goal setting: preview"
+40762,298,436,"2023-04-16 10:36:48",page-load,"goal setting: example plan"
+40763,298,437,"2023-04-16 10:37:48",page-load,"goal setting: pick one strategy"
+40764,298,437,"2023-04-16 10:42:51",click,next-page
+40765,298,437,"2023-04-16 10:43:22",click,next-page
+40766,298,438,"2023-04-16 10:43:23",page-load,"goal setting: top strategy display"
+40767,298,438,"2023-04-16 10:43:44",click,next-page
+40768,298,439,"2023-04-16 10:43:44",page-load,"goal setting: when"
+40769,298,439,"2023-04-16 10:45:48",click,next-page
+40770,298,440,"2023-04-16 10:45:49",page-load,"goal setting: where"
+40771,298,440,"2023-04-16 10:46:42",click,next-page
+40772,298,441,"2023-04-16 10:46:43",page-load,"goal setting: with whom"
+40773,298,441,"2023-04-16 10:47:30",click,next-page
+40774,298,441,"2023-04-16 10:47:36",click,previous-page
+40775,298,440,"2023-04-16 10:47:36",page-load,"goal setting: where"
+40776,298,440,"2023-04-16 10:48:40",click,next-page
+40777,298,441,"2023-04-16 10:48:41",page-load,"goal setting: with whom"
+40778,298,441,"2023-04-16 10:49:25",click,next-page
+40779,298,442,"2023-04-16 10:49:25",page-load,"goal setting: how"
+40780,298,442,"2023-04-16 10:55:17",click,next-page
+40781,298,443,"2023-04-16 10:55:17",page-load,"goal setting: barriers and alternatives"
+40782,298,443,"2023-04-16 10:58:04",click,next-page
+40783,298,444,"2023-04-16 10:58:04",page-load,"goal setting: motivation"
+40784,298,444,"2023-04-16 10:58:29",click,next-page
+40785,298,445,"2023-04-16 10:58:30",page-load,"goal setting: confidence"
+40786,298,445,"2023-04-16 10:58:39",click,next-page
+40787,298,446,"2023-04-16 10:58:40",page-load,"goal setting: plan"
+40788,298,446,"2023-04-16 10:59:07",click,next-page
+40789,298,447,"2023-04-16 10:59:07",page-load,"end of lesson: 5"
+40790,298,500,"2023-04-16 10:59:56",page-load,video
+40791,298,501,"2023-04-16 11:03:10",page-load,"web form: scheduling choices"
+40792,298,501,"2023-04-16 11:04:35",tracked,"improve memory"
+40793,298,501,"2023-04-16 11:04:56",tracked,"stay mobile and active"
+40794,298,501,"2023-04-16 11:07:43",tracked,"improve my quality of life"
+40795,298,501,"2023-04-16 11:07:55",tracked,"reduce stress"
+40796,298,501,"2023-04-16 11:07:57",tracked,"better relationships"
+40797,298,501,"2023-04-16 11:07:59",tracked,"better relationships"
+40798,298,501,"2023-04-16 11:07:59",tracked,"better relationships"
+40799,298,501,"2023-04-16 11:08:00",tracked,"better relationships"
+40800,298,501,"2023-04-16 11:08:01",tracked,"better relationships"
+40801,298,501,"2023-04-16 11:08:02",tracked,"better relationships"
+40802,298,501,"2023-04-16 11:08:05",tracked,"better relationships"
+40803,298,501,"2023-04-16 11:08:08",tracked,"improve emotion regulation/mood"
+40804,298,501,"2023-04-16 11:08:08",tracked,"make me a better friend"
+40805,298,501,"2023-04-16 11:08:09",tracked,"stay mobile and active"
+40806,298,501,"2023-04-16 11:08:16",tracked,"stay mobile and active"
+40807,298,501,"2023-04-16 11:08:33",tracked,"It has always been important to me to be healthy"
+40808,298,501,"2023-04-16 11:08:34",tracked,"It has always been important to me to be healthy"
+40809,298,501,"2023-04-16 11:08:36",tracked,"It has always been important to me to be healthy"
+40810,298,501,"2023-04-16 11:08:36",tracked,"It has always been important to me to be healthy"
+40811,298,501,"2023-04-16 11:08:37",tracked,"It has always been important to me to be healthy"
+40812,298,501,"2023-04-16 11:08:38",tracked,"It has always been important to me to be healthy"
+40813,298,501,"2023-04-16 11:08:39",tracked,"It has always been important to me to be healthy"
+40814,298,501,"2023-04-16 11:08:39",tracked,"It has always been important to me to be healthy"
+40815,298,501,"2023-04-16 11:08:47",tracked,"It has always been important to me to be healthy"
+40816,298,501,"2023-04-16 11:08:48",tracked,"It has always been important to me to be healthy"
+40817,298,501,"2023-04-16 11:08:49",tracked,"improve emotion regulation/mood"
+40818,298,501,"2023-04-16 11:08:51",tracked,"make me a better friend"
+40819,298,501,"2023-04-16 11:08:52",tracked,"make me a better friend"
+40820,298,501,"2023-04-16 11:08:52",tracked,"improve emotion regulation/mood"
+40821,298,501,"2023-04-16 11:08:56",click,next-page
+40822,298,502,"2023-04-16 11:08:57",page-load,video
+40823,298,503,"2023-04-16 11:18:23",page-load,"web form: scheduling choices"
+40824,298,503,"2023-04-16 11:21:30",tracked,"Socialize with family and friends"
+40825,298,503,"2023-04-16 11:22:02",click,hint
+40826,298,503,"2023-04-16 11:22:19",click,next-page
+40827,298,504,"2023-04-16 11:22:20",page-load,video
+40828,298,505,"2023-04-16 11:28:05",page-load,"web form: what would you like to do next"
+40829,298,505,"2023-04-16 11:28:35",click,next-page
+40830,298,506,"2023-04-16 11:28:35",page-load,"skills quiz preview"
+40831,298,507,"2023-04-16 11:29:47",click,"skills quiz hint"
+40832,298,0,"2023-04-16 11:30:03","Skills Quiz-25 Step-1 Correct",TODAY
+40833,298,0,"2023-04-16 11:30:34","Skills Quiz 30 second Hint",30time
+40834,298,0,"2023-04-16 11:30:41","Skills Quiz-25 Step-2 Incorrect",undefined
+40835,298,0,"2023-04-16 11:31:05","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+40836,298,0,"2023-04-16 11:31:05","Skills Quiz-25 Step-3 Correct","Tap Here"
+40837,298,0,"2023-04-16 11:31:07","Skills Quiz-25 Step-2 Incorrect",3
+40838,298,0,"2023-04-16 11:31:07","Skills Quiz-25 Step-4 Correct",3
+40839,298,0,"2023-04-16 11:31:08","Skills Quiz-25 Step-2 Incorrect",0
+40840,298,0,"2023-04-16 11:31:08","Skills Quiz-25 Step-5 Correct",0
+40841,298,0,"2023-04-16 11:31:14","Skills Quiz-25 Step-6 Correct","                              Save            "
+40842,298,0,"2023-04-16 11:31:14","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+40843,298,0,"2023-04-16 11:31:23","Skills Quiz-25 Step-2 Incorrect",Save
+40844,298,0,"2023-04-16 11:31:23","Skills Quiz-25 Step-7 Correct",Save
+40845,298,0,"2023-04-16 11:31:54","Skills Quiz 30 second Hint",30time
+40846,298,0,"2023-04-16 11:31:56","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+40847,298,0,"2023-04-16 11:31:56","Skills Quiz-25 Step-8 Incorrect","Gratitude Journal2:00 PM - 2:30 PM"
+40848,298,0,"2023-04-16 11:32:56","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+40849,298,0,"2023-04-16 11:32:56","Skills Quiz-25 Step-9 Correct","Tap Here"
+40850,298,0,"2023-04-16 11:32:56","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+40851,298,0,"2023-04-16 11:33:22","Skills Quiz-25 Step-2 Incorrect",1
+40852,298,0,"2023-04-16 11:33:22","Skills Quiz-25 Step-8 Incorrect",1
+40853,298,0,"2023-04-16 11:33:22","Skills Quiz-25 Step-10 Correct",1
+40854,298,0,"2023-04-16 11:33:27","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+40855,298,0,"2023-04-16 11:33:27","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+40856,298,0,"2023-04-16 11:33:27","Skills Quiz-25 Step-11 Correct","                              Save            "
+40857,298,0,"2023-04-16 11:33:31","Skills Quiz-25 Step-8 Incorrect",Save
+40858,298,0,"2023-04-16 11:33:31","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2023-04-16 11:33:32",module_end,none

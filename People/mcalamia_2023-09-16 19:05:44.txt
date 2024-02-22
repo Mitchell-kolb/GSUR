@@ -1,0 +1,29 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+97146,356,215,"2023-09-16 18:05:00",page-load,video
+97147,356,215,"2023-09-16 18:35:59",page-load,video
+97148,356,216,"2023-09-16 18:36:29",page-load,"web form: question"
+97149,356,216,"2023-09-16 18:36:31",click,"correct-option: 1"
+97150,356,216,"2023-09-16 18:36:32",click,next-page
+97151,356,217,"2023-09-16 18:36:32",page-load,video
+97152,356,217,"2023-09-16 19:01:29",page-load,video
+97153,356,218,"2023-09-16 19:03:37",page-load,"web form: what would you like to do next"
+97154,356,218,"2023-09-16 19:03:55",click,next-page
+97155,356,219,"2023-09-16 19:03:55",page-load,"skills quiz preview"
+97156,356,219,"2023-09-16 19:04:43",click,next-page
+97157,356,0,"2023-09-16 19:04:47","Skills Quiz-13 Step-1 Correct",Lists
+97158,356,0,"2023-09-16 19:04:47","Skills Quiz-13 Step-2 Incorrect",Lists
+97159,356,0,"2023-09-16 19:04:49","Skills Quiz-13 Step-2 Correct","Add New Note"
+97160,356,0,"2023-09-16 19:04:49","Skills Quiz-13 Step-3 Incorrect","Add New Note"
+97161,356,0,"2023-09-16 19:04:53","Skills Quiz-13 Step-3 Correct",modal-note-title
+97162,356,220,"2023-09-16 19:05:14",click,"skills quiz hint"
+97163,356,220,"2023-09-16 19:05:15",click,"skills quiz hint"
+97164,356,0,"2023-09-16 19:05:18","Skills Quiz-13 Step-1 Correct",Lists
+97165,356,0,"2023-09-16 19:05:20","Skills Quiz-13 Step-2 Correct","Add New Note"
+97166,356,0,"2023-09-16 19:05:21","Skills Quiz-13 Step-3 Correct",modal-note-title
+97167,356,0,"2023-09-16 19:05:28","Skills Quiz-13 Step-5 Correct",modal-note-content
+97168,356,0,"2023-09-16 19:05:37","Skills Quiz-13 Step-7 Incorrect","TODAYCALENDARHEALTHNOTESNotesSort by:RelevantSearchClearAdd New FolderGoalsListsAdd New NoteNew NoteListsTitleContentClose  SAVE"
+97169,356,0,"2023-09-16 19:05:37","Skills Quiz-13 Step-7 Correct"," SAVE"
+97170,356,0,"2023-09-16 19:05:39","Skills Quiz-13 Step-8 Incorrect","Close  EDIT"
+97171,356,0,"2023-09-16 19:05:42","Skills Quiz-13 Step-8 Incorrect","Close  "
+97172,356,0,"2023-09-16 19:05:43","Skills Quiz-13 Step-8 Correct",Close
+0,0,0,"2023-09-16 19:05:44",module_end,none

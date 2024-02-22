@@ -1,0 +1,76 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+25352,245,531,"2023-02-21 14:25:55",page-load,"goal setting: preview"
+25353,245,531,"2023-02-21 14:25:56",click,next-page
+25354,245,532,"2023-02-21 14:25:57",page-load,"goal setting: example plan"
+25355,245,532,"2023-02-21 14:25:58",click,next-page
+25356,245,533,"2023-02-21 14:25:58",page-load,"goal setting: pick one strategy"
+25357,245,533,"2023-02-21 14:26:05",click,next-page
+25358,245,534,"2023-02-21 14:26:06",page-load,"goal setting: top strategy display"
+25359,245,534,"2023-02-21 14:26:07",click,next-page
+25360,245,535,"2023-02-21 14:26:07",page-load,"goal setting: when"
+25361,245,535,"2023-02-21 14:26:13",click,next-page
+25362,245,536,"2023-02-21 14:26:14",page-load,"goal setting: where"
+25363,245,536,"2023-02-21 14:26:21",click,next-page
+25364,245,537,"2023-02-21 14:26:21",page-load,"goal setting: with whom"
+25365,245,537,"2023-02-21 14:26:27",click,next-page
+25366,245,537,"2023-02-21 14:26:35",click,next-page
+25367,245,538,"2023-02-21 14:26:36",page-load,"goal setting: how"
+25368,245,538,"2023-02-21 14:26:44",click,next-page
+25369,245,539,"2023-02-21 14:26:45",page-load,"goal setting: barriers and alternatives"
+25370,245,539,"2023-02-21 14:27:00",click,next-page
+25371,245,540,"2023-02-21 14:27:01",page-load,"goal setting: motivation"
+25372,245,540,"2023-02-21 14:27:01",click,next-page
+25373,245,540,"2023-02-21 14:27:03",click,next-page
+25374,245,541,"2023-02-21 14:27:04",page-load,"goal setting: confidence"
+25375,245,541,"2023-02-21 14:27:05",click,next-page
+25376,245,542,"2023-02-21 14:27:06",page-load,"goal setting: plan"
+25377,245,542,"2023-02-21 14:27:07",click,next-page
+25378,245,543,"2023-02-21 14:27:08",page-load,"end of lesson: 6"
+25379,245,400,"2023-02-21 14:27:12",page-load,video
+25380,245,200,"2023-02-21 14:27:16",page-load,video
+25381,245,201,"2023-02-21 14:28:24",page-load,"web form: question"
+25382,245,201,"2023-02-21 14:28:25",click,"incorrect-option: B. To write down instructions for a household chore"
+25383,245,201,"2023-02-21 14:28:25",click,"incorrect-option: C. To make a grocery list"
+25384,245,201,"2023-02-21 14:28:25",click,"correct-option: D. All of the above"
+25385,245,201,"2023-02-21 14:28:26",click,"incorrect-option: A. To jot down notes about an event, such as a movie you watched or a book you read"
+25386,245,201,"2023-02-21 14:28:26",click,next-page
+25387,245,202,"2023-02-21 14:28:27",page-load,video
+25388,245,203,"2023-02-21 14:28:37",page-load,"web form: scheduling choices"
+25389,245,203,"2023-02-21 14:28:38",tracked,"Monthly expenditures form"
+25390,245,203,"2023-02-21 14:28:39",click,next-page
+25391,245,204,"2023-02-21 14:28:40",page-load,video
+25392,245,205,"2023-02-21 14:28:50",page-load,"web form: question"
+25393,245,205,"2023-02-21 14:28:51",click,"correct-option: Add New Folder"
+25394,245,205,"2023-02-21 14:28:52",click,"incorrect-option: Today"
+25395,245,205,"2023-02-21 14:28:52",click,"incorrect-option: Edit"
+25396,245,205,"2023-02-21 14:28:52",click,"correct-option: Add New Folder"
+25397,245,205,"2023-02-21 14:28:53",click,next-page
+25398,245,206,"2023-02-21 14:28:54",page-load,video
+25399,245,207,"2023-02-21 14:29:00",page-load,"web form: question"
+25400,245,207,"2023-02-21 14:29:01",click,"incorrect-option: Sorts your folders alphabetically."
+25401,245,207,"2023-02-21 14:29:02",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+25402,245,207,"2023-02-21 14:29:03",click,next-page
+25403,245,208,"2023-02-21 14:29:03",page-load,"web form: what would you like to do next"
+25404,245,208,"2023-02-21 14:29:04",click,next-page
+25405,245,209,"2023-02-21 14:29:05",page-load,"skills quiz preview"
+25406,245,209,"2023-02-21 14:29:06",click,next-page
+25407,245,0,"2023-02-21 14:29:09","Skills Quiz-11 Step-1 Correct","Add New Folder"
+25408,245,0,"2023-02-21 14:29:12","Skills Quiz-11 Step-2 Correct",modal-folder-title
+25409,245,0,"2023-02-21 14:29:15","Skills Quiz-11 Step-3 Incorrect",Next
+25410,245,0,"2023-02-21 14:29:17","Skills Quiz-11 Step-3 Incorrect",SAVE
+25411,245,0,"2023-02-21 14:29:17","Skills Quiz-11 Step-4 Correct",SAVE
+25412,245,0,"2023-02-21 14:29:19","Skills Quiz-11 Step-3 Incorrect",Close
+25413,245,0,"2023-02-21 14:29:19","Skills Quiz-11 Step-5 Correct",Close
+25414,245,0,"2023-02-21 14:29:20","Skills Quiz-11 Step-6 Correct",Edit
+25415,245,0,"2023-02-21 14:29:20","Skills Quiz-11 Step-3 Incorrect",Edit
+25416,245,0,"2023-02-21 14:29:21","Skills Quiz-11 Step-3 Incorrect",SAVE
+25417,245,0,"2023-02-21 14:29:21","Skills Quiz-11 Step-7 Correct",SAVE
+25418,245,0,"2023-02-21 14:29:22","Skills Quiz-11 Step-8 Correct",modal-folder-title
+25419,245,0,"2023-02-21 14:29:22","Skills Quiz-11 Step-3 Correct",modal-folder-title
+25420,245,0,"2023-02-21 14:29:28","Skills Quiz-11 Step-9 Incorrect",CloseSAVE
+25421,245,0,"2023-02-21 14:29:28","Skills Quiz-11 Step-9 Incorrect",Next
+25422,245,0,"2023-02-21 14:29:29","Skills Quiz-11 Step-9 Incorrect"," SAVE"
+25423,245,0,"2023-02-21 14:29:30","Skills Quiz-11 Step-10 Correct"," SAVE"
+25424,245,0,"2023-02-21 14:29:32","Skills Quiz-11 Step-9 Incorrect",Close
+25425,245,0,"2023-02-21 14:29:32","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-02-21 14:29:32",module_end,none

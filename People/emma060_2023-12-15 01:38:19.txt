@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+106676,407,222,"2023-12-15 01:27:55",page-load,"skills quiz preview"
+106677,407,0,"2023-12-15 01:29:12","Skills Quiz-14 Step-1 Incorrect","Add New Note"
+106678,407,0,"2023-12-15 01:29:14","Skills Quiz-14 Step-1 Incorrect",Lists
+106679,407,0,"2023-12-15 01:29:26","Skills Quiz-14 Step-1 Correct",Lists
+106680,407,0,"2023-12-15 01:29:26","Skills Quiz-14 Step-2 Incorrect",Lists
+106681,407,0,"2023-12-15 01:29:28","Skills Quiz-14 Step-2 Incorrect",note-list
+106682,407,0,"2023-12-15 01:29:28","Skills Quiz-14 Step-3 Incorrect",note-list
+106683,407,0,"2023-12-15 01:29:29","Skills Quiz-14 Step-2 Correct","Add New Note"
+106684,407,0,"2023-12-15 01:29:29","Skills Quiz-14 Step-3 Incorrect","Add New Note"
+106685,407,0,"2023-12-15 01:29:32","Skills Quiz-14 Step-3 Correct",modal-note-title
+106686,407,223,"2023-12-15 01:33:55",click,"skills quiz hint"
+106687,407,223,"2023-12-15 01:34:01",click,"skills quiz hint"
+106688,407,223,"2023-12-15 01:35:04",click,"skills quiz hint"
+106689,407,0,"2023-12-15 01:35:20","Skills Quiz-14 Step-1 Correct",Lists
+106690,407,0,"2023-12-15 01:35:36","Skills Quiz-14 Step-2 Incorrect",note-list
+106691,407,0,"2023-12-15 01:35:51","Skills Quiz-14 Step-2 Correct","Add New Note"
+106692,407,0,"2023-12-15 01:35:53","Skills Quiz-14 Step-3 Correct",modal-note-title
+106693,407,0,"2023-12-15 01:36:25","Skills Quiz-14 Step-5 Incorrect","Close   "
+106694,407,0,"2023-12-15 01:36:27","Skills Quiz-14 Step-5 Correct",modal-note-content
+106695,407,0,"2023-12-15 01:36:57","Skills Quiz 30 second Hint",30time
+106696,407,0,"2023-12-15 01:37:55","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+106697,407,0,"2023-12-15 01:37:57","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+106698,407,0,"2023-12-15 01:37:58","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+106699,407,0,"2023-12-15 01:37:59","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+106700,407,0,"2023-12-15 01:38:00","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+106701,407,0,"2023-12-15 01:38:00","Skills Quiz-14 Step-7 Incorrect",modal-note-content
+106702,407,0,"2023-12-15 01:38:07","Skills Quiz-14 Step-7 Correct",SAVE
+106703,407,0,"2023-12-15 01:38:18","Skills Quiz-14 Step-8 Correct",Close
+0,0,0,"2023-12-15 01:38:19",module_end,none

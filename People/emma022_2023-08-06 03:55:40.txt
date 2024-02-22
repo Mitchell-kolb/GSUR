@@ -1,0 +1,40 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+82543,350,509,"2023-08-06 03:54:16",page-load,"skills quiz preview"
+82544,350,509,"2023-08-06 03:54:30",click,next-page
+82545,350,0,"2023-08-06 03:54:36","Skills Quiz-26 Step-1 Incorrect",GoalsLists
+82546,350,0,"2023-08-06 03:54:40","Skills Quiz-26 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+82547,350,0,"2023-08-06 03:54:44","Skills Quiz-26 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+82548,350,0,"2023-08-06 03:54:45","Skills Quiz-26 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+82549,350,0,"2023-08-06 03:54:52","Skills Quiz-26 Step-1 Correct",TODAY
+82550,350,0,"2023-08-06 03:54:53","Skills Quiz-26 Step-2 Incorrect"," CALENDAR"
+82551,350,0,"2023-08-06 03:54:55","Skills Quiz-26 Step-2 Incorrect"," CALENDAR"
+82552,350,0,"2023-08-06 03:55:04","Skills Quiz-26 Step-2 Incorrect","Blood Pressure Reading12:30 PM - 1:15 PM"
+82553,350,0,"2023-08-06 03:55:07","Skills Quiz-26 Step-3 Correct","Tap Here"
+82554,350,0,"2023-08-06 03:55:07","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+82555,350,0,"2023-08-06 03:55:09","Skills Quiz-26 Step-2 Incorrect",1
+82556,350,0,"2023-08-06 03:55:09","Skills Quiz-26 Step-4 Correct",1
+82557,350,0,"2023-08-06 03:55:10","Skills Quiz-26 Step-2 Incorrect",3
+82558,350,0,"2023-08-06 03:55:10","Skills Quiz-26 Step-5 Correct",3
+82559,350,0,"2023-08-06 03:55:10","Skills Quiz-26 Step-2 Incorrect",123
+82560,350,0,"2023-08-06 03:55:10","Skills Quiz-26 Step-6 Incorrect",123
+82561,350,0,"2023-08-06 03:55:11","Skills Quiz-26 Step-6 Correct",0
+82562,350,0,"2023-08-06 03:55:11","Skills Quiz-26 Step-2 Incorrect",0
+82563,350,0,"2023-08-06 03:55:14","Skills Quiz-26 Step-7 Correct","                              Save            "
+82564,350,0,"2023-08-06 03:55:14","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+82565,350,0,"2023-08-06 03:55:16","Skills Quiz-26 Step-8 Correct","Tap Here"
+82566,350,0,"2023-08-06 03:55:16","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+82567,350,0,"2023-08-06 03:55:19","Skills Quiz-26 Step-2 Incorrect",8
+82568,350,0,"2023-08-06 03:55:19","Skills Quiz-26 Step-9 Correct",8
+82569,350,0,"2023-08-06 03:55:20","Skills Quiz-26 Step-2 Incorrect",0
+82570,350,0,"2023-08-06 03:55:20","Skills Quiz-26 Step-10 Correct",0
+82571,350,0,"2023-08-06 03:55:22","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+82572,350,0,"2023-08-06 03:55:22","Skills Quiz-26 Step-11 Correct","                              Save            "
+82573,350,0,"2023-08-06 03:55:26","Skills Quiz-26 Step-2 Incorrect",Save
+82574,350,0,"2023-08-06 03:55:26","Skills Quiz-26 Step-12 Correct",Save
+82575,350,0,"2023-08-06 03:55:34","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AM"
+82576,350,0,"2023-08-06 03:55:34","Skills Quiz-26 Step-13 Correct","Morning Medications7:00 AM - 7:30 AM"
+82577,350,0,"2023-08-06 03:55:36","Skills Quiz-26 Step-2 Incorrect",Yes
+82578,350,0,"2023-08-06 03:55:36","Skills Quiz-26 Step-14 Correct",Yes
+82579,350,0,"2023-08-06 03:55:40","Skills Quiz-26 Step-15 Correct",Save
+82580,350,0,"2023-08-06 03:55:40","Skills Quiz-26 Step-2 Incorrect",Save
+0,0,0,"2023-08-06 03:55:40",module_end,none

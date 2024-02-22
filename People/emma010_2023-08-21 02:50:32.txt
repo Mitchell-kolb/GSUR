@@ -1,0 +1,94 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+84501,352,245,"2023-08-10 20:01:07",page-load,"goal setting: preview"
+84502,352,246,"2023-08-10 20:01:58",page-load,"goal setting: example plan"
+84503,352,247,"2023-08-10 20:05:43",page-load,"goal setting: pick one strategy"
+84504,352,246,"2023-08-10 20:06:21",page-load,"goal setting: example plan"
+84505,352,247,"2023-08-10 20:07:00",page-load,"goal setting: pick one strategy"
+84506,352,247,"2023-08-10 20:07:14",click,next-page
+84507,352,248,"2023-08-10 20:07:15",page-load,"goal setting: top strategy display"
+84508,352,248,"2023-08-10 20:07:32",click,next-page
+84509,352,249,"2023-08-10 20:07:33",page-load,"goal setting: when"
+84510,352,249,"2023-08-10 20:07:42",click,hint
+84511,352,249,"2023-08-10 20:08:02",click,next-page
+84512,352,249,"2023-08-10 20:08:15",click,previous-page
+84513,352,248,"2023-08-10 20:08:16",page-load,"goal setting: top strategy display"
+84514,352,248,"2023-08-10 20:08:20",click,next-page
+84515,352,249,"2023-08-10 20:08:21",page-load,"goal setting: when"
+84516,352,249,"2023-08-10 20:09:30",click,next-page
+84517,352,250,"2023-08-10 20:09:33",page-load,"goal setting: where"
+84518,352,250,"2023-08-10 20:10:02",click,next-page
+84519,352,251,"2023-08-10 20:10:03",page-load,"goal setting: with whom"
+84520,352,251,"2023-08-10 20:10:04",click,next-page
+84521,352,251,"2023-08-10 20:10:44",click,next-page
+84522,352,252,"2023-08-10 20:10:44",page-load,"goal setting: how"
+84757,352,252,"2023-08-10 22:41:14",page-load,"goal setting: how"
+84758,352,252,"2023-08-10 22:41:32",click,previous-page
+84759,352,251,"2023-08-10 22:41:33",page-load,"goal setting: with whom"
+84760,352,251,"2023-08-10 22:41:59",click,next-page
+84761,352,252,"2023-08-10 22:42:01",page-load,"goal setting: how"
+84762,352,252,"2023-08-10 22:47:26",click,next-page
+84763,352,253,"2023-08-10 22:47:26",page-load,"goal setting: barriers and alternatives"
+84764,352,253,"2023-08-10 22:49:37",click,next-page
+84765,352,254,"2023-08-10 22:49:40",page-load,"goal setting: motivation"
+84766,352,254,"2023-08-10 22:49:50",click,next-page
+84767,352,255,"2023-08-10 22:49:50",page-load,"goal setting: confidence"
+84768,352,255,"2023-08-10 22:50:03",click,next-page
+84769,352,256,"2023-08-10 22:50:03",page-load,"goal setting: plan"
+84770,352,256,"2023-08-10 22:50:20",click,previous-page
+84771,352,255,"2023-08-10 22:50:20",page-load,"goal setting: confidence"
+84772,352,255,"2023-08-10 22:50:26",click,previous-page
+84773,352,254,"2023-08-10 22:50:26",page-load,"goal setting: motivation"
+84774,352,254,"2023-08-10 22:50:30",click,previous-page
+84775,352,253,"2023-08-10 22:50:30",page-load,"goal setting: barriers and alternatives"
+84776,352,253,"2023-08-10 22:52:01",click,next-page
+84777,352,254,"2023-08-10 22:52:04",page-load,"goal setting: motivation"
+84778,352,254,"2023-08-10 22:52:12",click,next-page
+84779,352,255,"2023-08-10 22:52:12",page-load,"goal setting: confidence"
+84780,352,255,"2023-08-10 22:52:16",click,next-page
+84781,352,256,"2023-08-10 22:52:16",page-load,"goal setting: plan"
+84782,352,257,"2023-08-10 22:52:57",page-load,"end of lesson: 4"
+84783,352,400,"2023-08-10 22:54:20",page-load,video
+84900,352,104,"2023-08-11 00:10:51",page-load,video
+89398,352,104,"2023-08-21 02:34:17",page-load,video
+89399,352,104,"2023-08-21 02:35:00",page-load,video
+89400,352,105,"2023-08-21 02:37:59",page-load,"web form: question"
+89401,352,105,"2023-08-21 02:38:15",click,"incorrect-option: Social Gatherings"
+89402,352,105,"2023-08-21 02:38:21",click,"incorrect-option: Trips"
+89403,352,105,"2023-08-21 02:38:24",click,next-page
+89404,352,106,"2023-08-21 02:38:24",page-load,video
+89405,352,107,"2023-08-21 02:38:46",page-load,"web form: question"
+89406,352,107,"2023-08-21 02:38:59",click,"incorrect-option: Volunteer Shifts"
+89407,352,107,"2023-08-21 02:39:03",click,"correct-option: Exercise"
+89408,352,107,"2023-08-21 02:39:08",click,"incorrect-option: Volunteer Shifts"
+89409,352,107,"2023-08-21 02:39:12",click,next-page
+89410,352,108,"2023-08-21 02:39:12",page-load,"web form: what would you like to do next"
+89411,352,108,"2023-08-21 02:39:15",click,next-page
+89412,352,109,"2023-08-21 02:39:17",page-load,video
+89413,352,110,"2023-08-21 02:43:54",page-load,"web form: question"
+89414,352,110,"2023-08-21 02:44:04",click,next-page
+89415,352,111,"2023-08-21 02:44:05",page-load,"web form: what would you like to do next"
+89416,352,111,"2023-08-21 02:44:07",click,next-page
+89417,352,112,"2023-08-21 02:44:09",page-load,video
+89418,352,113,"2023-08-21 02:44:59",page-load,"web form: question"
+89419,352,113,"2023-08-21 02:45:07",click,"correct-option: D. Both A and C"
+89420,352,113,"2023-08-21 02:45:08",click,next-page
+89421,352,114,"2023-08-21 02:45:09",page-load,video
+89422,352,115,"2023-08-21 02:46:49",page-load,"web form: question"
+89423,352,115,"2023-08-21 02:47:02",click,"correct-option: 30 minutes before"
+89424,352,115,"2023-08-21 02:47:03",click,next-page
+89425,352,116,"2023-08-21 02:47:04",page-load,"web form: what would you like to do next"
+89426,352,0,"2023-08-21 02:48:30","Skills Quiz-5 Step-1 Correct",CALENDAR
+89427,352,0,"2023-08-21 02:48:39","Skills Quiz-5 Step-2 Correct",right-arrow
+89428,352,0,"2023-08-21 02:49:00","Skills Quiz-5 Step-3 Incorrect","JULY 2021"
+89429,352,0,"2023-08-21 02:49:06","Skills Quiz-5 Step-3 Correct",3
+89430,352,0,"2023-08-21 02:49:23","Skills Quiz-5 Step-4 Incorrect",Date:
+89431,352,0,"2023-08-21 02:49:31","Skills Quiz-5 Step-4 Correct",Edit
+89432,352,0,"2023-08-21 02:49:41","Skills Quiz-5 Step-5 Incorrect","12:30 PM"
+89433,352,0,"2023-08-21 02:49:49","Skills Quiz-5 Step-5 Correct",YES
+89434,352,0,"2023-08-21 02:49:55","Skills Quiz-5 Step-6 Incorrect","60 min"
+89435,352,0,"2023-08-21 02:50:06","Skills Quiz-5 Step-6 Incorrect","12:30 PM"
+89436,352,117,"2023-08-21 02:50:10",click,"skills quiz hint"
+89437,352,0,"2023-08-21 02:50:14","Skills Quiz-5 Step-6 Correct","60 min"
+89438,352,0,"2023-08-21 02:50:20","Skills Quiz-5 Step-7 Incorrect",NO
+89439,352,0,"2023-08-21 02:50:31","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-08-21 02:50:32",module_end,none

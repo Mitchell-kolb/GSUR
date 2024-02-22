@@ -1,0 +1,51 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+26388,245,129,"2023-02-28 14:34:26",page-load,video
+26389,245,130,"2023-02-28 14:34:36",page-load,"web form: question"
+26390,245,130,"2023-02-28 14:34:37",click,"incorrect-option: In both the Time Schedule and the To Do list"
+26391,245,130,"2023-02-28 14:34:38",click,"correct-option: In the To Do list only"
+26392,245,130,"2023-02-28 14:34:38",click,"incorrect-option: In the Time Schedule only"
+26393,245,130,"2023-02-28 14:34:39",click,next-page
+26394,245,131,"2023-02-28 14:34:39",page-load,video
+26395,245,132,"2023-02-28 14:34:46",page-load,"web form: what would you like to do next"
+26396,245,132,"2023-02-28 14:34:47",click,next-page
+26397,245,133,"2023-02-28 14:34:47",page-load,video
+26398,245,134,"2023-02-28 14:34:54",page-load,"web form: question"
+26399,245,134,"2023-02-28 14:34:59",click,"correct-option: Check off the empty box next to ""walk Buster"""
+26400,245,134,"2023-02-28 14:34:59",click,"incorrect-option: Leave all events on your to do list so you remember they happened"
+26401,245,134,"2023-02-28 14:34:59",click,"incorrect-option: Check off all boxes"
+26402,245,134,"2023-02-28 14:35:00",click,"correct-option: Check off the empty box next to ""walk Buster"""
+26403,245,134,"2023-02-28 14:35:01",click,next-page
+26404,245,135,"2023-02-28 14:35:01",page-load,video
+26405,245,136,"2023-02-28 14:35:07",page-load,"web form: what would you like to do next"
+26406,245,136,"2023-02-28 14:35:30",click,next-page
+26407,245,137,"2023-02-28 14:35:31",page-load,"skills quiz 10: preview"
+26408,245,137,"2023-02-28 14:35:32",click,next-page
+26409,245,0,"2023-02-28 14:35:35","Skills Quiz-9 Step-1 Incorrect","Laundry "
+26410,245,0,"2023-02-28 14:35:38","Skills Quiz-9 Step-1 Correct",Edit
+26411,245,0,"2023-02-28 14:35:41","Skills Quiz-9 Step-2 Incorrect",undefined
+26412,245,0,"2023-02-28 14:35:42","Skills Quiz-9 Step-2 Correct",nos-time-check
+26413,245,0,"2023-02-28 14:35:43","Skills Quiz-9 Step-3 Correct",start-time
+26414,245,0,"2023-02-28 14:35:51","Skills Quiz-9 Step-6 Correct",end-time
+26415,245,0,"2023-02-28 14:35:55","Skills Quiz-9 Step-9 Correct",Save
+26416,245,0,"2023-02-28 14:36:01","Skills Quiz-9 Step-10 Correct",CALENDAR
+26417,245,0,"2023-02-28 14:36:02","Skills Quiz-9 Step-11 Incorrect",10
+26418,245,0,"2023-02-28 14:36:03","Skills Quiz-9 Step-11 Correct",9
+26419,245,0,"2023-02-28 14:36:05","Skills Quiz-9 Step-12 Correct",Edit
+26420,245,0,"2023-02-28 14:36:07","Skills Quiz-9 Step-13 Correct","June 9, 2021"
+26421,245,0,"2023-02-28 14:36:10","Skills Quiz-9 Step-14 Correct",10
+26422,245,0,"2023-02-28 14:36:11","Skills Quiz-9 Step-15 Correct",OK
+26423,245,0,"2023-02-28 14:36:19","Skills Quiz-9 Step-16 Incorrect",undefined
+26424,245,0,"2023-02-28 14:36:19","Skills Quiz-9 Step-16 Correct",nos-time-check
+26425,245,0,"2023-02-28 14:36:20","Skills Quiz-9 Step-17 Correct",start-time
+26426,245,0,"2023-02-28 14:36:25","Skills Quiz-9 Step-20 Correct",end-time
+26427,245,0,"2023-02-28 14:36:29","Skills Quiz-9 Step-23 Correct",Save
+26428,245,0,"2023-02-28 14:36:32","Skills Quiz-9 Step-24 Incorrect",TODAY
+26429,245,0,"2023-02-28 14:36:32","Skills Quiz-9 Step-24 Correct",CALENDAR
+26430,245,0,"2023-02-28 14:36:34","Skills Quiz-9 Step-25 Incorrect",9
+26431,245,0,"2023-02-28 14:36:35","Skills Quiz-9 Step-25 Correct",10
+26432,245,0,"2023-02-28 14:36:39","Skills Quiz-9 Step-26 Correct",Edit
+26433,245,0,"2023-02-28 14:36:40","Skills Quiz-9 Step-27 Correct",event-description
+26434,245,0,"2023-02-28 14:36:47","Skills Quiz-9 Step-29 Incorrect","30 min"
+26435,245,0,"2023-02-28 14:36:47","Skills Quiz-9 Step-29 Correct","60 min"
+26436,245,0,"2023-02-28 14:36:48","Skills Quiz-9 Step-30 Correct",Save
+0,0,0,"2023-02-28 14:36:48",module_end,none

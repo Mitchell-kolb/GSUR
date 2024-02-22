@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+115010,406,215,"2024-01-15 05:35:04",page-load,video
+115011,406,216,"2024-01-15 05:42:37",page-load,"web form: question"
+115012,406,216,"2024-01-15 05:42:49",click,"correct-option: 1"
+115013,406,216,"2024-01-15 05:42:56",click,next-page
+115014,406,217,"2024-01-15 05:42:56",page-load,video
+115015,406,218,"2024-01-15 05:46:51",page-load,"web form: what would you like to do next"
+115016,406,218,"2024-01-15 05:46:59",click,next-page
+115017,406,219,"2024-01-15 05:47:00",page-load,"skills quiz preview"
+115018,406,0,"2024-01-15 05:48:38","Skills Quiz-13 Step-1 Correct",Lists
+115019,406,0,"2024-01-15 05:48:41","Skills Quiz-13 Step-2 Correct","Add New Note"
+115020,406,0,"2024-01-15 05:48:48","Skills Quiz-13 Step-3 Correct",modal-note-title
+115021,406,0,"2024-01-15 05:49:44","Skills Quiz 30 second Hint",30time
+115022,406,0,"2024-01-15 05:49:54","Skills Quiz-13 Step-5 Correct",modal-note-content
+115023,406,0,"2024-01-15 05:50:09","Skills Quiz-13 Step-7 Incorrect",modal-note-content
+115024,406,0,"2024-01-15 05:50:22","Skills Quiz-13 Step-7 Incorrect","Close   "
+115025,406,0,"2024-01-15 05:50:23","Skills Quiz-13 Step-7 Incorrect","Close   "
+115026,406,220,"2024-01-15 05:50:30",click,"skills quiz hint"
+115027,406,220,"2024-01-15 05:50:32",click,"skills quiz hint"
+115028,406,0,"2024-01-15 05:50:37","Skills Quiz-13 Step-7 Incorrect",modal-note-title
+115029,406,0,"2024-01-15 05:50:51","Skills Quiz-13 Step-7 Incorrect","Close   SAVE"
+115030,406,0,"2024-01-15 05:50:53","Skills Quiz-13 Step-7 Correct",SAVE
+115031,406,0,"2024-01-15 05:51:00","Skills Quiz-13 Step-8 Incorrect",undefined
+115032,406,0,"2024-01-15 05:51:08","Skills Quiz-13 Step-8 Incorrect","Close   EDIT"
+115033,406,0,"2024-01-15 05:51:24","Skills Quiz-13 Step-8 Incorrect",undefined
+115034,406,0,"2024-01-15 05:51:30","Skills Quiz-13 Step-8 Incorrect",Content
+115035,406,0,"2024-01-15 05:51:30","Skills Quiz-13 Step-8 Incorrect",undefined
+115036,406,0,"2024-01-15 05:51:31","Skills Quiz-13 Step-8 Incorrect",undefined
+115037,406,0,"2024-01-15 05:51:41","Skills Quiz-13 Step-8 Correct",Close
+0,0,0,"2024-01-15 05:51:42",module_end,none

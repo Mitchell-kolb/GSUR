@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+30731,296,121,"2023-03-21 18:31:32",page-load,video
+30734,296,122,"2023-03-21 18:35:56",page-load,"web form: question"
+30735,296,122,"2023-03-21 18:36:02",click,"correct-option: Both the To-do List and Time Schedule"
+30736,296,122,"2023-03-21 18:36:05",click,next-page
+30737,296,123,"2023-03-21 18:36:05",page-load,video
+30738,296,124,"2023-03-21 18:37:57",page-load,"web form: what would you like to do next"
+30739,296,0,"2023-03-21 18:39:07","Skills Quiz-7 Step-1 Incorrect",View
+30740,296,0,"2023-03-21 18:39:13","Skills Quiz-7 Step-1 Correct",Edit
+30741,296,0,"2023-03-21 18:39:20","Skills Quiz-7 Step-2 Correct",event-description
+30742,296,0,"2023-03-21 18:39:50","Skills Quiz 30 second Hint",30time
+30743,296,0,"2023-03-21 18:40:28","Skills Quiz-7 Step-4 Incorrect",Tue
+30744,296,0,"2023-03-21 18:40:35","Skills Quiz-7 Step-4 Incorrect",Weekly
+30745,296,0,"2023-03-21 18:40:37","Skills Quiz-7 Step-4 Incorrect",Daily
+30746,296,0,"2023-03-21 18:40:38","Skills Quiz-7 Step-4 Incorrect",Tue
+30747,296,0,"2023-03-21 18:40:42","Skills Quiz-7 Step-4 Incorrect",Weekly
+30748,296,0,"2023-03-21 18:40:52","Skills Quiz-7 Step-1 Correct",Edit
+30749,296,0,"2023-03-21 18:41:05","Skills Quiz-7 Step-2 Incorrect",Weekly
+30750,296,0,"2023-03-21 18:41:07","Skills Quiz-7 Step-2 Correct",event-description
+30751,296,0,"2023-03-21 18:41:38","Skills Quiz-7 Step-4 Correct",Weekly
+30752,296,0,"2023-03-21 18:41:40","Skills Quiz-7 Step-5 Correct",Tue
+30753,296,0,"2023-03-21 18:41:41","Skills Quiz-7 Step-6 Correct",Thu
+30754,296,0,"2023-03-21 18:41:48","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+30755,296,0,"2023-03-21 18:41:51","Skills Quiz-7 Step-8 Correct",end-right-arrow
+30756,296,0,"2023-03-21 18:41:51","Skills Quiz-7 Step-9 Correct",31
+30757,296,0,"2023-03-21 18:41:53","Skills Quiz-7 Step-10 Correct",OK
+30758,296,0,"2023-03-21 18:41:57","Skills Quiz-7 Step-11 Correct",YES
+30759,296,0,"2023-03-21 18:41:58","Skills Quiz-7 Step-12 Correct",Save
+30760,296,0,"2023-03-21 18:42:00","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-03-21 18:42:01",module_end,none

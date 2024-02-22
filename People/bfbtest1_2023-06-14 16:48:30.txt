@@ -1,0 +1,74 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+65508,327,412,"2023-06-12 22:29:56",page-load,video
+65513,327,0,"2023-06-12 22:35:20","Skills Quiz-22 Step-12 Incorrect","Tracked Health Activities"
+65514,327,0,"2023-06-12 22:35:21","Skills Quiz-22 Step-12 Incorrect","Daily Medications"
+65527,327,0,"2023-06-12 22:36:59","Skills Quiz-22 Step-12 Incorrect","9:00 AM"
+65528,327,0,"2023-06-12 22:37:05","Skills Quiz-22 Step-12 Incorrect","Tracked Health Activities"
+65529,327,0,"2023-06-12 22:37:06","Skills Quiz-22 Step-12 Incorrect","Daily Medications"
+65530,327,0,"2023-06-12 22:37:08","Skills Quiz-22 Step-12 Incorrect","9:00 AM"
+65532,327,0,"2023-06-12 22:37:10","Skills Quiz-22 Step-12 Incorrect","Tracked Health Activities"
+65533,327,0,"2023-06-12 22:37:12","Skills Quiz-22 Step-12 Incorrect","Daily Medications"
+65549,327,0,"2023-06-12 22:38:24","Skills Quiz-22 Step-12 Correct"," Save"
+65550,327,300,"2023-06-13 01:05:21",page-load,video
+65551,327,301,"2023-06-13 01:05:52",page-load,"web form: question"
+65552,327,301,"2023-06-13 01:06:13",click,next-page
+65553,327,302,"2023-06-13 01:06:15",page-load,"web form: question"
+65554,327,302,"2023-06-13 01:06:16",click,next-page
+65555,327,303,"2023-06-13 01:06:16",page-load,"web form: question"
+65556,327,303,"2023-06-13 01:06:17",click,next-page
+65557,327,304,"2023-06-13 01:06:18",page-load,"web form: question"
+65558,327,304,"2023-06-13 01:06:19",click,next-page
+65559,327,305,"2023-06-13 01:06:19",page-load,"web form: question"
+65560,327,305,"2023-06-13 01:06:20",click,next-page
+65561,327,306,"2023-06-13 01:06:21",page-load,video
+65562,327,307,"2023-06-13 01:06:35",page-load,"tech comfort quiz, part one"
+65563,327,307,"2023-06-13 01:06:39",tracked,"Comfort with tech 6"
+65564,327,307,"2023-06-13 01:06:39",tracked,"Confidence in tech 6"
+65565,327,307,"2023-06-13 01:06:40",tracked,"Problem-solve tech 6"
+65566,327,307,"2023-06-13 01:06:41",click,next-page
+65567,327,308,"2023-06-13 01:06:41",page-load,"tech comfort quiz, part two"
+65568,327,308,"2023-06-13 01:06:42",tracked,"Operate tech 6"
+65569,327,308,"2023-06-13 01:06:43",tracked,"Use tech 6"
+65570,327,308,"2023-06-13 01:06:44",tracked,"Use touch-screen tablet 6"
+65571,327,308,"2023-06-13 01:06:44",click,next-page
+65572,327,309,"2023-06-13 01:06:45",page-load,video
+65573,327,308,"2023-06-13 01:07:39",page-load,"tech comfort quiz, part two"
+66057,327,10,"2023-06-14 16:32:41",page-load,video
+66067,327,11,"2023-06-14 16:33:26",page-load,video
+66069,327,12,"2023-06-14 16:33:36",page-load,"web form: scheduling choices"
+66070,327,12,"2023-06-14 16:33:41",tracked,"Scheduling and keeping appointments"
+66071,327,12,"2023-06-14 16:33:42",tracked,"Scheduling time to work towards goals"
+66072,327,12,"2023-06-14 16:33:44",tracked,"Planning steps to accomplish a task"
+66073,327,12,"2023-06-14 16:33:46",tracked,"Remembering day to day things"
+66074,327,12,"2023-06-14 16:33:48",click,next-page
+66075,327,13,"2023-06-14 16:33:48",page-load,video
+66076,327,14,"2023-06-14 16:33:59",page-load,"web form: what would you like to do next"
+66077,327,14,"2023-06-14 16:34:01",click,next-page
+66078,327,15,"2023-06-14 16:34:01",page-load,video
+66079,327,16,"2023-06-14 16:34:12",page-load,"web form: question"
+66080,327,16,"2023-06-14 16:34:15",click,"correct-option: Grey"
+66081,327,16,"2023-06-14 16:34:17",click,next-page
+66082,327,17,"2023-06-14 16:34:17",page-load,video
+66084,327,18,"2023-06-14 16:34:32",page-load,"web form: question"
+66086,327,18,"2023-06-14 16:34:36",click,"correct-option: 1:30 PM"
+66089,327,18,"2023-06-14 16:34:37",click,next-page
+66090,327,19,"2023-06-14 16:34:37",page-load,video
+66093,327,20,"2023-06-14 16:34:44",page-load,"web form: question"
+66095,327,20,"2023-06-14 16:34:47",click,"incorrect-option: Red"
+66096,327,20,"2023-06-14 16:34:48",click,"correct-option: Blue"
+66097,327,20,"2023-06-14 16:34:53",click,next-page
+66098,327,21,"2023-06-14 16:34:53",page-load,"web form: what would you like to do next"
+66116,327,21,"2023-06-14 16:46:32",page-load,"web form: what would you like to do next"
+66117,327,21,"2023-06-14 16:47:04",page-load,"web form: what would you like to do next"
+66118,327,226,"2023-06-14 16:47:07",page-load,"web form: question"
+66122,327,226,"2023-06-14 16:47:18",click,"correct-option: Magnifying Glass"
+66123,327,226,"2023-06-14 16:47:19",click,next-page
+66124,327,227,"2023-06-14 16:47:19",page-load,video
+66126,327,0,"2023-06-14 16:48:15","Skills Quiz-1 Step-1 Correct",TODAY
+66127,327,0,"2023-06-14 16:48:17","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+66128,327,0,"2023-06-14 16:48:19","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+66129,327,0,"2023-06-14 16:48:21","Skills Quiz-1 Step-4 Incorrect",14
+66130,327,0,"2023-06-14 16:48:26","Skills Quiz-1 Step-4 Correct",right-arrow
+66131,327,0,"2023-06-14 16:48:27","Skills Quiz-1 Step-5 Correct",14
+66132,327,0,"2023-06-14 16:48:29","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-06-14 16:48:30",module_end,none

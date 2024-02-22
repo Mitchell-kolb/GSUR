@@ -1,0 +1,38 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+67829,343,104,"2023-06-16 22:19:35",page-load,video
+67830,343,105,"2023-06-16 22:21:11",page-load,"web form: question"
+67831,343,105,"2023-06-16 22:21:32",click,"incorrect-option: Trips"
+67832,343,105,"2023-06-16 22:21:34",click,next-page
+67833,343,106,"2023-06-16 22:21:34",page-load,video
+67834,343,107,"2023-06-16 22:22:34",page-load,"web form: question"
+67835,343,107,"2023-06-16 22:26:24",click,"incorrect-option: Chores"
+67836,343,107,"2023-06-16 22:26:27",click,next-page
+67837,343,108,"2023-06-16 22:26:27",page-load,"web form: what would you like to do next"
+67838,343,108,"2023-06-16 22:26:32",click,next-page
+67839,343,109,"2023-06-16 22:26:32",page-load,video
+67842,343,110,"2023-06-16 22:29:06",page-load,"web form: question"
+67843,343,110,"2023-06-16 22:29:16",click,next-page
+67844,343,111,"2023-06-16 22:29:17",page-load,"web form: what would you like to do next"
+67845,343,111,"2023-06-16 22:29:20",click,take-a-break
+68094,343,112,"2023-06-17 00:05:57",page-load,video
+68095,343,113,"2023-06-17 00:06:42",page-load,"web form: question"
+68096,343,113,"2023-06-17 00:06:50",click,"correct-option: D. Both A and C"
+68097,343,113,"2023-06-17 00:06:52",click,next-page
+68098,343,114,"2023-06-17 00:06:53",page-load,video
+68099,343,115,"2023-06-17 00:07:51",page-load,"web form: question"
+68100,343,115,"2023-06-17 00:08:00",click,previous-page
+68101,343,114,"2023-06-17 00:08:00",page-load,video
+68102,343,115,"2023-06-17 00:09:19",page-load,"web form: question"
+68103,343,115,"2023-06-17 00:09:36",click,"correct-option: 30 minutes before"
+68104,343,115,"2023-06-17 00:09:39",click,next-page
+68105,343,116,"2023-06-17 00:09:39",page-load,"web form: what would you like to do next"
+68106,343,0,"2023-06-17 00:10:34","Skills Quiz-5 Step-1 Incorrect",TODAY
+68107,343,0,"2023-06-17 00:10:37","Skills Quiz-5 Step-1 Correct",CALENDAR
+68108,343,0,"2023-06-17 00:10:41","Skills Quiz-5 Step-2 Incorrect","JUNE 2021"
+68109,343,0,"2023-06-17 00:10:44","Skills Quiz-5 Step-2 Correct",right-arrow
+68110,343,0,"2023-06-17 00:10:53","Skills Quiz-5 Step-3 Correct",3
+68111,343,0,"2023-06-17 00:11:08","Skills Quiz-5 Step-4 Correct",Edit
+68112,343,0,"2023-06-17 00:11:11","Skills Quiz-5 Step-5 Correct",YES
+68113,343,0,"2023-06-17 00:11:16","Skills Quiz-5 Step-6 Correct","60 min"
+68114,343,0,"2023-06-17 00:11:20","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-06-17 00:11:20",module_end,none

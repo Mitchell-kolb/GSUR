@@ -1,0 +1,35 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+10503,253,26,"2023-01-31 13:52:36",page-load,video
+10504,253,27,"2023-01-31 13:52:49",page-load,"web form: question"
+10505,253,27,"2023-01-31 13:52:50",click,"incorrect-option: False"
+10506,253,27,"2023-01-31 13:52:51",click,"correct-option: True"
+10507,253,27,"2023-01-31 13:52:52",click,next-page
+10508,253,28,"2023-01-31 13:52:52",page-load,"web form: question"
+10509,253,28,"2023-01-31 13:52:53",click,"incorrect-option: False"
+10510,253,28,"2023-01-31 13:52:54",click,"correct-option: True"
+10511,253,28,"2023-01-31 13:52:54",click,"incorrect-option: False"
+10512,253,28,"2023-01-31 13:52:55",click,next-page
+10513,253,29,"2023-01-31 13:52:56",page-load,video
+10514,253,30,"2023-01-31 13:53:09",page-load,"web form: question"
+10515,253,30,"2023-01-31 13:53:23",click,"incorrect-option: Who else is involved in the activity"
+10516,253,30,"2023-01-31 13:53:24",click,"incorrect-option: Where the activity will take place (address or room number)"
+10517,253,30,"2023-01-31 13:53:24",click,"incorrect-option: A list of the items you need to bring to the event"
+10518,253,30,"2023-01-31 13:53:24",click,"correct-option: All of the above"
+10519,253,30,"2023-01-31 13:53:25",click,next-page
+10520,253,31,"2023-01-31 13:53:26",page-load,video
+10521,253,32,"2023-01-31 13:53:36",page-load,"web form: what would you like to do next"
+10522,253,32,"2023-01-31 13:53:37",click,next-page
+10523,253,0,"2023-01-31 13:53:54","Skills Quiz-3 Step-1 Correct",TODAY
+10524,253,0,"2023-01-31 13:53:55","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+10525,253,0,"2023-01-31 13:53:58","Skills Quiz-3 Step-3 Incorrect",undefined
+10526,253,0,"2023-01-31 13:54:00","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+10527,253,0,"2023-01-31 13:54:01","Skills Quiz-3 Step-4 Correct",right-arrow
+10528,253,0,"2023-01-31 13:54:02","Skills Quiz-3 Step-5 Correct",14
+10529,253,0,"2023-01-31 13:54:03","Skills Quiz-3 Step-6 Correct",OK
+10530,253,0,"2023-01-31 13:54:04","Skills Quiz-3 Step-7 Incorrect",undefined
+10531,253,0,"2023-01-31 13:54:05","Skills Quiz-3 Step-7 Correct","Tap Here"
+10532,253,0,"2023-01-31 13:54:18","Skills Quiz-3 Step-10 Correct","Tap Here"
+10533,253,0,"2023-01-31 13:54:24","Skills Quiz-3 Step-13 Correct",event-title
+10534,253,0,"2023-01-31 13:54:40","Skills Quiz-3 Step-15 Correct",event-description
+10535,253,0,"2023-01-31 13:54:46","Skills Quiz-3 Step-17 Correct",Save
+0,0,0,"2023-01-31 13:54:46",module_end,none

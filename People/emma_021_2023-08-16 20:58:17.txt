@@ -1,0 +1,38 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+86493,345,212,"2023-08-16 20:51:54",page-load,"skills quiz preview"
+86495,345,0,"2023-08-16 20:57:07","Skills Quiz-12 Step-1 Incorrect",undefined
+86496,345,0,"2023-08-16 20:57:13","Skills Quiz-12 Step-1 Incorrect",modal-folder-title
+86497,345,0,"2023-08-16 20:57:13","Skills Quiz-12 Step-2 Correct",modal-folder-title
+86498,345,0,"2023-08-16 20:57:28","Skills Quiz-12 Step-3 Incorrect",Title:
+86499,345,0,"2023-08-16 20:57:28","Skills Quiz-12 Step-1 Incorrect",Title:
+86500,345,0,"2023-08-16 20:57:30","Skills Quiz-12 Step-1 Incorrect",Next
+86501,345,0,"2023-08-16 20:57:30","Skills Quiz-12 Step-3 Incorrect",Next
+86502,345,0,"2023-08-16 20:57:32","Skills Quiz-12 Step-1 Incorrect",SAVE
+86503,345,0,"2023-08-16 20:57:32","Skills Quiz-12 Step-4 Correct",SAVE
+86504,345,0,"2023-08-16 20:57:32","Skills Quiz-12 Step-3 Incorrect",SAVE
+86505,345,0,"2023-08-16 20:57:33","Skills Quiz-12 Step-1 Incorrect",Close
+86506,345,0,"2023-08-16 20:57:33","Skills Quiz-12 Step-3 Incorrect",Close
+86507,345,0,"2023-08-16 20:57:33","Skills Quiz-12 Step-5 Correct",Close
+86508,345,0,"2023-08-16 20:57:40","Skills Quiz-12 Step-1 Incorrect",Edit
+86509,345,0,"2023-08-16 20:57:40","Skills Quiz-12 Step-3 Incorrect",Edit
+86510,345,0,"2023-08-16 20:57:40","Skills Quiz-12 Step-6 Correct",Edit
+86511,345,0,"2023-08-16 20:57:42","Skills Quiz-12 Step-3 Incorrect",SAVE
+86512,345,0,"2023-08-16 20:57:42","Skills Quiz-12 Step-1 Incorrect",SAVE
+86513,345,0,"2023-08-16 20:57:42","Skills Quiz-12 Step-7 Correct",SAVE
+86514,345,0,"2023-08-16 20:57:43","Skills Quiz-12 Step-1 Incorrect",modal-folder-title
+86515,345,0,"2023-08-16 20:57:43","Skills Quiz-12 Step-3 Correct",modal-folder-title
+86516,345,0,"2023-08-16 20:57:43","Skills Quiz-12 Step-8 Correct",modal-folder-title
+86517,345,0,"2023-08-16 20:58:09","Skills Quiz-12 Step-1 Incorrect",Title:
+86518,345,0,"2023-08-16 20:58:09","Skills Quiz-12 Step-9 Incorrect",Title:
+86519,345,0,"2023-08-16 20:58:10","Skills Quiz-12 Step-1 Incorrect",Next
+86520,345,0,"2023-08-16 20:58:10","Skills Quiz-12 Step-9 Incorrect",Next
+86521,345,0,"2023-08-16 20:58:11","Skills Quiz-12 Step-1 Incorrect",CloseSAVE
+86522,345,0,"2023-08-16 20:58:11","Skills Quiz-12 Step-10 Incorrect",CloseSAVE
+86523,345,0,"2023-08-16 20:58:11","Skills Quiz-12 Step-9 Incorrect",CloseSAVE
+86524,345,0,"2023-08-16 20:58:12","Skills Quiz-12 Step-10 Correct"," SAVE"
+86525,345,0,"2023-08-16 20:58:12","Skills Quiz-12 Step-1 Incorrect"," SAVE"
+86526,345,0,"2023-08-16 20:58:12","Skills Quiz-12 Step-9 Incorrect"," SAVE"
+86527,345,0,"2023-08-16 20:58:16","Skills Quiz-12 Step-1 Incorrect",Close
+86528,345,0,"2023-08-16 20:58:16","Skills Quiz-12 Step-11 Correct",Close
+86529,345,0,"2023-08-16 20:58:16","Skills Quiz-12 Step-9 Incorrect",Close
+0,0,0,"2023-08-16 20:58:17",module_end,none

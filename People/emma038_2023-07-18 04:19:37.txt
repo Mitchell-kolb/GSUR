@@ -1,0 +1,75 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+77254,344,502,"2023-07-15 03:06:54",page-load,video
+77255,344,0,"2023-07-15 03:07:45","Skills Quiz-26 Step-2 Incorrect",Yes
+77256,344,0,"2023-07-15 03:07:45","Skills Quiz-26 Step-13 Incorrect",Yes
+77257,344,0,"2023-07-15 03:07:47","Skills Quiz-26 Step-2 Incorrect","CancelSave and View GraphSave"
+77258,344,0,"2023-07-15 03:07:47","Skills Quiz-26 Step-13 Incorrect","CancelSave and View GraphSave"
+77259,344,510,"2023-07-15 03:07:50",click,"skills quiz hint"
+77260,344,510,"2023-07-15 03:07:51",click,"skills quiz hint"
+77261,344,510,"2023-07-15 03:07:53",click,"skills quiz hint"
+77262,344,0,"2023-07-15 03:07:54","Skills Quiz-26 Step-13 Incorrect","CancelSave and View GraphSave"
+77263,344,0,"2023-07-15 03:07:54","Skills Quiz-26 Step-2 Incorrect","CancelSave and View GraphSave"
+77264,344,0,"2023-07-15 03:07:55","Skills Quiz-26 Step-13 Incorrect",Yes
+77265,344,0,"2023-07-15 03:07:55","Skills Quiz-26 Step-2 Incorrect",Yes
+77266,344,0,"2023-07-15 03:08:05","Skills Quiz-26 Step-1 Incorrect","Add New FolderGoalsLists"
+77267,344,0,"2023-07-15 03:08:13","Skills Quiz-26 Step-1 Correct",TODAY
+77268,344,0,"2023-07-15 03:08:20","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77269,344,0,"2023-07-15 03:08:30","Skills Quiz-26 Step-2 Incorrect","12:30 PM - 1:15 PM"
+77270,344,0,"2023-07-15 03:08:32","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77271,344,0,"2023-07-15 03:08:32","Skills Quiz-26 Step-3 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77272,344,0,"2023-07-15 03:08:45","Skills Quiz-26 Step-3 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77273,344,0,"2023-07-15 03:08:45","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77274,344,0,"2023-07-15 03:08:45","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77275,344,0,"2023-07-15 03:08:45","Skills Quiz-26 Step-3 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77276,344,0,"2023-07-15 03:08:49","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77277,344,0,"2023-07-15 03:08:49","Skills Quiz-26 Step-3 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77278,344,0,"2023-07-15 03:08:50","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77279,344,0,"2023-07-15 03:08:50","Skills Quiz-26 Step-3 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77280,344,510,"2023-07-15 03:09:46",click,"skills quiz hint"
+77281,344,0,"2023-07-15 03:09:50","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77282,344,0,"2023-07-15 03:09:50","Skills Quiz-26 Step-3 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77283,344,0,"2023-07-15 03:09:51","Skills Quiz-26 Step-3 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77284,344,0,"2023-07-15 03:09:51","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77285,344,0,"2023-07-15 03:09:53","Skills Quiz-26 Step-2 Incorrect"," Add Entry/Event"
+77286,344,0,"2023-07-15 03:09:53","Skills Quiz-26 Step-3 Incorrect"," Add Entry/Event"
+77287,344,0,"2023-07-15 03:09:54","Skills Quiz-26 Step-3 Incorrect"," Add Entry/Event"
+77288,344,0,"2023-07-15 03:09:54","Skills Quiz-26 Step-2 Incorrect"," Add Entry/Event"
+77289,344,0,"2023-07-15 03:09:55","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77290,344,0,"2023-07-15 03:09:55","Skills Quiz-26 Step-3 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77291,344,0,"2023-07-15 03:09:58","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77292,344,0,"2023-07-15 03:09:58","Skills Quiz-26 Step-3 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+77293,344,0,"2023-07-15 03:10:01","Skills Quiz-26 Step-2 Incorrect"," HEALTH"
+77294,344,0,"2023-07-15 03:10:01","Skills Quiz-26 Step-3 Incorrect"," HEALTH"
+77295,344,0,"2023-07-15 03:10:03","Skills Quiz-26 Step-2 Incorrect"," TODAY"
+77296,344,0,"2023-07-15 03:10:03","Skills Quiz-26 Step-3 Incorrect"," TODAY"
+77297,344,502,"2023-07-15 03:10:45",page-load,video
+77298,344,503,"2023-07-15 03:10:59",page-load,"web form: scheduling choices"
+77299,344,503,"2023-07-15 03:11:02",click,next-page
+77649,344,400,"2023-07-18 04:08:11",page-load,video
+77650,344,401,"2023-07-18 04:11:03",page-load,"web form: question"
+77651,344,401,"2023-07-18 04:11:08",click,"correct-option: False"
+77652,344,402,"2023-07-18 04:11:13",page-load,video
+77653,344,403,"2023-07-18 04:14:59",page-load,"web form: what would you like to do next"
+77654,344,404,"2023-07-18 04:15:05",page-load,"skills quiz preview"
+77655,344,404,"2023-07-18 04:15:54",page-load,"skills quiz preview"
+77656,344,0,"2023-07-18 04:16:46","Skills Quiz-19 Step-1 Incorrect",HEALTH
+77657,344,0,"2023-07-18 04:16:52","Skills Quiz-19 Step-2 Correct","Medical Information"
+77658,344,0,"2023-07-18 04:16:59","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+77659,344,0,"2023-07-18 04:17:05","Skills Quiz-19 Step-3 Correct","Add New Note"
+77660,344,0,"2023-07-18 04:17:08","Skills Quiz-19 Step-4 Correct",noteSpecialty
+77661,344,0,"2023-07-18 04:17:38","Skills Quiz 30 second Hint",30time
+77662,344,0,"2023-07-18 04:18:02","Skills Quiz-19 Step-6 Incorrect","Close SAVE"
+77663,344,0,"2023-07-18 04:18:09","Skills Quiz-19 Step-6 Incorrect","Close "
+77664,344,405,"2023-07-18 04:18:17",click,"skills quiz hint"
+77665,344,0,"2023-07-18 04:18:21","Skills Quiz-19 Step-6 Incorrect","Close "
+77666,344,0,"2023-07-18 04:18:32","Skills Quiz-19 Step-6 Correct",noteName
+77667,344,0,"2023-07-18 04:18:37","Skills Quiz-19 Step-8 Incorrect","Close SAVE"
+77668,344,0,"2023-07-18 04:18:40","Skills Quiz-19 Step-8 Correct",notePhone
+77669,344,0,"2023-07-18 04:18:45","Skills Quiz-19 Step-10 Incorrect","Close SAVE"
+77670,344,0,"2023-07-18 04:19:06","Skills Quiz-19 Step-10 Incorrect","Close SAVE"
+77671,344,0,"2023-07-18 04:19:13","Skills Quiz-19 Step-10 Correct",noteAddress
+77672,344,0,"2023-07-18 04:19:19","Skills Quiz-19 Step-12 Incorrect","Close SAVE"
+77673,344,0,"2023-07-18 04:19:21","Skills Quiz-19 Step-12 Correct",noteDetails
+77674,344,0,"2023-07-18 04:19:26","Skills Quiz-19 Step-14 Correct",SAVE
+77675,344,0,"2023-07-18 04:19:34","Skills Quiz-19 Step-14 Incorrect","Close EDIT"
+0,0,0,"2023-07-18 04:19:37",module_end,none

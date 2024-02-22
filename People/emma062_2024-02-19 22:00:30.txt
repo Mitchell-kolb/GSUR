@@ -1,0 +1,63 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+122743,418,424,"2024-02-19 21:44:10",page-load,video
+122744,418,425,"2024-02-19 21:49:00",page-load,"web form: question"
+122745,418,425,"2024-02-19 21:49:10",click,"correct-option: True"
+122746,418,425,"2024-02-19 21:49:12",click,next-page
+122747,418,426,"2024-02-19 21:49:13",page-load,video
+122748,418,427,"2024-02-19 21:53:43",page-load,"web form: what would you like to do next"
+122749,418,427,"2024-02-19 21:53:51",click,next-page
+122750,418,428,"2024-02-19 21:53:52",page-load,"skills quiz preview"
+122751,418,428,"2024-02-19 21:54:19",click,next-page
+122752,418,0,"2024-02-19 21:54:31","Skills Quiz-23 Step-1 Incorrect",HEALTH
+122753,418,0,"2024-02-19 21:54:46","Skills Quiz-23 Step-1 Correct",Edit
+122754,418,0,"2024-02-19 21:55:17","Skills Quiz 30 second Hint",30time
+122755,418,0,"2024-02-19 21:55:24","Skills Quiz-23 Step-2 Correct",Weekly
+122756,418,0,"2024-02-19 21:55:34","Skills Quiz-23 Step-3 Correct",Thu
+122757,418,0,"2024-02-19 21:55:46","Skills Quiz-23 Step-4 Correct","Repeat Forever (tap to change)"
+122758,418,0,"2024-02-19 21:55:57","Skills Quiz-23 Step-5 Incorrect",17
+122759,418,0,"2024-02-19 21:55:58","Skills Quiz-23 Step-5 Incorrect",24
+122760,418,0,"2024-02-19 21:56:00","Skills Quiz-23 Step-5 Incorrect",17
+122761,418,0,"2024-02-19 21:56:11","Skills Quiz-23 Step-5 Incorrect",24
+122762,418,0,"2024-02-19 21:56:13","Skills Quiz-23 Step-5 Correct",end-right-arrow
+122763,418,0,"2024-02-19 21:56:20","Skills Quiz-23 Step-6 Incorrect",1
+122764,418,0,"2024-02-19 21:56:26","Skills Quiz-23 Step-6 Correct",8
+122765,418,0,"2024-02-19 21:56:31","Skills Quiz-23 Step-7 Correct",OK
+122766,418,0,"2024-02-19 21:56:48","Skills Quiz-23 Step-8 Correct",Save
+122767,418,0,"2024-02-19 21:57:07","Skills Quiz-23 Step-9 Incorrect",Save
+122768,418,0,"2024-02-19 21:57:12","Skills Quiz-23 Step-9 Correct",YES
+122769,418,0,"2024-02-19 21:57:20","Skills Quiz-23 Step-10 Correct","                        Blood Pressure                     "
+122770,418,0,"2024-02-19 21:57:23","Skills Quiz-23 Step-11 Correct","Tap Here"
+122771,418,0,"2024-02-19 21:57:24","Skills Quiz-23 Step-12 Correct",1
+122772,418,0,"2024-02-19 21:57:25","Skills Quiz-23 Step-13 Correct",2
+122773,418,429,"2024-02-19 21:57:38",click,"skills quiz hint"
+122774,418,0,"2024-02-19 21:57:48","Skills Quiz-23 Step-14 Incorrect",0
+122775,418,0,"2024-02-19 21:57:51","Skills Quiz-23 Step-14 Incorrect",0
+122776,418,0,"2024-02-19 21:57:52","Skills Quiz-23 Step-14 Incorrect",0
+122777,418,0,"2024-02-19 21:57:53","Skills Quiz-23 Step-14 Correct",0
+122778,418,0,"2024-02-19 21:57:57","Skills Quiz-23 Step-15 Incorrect",CancelSave
+122779,418,0,"2024-02-19 21:57:58","Skills Quiz-23 Step-15 Incorrect",CancelSave
+122780,418,0,"2024-02-19 21:58:16","Skills Quiz-23 Step-1 Incorrect",HEALTH
+122781,418,0,"2024-02-19 21:58:29","Skills Quiz-23 Step-1 Correct",Edit
+122782,418,429,"2024-02-19 21:58:49",click,"skills quiz hint"
+122783,418,0,"2024-02-19 21:58:59","Skills Quiz 30 second Hint",30time
+122784,418,0,"2024-02-19 21:59:00","Skills Quiz-23 Step-2 Correct",Weekly
+122785,418,0,"2024-02-19 21:59:09","Skills Quiz-23 Step-3 Correct",Thu
+122786,418,0,"2024-02-19 21:59:10","Skills Quiz-23 Step-4 Correct","Repeat Forever (tap to change)"
+122787,418,0,"2024-02-19 21:59:19","Skills Quiz-23 Step-5 Correct",end-right-arrow
+122788,418,0,"2024-02-19 21:59:20","Skills Quiz-23 Step-6 Correct",8
+122789,418,0,"2024-02-19 21:59:21","Skills Quiz-23 Step-7 Correct",OK
+122790,418,0,"2024-02-19 21:59:29","Skills Quiz-23 Step-8 Correct",Save
+122791,418,0,"2024-02-19 21:59:34","Skills Quiz-23 Step-9 Correct",YES
+122792,418,0,"2024-02-19 21:59:46","Skills Quiz-23 Step-10 Correct","                        Blood Pressure                     "
+122793,418,0,"2024-02-19 22:00:02","Skills Quiz-23 Step-11 Correct","Tap Here"
+122794,418,0,"2024-02-19 22:00:09","Skills Quiz-23 Step-12 Correct",1
+122795,418,0,"2024-02-19 22:00:10","Skills Quiz-23 Step-13 Correct",2
+122796,418,0,"2024-02-19 22:00:12","Skills Quiz-23 Step-14 Correct",0
+122797,418,0,"2024-02-19 22:00:14","Skills Quiz-23 Step-15 Correct","                                    Save               "
+122798,418,0,"2024-02-19 22:00:16","Skills Quiz-23 Step-16 Correct","Tap Here"
+122799,418,0,"2024-02-19 22:00:19","Skills Quiz-23 Step-17 Correct",8
+122800,418,0,"2024-02-19 22:00:20","Skills Quiz-23 Step-18 Correct",0
+122801,418,0,"2024-02-19 22:00:21","Skills Quiz-23 Step-19 Correct","                                    Save               "
+122802,418,0,"2024-02-19 22:00:23","Skills Quiz-23 Step-20 Correct","                                    Save               "
+122803,418,0,"2024-02-19 22:00:29","Skills Quiz-23 Step-21 Correct",Save
+0,0,0,"2024-02-19 22:00:30",module_end,none

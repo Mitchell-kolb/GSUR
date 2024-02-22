@@ -1,0 +1,49 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+90855,358,129,"2023-08-24 00:18:14",page-load,video
+90856,358,130,"2023-08-24 00:23:32",page-load,"web form: question"
+90857,358,130,"2023-08-24 00:23:47",click,"correct-option: In the To Do list only"
+90858,358,130,"2023-08-24 00:23:50",click,next-page
+90859,358,131,"2023-08-24 00:23:50",page-load,video
+90860,358,132,"2023-08-24 00:25:33",page-load,"web form: what would you like to do next"
+90861,358,132,"2023-08-24 00:25:35",click,next-page
+90862,358,133,"2023-08-24 00:25:37",page-load,video
+90863,358,134,"2023-08-24 00:27:07",page-load,"web form: question"
+90864,358,134,"2023-08-24 00:27:32",click,"correct-option: Check off the empty box next to ""walk Buster"""
+90865,358,134,"2023-08-24 00:27:35",click,next-page
+90866,358,135,"2023-08-24 00:27:36",page-load,video
+90867,358,136,"2023-08-24 00:28:37",page-load,"web form: what would you like to do next"
+90868,358,136,"2023-08-24 00:28:40",click,next-page
+90869,358,137,"2023-08-24 00:28:40",page-load,"skills quiz 10: preview"
+90870,358,137,"2023-08-24 00:29:28",click,next-page
+90871,358,0,"2023-08-24 00:29:38","Skills Quiz-9 Step-1 Incorrect",undefined
+90872,358,0,"2023-08-24 00:29:42","Skills Quiz-9 Step-1 Incorrect",Laundry
+90873,358,0,"2023-08-24 00:29:55","Skills Quiz-9 Step-1 Correct",Edit
+90874,358,0,"2023-08-24 00:30:05","Skills Quiz-9 Step-2 Incorrect",undefined
+90875,358,0,"2023-08-24 00:30:07","Skills Quiz-9 Step-2 Incorrect",undefined
+90876,358,0,"2023-08-24 00:30:11","Skills Quiz-9 Step-2 Correct",nos-time-check
+90877,358,0,"2023-08-24 00:30:12","Skills Quiz-9 Step-3 Correct",start-time
+90878,358,0,"2023-08-24 00:30:24","Skills Quiz-9 Step-6 Correct",end-time
+90879,358,0,"2023-08-24 00:30:49","Skills Quiz-9 Step-9 Correct",Save
+90880,358,0,"2023-08-24 00:31:08","Skills Quiz-9 Step-10 Correct",CALENDAR
+90881,358,0,"2023-08-24 00:31:10","Skills Quiz-9 Step-11 Correct",9
+90882,358,0,"2023-08-24 00:31:25","Skills Quiz-9 Step-12 Correct",Edit
+90883,358,0,"2023-08-24 00:31:29","Skills Quiz-9 Step-13 Incorrect",nos-time-check
+90884,358,0,"2023-08-24 00:31:31","Skills Quiz-9 Step-13 Incorrect",nos-time-check
+90885,358,0,"2023-08-24 00:31:33","Skills Quiz-9 Step-13 Correct","June 9, 2021"
+90886,358,0,"2023-08-24 00:31:34","Skills Quiz-9 Step-14 Correct",10
+90887,358,0,"2023-08-24 00:31:36","Skills Quiz-9 Step-15 Correct",OK
+90888,358,0,"2023-08-24 00:31:37","Skills Quiz-9 Step-16 Correct",nos-time-check
+90889,358,0,"2023-08-24 00:31:45","Skills Quiz-9 Step-17 Correct",start-time
+90890,358,0,"2023-08-24 00:31:52","Skills Quiz-9 Step-20 Correct",end-time
+90891,358,0,"2023-08-24 00:32:08","Skills Quiz-9 Step-23 Correct",Save
+90892,358,0,"2023-08-24 00:32:23","Skills Quiz-9 Step-24 Incorrect",TODAY
+90893,358,0,"2023-08-24 00:32:29","Skills Quiz-9 Step-24 Incorrect",TODAY
+90894,358,0,"2023-08-24 00:32:31","Skills Quiz-9 Step-24 Correct",CALENDAR
+90895,358,0,"2023-08-24 00:32:33","Skills Quiz-9 Step-25 Correct",10
+90896,358,0,"2023-08-24 00:32:58","Skills Quiz-9 Step-26 Correct",Edit
+90897,358,0,"2023-08-24 00:33:07","Skills Quiz-9 Step-27 Correct",event-description
+90898,358,0,"2023-08-24 00:33:38","Skills Quiz 30 second Hint",30time
+90899,358,0,"2023-08-24 00:33:51","Skills Quiz-9 Step-29 Incorrect",Save
+90900,358,0,"2023-08-24 00:34:01","Skills Quiz-9 Step-29 Correct","60 min"
+90901,358,0,"2023-08-24 00:34:03","Skills Quiz-9 Step-30 Incorrect","60 min"
+0,0,0,"2023-08-24 00:34:03",module_end,none

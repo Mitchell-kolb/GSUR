@@ -1,0 +1,82 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+111025,414,215,"2024-01-01 20:31:38",page-load,video
+111371,414,215,"2024-01-02 00:13:08",page-load,video
+111636,414,215,"2024-01-02 02:57:50",page-load,video
+111637,414,216,"2024-01-02 03:05:36",page-load,"web form: question"
+111638,414,216,"2024-01-02 03:05:44",click,"correct-option: 1"
+111639,414,216,"2024-01-02 03:05:47",click,next-page
+111640,414,217,"2024-01-02 03:05:47",page-load,video
+111642,414,218,"2024-01-02 03:09:40",page-load,"web form: what would you like to do next"
+112036,414,104,"2024-01-02 15:04:26",page-load,video
+112037,414,105,"2024-01-02 15:07:25",page-load,"web form: question"
+112038,414,105,"2024-01-02 15:07:38",click,"correct-option: Birthdays"
+112039,414,105,"2024-01-02 15:07:40",click,"incorrect-option: Anniversaries"
+112040,414,105,"2024-01-02 15:07:42",click,"incorrect-option: Social Gatherings"
+112041,414,105,"2024-01-02 15:07:47",click,next-page
+112042,414,106,"2024-01-02 15:07:48",page-load,video
+112043,414,107,"2024-01-02 15:08:05",page-load,"web form: question"
+112044,414,107,"2024-01-02 15:08:14",click,"incorrect-option: Daily Medication"
+112045,414,107,"2024-01-02 15:08:17",click,"incorrect-option: Chores"
+112046,414,107,"2024-01-02 15:08:18",click,"correct-option: Exercise"
+112047,414,107,"2024-01-02 15:08:20",click,"incorrect-option: Daily Medication"
+112048,414,107,"2024-01-02 15:08:22",click,next-page
+112049,414,108,"2024-01-02 15:08:22",page-load,"web form: what would you like to do next"
+112050,414,108,"2024-01-02 15:08:25",click,next-page
+112051,414,109,"2024-01-02 15:08:26",page-load,video
+112052,414,110,"2024-01-02 15:13:12",page-load,"web form: question"
+112053,414,110,"2024-01-02 15:13:25",click,"incorrect-option: The event has been cancelled"
+112054,414,110,"2024-01-02 15:13:52",click,next-page
+112055,414,111,"2024-01-02 15:13:52",page-load,"web form: what would you like to do next"
+112056,414,111,"2024-01-02 15:14:00",click,next-page
+112057,414,112,"2024-01-02 15:14:01",page-load,video
+112058,414,113,"2024-01-02 15:14:51",page-load,"web form: question"
+112059,414,113,"2024-01-02 15:15:54",click,"incorrect-option: A. View"
+112060,414,113,"2024-01-02 15:15:55",click,"incorrect-option: B. Delete"
+112061,414,113,"2024-01-02 15:15:57",click,"incorrect-option: C. The event listed on the Time Schedule"
+112062,414,113,"2024-01-02 15:15:59",click,"correct-option: D. Both A and C"
+112063,414,114,"2024-01-02 15:18:08",page-load,video
+112082,414,104,"2024-01-02 17:01:10",page-load,video
+112083,414,104,"2024-01-02 17:06:01",page-load,video
+112084,414,105,"2024-01-02 17:12:00",page-load,"web form: question"
+112085,414,105,"2024-01-02 17:12:13",click,"correct-option: Birthdays"
+112086,414,105,"2024-01-02 17:12:15",click,"incorrect-option: Anniversaries"
+112087,414,105,"2024-01-02 17:12:16",click,"correct-option: Birthdays"
+112088,414,105,"2024-01-02 17:12:18",click,next-page
+112089,414,106,"2024-01-02 17:12:19",page-load,video
+112090,414,107,"2024-01-02 17:12:37",page-load,"web form: question"
+112091,414,107,"2024-01-02 17:12:46",click,"incorrect-option: Daily Medication"
+112092,414,107,"2024-01-02 17:12:48",click,next-page
+112093,414,108,"2024-01-02 17:12:49",page-load,"web form: what would you like to do next"
+112094,414,108,"2024-01-02 17:12:52",click,next-page
+112095,414,109,"2024-01-02 17:12:53",page-load,video
+112096,414,110,"2024-01-02 17:17:30",page-load,"web form: question"
+112097,414,110,"2024-01-02 17:17:46",click,next-page
+112098,414,111,"2024-01-02 17:17:46",page-load,"web form: what would you like to do next"
+112099,414,111,"2024-01-02 17:17:48",click,next-page
+112100,414,112,"2024-01-02 17:17:48",page-load,video
+112101,414,113,"2024-01-02 17:18:38",page-load,"web form: question"
+112102,414,113,"2024-01-02 17:18:51",click,"correct-option: D. Both A and C"
+112103,414,113,"2024-01-02 17:18:54",click,next-page
+112104,414,114,"2024-01-02 17:18:55",page-load,video
+112105,414,115,"2024-01-02 17:20:40",page-load,"web form: question"
+112106,414,115,"2024-01-02 17:20:57",click,"correct-option: 30 minutes before"
+112107,414,115,"2024-01-02 17:21:04",click,next-page
+112108,414,116,"2024-01-02 17:21:04",page-load,"web form: what would you like to do next"
+112109,414,0,"2024-01-02 17:22:17","Skills Quiz-5 Step-1 Correct",CALENDAR
+112110,414,0,"2024-01-02 17:22:21","Skills Quiz-5 Step-2 Correct",right-arrow
+112111,414,0,"2024-01-02 17:22:25","Skills Quiz-5 Step-3 Correct",3
+112112,414,0,"2024-01-02 17:22:55","Skills Quiz 30 second Hint",30time
+112113,414,0,"2024-01-02 17:23:14","Skills Quiz-5 Step-4 Correct",Edit
+112114,414,0,"2024-01-02 17:23:21","Skills Quiz-5 Step-5 Correct",YES
+112115,414,0,"2024-01-02 17:23:38","Skills Quiz-5 Step-6 Incorrect",NO
+112116,414,0,"2024-01-02 17:23:39","Skills Quiz-5 Step-6 Incorrect",NO
+112117,414,0,"2024-01-02 17:23:40","Skills Quiz-5 Step-6 Incorrect",NO
+112118,414,0,"2024-01-02 17:23:41","Skills Quiz-5 Step-6 Incorrect",NO
+112119,414,0,"2024-01-02 17:23:47","Skills Quiz-5 Step-6 Incorrect",undefined
+112120,414,0,"2024-01-02 17:23:50","Skills Quiz-5 Step-6 Incorrect",undefined
+112121,414,0,"2024-01-02 17:23:50","Skills Quiz-5 Step-6 Incorrect",undefined
+112122,414,0,"2024-01-02 17:23:51","Skills Quiz-5 Step-6 Incorrect",undefined
+112123,414,0,"2024-01-02 17:23:59","Skills Quiz-5 Step-6 Correct","60 min"
+112124,414,117,"2024-01-02 17:24:03",click,"skills quiz hint"
+112125,414,0,"2024-01-02 17:24:11","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2024-01-02 17:24:12",module_end,none

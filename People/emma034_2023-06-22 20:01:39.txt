@@ -1,0 +1,60 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+70691,341,410,"2023-06-22 19:42:57",page-load,video
+70692,341,411,"2023-06-22 19:43:39",page-load,"web form: scheduling choices"
+70693,341,411,"2023-06-22 19:43:53",tracked,"Physical Exercise"
+70694,341,411,"2023-06-22 19:43:59",tracked,"Cognitive Activity"
+70695,341,411,"2023-06-22 19:44:02",tracked,"Well-being activities"
+70696,341,411,"2023-06-22 19:44:26",click,hint
+70697,341,411,"2023-06-22 19:44:36",tracked,"Well-being activities"
+70698,341,411,"2023-06-22 19:44:38",tracked,"Cognitive Activity"
+70699,341,411,"2023-06-22 19:44:41",tracked,"Cognitive Activity"
+70700,341,411,"2023-06-22 19:44:45",click,next-page
+70701,341,412,"2023-06-22 19:44:46",page-load,video
+70702,341,413,"2023-06-22 19:46:33",page-load,"web form: question"
+70703,341,413,"2023-06-22 19:46:40",click,"correct-option: 4"
+70704,341,413,"2023-06-22 19:46:43",click,next-page
+70705,341,414,"2023-06-22 19:46:43",page-load,video
+70706,341,415,"2023-06-22 19:47:14",page-load,"web form: question"
+70707,341,415,"2023-06-22 19:47:25",click,"incorrect-option: True"
+70708,341,415,"2023-06-22 19:47:37",click,"correct-option: False"
+70709,341,415,"2023-06-22 19:51:28",click,"correct-option: False"
+70710,341,415,"2023-06-22 19:51:31",click,"correct-option: False"
+70711,341,415,"2023-06-22 19:51:33",click,"correct-option: False"
+70712,341,415,"2023-06-22 19:51:33",click,"correct-option: False"
+70713,341,415,"2023-06-22 19:51:43",click,next-page
+70714,341,416,"2023-06-22 19:51:43",page-load,video
+70715,341,417,"2023-06-22 19:55:53",page-load,"web form: what would you like to do next"
+70716,341,417,"2023-06-22 19:55:57",click,next-page
+70717,341,418,"2023-06-22 19:55:57",page-load,"skills quiz preview"
+70718,341,0,"2023-06-22 19:57:29","Skills Quiz 30 second Hint",30time
+70719,341,0,"2023-06-22 19:57:41","Skills Quiz-21 Step-1 Incorrect",undefined
+70720,341,419,"2023-06-22 19:58:04",click,"skills quiz hint"
+70721,341,419,"2023-06-22 19:58:06",click,"skills quiz hint"
+70722,341,418,"2023-06-22 19:58:14",click,next-page
+70723,341,0,"2023-06-22 19:58:20","Skills Quiz-21 Step-1 Incorrect",HEALTH
+70724,341,0,"2023-06-22 19:58:23","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+70725,341,419,"2023-06-22 19:58:32",click,"skills quiz hint"
+70726,341,0,"2023-06-22 19:58:35","Skills Quiz-21 Step-3 Correct","Daily Medications"
+70727,341,0,"2023-06-22 19:59:02","Skills Quiz-21 Step-4 Incorrect","Turn On (green)"
+70728,341,0,"2023-06-22 19:59:04","Skills Quiz-21 Step-4 Incorrect",titleMorning
+70729,341,0,"2023-06-22 19:59:06","Skills Quiz-21 Step-4 Incorrect",titleMorning
+70730,341,0,"2023-06-22 19:59:10","Skills Quiz-21 Step-4 Correct",descriptionMorning
+70731,341,0,"2023-06-22 19:59:46","Skills Quiz-21 Step-1 Incorrect",HEALTH
+70732,341,419,"2023-06-22 20:00:00",click,"skills quiz hint"
+70733,341,0,"2023-06-22 20:00:06","Skills Quiz-21 Step-1 Incorrect",HEALTH
+70734,341,0,"2023-06-22 20:00:08","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+70735,341,0,"2023-06-22 20:00:11","Skills Quiz-21 Step-3 Correct","Daily Medications"
+70736,341,0,"2023-06-22 20:00:15","Skills Quiz-21 Step-4 Correct",descriptionMorning
+70737,341,0,"2023-06-22 20:00:45","Skills Quiz 30 second Hint",30time
+70738,341,0,"2023-06-22 20:01:07","Skills Quiz-21 Step-6 Correct","8:00 AM"
+70739,341,0,"2023-06-22 20:01:09","Skills Quiz-21 Step-7 Correct",7
+70740,341,0,"2023-06-22 20:01:10","Skills Quiz-21 Step-8 Correct",00
+70741,341,0,"2023-06-22 20:01:12","Skills Quiz-21 Step-9 Correct",AM
+70742,341,0,"2023-06-22 20:01:14","Skills Quiz-21 Step-10 Correct",Save
+70743,341,0,"2023-06-22 20:01:16","Skills Quiz-21 Step-11 Incorrect",titleMorning
+70744,341,0,"2023-06-22 20:01:18","Skills Quiz-21 Step-11 Correct",checkMorning
+70745,341,0,"2023-06-22 20:01:30","Skills Quiz-21 Step-12 Incorrect",descriptionMorning
+70746,341,0,"2023-06-22 20:01:31","Skills Quiz-21 Step-12 Incorrect",titleMorning
+70747,341,419,"2023-06-22 20:01:33",click,"skills quiz hint"
+70748,341,0,"2023-06-22 20:01:38","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-06-22 20:01:39",module_end,none

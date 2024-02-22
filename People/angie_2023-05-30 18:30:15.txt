@@ -1,0 +1,58 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+58385,333,130,"2023-05-30 18:23:54",page-load,"web form: question"
+58386,333,130,"2023-05-30 18:23:55",click,"incorrect-option: In the Time Schedule only"
+58387,333,130,"2023-05-30 18:23:56",click,"correct-option: In the To Do list only"
+58388,333,130,"2023-05-30 18:23:56",click,"incorrect-option: In both the Time Schedule and the To Do list"
+58389,333,130,"2023-05-30 18:23:57",click,hint
+58390,333,130,"2023-05-30 18:23:57",click,next-page
+58391,333,131,"2023-05-30 18:23:57",page-load,video
+58402,333,132,"2023-05-30 18:24:17",page-load,"web form: what would you like to do next"
+58405,333,132,"2023-05-30 18:24:18",click,next-page
+58406,333,133,"2023-05-30 18:24:18",page-load,video
+58415,333,134,"2023-05-30 18:24:53",page-load,"web form: question"
+58418,333,134,"2023-05-30 18:25:09",click,"incorrect-option: Check off all boxes"
+58419,333,134,"2023-05-30 18:25:09",click,"correct-option: Check off the empty box next to ""walk Buster"""
+58422,333,134,"2023-05-30 18:25:13",click,"incorrect-option: Leave all events on your to do list so you remember they happened"
+58423,333,134,"2023-05-30 18:25:14",click,"correct-option: Check off the empty box next to ""walk Buster"""
+58432,333,133,"2023-05-30 18:26:22",page-load,video
+58433,333,134,"2023-05-30 18:26:30",page-load,"web form: question"
+58434,333,134,"2023-05-30 18:27:29",click,"incorrect-option: Check off all boxes"
+58435,333,134,"2023-05-30 18:27:29",click,"incorrect-option: Leave all events on your to do list so you remember they happened"
+58436,333,134,"2023-05-30 18:27:30",click,hint
+58437,333,134,"2023-05-30 18:27:30",click,next-page
+58438,333,135,"2023-05-30 18:27:31",page-load,video
+58439,333,136,"2023-05-30 18:27:58",page-load,"web form: what would you like to do next"
+58440,333,136,"2023-05-30 18:28:00",click,next-page
+58441,333,137,"2023-05-30 18:28:00",page-load,"skills quiz 10: preview"
+58443,333,137,"2023-05-30 18:28:10",click,next-page
+58445,333,138,"2023-05-30 18:28:12",click,"skills quiz hint"
+58449,333,0,"2023-05-30 18:28:18","Skills Quiz-9 Step-1 Correct",Edit
+58450,333,0,"2023-05-30 18:28:30","Skills Quiz-9 Step-2 Incorrect",undefined
+58451,333,0,"2023-05-30 18:28:32","Skills Quiz-9 Step-2 Correct",nos-time-check
+58452,333,0,"2023-05-30 18:28:33","Skills Quiz-9 Step-3 Correct",start-time
+58453,333,0,"2023-05-30 18:28:39","Skills Quiz-9 Step-6 Correct",end-time
+58454,333,0,"2023-05-30 18:29:11","Skills Quiz 30 second Hint",30time
+58455,333,0,"2023-05-30 18:29:14","Skills Quiz-9 Step-9 Correct",Save
+58456,333,138,"2023-05-30 18:29:17",click,"skills quiz hint"
+58457,333,0,"2023-05-30 18:29:19","Skills Quiz-9 Step-10 Correct",CALENDAR
+58458,333,138,"2023-05-30 18:29:22",click,"skills quiz hint"
+58459,333,0,"2023-05-30 18:29:23","Skills Quiz-9 Step-11 Correct",9
+58460,333,138,"2023-05-30 18:29:26",click,"skills quiz hint"
+58461,333,0,"2023-05-30 18:29:27","Skills Quiz-9 Step-12 Correct",Edit
+58462,333,0,"2023-05-30 18:29:29","Skills Quiz-9 Step-13 Incorrect",undefined
+58463,333,0,"2023-05-30 18:29:31","Skills Quiz-9 Step-13 Incorrect",nos-time-check
+58464,333,0,"2023-05-30 18:29:31","Skills Quiz-9 Step-13 Correct","June 9, 2021"
+58465,333,0,"2023-05-30 18:29:35","Skills Quiz-9 Step-14 Correct",10
+58466,333,0,"2023-05-30 18:29:35","Skills Quiz-9 Step-15 Correct",OK
+58467,333,0,"2023-05-30 18:29:37","Skills Quiz-9 Step-16 Incorrect",undefined
+58468,333,0,"2023-05-30 18:29:38","Skills Quiz-9 Step-16 Correct",nos-time-check
+58469,333,0,"2023-05-30 18:29:38","Skills Quiz-9 Step-17 Correct",start-time
+58473,333,0,"2023-05-30 18:29:43","Skills Quiz-9 Step-20 Correct",end-time
+58476,333,0,"2023-05-30 18:29:50","Skills Quiz-9 Step-23 Correct",Save
+58477,333,0,"2023-05-30 18:29:52","Skills Quiz-9 Step-24 Correct",CALENDAR
+58479,333,0,"2023-05-30 18:29:54","Skills Quiz-9 Step-25 Correct",10
+58481,333,0,"2023-05-30 18:29:57","Skills Quiz-9 Step-26 Correct",Edit
+58482,333,0,"2023-05-30 18:30:00","Skills Quiz-9 Step-27 Correct",event-description
+58484,333,0,"2023-05-30 18:30:14","Skills Quiz-9 Step-29 Incorrect",Next
+58485,333,0,"2023-05-30 18:30:14","Skills Quiz-9 Step-29 Incorrect",Next
+0,0,0,"2023-05-30 18:30:15",module_end,none

@@ -1,0 +1,47 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+36225,300,204,"2023-03-31 18:59:20",page-load,video
+36226,300,205,"2023-03-31 19:00:16",page-load,"web form: question"
+36227,300,205,"2023-03-31 19:00:22",click,"correct-option: Add New Folder"
+36228,300,205,"2023-03-31 19:00:23",click,next-page
+36229,300,206,"2023-03-31 19:00:24",page-load,video
+36230,300,207,"2023-03-31 19:00:49",page-load,"web form: question"
+36231,300,207,"2023-03-31 19:00:55",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+36232,300,207,"2023-03-31 19:00:56",click,next-page
+36233,300,208,"2023-03-31 19:00:57",page-load,"web form: what would you like to do next"
+36234,300,208,"2023-03-31 19:01:01",click,next-page
+36235,300,209,"2023-03-31 19:01:01",page-load,"skills quiz preview"
+36236,300,209,"2023-03-31 19:01:06",click,next-page
+36237,300,0,"2023-03-31 19:01:31","Skills Quiz-11 Step-1 Incorrect",note-list
+36238,300,0,"2023-03-31 19:01:38","Skills Quiz-11 Step-1 Incorrect",undefined
+36239,300,0,"2023-03-31 19:01:42","Skills Quiz-11 Step-1 Incorrect",modal-folder-title
+36240,300,0,"2023-03-31 19:01:42","Skills Quiz-11 Step-2 Correct",modal-folder-title
+36241,300,0,"2023-03-31 19:01:57","Skills Quiz-11 Step-1 Incorrect",Next
+36242,300,0,"2023-03-31 19:01:57","Skills Quiz-11 Step-3 Incorrect",Next
+36243,300,0,"2023-03-31 19:01:59","Skills Quiz-11 Step-1 Incorrect",SAVE
+36244,300,0,"2023-03-31 19:01:59","Skills Quiz-11 Step-4 Correct",SAVE
+36245,300,0,"2023-03-31 19:01:59","Skills Quiz-11 Step-3 Incorrect",SAVE
+36246,300,0,"2023-03-31 19:02:03","Skills Quiz-11 Step-3 Incorrect",Close
+36247,300,0,"2023-03-31 19:02:03","Skills Quiz-11 Step-1 Incorrect",Close
+36248,300,0,"2023-03-31 19:02:03","Skills Quiz-11 Step-5 Correct",Close
+36249,300,210,"2023-03-31 19:02:18",click,"skills quiz hint"
+36250,300,0,"2023-03-31 19:02:21","Skills Quiz-11 Step-1 Incorrect",Edit
+36251,300,0,"2023-03-31 19:02:22","Skills Quiz-11 Step-3 Incorrect",Edit
+36252,300,0,"2023-03-31 19:02:22","Skills Quiz-11 Step-6 Correct",Edit
+36253,300,0,"2023-03-31 19:02:24","Skills Quiz-11 Step-3 Incorrect",SAVE
+36254,300,0,"2023-03-31 19:02:24","Skills Quiz-11 Step-7 Correct",SAVE
+36255,300,0,"2023-03-31 19:02:24","Skills Quiz-11 Step-1 Incorrect",SAVE
+36256,300,0,"2023-03-31 19:02:25","Skills Quiz-11 Step-8 Incorrect",CloseSAVE
+36257,300,0,"2023-03-31 19:02:25","Skills Quiz-11 Step-1 Incorrect",CloseSAVE
+36258,300,0,"2023-03-31 19:02:25","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+36259,300,0,"2023-03-31 19:02:31","Skills Quiz-11 Step-1 Incorrect",modal-folder-title
+36260,300,0,"2023-03-31 19:02:31","Skills Quiz-11 Step-3 Correct",modal-folder-title
+36261,300,0,"2023-03-31 19:02:31","Skills Quiz-11 Step-8 Correct",modal-folder-title
+36262,300,0,"2023-03-31 19:02:33","Skills Quiz-11 Step-9 Incorrect",Next
+36263,300,0,"2023-03-31 19:02:33","Skills Quiz-11 Step-1 Incorrect",Next
+36264,300,0,"2023-03-31 19:02:34","Skills Quiz-11 Step-1 Incorrect",SAVE
+36265,300,0,"2023-03-31 19:02:34","Skills Quiz-11 Step-9 Incorrect",SAVE
+36266,300,0,"2023-03-31 19:02:34","Skills Quiz-11 Step-10 Correct",SAVE
+36267,300,0,"2023-03-31 19:02:36","Skills Quiz-11 Step-9 Incorrect",Close
+36268,300,0,"2023-03-31 19:02:36","Skills Quiz-11 Step-1 Incorrect",Close
+36269,300,0,"2023-03-31 19:02:36","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-03-31 19:02:36",module_end,none

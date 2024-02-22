@@ -1,0 +1,10 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+117664,413,222,"2024-01-22 22:04:52",click,next-page
+117665,413,0,"2024-01-22 22:04:54","Skills Quiz-14 Step-1 Correct",Lists
+117666,413,0,"2024-01-22 22:04:56","Skills Quiz-14 Step-2 Correct","Add New Note"
+117667,413,0,"2024-01-22 22:04:57","Skills Quiz-14 Step-3 Correct",modal-note-title
+117668,413,0,"2024-01-22 22:05:08","Skills Quiz-14 Step-5 Correct",modal-note-content
+117669,413,0,"2024-01-22 22:05:38","Skills Quiz 30 second Hint",30time
+117670,413,0,"2024-01-22 22:05:40","Skills Quiz-14 Step-7 Correct"," SAVE"
+117671,413,0,"2024-01-22 22:05:44","Skills Quiz-14 Step-8 Correct",Close
+0,0,0,"2024-01-22 22:05:44",module_end,none

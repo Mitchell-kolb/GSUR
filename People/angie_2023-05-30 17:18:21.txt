@@ -1,0 +1,51 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+57317,333,26,"2023-05-30 17:13:21",page-load,video
+57318,333,27,"2023-05-30 17:13:55",page-load,"web form: question"
+57319,333,27,"2023-05-30 17:13:57",click,"incorrect-option: False"
+57320,333,27,"2023-05-30 17:13:58",click,"correct-option: True"
+57321,333,27,"2023-05-30 17:13:58",click,hint
+57322,333,27,"2023-05-30 17:13:59",click,"correct-option: True"
+57323,333,27,"2023-05-30 17:14:00",click,next-page
+57324,333,28,"2023-05-30 17:14:02",page-load,"web form: question"
+57325,333,28,"2023-05-30 17:14:03",click,"incorrect-option: False"
+57326,333,28,"2023-05-30 17:14:05",click,hint
+57327,333,28,"2023-05-30 17:14:06",click,"correct-option: True"
+57328,333,28,"2023-05-30 17:14:08",click,next-page
+57329,333,29,"2023-05-30 17:14:08",page-load,video
+57330,333,30,"2023-05-30 17:14:44",page-load,"web form: question"
+57331,333,30,"2023-05-30 17:14:45",click,"correct-option: All of the above"
+57332,333,30,"2023-05-30 17:14:45",click,"incorrect-option: A list of the items you need to bring to the event"
+57333,333,30,"2023-05-30 17:14:45",click,"incorrect-option: Where the activity will take place (address or room number)"
+57334,333,30,"2023-05-30 17:14:45",click,"incorrect-option: Where the activity will take place (address or room number)"
+57335,333,30,"2023-05-30 17:14:46",click,"incorrect-option: Who else is involved in the activity"
+57336,333,30,"2023-05-30 17:14:46",click,"incorrect-option: A list of the items you need to bring to the event"
+57337,333,30,"2023-05-30 17:14:46",click,"correct-option: All of the above"
+57338,333,30,"2023-05-30 17:14:47",click,hint
+57339,333,30,"2023-05-30 17:14:48",click,next-page
+57340,333,31,"2023-05-30 17:14:48",page-load,video
+57352,333,32,"2023-05-30 17:15:57",page-load,"web form: what would you like to do next"
+57354,333,32,"2023-05-30 17:16:00",click,take-a-break
+57355,333,32,"2023-05-30 17:16:02",click,take-a-break
+57375,333,0,"2023-05-30 17:16:46","Skills Quiz-3 Step-1 Correct",TODAY
+57376,333,0,"2023-05-30 17:16:48","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+57377,333,0,"2023-05-30 17:16:50","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+57378,333,0,"2023-05-30 17:16:51","Skills Quiz-3 Step-4 Correct",right-arrow
+57380,333,0,"2023-05-30 17:16:51","Skills Quiz-3 Step-5 Correct",14
+57381,333,0,"2023-05-30 17:16:52","Skills Quiz-3 Step-6 Correct",OK
+57382,333,0,"2023-05-30 17:16:54","Skills Quiz-3 Step-7 Correct","Tap Here"
+57383,333,0,"2023-05-30 17:16:59","Skills Quiz-3 Step-10 Correct","Tap Here"
+57389,333,0,"2023-05-30 17:17:29","Skills Quiz-3 Step-13 Incorrect",undefined
+57390,333,0,"2023-05-30 17:17:30","Skills Quiz-3 Step-13 Incorrect",undefined
+57391,333,0,"2023-05-30 17:17:31","Skills Quiz-3 Step-13 Correct",event-title
+57392,333,0,"2023-05-30 17:17:45","Skills Quiz-3 Step-15 Correct",event-description
+57393,333,33,"2023-05-30 17:17:57",click,"skills quiz hint"
+57394,333,33,"2023-05-30 17:18:03",click,"skills quiz hint"
+57395,333,0,"2023-05-30 17:18:17","Skills Quiz-3 Step-17 Incorrect",undefined
+57396,333,0,"2023-05-30 17:18:17","Skills Quiz-3 Step-17 Incorrect",undefined
+57397,333,0,"2023-05-30 17:18:18","Skills Quiz-3 Step-17 Incorrect",undefined
+57398,333,0,"2023-05-30 17:18:18","Skills Quiz-3 Step-17 Incorrect",undefined
+57399,333,0,"2023-05-30 17:18:19","Skills Quiz-3 Step-17 Incorrect",undefined
+57400,333,0,"2023-05-30 17:18:19","Skills Quiz-3 Step-17 Incorrect",undefined
+57401,333,0,"2023-05-30 17:18:19","Skills Quiz-3 Step-17 Incorrect",undefined
+57402,333,0,"2023-05-30 17:18:21","Skills Quiz-3 Step-17 Incorrect",Next
+0,0,0,"2023-05-30 17:18:21",module_end,none

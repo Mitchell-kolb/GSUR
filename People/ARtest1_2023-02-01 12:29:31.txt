@@ -1,0 +1,27 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+12041,250,225,"2023-02-01 12:25:21",page-load,video
+12053,250,226,"2023-02-01 12:25:59",page-load,"web form: question"
+12054,250,226,"2023-02-01 12:26:12",click,"correct-option: Magnifying Glass"
+12055,250,227,"2023-02-01 12:26:13",page-load,video
+12056,250,228,"2023-02-01 12:26:30",page-load,"web form: what would you like to do next"
+12057,250,228,"2023-02-01 12:26:31",click,next-page
+12058,250,229,"2023-02-01 12:26:32",page-load,"skills quiz preview"
+12082,250,0,"2023-02-01 12:29:09","Skills Quiz-15 Step-1 Correct",Relevant
+12083,250,0,"2023-02-01 12:29:10","Skills Quiz-15 Step-2 Correct","Alphabetical Order"
+12084,250,0,"2023-02-01 12:29:13","Skills Quiz-15 Step-3 Incorrect",Edit
+12085,250,0,"2023-02-01 12:29:16","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+12086,250,0,"2023-02-01 12:29:16","Skills Quiz-15 Step-4 Incorrect","Lawn Ideas"
+12087,250,0,"2023-02-01 12:29:22","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+12088,250,0,"2023-02-01 12:29:22","Skills Quiz-15 Step-4 Incorrect","Lawn Ideas"
+12089,250,0,"2023-02-01 12:29:22","Skills Quiz-15 Step-3 Incorrect","Title:Lawn Ideas"
+12090,250,0,"2023-02-01 12:29:22","Skills Quiz-15 Step-4 Incorrect","Title:Lawn Ideas"
+12091,250,0,"2023-02-01 12:29:23","Skills Quiz-15 Step-3 Incorrect",CloseEDIT
+12092,250,0,"2023-02-01 12:29:23","Skills Quiz-15 Step-4 Incorrect",CloseEDIT
+12093,250,0,"2023-02-01 12:29:24","Skills Quiz-15 Step-4 Incorrect",CloseEDIT
+12094,250,0,"2023-02-01 12:29:24","Skills Quiz-15 Step-3 Incorrect",CloseEDIT
+12095,250,0,"2023-02-01 12:29:25","Skills Quiz-15 Step-4 Incorrect",Close
+12096,250,0,"2023-02-01 12:29:25","Skills Quiz-15 Step-3 Incorrect",Close
+12097,250,0,"2023-02-01 12:29:27","Skills Quiz-15 Step-3 Incorrect",note-search
+12098,250,0,"2023-02-01 12:29:27","Skills Quiz-15 Step-4 Correct",note-search
+12099,250,0,"2023-02-01 12:29:31","Skills Quiz-15 Step-3 Incorrect",Next
+0,0,0,"2023-02-01 12:29:31",module_end,none

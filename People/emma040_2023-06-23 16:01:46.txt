@@ -1,0 +1,92 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+65177,336,245,"2023-06-12 19:49:11",page-load,"goal setting: preview"
+65178,336,245,"2023-06-12 19:49:17",click,next-page
+65179,336,246,"2023-06-12 19:49:17",page-load,"goal setting: example plan"
+65180,336,246,"2023-06-12 19:49:40",click,next-page
+65181,336,247,"2023-06-12 19:49:41",page-load,"goal setting: pick one strategy"
+65182,336,247,"2023-06-12 19:52:01",click,next-page
+65183,336,248,"2023-06-12 19:52:02",page-load,"goal setting: top strategy display"
+65184,336,248,"2023-06-12 19:52:06",click,next-page
+65185,336,249,"2023-06-12 19:52:06",page-load,"goal setting: when"
+65189,336,249,"2023-06-12 19:52:34",click,next-page
+65190,336,250,"2023-06-12 19:52:34",page-load,"goal setting: where"
+65191,336,250,"2023-06-12 19:52:57",click,next-page
+65192,336,251,"2023-06-12 19:52:57",page-load,"goal setting: with whom"
+65193,336,251,"2023-06-12 19:53:10",click,next-page
+65197,336,251,"2023-06-12 19:53:26",click,next-page
+65198,336,252,"2023-06-12 19:53:27",page-load,"goal setting: how"
+65205,336,252,"2023-06-12 19:55:47",click,next-page
+65206,336,253,"2023-06-12 19:55:48",page-load,"goal setting: barriers and alternatives"
+65211,336,253,"2023-06-12 19:58:13",click,next-page
+65212,336,254,"2023-06-12 19:58:15",page-load,"goal setting: motivation"
+65213,336,254,"2023-06-12 19:58:19",click,next-page
+65214,336,255,"2023-06-12 19:58:19",page-load,"goal setting: confidence"
+65215,336,255,"2023-06-12 19:58:23",click,next-page
+65216,336,256,"2023-06-12 19:58:24",page-load,"goal setting: plan"
+65217,336,256,"2023-06-12 19:58:27",click,next-page
+65218,336,257,"2023-06-12 19:58:27",page-load,"end of lesson: 4"
+71146,336,400,"2023-06-23 01:38:27",page-load,video
+71533,336,401,"2023-06-23 15:44:30",page-load,"web form: question"
+71534,336,401,"2023-06-23 15:44:35",click,previous-page
+71535,336,400,"2023-06-23 15:44:35",page-load,video
+71536,336,401,"2023-06-23 15:44:59",page-load,"web form: question"
+71537,336,401,"2023-06-23 15:45:03",click,"correct-option: False"
+71538,336,401,"2023-06-23 15:45:05",click,next-page
+71539,336,402,"2023-06-23 15:45:05",page-load,video
+71540,336,403,"2023-06-23 15:50:38",page-load,"web form: what would you like to do next"
+71541,336,404,"2023-06-23 15:54:25",page-load,"skills quiz preview"
+71542,336,404,"2023-06-23 15:54:36",click,next-page
+71543,336,0,"2023-06-23 15:54:41","Skills Quiz-19 Step-1 Incorrect",HEALTH
+71544,336,0,"2023-06-23 15:54:48","Skills Quiz-19 Step-2 Correct","Medical Information"
+71545,336,0,"2023-06-23 15:54:53","Skills Quiz-19 Step-3 Correct","Add New Note"
+71546,336,0,"2023-06-23 15:54:57","Skills Quiz-19 Step-4 Correct",noteSpecialty
+71547,336,0,"2023-06-23 15:55:27","Skills Quiz 30 second Hint",30time
+71548,336,405,"2023-06-23 15:56:32",click,"skills quiz hint"
+71549,336,0,"2023-06-23 15:56:35","Skills Quiz-19 Step-6 Incorrect",Address
+71550,336,0,"2023-06-23 15:56:36","Skills Quiz-19 Step-6 Incorrect",Address
+71551,336,0,"2023-06-23 15:56:38","Skills Quiz-19 Step-6 Incorrect","Phone Number"
+71552,336,0,"2023-06-23 15:56:58","Skills Quiz-19 Step-6 Incorrect",Details
+71553,336,0,"2023-06-23 15:57:20","Skills Quiz-19 Step-6 Incorrect",Details
+71554,336,0,"2023-06-23 15:57:46","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71555,336,405,"2023-06-23 15:58:01",click,"skills quiz hint"
+71556,336,0,"2023-06-23 15:58:15","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71557,336,405,"2023-06-23 15:58:16",click,"skills quiz hint"
+71558,336,0,"2023-06-23 15:58:17","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71559,336,0,"2023-06-23 15:58:29","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71560,336,405,"2023-06-23 15:58:30",click,"skills quiz hint"
+71561,336,0,"2023-06-23 15:58:34","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71562,336,0,"2023-06-23 15:58:34","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71563,336,0,"2023-06-23 15:58:36","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71564,336,0,"2023-06-23 15:58:37","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71565,336,0,"2023-06-23 15:58:46","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71566,336,0,"2023-06-23 15:58:48","Skills Quiz-19 Step-6 Incorrect",Specialty
+71567,336,0,"2023-06-23 15:58:51","Skills Quiz-19 Step-6 Incorrect","Close  "
+71568,336,405,"2023-06-23 15:58:55",click,"skills quiz hint"
+71569,336,0,"2023-06-23 15:58:57","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71570,336,0,"2023-06-23 15:58:57","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71571,336,19,"2023-06-23 15:59:05",page-load,video
+71572,336,0,"2023-06-23 15:59:10","Skills Quiz-19 Step-6 Incorrect",Specialty
+71573,336,0,"2023-06-23 15:59:12","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71574,336,0,"2023-06-23 15:59:15","Skills Quiz-19 Step-6 Incorrect",Specialty
+71575,336,0,"2023-06-23 15:59:18","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71576,336,0,"2023-06-23 15:59:30","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71577,336,0,"2023-06-23 15:59:31","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71578,336,0,"2023-06-23 15:59:32","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71579,336,0,"2023-06-23 15:59:35","Skills Quiz-19 Step-6 Incorrect","Close  "
+71580,336,0,"2023-06-23 16:00:21","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71581,336,0,"2023-06-23 16:00:26","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71582,336,0,"2023-06-23 16:00:29","Skills Quiz-19 Step-6 Incorrect",Specialty
+71583,336,405,"2023-06-23 16:00:36",click,"skills quiz hint"
+71584,336,0,"2023-06-23 16:00:37","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+71585,336,0,"2023-06-23 16:00:53","Skills Quiz-19 Step-6 Correct",noteName
+71586,336,0,"2023-06-23 16:01:05","Skills Quiz-19 Step-8 Correct",notePhone
+71587,336,0,"2023-06-23 16:01:08","Skills Quiz-19 Step-10 Incorrect",Specialty
+71588,336,0,"2023-06-23 16:01:14","Skills Quiz-19 Step-10 Incorrect","Close  SAVE"
+71589,336,0,"2023-06-23 16:01:16","Skills Quiz-19 Step-10 Incorrect",Name
+71590,336,0,"2023-06-23 16:01:23","Skills Quiz-19 Step-10 Incorrect","Close  SAVE"
+71591,336,0,"2023-06-23 16:01:24","Skills Quiz-19 Step-10 Correct",noteAddress
+71592,336,0,"2023-06-23 16:01:27","Skills Quiz-19 Step-12 Correct",noteDetails
+71593,336,0,"2023-06-23 16:01:34","Skills Quiz-19 Step-14 Incorrect",Details
+71594,336,0,"2023-06-23 16:01:37","Skills Quiz-19 Step-14 Correct",SAVE
+71595,336,0,"2023-06-23 16:01:46","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-06-23 16:01:46",module_end,none

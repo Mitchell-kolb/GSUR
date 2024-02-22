@@ -1,0 +1,12 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+31970,245,232,"2023-03-22 15:20:29",click,next-page
+31971,245,0,"2023-03-22 15:20:32","Skills Quiz-16 Step-1 Correct",Relevant
+31972,245,0,"2023-03-22 15:20:34","Skills Quiz-16 Step-2 Incorrect","A - ZAlphabetical OrderRelevantMost Often Used"
+31973,245,0,"2023-03-22 15:20:36","Skills Quiz-16 Step-2 Correct","A - Z"
+31974,245,0,"2023-03-22 15:20:39","Skills Quiz-16 Step-3 Incorrect",Edit
+31975,245,0,"2023-03-22 15:20:40","Skills Quiz-16 Step-4 Incorrect",Close
+31976,245,0,"2023-03-22 15:20:40","Skills Quiz-16 Step-3 Incorrect",Close
+31977,245,0,"2023-03-22 15:20:42","Skills Quiz-16 Step-3 Incorrect",note-search
+31978,245,0,"2023-03-22 15:20:42","Skills Quiz-16 Step-4 Correct",note-search
+31979,245,0,"2023-03-22 15:20:45","Skills Quiz-16 Step-3 Incorrect",Next
+0,0,0,"2023-03-22 15:20:45",module_end,none

@@ -1,0 +1,86 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+94766,354,502,"2023-09-04 06:25:38",page-load,video
+94767,354,0,"2023-09-04 06:25:53","Skills Quiz-26 Step-2 Incorrect",Yes
+94768,354,0,"2023-09-04 06:25:53","Skills Quiz-26 Step-13 Incorrect",Yes
+94769,354,0,"2023-09-04 06:25:54","Skills Quiz-26 Step-2 Incorrect",Yes
+94770,354,0,"2023-09-04 06:25:54","Skills Quiz-26 Step-13 Incorrect",Yes
+94771,354,510,"2023-09-04 06:25:55",click,"skills quiz hint"
+94772,354,510,"2023-09-04 06:25:56",click,"skills quiz hint"
+94773,354,0,"2023-09-04 06:25:57","Skills Quiz-26 Step-13 Incorrect",Yes
+94774,354,0,"2023-09-04 06:25:57","Skills Quiz-26 Step-2 Incorrect",Yes
+94775,354,0,"2023-09-04 06:26:10","Skills Quiz-26 Step-13 Incorrect",Yes
+94776,354,0,"2023-09-04 06:26:10","Skills Quiz-26 Step-2 Incorrect",Yes
+94777,354,0,"2023-09-04 06:26:11","Skills Quiz-26 Step-2 Incorrect",Yes
+94778,354,0,"2023-09-04 06:26:11","Skills Quiz-26 Step-13 Incorrect",Yes
+94779,354,510,"2023-09-04 06:26:14",click,"skills quiz hint"
+94780,354,0,"2023-09-04 06:26:17","Skills Quiz-26 Step-2 Incorrect","Health Tracking: MedicationsDid you take all of your medications?NoYesCancelSave and View GraphSave"
+94781,354,0,"2023-09-04 06:26:17","Skills Quiz-26 Step-13 Incorrect","Health Tracking: MedicationsDid you take all of your medications?NoYesCancelSave and View GraphSave"
+120702,354,502,"2024-02-03 21:16:17",page-load,video
+120703,354,502,"2024-02-03 21:39:28",page-load,video
+120704,354,503,"2024-02-03 21:47:06",page-load,"web form: scheduling choices"
+120705,354,503,"2024-02-03 21:47:51",click,hint
+120706,354,503,"2024-02-03 21:47:55",click,hint
+120707,354,503,"2024-02-03 21:47:56",click,hint
+120708,354,503,"2024-02-03 21:48:23",tracked,"Socialize with family and friends"
+120709,354,503,"2024-02-03 21:48:52",tracked,"Reading a book"
+120710,354,503,"2024-02-03 21:48:55",tracked,"Watching a TED talk"
+120711,354,503,"2024-02-03 21:48:57",tracked,"Cooking a new recipe"
+120712,354,503,"2024-02-03 21:48:59",tracked,"Cooking a new recipe"
+120713,354,503,"2024-02-03 21:49:00",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+120714,354,503,"2024-02-03 21:49:01",tracked,"Doing a crossword puzzle"
+120715,354,503,"2024-02-03 21:49:02",tracked,"Doing a crossword puzzle"
+120716,354,503,"2024-02-03 21:49:02",tracked,"Doing a crossword puzzle"
+120717,354,503,"2024-02-03 21:49:05",tracked,"Doing a crossword puzzle"
+120718,354,503,"2024-02-03 21:49:07",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+120719,354,503,"2024-02-03 21:49:07",tracked,"Doing a crossword puzzle"
+120720,354,503,"2024-02-03 21:49:08",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+120721,354,503,"2024-02-03 21:49:10",tracked,"Doing a crossword puzzle"
+120722,354,503,"2024-02-03 21:49:14",tracked,"Reading a book"
+120723,354,503,"2024-02-03 21:49:15",tracked,"Watching a TED talk"
+120724,354,503,"2024-02-03 21:49:25",tracked,"Going to a museum"
+120725,354,503,"2024-02-03 21:49:29",tracked,"Watching a TED talk"
+120726,354,503,"2024-02-03 21:49:30",tracked,"Reading a book"
+120727,354,503,"2024-02-03 21:49:32",click,next-page
+120728,354,504,"2024-02-03 21:49:33",page-load,video
+120729,354,504,"2024-02-03 21:50:05",page-load,video
+120730,354,504,"2024-02-03 21:50:40",page-load,video
+120731,354,504,"2024-02-03 21:55:37",page-load,video
+120732,354,504,"2024-02-03 22:10:16",page-load,video
+120733,354,505,"2024-02-03 22:17:47",page-load,"web form: what would you like to do next"
+120734,354,505,"2024-02-03 22:17:52",click,next-page
+120735,354,506,"2024-02-03 22:17:53",page-load,"skills quiz preview"
+120736,354,506,"2024-02-03 22:18:11",click,next-page
+120737,354,507,"2024-02-03 22:18:13",click,"skills quiz hint"
+120738,354,0,"2024-02-03 22:18:31","Skills Quiz-25 Step-1 Incorrect",note-list
+120739,354,0,"2024-02-03 22:18:33","Skills Quiz-25 Step-1 Correct",TODAY
+120740,354,0,"2024-02-03 22:18:47","Skills Quiz-25 Step-2 Incorrect",undefined
+120741,354,0,"2024-02-03 22:18:59","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+120742,354,0,"2024-02-03 22:18:59","Skills Quiz-25 Step-3 Correct","Tap Here"
+120743,354,0,"2024-02-03 22:19:00","Skills Quiz-25 Step-2 Incorrect",3
+120744,354,0,"2024-02-03 22:19:00","Skills Quiz-25 Step-4 Correct",3
+120745,354,0,"2024-02-03 22:19:01","Skills Quiz-25 Step-5 Correct",0
+120746,354,0,"2024-02-03 22:19:01","Skills Quiz-25 Step-2 Incorrect",0
+120747,354,0,"2024-02-03 22:19:06","Skills Quiz-25 Step-6 Correct","                              Save            "
+120748,354,0,"2024-02-03 22:19:06","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+120749,354,0,"2024-02-03 22:19:08","Skills Quiz-25 Step-2 Incorrect","Health Tracking: Physical ExerciseEnter Physical Exercise Minutes30CancelSave and View GraphSave"
+120750,354,0,"2024-02-03 22:19:08","Skills Quiz-25 Step-7 Incorrect","Health Tracking: Physical ExerciseEnter Physical Exercise Minutes30CancelSave and View GraphSave"
+120751,354,507,"2024-02-03 22:19:11",click,"skills quiz hint"
+120752,354,0,"2024-02-03 22:19:13","Skills Quiz-25 Step-2 Incorrect",Save
+120753,354,0,"2024-02-03 22:19:13","Skills Quiz-25 Step-7 Correct",Save
+120754,354,507,"2024-02-03 22:19:20",click,"skills quiz hint"
+120755,354,0,"2024-02-03 22:19:27","Skills Quiz-25 Step-8 Incorrect",undefined
+120756,354,0,"2024-02-03 22:19:27","Skills Quiz-25 Step-2 Incorrect",undefined
+120757,354,0,"2024-02-03 22:19:34","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+120758,354,0,"2024-02-03 22:19:34","Skills Quiz-25 Step-9 Correct","Tap Here"
+120759,354,0,"2024-02-03 22:19:34","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+120760,354,0,"2024-02-03 22:19:36","Skills Quiz-25 Step-2 Incorrect",1
+120761,354,0,"2024-02-03 22:19:36","Skills Quiz-25 Step-8 Incorrect",1
+120762,354,0,"2024-02-03 22:19:36","Skills Quiz-25 Step-10 Correct",1
+120763,354,507,"2024-02-03 22:19:41",click,"skills quiz hint"
+120764,354,0,"2024-02-03 22:19:43","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+120765,354,0,"2024-02-03 22:19:43","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+120766,354,0,"2024-02-03 22:19:43","Skills Quiz-25 Step-11 Correct","                              Save            "
+120767,354,507,"2024-02-03 22:19:55",click,"skills quiz hint"
+120768,354,0,"2024-02-03 22:19:58","Skills Quiz-25 Step-2 Incorrect",Save
+120769,354,0,"2024-02-03 22:19:58","Skills Quiz-25 Step-8 Incorrect",Save
+0,0,0,"2024-02-03 22:19:59",module_end,none

@@ -1,0 +1,20 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+93967,360,127,"2023-08-29 17:35:26",click,"skills quiz hint"
+93968,360,0,"2023-08-29 17:35:48","Skills Quiz-8 Step-1 Incorrect","Date:Title:Homeless Shelter Volunteer ShiftDescription:"
+93969,360,0,"2023-08-29 17:35:54","Skills Quiz-8 Step-1 Incorrect",Cancel
+93970,360,0,"2023-08-29 17:35:58","Skills Quiz-8 Step-1 Correct",Edit
+93971,360,0,"2023-08-29 17:36:02","Skills Quiz-8 Step-2 Correct",event-description
+93972,360,0,"2023-08-29 17:36:32","Skills Quiz 30 second Hint",30time
+93973,360,0,"2023-08-29 17:37:08","Skills Quiz-8 Step-4 Correct",Weekly
+93974,360,0,"2023-08-29 17:37:11","Skills Quiz-8 Step-5 Correct",Mon
+93975,360,0,"2023-08-29 17:37:13","Skills Quiz-8 Step-6 Correct",Wed
+93976,360,0,"2023-08-29 17:37:18","Skills Quiz-8 Step-7 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+93977,360,0,"2023-08-29 17:37:26","Skills Quiz-8 Step-7 Correct","Repeat Forever (tap to change)"
+93978,360,0,"2023-08-29 17:37:34","Skills Quiz-8 Step-8 Correct",end-right-arrow
+93979,360,0,"2023-08-29 17:37:35","Skills Quiz-8 Step-0 Correct",end-right-arrow
+93980,360,0,"2023-08-29 17:37:36","Skills Quiz-8 Step-9 Correct",31
+93981,360,0,"2023-08-29 17:37:43","Skills Quiz-8 Step-10 Correct",OK
+93982,360,0,"2023-08-29 17:37:51","Skills Quiz-8 Step-11 Correct",YES
+93983,360,0,"2023-08-29 17:37:53","Skills Quiz-8 Step-12 Correct",Save
+93984,360,0,"2023-08-29 17:38:05","Skills Quiz-8 Step-13 Correct",Save
+0,0,0,"2023-08-29 17:38:06",module_end,none

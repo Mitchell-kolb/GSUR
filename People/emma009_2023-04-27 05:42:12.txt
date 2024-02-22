@@ -1,0 +1,18 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+44679,309,407,"2023-04-27 05:39:56",click,next-page
+44680,309,0,"2023-04-27 05:40:01","Skills Quiz-20 Step-1 Incorrect",HEALTH
+44681,309,0,"2023-04-27 05:40:02","Skills Quiz-20 Step-2 Correct","Medical Information"
+44682,309,0,"2023-04-27 05:40:09","Skills Quiz-20 Step-3 Correct","Add New Note"
+44683,309,0,"2023-04-27 05:40:10","Skills Quiz-20 Step-4 Correct",noteSpecialty
+44684,309,0,"2023-04-27 05:40:29","Skills Quiz-20 Step-6 Incorrect","Close  SAVE"
+44685,309,0,"2023-04-27 05:40:35","Skills Quiz-20 Step-6 Correct",noteName
+44686,309,0,"2023-04-27 05:40:44","Skills Quiz-20 Step-8 Incorrect","Close  SAVE"
+44687,309,0,"2023-04-27 05:40:49","Skills Quiz-20 Step-8 Correct",notePhone
+44688,309,0,"2023-04-27 05:40:56","Skills Quiz-20 Step-10 Correct",noteAddress
+44689,309,0,"2023-04-27 05:41:11","Skills Quiz-20 Step-12 Incorrect","Close  SAVE"
+44690,309,0,"2023-04-27 05:41:15","Skills Quiz-20 Step-12 Correct",noteDetails
+44691,309,0,"2023-04-27 05:41:46","Skills Quiz 30 second Hint",30time
+44692,309,0,"2023-04-27 05:41:56","Skills Quiz-20 Step-14 Correct"," SAVE"
+44693,309,0,"2023-04-27 05:42:09","Skills Quiz-20 Step-14 Incorrect","Close  EDIT"
+44694,309,0,"2023-04-27 05:42:12","Skills Quiz-20 Step-14 Correct",Close
+0,0,0,"2023-04-27 05:42:12",module_end,none

@@ -1,0 +1,35 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+76836,343,410,"2023-07-13 22:09:11",page-load,video
+76837,343,411,"2023-07-13 22:09:33",page-load,"web form: scheduling choices"
+76838,343,411,"2023-07-13 22:09:50",tracked,"Physical Exercise"
+76839,343,411,"2023-07-13 22:09:52",tracked,"Well-being activities"
+76840,343,411,"2023-07-13 22:10:01",click,next-page
+76841,343,412,"2023-07-13 22:10:03",page-load,video
+76842,343,413,"2023-07-13 22:11:19",page-load,"web form: question"
+76843,343,413,"2023-07-13 22:11:25",click,"correct-option: 4"
+76844,343,413,"2023-07-13 22:11:30",click,next-page
+76845,343,414,"2023-07-13 22:11:32",page-load,video
+76846,343,415,"2023-07-13 22:11:58",page-load,"web form: question"
+76847,343,415,"2023-07-13 22:12:08",click,"correct-option: False"
+76848,343,415,"2023-07-13 22:12:13",click,next-page
+76849,343,416,"2023-07-13 22:12:14",page-load,video
+76850,343,417,"2023-07-13 22:15:01",page-load,"web form: what would you like to do next"
+76851,343,417,"2023-07-13 22:15:08",click,take-a-break
+76852,343,417,"2023-07-13 22:43:47",page-load,"web form: what would you like to do next"
+76853,343,417,"2023-07-13 22:43:50",click,next-page
+76854,343,418,"2023-07-13 22:43:51",page-load,"skills quiz preview"
+76855,343,418,"2023-07-13 22:44:03",click,next-page
+76856,343,0,"2023-07-13 22:44:08","Skills Quiz-21 Step-1 Incorrect",HEALTH
+76857,343,0,"2023-07-13 22:44:11","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+76858,343,0,"2023-07-13 22:44:14","Skills Quiz-21 Step-3 Correct","Daily Medications"
+76859,343,0,"2023-07-13 22:44:24","Skills Quiz-21 Step-4 Correct",descriptionMorning
+76860,343,0,"2023-07-13 22:44:47","Skills Quiz-21 Step-6 Correct","8:00 AM"
+76861,343,0,"2023-07-13 22:44:51","Skills Quiz-21 Step-7 Correct",7
+76862,343,0,"2023-07-13 22:44:51","Skills Quiz-21 Step-8 Correct",00
+76863,343,0,"2023-07-13 22:44:56","Skills Quiz-21 Step-9 Incorrect",Save
+76864,343,0,"2023-07-13 22:44:58","Skills Quiz-21 Step-9 Incorrect",Save
+76865,343,0,"2023-07-13 22:45:02","Skills Quiz-21 Step-9 Correct",AM
+76866,343,0,"2023-07-13 22:45:04","Skills Quiz-21 Step-10 Correct",Save
+76867,343,0,"2023-07-13 22:45:16","Skills Quiz-21 Step-11 Correct",checkMorning
+76868,343,0,"2023-07-13 22:45:19","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-07-13 22:45:20",module_end,none

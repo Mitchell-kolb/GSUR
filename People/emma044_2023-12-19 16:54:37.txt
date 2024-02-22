@@ -1,0 +1,25 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+107713,411,127,"2023-12-19 16:50:32",click,"skills quiz hint"
+107714,411,127,"2023-12-19 16:50:32",click,"skills quiz hint"
+107715,411,127,"2023-12-19 16:50:48",click,"skills quiz hint"
+107716,411,127,"2023-12-19 16:50:50",click,"skills quiz hint"
+107717,411,0,"2023-12-19 16:50:51","Skills Quiz 30 second Hint",30time
+107718,411,0,"2023-12-19 16:50:55","Skills Quiz-8 Step-1 Correct",Edit
+107719,411,127,"2023-12-19 16:50:59",click,"skills quiz hint"
+107720,411,127,"2023-12-19 16:50:59",click,"skills quiz hint"
+107721,411,0,"2023-12-19 16:51:10","Skills Quiz-8 Step-2 Correct",event-description
+107722,411,0,"2023-12-19 16:51:40","Skills Quiz 30 second Hint",30time
+107723,411,0,"2023-12-19 16:53:06","Skills Quiz-8 Step-4 Correct",Weekly
+107724,411,0,"2023-12-19 16:53:12","Skills Quiz-8 Step-5 Correct",Mon
+107725,411,0,"2023-12-19 16:53:24","Skills Quiz-8 Step-6 Correct",Wed
+107726,411,0,"2023-12-19 16:53:47","Skills Quiz-8 Step-7 Correct","Repeat Forever (tap to change)"
+107727,411,0,"2023-12-19 16:53:56","Skills Quiz-8 Step-8 Correct",end-right-arrow
+107728,411,0,"2023-12-19 16:53:56","Skills Quiz-8 Step-0 Correct",end-right-arrow
+107729,411,127,"2023-12-19 16:54:07",click,"skills quiz hint"
+107730,411,0,"2023-12-19 16:54:13","Skills Quiz-8 Step-9 Correct",31
+107731,411,0,"2023-12-19 16:54:17","Skills Quiz-8 Step-10 Correct",OK
+107732,411,0,"2023-12-19 16:54:23","Skills Quiz-8 Step-11 Correct",YES
+107733,411,0,"2023-12-19 16:54:26","Skills Quiz-8 Step-12 Correct",Save
+107734,411,127,"2023-12-19 16:54:31",click,"skills quiz hint"
+107735,411,0,"2023-12-19 16:54:36","Skills Quiz-8 Step-13 Correct",Save
+0,0,0,"2023-12-19 16:54:37",module_end,none

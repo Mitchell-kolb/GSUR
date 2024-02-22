@@ -1,0 +1,67 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+117821,416,121,"2024-01-24 22:14:26",page-load,video
+117822,416,122,"2024-01-24 22:18:50",page-load,"web form: question"
+117823,416,122,"2024-01-24 22:19:06",click,"correct-option: Both the To-do List and Time Schedule"
+117824,416,122,"2024-01-24 22:19:12",click,next-page
+117825,416,123,"2024-01-24 22:19:13",page-load,video
+117826,416,124,"2024-01-24 22:21:04",page-load,"web form: what would you like to do next"
+117827,416,0,"2024-01-24 22:22:47","Skills Quiz-7 Step-1 Incorrect",undefined
+117828,416,0,"2024-01-24 22:22:53","Skills Quiz-7 Step-1 Correct",Edit
+117829,416,0,"2024-01-24 22:22:58","Skills Quiz-7 Step-2 Correct",event-description
+117830,416,0,"2024-01-24 22:23:39","Skills Quiz 30 second Hint",30time
+117831,416,0,"2024-01-24 22:23:58","Skills Quiz-7 Step-1 Incorrect","Entry/Event DetailsDate:Title:Blood Donation Volunteer ShiftDescription:CancelDeleteEdit"
+117832,416,0,"2024-01-24 22:24:01","Skills Quiz-7 Step-1 Correct",Edit
+117833,416,0,"2024-01-24 22:24:04","Skills Quiz-7 Step-2 Correct",event-description
+117834,416,0,"2024-01-24 22:24:34","Skills Quiz 30 second Hint",30time
+117835,416,0,"2024-01-24 22:25:39","Skills Quiz-7 Step-4 Incorrect",YES
+117836,416,0,"2024-01-24 22:25:40","Skills Quiz-7 Step-4 Incorrect",YES
+117837,416,0,"2024-01-24 22:25:44","Skills Quiz-7 Step-4 Incorrect",Tue
+117838,416,0,"2024-01-24 22:25:45","Skills Quiz-7 Step-4 Incorrect",Thu
+117839,416,0,"2024-01-24 22:25:51","Skills Quiz-7 Step-4 Incorrect",Tue
+117840,416,0,"2024-01-24 22:25:52","Skills Quiz-7 Step-4 Incorrect",Weekly
+117841,416,0,"2024-01-24 22:25:53","Skills Quiz-7 Step-4 Incorrect",Weekly
+117842,416,0,"2024-01-24 22:25:54","Skills Quiz-7 Step-4 Incorrect",Tue
+117843,416,0,"2024-01-24 22:25:55","Skills Quiz-7 Step-4 Incorrect",Thu
+117844,416,0,"2024-01-24 22:27:40","Skills Quiz-7 Step-4 Incorrect",Weekly
+117845,416,0,"2024-01-24 22:27:41","Skills Quiz-7 Step-4 Incorrect",Weekly
+117846,416,0,"2024-01-24 22:27:43","Skills Quiz-7 Step-4 Incorrect",Weekly
+117847,416,0,"2024-01-24 22:27:44","Skills Quiz-7 Step-4 Incorrect",Weekly
+117848,416,0,"2024-01-24 22:27:56","Skills Quiz-7 Step-4 Incorrect",Weekly
+117849,416,0,"2024-01-24 22:27:57","Skills Quiz-7 Step-4 Incorrect",Cancel
+117850,416,0,"2024-01-24 22:28:00","Skills Quiz-7 Step-4 Correct",Weekly
+117851,416,0,"2024-01-24 22:28:04","Skills Quiz-7 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+117852,416,0,"2024-01-24 22:28:05","Skills Quiz-7 Step-5 Incorrect","Repeat Forever (tap to change)"
+117853,416,0,"2024-01-24 22:28:07","Skills Quiz-7 Step-5 Incorrect","Repeat Forever (tap to change)"
+117854,416,0,"2024-01-24 22:28:14","Skills Quiz-7 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+117855,416,0,"2024-01-24 22:28:16","Skills Quiz-7 Step-5 Incorrect","Repeat Forever (tap to change)"
+117856,416,0,"2024-01-24 22:28:17","Skills Quiz-7 Step-5 Correct",Tue
+117857,416,0,"2024-01-24 22:28:18","Skills Quiz-7 Step-6 Incorrect",Tue
+117858,416,0,"2024-01-24 22:28:20","Skills Quiz-7 Step-6 Incorrect",Tue
+117859,416,0,"2024-01-24 22:28:31","Skills Quiz-7 Step-6 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+117860,416,0,"2024-01-24 22:28:32","Skills Quiz-7 Step-6 Incorrect",Tue
+117861,416,0,"2024-01-24 22:28:34","Skills Quiz-7 Step-6 Incorrect",Tue
+117862,416,0,"2024-01-24 22:28:35","Skills Quiz-7 Step-6 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+117863,416,0,"2024-01-24 22:28:37","Skills Quiz-7 Step-6 Incorrect",Tue
+117864,416,0,"2024-01-24 22:28:37","Skills Quiz-7 Step-6 Incorrect",Tue
+117865,416,0,"2024-01-24 22:28:38","Skills Quiz-7 Step-6 Incorrect",Tue
+117866,416,0,"2024-01-24 22:28:40","Skills Quiz-7 Step-6 Incorrect",Tue
+117867,416,0,"2024-01-24 22:28:41","Skills Quiz-7 Step-6 Incorrect",Tue
+117868,416,0,"2024-01-24 22:28:42","Skills Quiz-7 Step-6 Incorrect",Tue
+117869,416,0,"2024-01-24 22:28:48","Skills Quiz-7 Step-6 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+117870,416,0,"2024-01-24 22:28:50","Skills Quiz-7 Step-6 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+117871,416,0,"2024-01-24 22:28:51","Skills Quiz-7 Step-6 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+117872,416,0,"2024-01-24 22:28:51","Skills Quiz-7 Step-6 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+117873,416,0,"2024-01-24 22:28:52","Skills Quiz-7 Step-6 Correct",Thu
+117874,416,0,"2024-01-24 22:28:53","Skills Quiz-7 Step-7 Incorrect",Thu
+117875,416,0,"2024-01-24 22:28:54","Skills Quiz-7 Step-7 Incorrect",Thu
+117876,416,0,"2024-01-24 22:29:08","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+117877,416,0,"2024-01-24 22:29:11","Skills Quiz-7 Step-8 Correct",end-right-arrow
+117878,416,0,"2024-01-24 22:29:13","Skills Quiz-7 Step-9 Correct",31
+117879,416,0,"2024-01-24 22:29:15","Skills Quiz-7 Step-10 Correct",OK
+117880,416,0,"2024-01-24 22:29:22","Skills Quiz-7 Step-11 Incorrect",Tue
+117881,416,0,"2024-01-24 22:29:23","Skills Quiz-7 Step-11 Incorrect",Thu
+117882,416,0,"2024-01-24 22:29:30","Skills Quiz-7 Step-11 Incorrect",YES
+117883,416,0,"2024-01-24 22:29:31","Skills Quiz-7 Step-11 Correct",YES
+117884,416,0,"2024-01-24 22:29:33","Skills Quiz-7 Step-12 Correct",Save
+117885,416,0,"2024-01-24 22:29:59","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2024-01-24 22:29:59",module_end,none

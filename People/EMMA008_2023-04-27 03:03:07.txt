@@ -1,0 +1,6 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+44441,297,0,"2023-04-27 03:02:42","Skills Quiz-27 Step-11 Incorrect","CloseView Progress"
+44442,297,0,"2023-04-27 03:02:44","Skills Quiz-27 Step-11 Correct","View Progress"
+44443,297,526,"2023-04-27 03:02:55",click,"skills quiz hint"
+44444,297,0,"2023-04-27 03:03:07","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2023-04-27 03:03:07",module_end,none

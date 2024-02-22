@@ -1,0 +1,26 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+64402,336,0,"2023-06-11 17:38:50","Skills Quiz-8 Step-1 Incorrect",Cancel
+64403,336,0,"2023-06-11 17:39:08","Skills Quiz-8 Step-1 Incorrect",Cancel
+64404,336,0,"2023-06-11 17:39:41","Skills Quiz 30 second Hint",30time
+64405,336,125,"2023-06-11 17:40:00",click,"skills quiz hint"
+64406,336,125,"2023-06-11 17:40:24",click,"skills quiz hint"
+64407,336,125,"2023-06-11 17:40:25",click,"skills quiz hint"
+64408,336,0,"2023-06-11 17:41:23","Skills Quiz-7 Step-1 Correct",Edit
+64409,336,0,"2023-06-11 17:41:26","Skills Quiz-7 Step-2 Correct",event-description
+64410,336,0,"2023-06-11 17:41:56","Skills Quiz 30 second Hint",30time
+64411,336,0,"2023-06-11 17:42:32","Skills Quiz-7 Step-2 Incorrect",Weekly
+64412,336,0,"2023-06-11 17:42:37","Skills Quiz-7 Step-2 Correct",event-description
+64413,336,125,"2023-06-11 17:42:49",click,"skills quiz hint"
+64414,336,0,"2023-06-11 17:43:23","Skills Quiz 30 second Hint",30time
+64415,336,0,"2023-06-11 17:43:41","Skills Quiz-7 Step-2 Correct",event-description
+64416,336,0,"2023-06-11 17:44:01","Skills Quiz-7 Step-4 Correct",Weekly
+64417,336,0,"2023-06-11 17:44:05","Skills Quiz-7 Step-5 Correct",Tue
+64418,336,0,"2023-06-11 17:44:06","Skills Quiz-7 Step-6 Correct",Thu
+64419,336,0,"2023-06-11 17:44:09","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+64420,336,0,"2023-06-11 17:44:13","Skills Quiz-7 Step-8 Correct",end-right-arrow
+64421,336,0,"2023-06-11 17:44:14","Skills Quiz-7 Step-9 Correct",31
+64422,336,0,"2023-06-11 17:44:16","Skills Quiz-7 Step-10 Correct",OK
+64423,336,0,"2023-06-11 17:44:21","Skills Quiz-7 Step-11 Correct",YES
+64424,336,0,"2023-06-11 17:44:23","Skills Quiz-7 Step-12 Correct",Save
+64425,336,0,"2023-06-11 17:44:35","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-06-11 17:44:36",module_end,none

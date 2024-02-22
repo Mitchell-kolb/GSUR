@@ -1,0 +1,20 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+49242,316,235,"2023-05-04 02:36:00",page-load,video
+49245,316,236,"2023-05-04 02:39:20",page-load,"web form: question"
+49246,316,236,"2023-05-04 02:39:27",click,"correct-option: 1"
+49247,316,236,"2023-05-04 02:39:29",click,next-page
+49248,316,237,"2023-05-04 02:39:30",page-load,"web form: what would you like to do next"
+49249,316,237,"2023-05-04 02:39:31",click,next-page
+49250,316,238,"2023-05-04 02:39:32",page-load,"skills quiz preview"
+49251,316,238,"2023-05-04 02:39:37",click,next-page
+49252,316,0,"2023-05-04 02:39:43","Skills Quiz-17 Step-1 Incorrect","Chocolate Chip CookiesViewPost Office TripView"
+49253,316,0,"2023-05-04 02:39:44","Skills Quiz-17 Step-1 Correct",View
+49254,316,0,"2023-05-04 02:39:47","Skills Quiz-17 Step-2 Correct",SAVE
+49255,316,0,"2023-05-04 02:39:49","Skills Quiz-17 Step-3 Correct",Delete
+49256,316,0,"2023-05-04 02:39:53","Skills Quiz-17 Step-4 Correct",Confirm
+49257,316,0,"2023-05-04 02:39:55","Skills Quiz-17 Step-5 Correct",Delete
+49258,316,0,"2023-05-04 02:40:10","Skills Quiz-17 Step-6 Correct",View
+49259,316,0,"2023-05-04 02:40:14","Skills Quiz-17 Step-7 Correct","Move Note"
+49260,316,0,"2023-05-04 02:40:17","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+49261,316,0,"2023-05-04 02:40:19","Skills Quiz-17 Step-8 Incorrect",Move
+0,0,0,"2023-05-04 02:40:20",module_end,none

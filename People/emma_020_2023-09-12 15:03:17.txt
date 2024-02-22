@@ -1,0 +1,33 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+95962,358,410,"2023-09-12 14:42:17",page-load,video
+95963,358,411,"2023-09-12 14:43:08",page-load,"web form: scheduling choices"
+95964,358,411,"2023-09-12 14:43:22",tracked,Medications
+95965,358,411,"2023-09-12 14:43:39",tracked,Weight
+95966,358,411,"2023-09-12 14:43:40",click,next-page
+95967,358,412,"2023-09-12 14:43:41",page-load,video
+95968,358,413,"2023-09-12 14:44:54",page-load,"web form: question"
+95969,358,413,"2023-09-12 14:45:02",click,previous-page
+95970,358,412,"2023-09-12 14:45:04",page-load,video
+95971,358,400,"2023-09-12 14:52:58",page-load,video
+95972,358,400,"2023-09-12 14:53:04",page-load,video
+95973,358,401,"2023-09-12 14:57:08",page-load,"web form: question"
+95974,358,401,"2023-09-12 14:57:16",click,"correct-option: False"
+95975,358,401,"2023-09-12 14:57:17",click,next-page
+95976,358,402,"2023-09-12 14:57:18",page-load,video
+95977,358,403,"2023-09-12 15:01:15",page-load,"web form: what would you like to do next"
+95978,358,403,"2023-09-12 15:01:18",click,next-page
+95979,358,404,"2023-09-12 15:01:19",page-load,"skills quiz preview"
+95980,358,404,"2023-09-12 15:01:27",click,next-page
+95981,358,0,"2023-09-12 15:01:36","Skills Quiz-19 Step-1 Incorrect",HEALTH
+95982,358,0,"2023-09-12 15:01:37","Skills Quiz-19 Step-2 Correct","Medical Information"
+95983,358,0,"2023-09-12 15:01:41","Skills Quiz-19 Step-3 Incorrect","Add New FolderDoctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+95984,358,0,"2023-09-12 15:01:43","Skills Quiz-19 Step-3 Correct","Add New Note"
+95985,358,0,"2023-09-12 15:01:45","Skills Quiz-19 Step-4 Correct",noteSpecialty
+95986,358,0,"2023-09-12 15:02:01","Skills Quiz-19 Step-6 Correct",noteName
+95987,358,0,"2023-09-12 15:02:11","Skills Quiz-19 Step-8 Correct",notePhone
+95988,358,0,"2023-09-12 15:02:33","Skills Quiz-19 Step-10 Incorrect","Phone Number"
+95989,358,0,"2023-09-12 15:02:34","Skills Quiz-19 Step-10 Correct",noteAddress
+95990,358,0,"2023-09-12 15:02:46","Skills Quiz-19 Step-12 Correct",noteDetails
+95991,358,0,"2023-09-12 15:03:14","Skills Quiz-19 Step-14 Correct"," SAVE"
+95992,358,0,"2023-09-12 15:03:17","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-09-12 15:03:17",module_end,none

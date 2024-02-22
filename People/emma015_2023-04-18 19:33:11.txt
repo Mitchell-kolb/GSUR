@@ -1,0 +1,41 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+41804,299,509,"2023-04-18 19:32:15",click,next-page
+41805,299,0,"2023-04-18 19:32:19","Skills Quiz-26 Step-1 Correct",TODAY
+41806,299,0,"2023-04-18 19:32:24","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+41807,299,0,"2023-04-18 19:32:26","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+41808,299,0,"2023-04-18 19:32:37","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+41809,299,0,"2023-04-18 19:32:39","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+41810,299,0,"2023-04-18 19:32:42","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+41811,299,0,"2023-04-18 19:32:46","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+41812,299,0,"2023-04-18 19:32:47","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+41813,299,0,"2023-04-18 19:32:49","Skills Quiz-26 Step-2 Incorrect","Blood Pressure Reading"
+41814,299,0,"2023-04-18 19:32:52","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+41815,299,0,"2023-04-18 19:32:52","Skills Quiz-26 Step-3 Correct","Tap Here"
+41816,299,0,"2023-04-18 19:32:53","Skills Quiz-26 Step-2 Incorrect",1
+41817,299,0,"2023-04-18 19:32:53","Skills Quiz-26 Step-4 Correct",1
+41818,299,0,"2023-04-18 19:32:53","Skills Quiz-26 Step-2 Incorrect",3
+41819,299,0,"2023-04-18 19:32:53","Skills Quiz-26 Step-5 Correct",3
+41820,299,0,"2023-04-18 19:32:54","Skills Quiz-26 Step-6 Correct",0
+41821,299,0,"2023-04-18 19:32:54","Skills Quiz-26 Step-2 Incorrect",0
+41822,299,0,"2023-04-18 19:32:55","Skills Quiz-26 Step-7 Correct","                              Save            "
+41823,299,0,"2023-04-18 19:32:55","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+41824,299,0,"2023-04-18 19:32:57","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+41825,299,0,"2023-04-18 19:32:57","Skills Quiz-26 Step-8 Correct","Tap Here"
+41826,299,0,"2023-04-18 19:32:58","Skills Quiz-26 Step-2 Incorrect",8
+41827,299,0,"2023-04-18 19:32:58","Skills Quiz-26 Step-9 Correct",8
+41828,299,0,"2023-04-18 19:32:59","Skills Quiz-26 Step-2 Incorrect",0
+41829,299,0,"2023-04-18 19:32:59","Skills Quiz-26 Step-10 Correct",0
+41830,299,0,"2023-04-18 19:33:00","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+41831,299,0,"2023-04-18 19:33:00","Skills Quiz-26 Step-11 Correct","                              Save            "
+41832,299,0,"2023-04-18 19:33:02","Skills Quiz-26 Step-2 Incorrect",Save
+41833,299,0,"2023-04-18 19:33:02","Skills Quiz-26 Step-12 Correct",Save
+41834,299,0,"2023-04-18 19:33:04","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+41835,299,0,"2023-04-18 19:33:04","Skills Quiz-26 Step-13 Incorrect","Morning Medications7:00 AM - 7:30 AMViewBlood Pressure Reading12:30 PM - 1:15 PMViewGratitude Journal2:00 PM - 2:30 PMView"
+41836,299,0,"2023-04-18 19:33:07","Skills Quiz-26 Step-2 Incorrect",undefined
+41837,299,0,"2023-04-18 19:33:07","Skills Quiz-26 Step-13 Incorrect",undefined
+41838,299,0,"2023-04-18 19:33:09","Skills Quiz-26 Step-13 Incorrect",Yes
+41839,299,0,"2023-04-18 19:33:09","Skills Quiz-26 Step-2 Incorrect",Yes
+41840,299,0,"2023-04-18 19:33:09","Skills Quiz-26 Step-14 Correct",Yes
+41841,299,0,"2023-04-18 19:33:11","Skills Quiz-26 Step-13 Incorrect",Save
+41842,299,0,"2023-04-18 19:33:11","Skills Quiz-26 Step-2 Incorrect",Save
+0,0,0,"2023-04-18 19:33:11",module_end,none

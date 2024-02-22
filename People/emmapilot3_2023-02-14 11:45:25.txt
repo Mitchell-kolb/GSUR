@@ -1,0 +1,40 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+20263,255,410,"2023-02-14 11:35:23",page-load,video
+20264,255,411,"2023-02-14 11:35:50",page-load,"web form: scheduling choices"
+20265,255,411,"2023-02-14 11:35:53",tracked,Weight
+20266,255,411,"2023-02-14 11:35:57",tracked,"Blood pressure"
+20267,255,411,"2023-02-14 11:36:03",tracked,"Well-being activities"
+20268,255,411,"2023-02-14 11:36:09",tracked,"Physical Exercise"
+20269,255,411,"2023-02-14 11:36:15",tracked,Mood
+20270,255,411,"2023-02-14 11:36:18",tracked,Mood
+20271,255,411,"2023-02-14 11:36:22",click,next-page
+20272,255,412,"2023-02-14 11:36:23",page-load,video
+20273,255,413,"2023-02-14 11:38:07",page-load,"web form: question"
+20274,255,413,"2023-02-14 11:38:13",click,"correct-option: 4"
+20275,255,413,"2023-02-14 11:38:16",click,next-page
+20276,255,414,"2023-02-14 11:38:16",page-load,video
+20277,255,415,"2023-02-14 11:38:44",page-load,"web form: question"
+20278,255,415,"2023-02-14 11:38:50",click,"incorrect-option: True"
+20279,255,415,"2023-02-14 11:39:06",click,"correct-option: False"
+20280,255,415,"2023-02-14 11:39:17",click,next-page
+20281,255,416,"2023-02-14 11:39:18",page-load,video
+20282,255,417,"2023-02-14 11:42:59",page-load,"web form: what would you like to do next"
+20283,255,417,"2023-02-14 11:43:04",click,next-page
+20284,255,418,"2023-02-14 11:43:05",page-load,"skills quiz preview"
+20285,255,418,"2023-02-14 11:43:15",click,next-page
+20286,255,0,"2023-02-14 11:43:20","Skills Quiz-21 Step-1 Incorrect",HEALTH
+20287,255,0,"2023-02-14 11:43:27","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+20288,255,0,"2023-02-14 11:43:35","Skills Quiz-21 Step-3 Correct","Daily Medications"
+20289,255,0,"2023-02-14 11:43:52","Skills Quiz-21 Step-4 Incorrect",titleMorning
+20290,255,0,"2023-02-14 11:43:53","Skills Quiz-21 Step-4 Incorrect",titleMorning
+20291,255,0,"2023-02-14 11:43:57","Skills Quiz 30 second Hint",30time
+20292,255,0,"2023-02-14 11:44:07","Skills Quiz-21 Step-4 Correct",descriptionMorning
+20293,255,0,"2023-02-14 11:44:37","Skills Quiz 30 second Hint",30time
+20294,255,0,"2023-02-14 11:45:01","Skills Quiz-21 Step-6 Correct","8:00 AM"
+20295,255,0,"2023-02-14 11:45:06","Skills Quiz-21 Step-7 Correct",7
+20296,255,0,"2023-02-14 11:45:08","Skills Quiz-21 Step-8 Correct",00
+20297,255,0,"2023-02-14 11:45:10","Skills Quiz-21 Step-9 Correct",AM
+20298,255,0,"2023-02-14 11:45:12","Skills Quiz-21 Step-10 Correct",Save
+20299,255,0,"2023-02-14 11:45:20","Skills Quiz-21 Step-11 Correct",checkMorning
+20300,255,0,"2023-02-14 11:45:25","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-02-14 11:45:25",module_end,none

@@ -1,0 +1,64 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+96343,341,410,"2023-09-12 22:02:08",page-load,video
+96344,341,411,"2023-09-12 22:06:11",page-load,"web form: scheduling choices"
+96345,341,411,"2023-09-12 22:06:24",tracked,"Physical Exercise"
+96346,341,411,"2023-09-12 22:06:58",tracked,Medications
+96347,341,411,"2023-09-12 22:07:00",tracked,"Cognitive Activity"
+96348,341,411,"2023-09-12 22:07:02",click,next-page
+96349,341,412,"2023-09-12 22:07:04",page-load,video
+96350,341,413,"2023-09-12 22:08:51",page-load,"web form: question"
+96351,341,413,"2023-09-12 22:08:55",click,"correct-option: 4"
+96352,341,413,"2023-09-12 22:08:57",click,next-page
+96353,341,414,"2023-09-12 22:08:59",page-load,video
+96354,341,415,"2023-09-12 22:09:31",page-load,"web form: question"
+96355,341,415,"2023-09-12 22:09:41",click,"correct-option: False"
+96356,341,416,"2023-09-12 22:11:04",page-load,video
+96357,341,417,"2023-09-12 22:14:49",page-load,"web form: what would you like to do next"
+96358,341,417,"2023-09-12 22:15:00",click,next-page
+96359,341,418,"2023-09-12 22:15:01",page-load,"skills quiz preview"
+96360,341,418,"2023-09-12 22:15:15",click,next-page
+96361,341,0,"2023-09-12 22:15:21","Skills Quiz-21 Step-1 Incorrect",HEALTH
+96362,341,0,"2023-09-12 22:15:29","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+96363,341,0,"2023-09-12 22:15:32","Skills Quiz-21 Step-3 Correct","Daily Medications"
+96364,341,0,"2023-09-12 22:15:39","Skills Quiz-21 Step-4 Incorrect",titleMorning
+96365,341,0,"2023-09-12 22:16:07","Skills Quiz-21 Step-4 Correct",descriptionMorning
+96366,341,0,"2023-09-12 22:16:37","Skills Quiz 30 second Hint",30time
+96367,341,0,"2023-09-12 22:17:13","Skills Quiz-21 Step-6 Incorrect","Turn On (green)"
+96368,341,0,"2023-09-12 22:17:23","Skills Quiz-21 Step-6 Correct","8:00 AM"
+96369,341,0,"2023-09-12 22:17:35","Skills Quiz-21 Step-7 Incorrect",5678
+96370,341,0,"2023-09-12 22:17:36","Skills Quiz-21 Step-7 Incorrect",000510152025303540455055
+96371,341,0,"2023-09-12 22:17:37","Skills Quiz-21 Step-7 Incorrect",5678
+96372,341,0,"2023-09-12 22:17:38","Skills Quiz-21 Step-7 Incorrect",000510152025303540455055
+96373,341,0,"2023-09-12 22:17:40","Skills Quiz-21 Step-7 Incorrect",5678
+96374,341,0,"2023-09-12 22:17:41","Skills Quiz-21 Step-7 Incorrect",5678
+96375,341,0,"2023-09-12 22:17:41","Skills Quiz-21 Step-7 Incorrect",5678
+96376,341,0,"2023-09-12 22:17:44","Skills Quiz-21 Step-7 Incorrect",Cancel
+96377,341,0,"2023-09-12 22:17:55","Skills Quiz-21 Step-7 Incorrect","8:00 AM"
+96378,341,0,"2023-09-12 22:18:10","Skills Quiz-21 Step-7 Incorrect","Tracked Health Activities"
+96379,341,0,"2023-09-12 22:18:10","Skills Quiz-21 Step-8 Incorrect","Tracked Health Activities"
+96380,341,0,"2023-09-12 22:18:12","Skills Quiz-21 Step-8 Incorrect","Daily Medications"
+96381,341,0,"2023-09-12 22:18:12","Skills Quiz-21 Step-7 Incorrect","Daily Medications"
+96382,341,0,"2023-09-12 22:18:12","Skills Quiz-21 Step-9 Incorrect","Daily Medications"
+96383,341,0,"2023-09-12 22:18:16","Skills Quiz-21 Step-8 Incorrect",titleMorning
+96384,341,0,"2023-09-12 22:18:16","Skills Quiz-21 Step-9 Incorrect",titleMorning
+96385,341,0,"2023-09-12 22:18:16","Skills Quiz-21 Step-10 Incorrect",titleMorning
+96386,341,0,"2023-09-12 22:18:16","Skills Quiz-21 Step-7 Incorrect",titleMorning
+96387,341,0,"2023-09-12 22:18:17","Skills Quiz-21 Step-7 Incorrect",titleMorning
+96388,341,0,"2023-09-12 22:18:17","Skills Quiz-21 Step-10 Incorrect",titleMorning
+96389,341,0,"2023-09-12 22:18:17","Skills Quiz-21 Step-9 Incorrect",titleMorning
+96390,341,0,"2023-09-12 22:18:17","Skills Quiz-21 Step-8 Incorrect",titleMorning
+96391,341,0,"2023-09-12 22:18:20","Skills Quiz-21 Step-9 Incorrect","8:00 AM"
+96392,341,0,"2023-09-12 22:18:20","Skills Quiz-21 Step-8 Incorrect","8:00 AM"
+96393,341,0,"2023-09-12 22:18:20","Skills Quiz-21 Step-7 Incorrect","8:00 AM"
+96394,341,0,"2023-09-12 22:18:20","Skills Quiz-21 Step-10 Incorrect","8:00 AM"
+96395,341,0,"2023-09-12 22:18:27","Skills Quiz-21 Step-8 Incorrect","Tracked Health Activities"
+96396,341,0,"2023-09-12 22:18:27","Skills Quiz-21 Step-10 Incorrect","Tracked Health Activities"
+96397,341,0,"2023-09-12 22:18:27","Skills Quiz-21 Step-7 Incorrect","Tracked Health Activities"
+96398,341,0,"2023-09-12 22:18:27","Skills Quiz-21 Step-9 Incorrect","Tracked Health Activities"
+96399,341,0,"2023-09-12 22:18:27","Skills Quiz-21 Step-11 Incorrect","Tracked Health Activities"
+96400,341,0,"2023-09-12 22:18:29","Skills Quiz-21 Step-10 Incorrect","Daily Medications"
+96401,341,0,"2023-09-12 22:18:29","Skills Quiz-21 Step-8 Incorrect","Daily Medications"
+96402,341,0,"2023-09-12 22:18:29","Skills Quiz-21 Step-7 Incorrect","Daily Medications"
+96403,341,0,"2023-09-12 22:18:29","Skills Quiz-21 Step-11 Incorrect","Daily Medications"
+96404,341,0,"2023-09-12 22:18:29","Skills Quiz-21 Step-9 Incorrect","Daily Medications"
+0,0,0,"2023-09-12 22:18:30",module_end,none

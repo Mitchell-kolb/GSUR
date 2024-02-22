@@ -1,0 +1,44 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+7023,221,225,"2023-01-20 16:51:55",page-load,video
+7024,221,226,"2023-01-20 16:54:50",page-load,"web form: question"
+7025,221,226,"2023-01-20 16:54:53",click,"correct-option: Magnifying Glass"
+7026,221,226,"2023-01-20 16:54:54",click,next-page
+7027,221,227,"2023-01-20 16:54:55",page-load,video
+7028,221,228,"2023-01-20 16:56:29",page-load,"web form: what would you like to do next"
+7029,221,228,"2023-01-20 16:56:35",click,previous-page
+7030,221,225,"2023-01-20 16:56:36",page-load,video
+7031,221,226,"2023-01-20 16:56:41",page-load,"web form: question"
+7032,221,226,"2023-01-20 16:56:44",click,next-page
+7033,221,228,"2023-01-20 16:56:50",page-load,"web form: what would you like to do next"
+7034,221,228,"2023-01-20 16:56:54",click,next-page
+7035,221,229,"2023-01-20 16:56:55",page-load,"skills quiz preview"
+7036,221,229,"2023-01-20 16:56:56",click,next-page
+7037,221,0,"2023-01-20 16:57:02","Skills Quiz-15 Step-1 Correct",Relevant
+7038,221,0,"2023-01-20 16:57:03","Skills Quiz-15 Step-2 Correct","A - Z"
+7039,221,0,"2023-01-20 16:57:05","Skills Quiz-15 Step-3 Incorrect","Lawn IdeasEdit"
+7040,221,0,"2023-01-20 16:57:11","Skills Quiz-15 Step-3 Incorrect",note-search
+7041,221,0,"2023-01-20 16:57:12","Skills Quiz-15 Step-3 Incorrect",note-search
+7042,221,0,"2023-01-20 16:57:12","Skills Quiz-15 Step-3 Incorrect",note-search
+7043,221,0,"2023-01-20 16:57:15","Skills Quiz-15 Step-3 Incorrect","Add New FolderLawn IdeasEdit"
+7044,221,0,"2023-01-20 16:57:16","Skills Quiz-15 Step-3 Incorrect","Lawn IdeasEdit"
+7045,221,0,"2023-01-20 16:57:16","Skills Quiz-15 Step-3 Incorrect","Sort by:A - ZSearch"
+7046,221,0,"2023-01-20 16:57:16","Skills Quiz-15 Step-3 Incorrect",Search
+7047,221,0,"2023-01-20 16:57:20","Skills Quiz-15 Step-3 Incorrect","Lawn IdeasEdit"
+7048,221,0,"2023-01-20 16:57:20","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+7049,221,0,"2023-01-20 16:57:21","Skills Quiz-15 Step-3 Incorrect",Edit
+7050,221,0,"2023-01-20 16:57:23","Skills Quiz-15 Step-3 Incorrect",Close
+7051,221,0,"2023-01-20 16:57:26","Skills Quiz-15 Step-3 Incorrect",note-search
+7052,221,0,"2023-01-20 16:57:27","Skills Quiz-15 Step-3 Incorrect",Search
+7053,221,0,"2023-01-20 16:57:29","Skills Quiz-15 Step-3 Incorrect","Tree: AppleView"
+7054,221,0,"2023-01-20 16:57:31","Skills Quiz-15 Step-3 Incorrect",Close
+7055,221,0,"2023-01-20 16:57:34","Skills Quiz-15 Step-3 Incorrect",note-search
+7056,221,0,"2023-01-20 16:57:34","Skills Quiz-15 Step-3 Incorrect",note-search
+7057,221,0,"2023-01-20 16:57:34","Skills Quiz-15 Step-3 Incorrect",note-search
+7058,221,0,"2023-01-20 16:57:35","Skills Quiz-15 Step-3 Incorrect",note-search
+7059,221,0,"2023-01-20 16:57:36","Skills Quiz-15 Step-3 Incorrect",note-search
+7060,221,0,"2023-01-20 16:57:36","Skills Quiz-15 Step-3 Incorrect","Add New NoteDecor: Garden GnomeViewFlower: RoseViewTree: AppleViewTree: PearView"
+7061,221,0,"2023-01-20 16:57:36","Skills Quiz-15 Step-3 Incorrect","Add New NoteDecor: Garden GnomeViewFlower: RoseViewTree: AppleViewTree: PearView"
+7062,221,0,"2023-01-20 16:57:37","Skills Quiz-15 Step-3 Incorrect","Add New NoteDecor: Garden GnomeViewFlower: RoseViewTree: AppleViewTree: PearView"
+7063,221,0,"2023-01-20 16:57:37","Skills Quiz-15 Step-3 Incorrect","Flower: Rose"
+7064,221,0,"2023-01-20 16:57:39","Skills Quiz-15 Step-3 Incorrect",Close
+0,0,0,"2023-01-20 16:57:46",module_end,none

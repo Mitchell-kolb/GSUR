@@ -1,0 +1,8 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+11723,221,407,"2023-02-01 11:04:37",page-load,"skills quiz preview"
+11724,221,407,"2023-02-01 11:04:49",click,next-page
+11725,221,0,"2023-02-01 11:05:00","Skills Quiz-20 Step-1 Incorrect",HEALTH
+11726,221,0,"2023-02-01 11:05:02","Skills Quiz-20 Step-2 Correct","Medical Information"
+11727,221,0,"2023-02-01 11:05:04","Skills Quiz-20 Step-3 Correct","Add New Note"
+11728,221,0,"2023-02-01 11:05:05","Skills Quiz-20 Step-4 Correct",noteSpecialty
+0,0,0,"2023-02-01 11:05:22",module_end,none

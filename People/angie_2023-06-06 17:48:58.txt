@@ -1,0 +1,20 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+63036,333,212,"2023-06-06 17:48:17",page-load,"skills quiz preview"
+63037,333,212,"2023-06-06 17:48:23",click,next-page
+63038,333,0,"2023-06-06 17:48:27","Skills Quiz-12 Step-1 Correct","Add New Folder"
+63039,333,0,"2023-06-06 17:48:28","Skills Quiz-12 Step-2 Correct",modal-folder-title
+63040,333,0,"2023-06-06 17:48:35","Skills Quiz-12 Step-3 Incorrect",Next
+63041,333,0,"2023-06-06 17:48:36","Skills Quiz-12 Step-4 Correct",SAVE
+63042,333,0,"2023-06-06 17:48:36","Skills Quiz-12 Step-3 Incorrect",SAVE
+63043,333,0,"2023-06-06 17:48:37","Skills Quiz-12 Step-3 Incorrect",Close
+63044,333,0,"2023-06-06 17:48:37","Skills Quiz-12 Step-5 Correct",Close
+63045,333,0,"2023-06-06 17:48:41","Skills Quiz-12 Step-6 Correct",Edit
+63046,333,0,"2023-06-06 17:48:41","Skills Quiz-12 Step-3 Incorrect",Edit
+63047,333,0,"2023-06-06 17:48:42","Skills Quiz-12 Step-7 Correct",SAVE
+63048,333,0,"2023-06-06 17:48:42","Skills Quiz-12 Step-3 Incorrect",SAVE
+63049,333,0,"2023-06-06 17:48:43","Skills Quiz-12 Step-8 Correct",modal-folder-title
+63050,333,0,"2023-06-06 17:48:43","Skills Quiz-12 Step-3 Correct",modal-folder-title
+63051,333,0,"2023-06-06 17:48:43","Skills Quiz-12 Step-9 Correct",modal-folder-title
+63052,333,0,"2023-06-06 17:48:56","Skills Quiz-12 Step-10 Correct"," SAVE"
+63053,333,0,"2023-06-06 17:48:58","Skills Quiz-12 Step-11 Correct",Close
+0,0,0,"2023-06-06 17:48:58",module_end,none

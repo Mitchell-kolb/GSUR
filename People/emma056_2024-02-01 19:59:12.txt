@@ -1,0 +1,206 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+120032,410,512,"2024-02-01 18:52:57",page-load,video
+120033,410,513,"2024-02-01 18:54:44",page-load,"web form: question"
+120034,410,513,"2024-02-01 18:54:51",click,"correct-option: at the same time every time and limiting distractions."
+120035,410,513,"2024-02-01 18:54:56",click,next-page
+120036,410,514,"2024-02-01 18:54:56",page-load,video
+120037,410,515,"2024-02-01 18:57:11",page-load,"web form: question"
+120038,410,515,"2024-02-01 18:57:18",click,hint
+120039,410,515,"2024-02-01 18:57:21",click,"correct-option: On the help page"
+120040,410,515,"2024-02-01 18:57:23",click,next-page
+120041,410,516,"2024-02-01 18:57:24",page-load,video
+120042,410,517,"2024-02-01 18:59:51",page-load,"web form: question"
+120043,410,517,"2024-02-01 19:00:01",click,hint
+120044,410,517,"2024-02-01 19:00:04",click,"incorrect-option: 30 minutes"
+120045,410,517,"2024-02-01 19:00:07",click,"correct-option: 45 seconds"
+120046,410,517,"2024-02-01 19:00:10",click,next-page
+120047,410,518,"2024-02-01 19:00:10",page-load,video
+120048,410,519,"2024-02-01 19:02:11",page-load,"web form: question"
+120049,410,519,"2024-02-01 19:02:15",click,"correct-option: False"
+120050,410,519,"2024-02-01 19:02:18",click,next-page
+120051,410,520,"2024-02-01 19:02:18",page-load,"web form: what would you like to do next"
+120052,410,520,"2024-02-01 19:02:20",click,next-page
+120053,410,521,"2024-02-01 19:02:21",page-load,video
+120054,410,522,"2024-02-01 19:05:42",page-load,"web form: question"
+120055,410,522,"2024-02-01 19:05:49",click,"incorrect-option: Unlimited"
+120056,410,522,"2024-02-01 19:05:57",click,"correct-option: 1"
+120057,410,522,"2024-02-01 19:06:06",click,next-page
+120058,410,523,"2024-02-01 19:06:08",page-load,video
+120059,410,524,"2024-02-01 19:08:56",page-load,"web form: what would you like to do next"
+120060,410,524,"2024-02-01 19:08:59",click,next-page
+120061,410,525,"2024-02-01 19:08:59",page-load,"skills quiz preview"
+120062,410,525,"2024-02-01 19:09:21",click,next-page
+120063,410,0,"2024-02-01 19:09:26","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+120064,410,0,"2024-02-01 19:09:36","Skills Quiz-27 Step-1 Incorrect",Edit
+120065,410,0,"2024-02-01 19:09:36","Skills Quiz-27 Step-2 Correct",Edit
+120066,410,0,"2024-02-01 19:09:58","Skills Quiz-27 Step-3 Incorrect",undefined
+120067,410,526,"2024-02-01 19:10:01",click,"skills quiz hint"
+120068,410,0,"2024-02-01 19:10:06","Skills Quiz-27 Step-3 Correct",YES
+120069,410,0,"2024-02-01 19:10:22","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+120070,410,0,"2024-02-01 19:10:25","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+120071,410,0,"2024-02-01 19:10:30","Skills Quiz-27 Step-5 Incorrect",Happiness
+120072,410,0,"2024-02-01 19:10:37","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+120073,410,0,"2024-02-01 19:10:43","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+120074,410,0,"2024-02-01 19:10:45","Skills Quiz-27 Step-5 Correct",Optimism
+120075,410,0,"2024-02-01 19:10:47","Skills Quiz-27 Step-6 Incorrect",Optimism
+120076,410,0,"2024-02-01 19:10:49","Skills Quiz-27 Step-6 Incorrect",Stress
+120077,410,0,"2024-02-01 19:10:49","Skills Quiz-27 Step-7 Incorrect",Stress
+120078,410,0,"2024-02-01 19:10:52","Skills Quiz-27 Step-7 Incorrect","                  Select               "
+120079,410,0,"2024-02-01 19:10:52","Skills Quiz-27 Step-6 Correct","                  Select               "
+120080,410,526,"2024-02-01 19:11:28",click,"skills quiz hint"
+120081,410,526,"2024-02-01 19:11:30",click,"skills quiz hint"
+120082,410,0,"2024-02-01 19:12:12","Skills Quiz-27 Step-7 Incorrect",undefined
+120083,410,0,"2024-02-01 19:12:14","Skills Quiz-27 Step-7 Incorrect",undefined
+120084,410,0,"2024-02-01 19:12:17","Skills Quiz-27 Step-7 Incorrect",Description
+120085,410,526,"2024-02-01 19:12:25",click,"skills quiz hint"
+120086,410,526,"2024-02-01 19:12:54",click,"skills quiz hint"
+120087,410,0,"2024-02-01 19:13:14","Skills Quiz 30 second Hint",30time
+120088,410,526,"2024-02-01 19:17:29",click,"skills quiz hint"
+120089,410,0,"2024-02-01 19:17:34","Skills Quiz-27 Step-3 Correct",YES
+120090,410,0,"2024-02-01 19:17:39","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+120091,410,0,"2024-02-01 19:17:45","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+120092,410,0,"2024-02-01 19:17:49","Skills Quiz-27 Step-5 Incorrect",Happiness
+120093,410,0,"2024-02-01 19:17:54","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+120094,410,0,"2024-02-01 19:17:56","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+120095,410,0,"2024-02-01 19:18:00","Skills Quiz-27 Step-5 Correct",Optimism
+120096,410,0,"2024-02-01 19:18:02","Skills Quiz-27 Step-6 Incorrect",Optimism
+120097,410,0,"2024-02-01 19:18:03","Skills Quiz-27 Step-6 Incorrect",Optimism
+120098,410,0,"2024-02-01 19:18:03","Skills Quiz-27 Step-7 Incorrect",Optimism
+120099,410,0,"2024-02-01 19:18:04","Skills Quiz-27 Step-6 Incorrect",Optimism
+120100,410,0,"2024-02-01 19:18:04","Skills Quiz-27 Step-7 Incorrect",Optimism
+120101,410,0,"2024-02-01 19:18:06","Skills Quiz-27 Step-6 Correct","                  Select               "
+120102,410,0,"2024-02-01 19:18:06","Skills Quiz-27 Step-7 Incorrect","                  Select               "
+120103,410,526,"2024-02-01 19:18:10",click,"skills quiz hint"
+120104,410,0,"2024-02-01 19:18:16","Skills Quiz-27 Step-7 Correct",Save
+120105,410,0,"2024-02-01 19:18:25","Skills Quiz-27 Step-9 Incorrect",Edit
+120106,410,0,"2024-02-01 19:18:25","Skills Quiz-27 Step-8 Incorrect",Edit
+120107,410,526,"2024-02-01 19:18:34",click,"skills quiz hint"
+120108,410,0,"2024-02-01 19:18:40","Skills Quiz-27 Step-3 Incorrect",Save
+120109,410,0,"2024-02-01 19:18:41","Skills Quiz-27 Step-3 Incorrect",YES
+120110,410,0,"2024-02-01 19:18:43","Skills Quiz-27 Step-3 Incorrect",Save
+120111,410,0,"2024-02-01 19:18:46","Skills Quiz-27 Step-3 Correct",YES
+120112,410,0,"2024-02-01 19:18:57","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+120113,410,0,"2024-02-01 19:19:00","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+120114,410,0,"2024-02-01 19:19:09","Skills Quiz-27 Step-5 Incorrect",Happiness
+120115,410,0,"2024-02-01 19:19:12","Skills Quiz-27 Step-5 Incorrect",Happiness
+120116,410,0,"2024-02-01 19:19:18","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+120117,410,0,"2024-02-01 19:19:22","Skills Quiz-27 Step-5 Correct",Optimism
+120118,410,0,"2024-02-01 19:19:25","Skills Quiz-27 Step-6 Correct","                  Select               "
+120119,410,0,"2024-02-01 19:19:34","Skills Quiz-27 Step-7 Correct",Save
+120120,410,0,"2024-02-01 19:20:53","Skills Quiz-27 Step-3 Incorrect",undefined
+120121,410,0,"2024-02-01 19:21:11","Skills Quiz-27 Step-3 Correct",YES
+120122,410,0,"2024-02-01 19:21:17","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+120123,410,0,"2024-02-01 19:21:26","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+120124,410,0,"2024-02-01 19:21:37","Skills Quiz-27 Step-5 Incorrect",Happiness
+120125,410,0,"2024-02-01 19:21:42","Skills Quiz-27 Step-5 Correct",Optimism
+120126,410,0,"2024-02-01 19:21:46","Skills Quiz-27 Step-6 Incorrect",Optimism
+120127,410,0,"2024-02-01 19:21:49","Skills Quiz-27 Step-6 Incorrect",Optimism
+120128,410,0,"2024-02-01 19:21:49","Skills Quiz-27 Step-7 Incorrect",Optimism
+120129,410,0,"2024-02-01 19:21:50","Skills Quiz-27 Step-7 Incorrect",Optimism
+120130,410,0,"2024-02-01 19:21:50","Skills Quiz-27 Step-6 Incorrect",Optimism
+120131,410,0,"2024-02-01 19:21:53","Skills Quiz-27 Step-6 Incorrect",Optimism
+120132,410,0,"2024-02-01 19:21:53","Skills Quiz-27 Step-7 Incorrect",Optimism
+120133,410,0,"2024-02-01 19:21:55","Skills Quiz-27 Step-7 Incorrect",Happiness
+120134,410,0,"2024-02-01 19:21:55","Skills Quiz-27 Step-6 Incorrect",Happiness
+120135,410,0,"2024-02-01 19:22:00","Skills Quiz-27 Step-6 Incorrect",Happiness
+120136,410,0,"2024-02-01 19:22:00","Skills Quiz-27 Step-7 Incorrect",Happiness
+120137,410,0,"2024-02-01 19:22:01","Skills Quiz-27 Step-7 Incorrect",Optimism
+120138,410,0,"2024-02-01 19:22:01","Skills Quiz-27 Step-6 Incorrect",Optimism
+120139,410,0,"2024-02-01 19:22:02","Skills Quiz-27 Step-6 Incorrect",Optimism
+120140,410,0,"2024-02-01 19:22:02","Skills Quiz-27 Step-7 Incorrect",Optimism
+120141,410,0,"2024-02-01 19:22:28","Skills Quiz-27 Step-1 Incorrect",Edit
+120142,410,0,"2024-02-01 19:22:28","Skills Quiz-27 Step-2 Correct",Edit
+120143,410,526,"2024-02-01 19:22:35",click,"skills quiz hint"
+120144,410,0,"2024-02-01 19:22:43","Skills Quiz-27 Step-3 Incorrect",Save
+120145,410,0,"2024-02-01 19:22:45","Skills Quiz-27 Step-3 Incorrect",Save
+120146,410,0,"2024-02-01 19:22:46","Skills Quiz-27 Step-3 Incorrect",Save
+120147,410,0,"2024-02-01 19:22:49","Skills Quiz-27 Step-3 Incorrect",Save
+120148,410,0,"2024-02-01 19:22:54","Skills Quiz-27 Step-3 Correct",YES
+120149,410,526,"2024-02-01 19:23:03",click,"skills quiz hint"
+120150,410,0,"2024-02-01 19:23:06","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+120151,410,0,"2024-02-01 19:23:18","Skills Quiz-27 Step-5 Incorrect",Happiness
+120152,410,0,"2024-02-01 19:23:21","Skills Quiz-27 Step-5 Correct",Optimism
+120153,410,0,"2024-02-01 19:23:24","Skills Quiz-27 Step-6 Correct","                  Select               "
+120154,410,526,"2024-02-01 19:23:28",click,"skills quiz hint"
+120155,410,0,"2024-02-01 19:23:32","Skills Quiz-27 Step-7 Correct",Save
+120156,410,0,"2024-02-01 19:23:42","Skills Quiz-27 Step-8 Incorrect",Edit
+120157,410,0,"2024-02-01 19:23:42","Skills Quiz-27 Step-9 Incorrect",Edit
+120158,410,0,"2024-02-01 19:23:48","Skills Quiz-27 Step-3 Correct",YES
+120159,410,0,"2024-02-01 19:23:52","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+120160,410,0,"2024-02-01 19:23:53","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+120161,410,526,"2024-02-01 19:24:05",click,"skills quiz hint"
+120162,410,0,"2024-02-01 19:24:10","Skills Quiz-27 Step-5 Correct",Optimism
+120163,410,0,"2024-02-01 19:24:12","Skills Quiz-27 Step-6 Correct","                  Select               "
+120164,410,526,"2024-02-01 19:24:16",click,"skills quiz hint"
+120165,410,0,"2024-02-01 19:24:21","Skills Quiz-27 Step-7 Correct",Save
+120166,410,526,"2024-02-01 19:24:26",click,"skills quiz hint"
+120167,410,526,"2024-02-01 19:24:27",click,"skills quiz hint"
+120168,410,526,"2024-02-01 19:24:28",click,"skills quiz hint"
+120169,410,526,"2024-02-01 19:24:29",click,"skills quiz hint"
+120170,410,526,"2024-02-01 19:24:40",click,"skills quiz hint"
+120171,410,526,"2024-02-01 19:25:27",click,"skills quiz hint"
+120172,410,526,"2024-02-01 19:25:28",click,"skills quiz hint"
+120173,410,526,"2024-02-01 19:25:30",click,"skills quiz hint"
+120174,410,526,"2024-02-01 19:28:54",click,"skills quiz hint"
+120175,410,526,"2024-02-01 19:28:55",click,"skills quiz hint"
+120176,410,526,"2024-02-01 19:29:04",click,"skills quiz hint"
+120177,410,526,"2024-02-01 19:29:04",click,"skills quiz hint"
+120178,410,526,"2024-02-01 19:32:15",click,"skills quiz hint"
+120179,410,526,"2024-02-01 19:32:16",click,"skills quiz hint"
+120180,410,526,"2024-02-01 19:32:31",click,"skills quiz hint"
+120181,410,526,"2024-02-01 19:32:32",click,"skills quiz hint"
+120182,410,526,"2024-02-01 19:32:32",click,"skills quiz hint"
+120183,410,500,"2024-02-01 19:55:33",page-load,video
+120184,410,501,"2024-02-01 19:55:43",page-load,"web form: scheduling choices"
+120185,410,501,"2024-02-01 19:55:46",click,next-page
+120186,410,501,"2024-02-01 19:55:54",tracked,"reduce stress"
+120187,410,501,"2024-02-01 19:55:55",tracked,"improve memory"
+120188,410,501,"2024-02-01 19:55:58",tracked,"make me a better friend"
+120189,410,501,"2024-02-01 19:56:01",tracked,"It has always been important to me to be healthy"
+120190,410,501,"2024-02-01 19:56:02",click,next-page
+120191,410,501,"2024-02-01 19:56:03",click,next-page
+120192,410,502,"2024-02-01 19:56:05",page-load,video
+120193,410,526,"2024-02-01 19:56:41",click,"skills quiz hint"
+120194,410,503,"2024-02-01 19:57:10",page-load,"web form: scheduling choices"
+120195,410,503,"2024-02-01 19:57:16",tracked,"Going to a museum"
+120196,410,503,"2024-02-01 19:57:20",tracked,"Watching a TED talk"
+120197,410,503,"2024-02-01 19:57:21",tracked,"Reading a book"
+120198,410,503,"2024-02-01 19:57:22",tracked,"Socialize with family and friends"
+120199,410,503,"2024-02-01 19:57:23",click,next-page
+120200,410,504,"2024-02-01 19:57:24",page-load,video
+120201,410,505,"2024-02-01 19:57:53",page-load,"web form: what would you like to do next"
+120202,410,505,"2024-02-01 19:57:54",click,next-page
+120203,410,506,"2024-02-01 19:57:55",page-load,"skills quiz preview"
+120204,410,506,"2024-02-01 19:57:58",click,next-page
+120205,410,0,"2024-02-01 19:58:03","Skills Quiz-25 Step-1 Correct",TODAY
+120206,410,0,"2024-02-01 19:58:11","Skills Quiz-25 Step-2 Incorrect",undefined
+120207,410,0,"2024-02-01 19:58:14","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+120208,410,0,"2024-02-01 19:58:14","Skills Quiz-25 Step-3 Correct","Tap Here"
+120209,410,0,"2024-02-01 19:58:15","Skills Quiz-25 Step-4 Correct",3
+120210,410,0,"2024-02-01 19:58:15","Skills Quiz-25 Step-2 Incorrect",3
+120211,410,0,"2024-02-01 19:58:16","Skills Quiz-25 Step-2 Incorrect",0
+120212,410,0,"2024-02-01 19:58:16","Skills Quiz-25 Step-5 Correct",0
+120213,410,0,"2024-02-01 19:58:18","Skills Quiz-25 Step-6 Correct","                              Save            "
+120214,410,0,"2024-02-01 19:58:18","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+120215,410,507,"2024-02-01 19:58:22",click,"skills quiz hint"
+120216,410,0,"2024-02-01 19:58:25","Skills Quiz-25 Step-2 Incorrect",Save
+120217,410,0,"2024-02-01 19:58:25","Skills Quiz-25 Step-7 Correct",Save
+120218,410,0,"2024-02-01 19:58:37","Skills Quiz-25 Step-2 Incorrect",undefined
+120219,410,0,"2024-02-01 19:58:37","Skills Quiz-25 Step-8 Incorrect",undefined
+120220,410,0,"2024-02-01 19:58:39","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+120221,410,0,"2024-02-01 19:58:39","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+120222,410,0,"2024-02-01 19:58:39","Skills Quiz-25 Step-9 Correct","Tap Here"
+120223,410,0,"2024-02-01 19:58:55","Skills Quiz-25 Step-2 Incorrect",undefined
+120224,410,0,"2024-02-01 19:58:55","Skills Quiz-25 Step-8 Incorrect",undefined
+120225,410,0,"2024-02-01 19:58:55","Skills Quiz-25 Step-10 Incorrect",undefined
+120226,410,507,"2024-02-01 19:58:56",click,"skills quiz hint"
+120227,410,0,"2024-02-01 19:58:59","Skills Quiz-25 Step-8 Incorrect",1
+120228,410,0,"2024-02-01 19:58:59","Skills Quiz-25 Step-10 Correct",1
+120229,410,0,"2024-02-01 19:58:59","Skills Quiz-25 Step-2 Incorrect",1
+120230,410,0,"2024-02-01 19:59:01","Skills Quiz-25 Step-11 Correct","                              Save            "
+120231,410,0,"2024-02-01 19:59:01","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+120232,410,0,"2024-02-01 19:59:01","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+120233,410,507,"2024-02-01 19:59:07",click,"skills quiz hint"
+120234,410,0,"2024-02-01 19:59:11","Skills Quiz-25 Step-8 Incorrect",Save
+120235,410,0,"2024-02-01 19:59:11","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2024-02-01 19:59:12",module_end,none

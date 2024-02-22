@@ -1,0 +1,75 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+111750,409,434,"2024-01-02 03:39:22",page-load,video
+111751,409,435,"2024-01-02 03:39:27",page-load,"goal setting: preview"
+111752,409,436,"2024-01-02 03:40:43",page-load,"goal setting: example plan"
+111753,409,437,"2024-01-02 03:41:22",page-load,"goal setting: pick one strategy"
+111754,409,437,"2024-01-02 03:41:37",click,next-page
+111755,409,438,"2024-01-02 03:41:37",page-load,"goal setting: top strategy display"
+111756,409,438,"2024-01-02 03:41:44",click,next-page
+111757,409,439,"2024-01-02 03:41:44",page-load,"goal setting: when"
+111758,409,440,"2024-01-02 03:42:29",page-load,"goal setting: where"
+111759,409,440,"2024-01-02 03:42:59",click,next-page
+111760,409,441,"2024-01-02 03:42:59",page-load,"goal setting: with whom"
+111761,409,441,"2024-01-02 03:43:10",click,next-page
+111762,409,442,"2024-01-02 03:43:11",page-load,"goal setting: how"
+111763,409,442,"2024-01-02 03:48:44",click,next-page
+111764,409,443,"2024-01-02 03:48:45",page-load,"goal setting: barriers and alternatives"
+111765,409,443,"2024-01-02 03:49:56",click,next-page
+111766,409,444,"2024-01-02 03:49:57",page-load,"goal setting: motivation"
+111767,409,444,"2024-01-02 03:50:02",click,next-page
+111768,409,445,"2024-01-02 03:50:05",page-load,"goal setting: confidence"
+111769,409,446,"2024-01-02 03:50:10",page-load,"goal setting: plan"
+111770,409,446,"2024-01-02 03:50:22",click,next-page
+111771,409,447,"2024-01-02 03:50:23",page-load,"end of lesson: 5"
+111772,409,500,"2024-01-02 03:50:30",page-load,video
+111773,409,501,"2024-01-02 04:07:52",page-load,"web form: scheduling choices"
+111774,409,501,"2024-01-02 04:08:07",tracked,"It has always been important to me to be healthy"
+111775,409,501,"2024-01-02 04:08:08",tracked,"improve memory"
+111776,409,501,"2024-01-02 04:08:10",tracked,"improve my quality of life"
+111777,409,501,"2024-01-02 04:08:12",tracked,"reduce stress"
+111778,409,501,"2024-01-02 04:08:18",click,next-page
+111779,409,502,"2024-01-02 04:08:18",page-load,video
+111780,409,503,"2024-01-02 04:14:37",page-load,"web form: scheduling choices"
+111781,409,503,"2024-01-02 04:15:01",tracked,"Reading a book"
+111782,409,503,"2024-01-02 04:15:02",tracked,"Socialize with family and friends"
+111783,409,503,"2024-01-02 04:15:04",tracked,"Watching a TED talk"
+111784,409,503,"2024-01-02 04:15:04",tracked,"Cooking a new recipe"
+111785,409,503,"2024-01-02 04:15:12",tracked,"Going to a museum"
+111786,409,503,"2024-01-02 04:15:13",tracked,"Going to a museum"
+111787,409,503,"2024-01-02 04:15:14",tracked,"Going to a museum"
+111788,409,503,"2024-01-02 04:15:15",tracked,"Going to a museum"
+111789,409,503,"2024-01-02 04:15:15",tracked,"Going to a museum"
+111790,409,503,"2024-01-02 04:15:16",click,next-page
+111791,409,504,"2024-01-02 04:15:17",page-load,video
+111792,409,505,"2024-01-02 04:19:07",page-load,"web form: what would you like to do next"
+111793,409,505,"2024-01-02 04:19:11",click,next-page
+111794,409,506,"2024-01-02 04:19:12",page-load,"skills quiz preview"
+111795,409,506,"2024-01-02 04:19:29",click,next-page
+111796,409,0,"2024-01-02 04:19:38","Skills Quiz-25 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+111797,409,0,"2024-01-02 04:19:46","Skills Quiz-25 Step-1 Correct",TODAY
+111798,409,0,"2024-01-02 04:20:00","Skills Quiz-25 Step-2 Incorrect",undefined
+111799,409,0,"2024-01-02 04:20:04","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+111800,409,0,"2024-01-02 04:20:04","Skills Quiz-25 Step-3 Correct","Tap Here"
+111801,409,0,"2024-01-02 04:20:05","Skills Quiz-25 Step-2 Incorrect",3
+111802,409,0,"2024-01-02 04:20:05","Skills Quiz-25 Step-4 Correct",3
+111803,409,0,"2024-01-02 04:20:06","Skills Quiz-25 Step-2 Incorrect",0
+111804,409,0,"2024-01-02 04:20:06","Skills Quiz-25 Step-5 Correct",0
+111805,409,0,"2024-01-02 04:20:09","Skills Quiz-25 Step-6 Correct","                              Save            "
+111806,409,0,"2024-01-02 04:20:09","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+111807,409,0,"2024-01-02 04:20:12","Skills Quiz-25 Step-2 Incorrect",Save
+111808,409,0,"2024-01-02 04:20:12","Skills Quiz-25 Step-7 Correct",Save
+111809,409,0,"2024-01-02 04:20:19","Skills Quiz-25 Step-8 Incorrect","Gratitude Journal"
+111810,409,0,"2024-01-02 04:20:19","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal"
+111811,409,0,"2024-01-02 04:20:24","Skills Quiz-25 Step-9 Correct","Tap Here"
+111812,409,0,"2024-01-02 04:20:24","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+111813,409,0,"2024-01-02 04:20:24","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+111814,409,0,"2024-01-02 04:20:25","Skills Quiz-25 Step-2 Incorrect",1
+111815,409,0,"2024-01-02 04:20:25","Skills Quiz-25 Step-8 Incorrect",1
+111816,409,0,"2024-01-02 04:20:25","Skills Quiz-25 Step-10 Correct",1
+111817,409,0,"2024-01-02 04:20:27","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+111818,409,0,"2024-01-02 04:20:27","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+111819,409,0,"2024-01-02 04:20:27","Skills Quiz-25 Step-11 Correct","                              Save            "
+111820,409,0,"2024-01-02 04:20:30","Skills Quiz-25 Step-12 Correct",Save
+111821,409,0,"2024-01-02 04:20:30","Skills Quiz-25 Step-2 Incorrect",Save
+111822,409,0,"2024-01-02 04:20:30","Skills Quiz-25 Step-8 Incorrect",Save
+0,0,0,"2024-01-02 04:20:30",module_end,none

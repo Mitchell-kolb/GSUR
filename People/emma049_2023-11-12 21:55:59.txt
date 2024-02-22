@@ -1,0 +1,65 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+99605,359,0,"2023-10-08 04:27:32","Skills Quiz-18 Step-1 Incorrect",note-search
+99606,359,0,"2023-10-08 04:27:37","Skills Quiz-18 Step-1 Incorrect","Add New Note"
+99607,359,242,"2023-10-08 04:27:43",click,"skills quiz hint"
+99608,359,0,"2023-10-08 04:27:58","Skills Quiz-18 Step-1 Incorrect",Edit
+99609,359,0,"2023-10-08 04:28:01","Skills Quiz-18 Step-1 Incorrect",Errands
+99610,359,0,"2023-10-08 04:28:04","Skills Quiz-18 Step-1 Incorrect",SAVE
+99611,359,0,"2023-10-08 04:28:09","Skills Quiz-18 Step-1 Incorrect",Close
+99612,359,0,"2023-10-08 04:28:11","Skills Quiz-18 Step-1 Incorrect",ErrandsEdit
+99613,359,0,"2023-10-08 04:28:14","Skills Quiz-18 Step-1 Correct",View
+99614,359,242,"2023-10-08 04:30:27",click,"skills quiz hint"
+99615,359,242,"2023-10-08 04:30:28",click,"skills quiz hint"
+99616,359,242,"2023-10-08 04:30:28",click,"skills quiz hint"
+99617,359,242,"2023-10-08 04:30:28",click,"skills quiz hint"
+99618,359,242,"2023-10-08 04:30:28",click,"skills quiz hint"
+99619,359,242,"2023-10-08 04:30:41",click,"skills quiz hint"
+99620,359,242,"2023-10-08 04:30:42",click,"skills quiz hint"
+99621,359,242,"2023-10-08 04:30:42",click,"skills quiz hint"
+99622,359,242,"2023-10-08 04:30:42",click,"skills quiz hint"
+99623,359,242,"2023-10-08 04:30:42",click,"skills quiz hint"
+99624,359,11,"2023-10-08 04:30:53",page-load,video
+99739,359,400,"2023-10-12 00:39:56",page-load,video
+99740,359,401,"2023-10-12 00:43:57",page-load,"web form: question"
+99741,359,401,"2023-10-12 00:44:06",click,"correct-option: False"
+99742,359,401,"2023-10-12 00:44:09",click,next-page
+99743,359,402,"2023-10-12 00:44:10",page-load,video
+99744,359,403,"2023-10-12 00:49:52",page-load,"web form: what would you like to do next"
+99745,359,403,"2023-10-12 00:49:57",click,next-page
+99746,359,404,"2023-10-12 00:49:58",page-load,"skills quiz preview"
+99747,359,0,"2023-10-12 00:50:48","Skills Quiz-19 Step-1 Incorrect",NOTES
+99748,359,0,"2023-10-12 00:50:52","Skills Quiz-19 Step-1 Incorrect",HEALTH
+99749,359,0,"2023-10-12 00:51:01","Skills Quiz-19 Step-2 Correct","Medical Information"
+99750,359,0,"2023-10-12 00:51:32","Skills Quiz 30 second Hint",30time
+99751,359,0,"2023-10-12 00:52:23","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+99752,359,0,"2023-10-12 00:52:25","Skills Quiz-19 Step-3 Incorrect",folder-title-1
+99753,359,0,"2023-10-12 00:52:26","Skills Quiz-19 Step-3 Incorrect",folder-title-1
+99754,359,0,"2023-10-12 00:52:29","Skills Quiz-19 Step-3 Correct","Add New Note"
+99755,359,0,"2023-10-12 00:52:40","Skills Quiz-19 Step-4 Correct",noteSpecialty
+99756,359,0,"2023-10-12 00:53:10","Skills Quiz 30 second Hint",30time
+99757,359,0,"2023-10-12 00:53:34","Skills Quiz-19 Step-6 Correct",noteName
+99758,359,0,"2023-10-12 00:53:52","Skills Quiz-19 Step-8 Incorrect","Close  SAVE"
+99759,359,0,"2023-10-12 00:54:13","Skills Quiz-19 Step-8 Correct",notePhone
+99760,359,0,"2023-10-12 00:54:28","Skills Quiz-19 Step-10 Correct",noteAddress
+99761,359,0,"2023-10-12 00:55:00","Skills Quiz-19 Step-12 Correct",noteDetails
+99762,359,0,"2023-10-12 00:55:30","Skills Quiz 30 second Hint",30time
+100830,359,0,"2023-11-12 21:49:01","Skills Quiz 30 second Hint",30time
+100831,359,405,"2023-11-12 21:49:08",click,"skills quiz hint"
+100832,359,0,"2023-11-12 21:49:11","Skills Quiz-19 Step-1 Incorrect",HEALTH
+100833,359,0,"2023-11-12 21:49:23","Skills Quiz-19 Step-2 Correct","Medical Information"
+100834,359,0,"2023-11-12 21:49:23","Skills Quiz-19 Step-3 Incorrect",note-list
+100835,359,0,"2023-11-12 21:49:30","Skills Quiz-19 Step-3 Incorrect",note-list
+100836,359,0,"2023-11-12 21:49:34","Skills Quiz-19 Step-3 Incorrect",note-list
+100837,359,0,"2023-11-12 21:49:34","Skills Quiz-19 Step-3 Correct","Add New Note"
+100838,359,0,"2023-11-12 21:49:42","Skills Quiz-19 Step-4 Correct",noteSpecialty
+100839,359,0,"2023-11-12 21:50:12","Skills Quiz 30 second Hint",30time
+100840,359,0,"2023-11-12 21:50:39","Skills Quiz-19 Step-6 Correct",noteName
+100841,359,0,"2023-11-12 21:50:50","Skills Quiz-19 Step-8 Correct",notePhone
+100842,359,0,"2023-11-12 21:51:12","Skills Quiz-19 Step-10 Correct",noteAddress
+100843,359,0,"2023-11-12 21:51:44","Skills Quiz-19 Step-12 Correct",noteDetails
+100844,359,0,"2023-11-12 21:52:14","Skills Quiz 30 second Hint",30time
+100845,359,0,"2023-11-12 21:55:08","Skills Quiz-19 Step-14 Incorrect","Close  SAVE"
+100846,359,0,"2023-11-12 21:55:54","Skills Quiz-19 Step-14 Correct"," SAVE"
+100847,359,0,"2023-11-12 21:55:54","Skills Quiz-19 Step-14 Incorrect","Close   SAVE"
+100848,359,0,"2023-11-12 21:55:59","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-11-12 21:55:59",module_end,none

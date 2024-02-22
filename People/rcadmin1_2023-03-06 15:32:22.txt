@@ -1,0 +1,49 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+27596,239,0,"2023-03-06 11:04:25","Skills Quiz 30 second Hint",30time
+27597,239,37,"2023-03-06 11:05:26",page-load,video
+27598,239,38,"2023-03-06 11:05:29",page-load,"goal setting: importance"
+27599,239,104,"2023-03-06 11:05:46",page-load,video
+27600,239,105,"2023-03-06 11:05:50",page-load,"web form: question"
+27601,239,105,"2023-03-06 11:05:51",click,"incorrect-option: Trips"
+27602,239,105,"2023-03-06 11:05:52",click,next-page
+27603,239,106,"2023-03-06 11:05:53",page-load,video
+27604,239,107,"2023-03-06 11:05:56",page-load,"web form: question"
+27605,239,107,"2023-03-06 11:05:58",click,"incorrect-option: Chores"
+27606,239,107,"2023-03-06 11:05:59",click,next-page
+27607,239,108,"2023-03-06 11:05:59",page-load,"web form: what would you like to do next"
+27608,239,108,"2023-03-06 11:06:01",click,next-page
+27609,239,109,"2023-03-06 11:06:01",page-load,video
+27610,239,110,"2023-03-06 11:06:03",page-load,"web form: question"
+27611,239,110,"2023-03-06 11:06:06",click,next-page
+27612,239,111,"2023-03-06 11:06:06",page-load,"web form: what would you like to do next"
+27613,239,111,"2023-03-06 11:06:09",click,next-page
+27614,239,112,"2023-03-06 11:06:09",page-load,video
+27615,239,113,"2023-03-06 11:06:12",page-load,"web form: question"
+27616,239,113,"2023-03-06 11:06:13",click,"correct-option: D. Both A and C"
+27617,239,113,"2023-03-06 11:06:14",click,next-page
+27618,239,114,"2023-03-06 11:06:14",page-load,video
+27619,239,115,"2023-03-06 11:06:17",page-load,"web form: question"
+27620,239,115,"2023-03-06 11:06:18",click,"incorrect-option: 15 minutes before"
+27621,239,115,"2023-03-06 11:06:19",click,next-page
+27622,239,116,"2023-03-06 11:06:19",page-load,"web form: what would you like to do next"
+27623,239,116,"2023-03-06 11:07:21",click,next-page
+27624,239,124,"2023-03-06 11:07:58",page-load,"web form: what would you like to do next"
+27625,239,124,"2023-03-06 11:08:56",click,next-page
+27626,239,0,"2023-03-06 11:09:27","Skills Quiz 30 second Hint",30time
+27627,239,129,"2023-03-06 11:09:54",page-load,video
+27628,239,130,"2023-03-06 11:09:57",page-load,"web form: question"
+27629,239,130,"2023-03-06 11:09:58",click,"incorrect-option: In both the Time Schedule and the To Do list"
+27630,239,130,"2023-03-06 11:09:59",click,next-page
+27631,239,131,"2023-03-06 11:10:00",page-load,video
+27632,239,132,"2023-03-06 11:10:02",page-load,"web form: what would you like to do next"
+27633,239,132,"2023-03-06 11:10:04",click,next-page
+27634,239,133,"2023-03-06 11:10:05",page-load,video
+27635,239,134,"2023-03-06 11:10:07",page-load,"web form: question"
+27636,239,134,"2023-03-06 11:10:09",click,"correct-option: Check off the empty box next to ""walk Buster"""
+27637,239,134,"2023-03-06 11:10:10",click,next-page
+27638,239,135,"2023-03-06 11:10:10",page-load,video
+27639,239,136,"2023-03-06 11:10:12",page-load,"web form: what would you like to do next"
+27640,239,136,"2023-03-06 11:10:14",click,next-page
+27641,239,137,"2023-03-06 11:10:15",page-load,"skills quiz 10: preview"
+27642,239,10,"2023-03-06 15:32:12",page-load,video
+0,0,0,"2023-03-06 15:32:22",module_end,none

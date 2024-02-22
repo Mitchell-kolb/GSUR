@@ -1,0 +1,61 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+7628,1,0,"2023-01-24 10:24:32","Skills Quiz 30 second Hint",30time
+7629,1,244,"2023-01-24 10:24:32",page-load,video
+7630,1,0,"2023-01-24 10:24:35","Skills Quiz 30 second Hint",30time
+7631,1,0,"2023-01-24 10:24:36","Skills Quiz 30 second Hint",30time
+7632,1,0,"2023-01-24 10:24:52","Skills Quiz 30 second Hint",30time
+7633,1,0,"2023-01-24 10:24:56","Skills Quiz 30 second Hint",30time
+7634,1,405,"2023-01-24 10:26:14",click,"skills quiz hint"
+7635,1,0,"2023-01-24 10:26:18","Skills Quiz-19 Step-1 Incorrect",HEALTH
+7636,1,405,"2023-01-24 10:26:35",click,"skills quiz hint"
+7637,1,0,"2023-01-24 10:26:37","Skills Quiz-19 Step-2 Correct","Medical Information"
+7638,1,405,"2023-01-24 10:26:44",click,"skills quiz hint"
+7639,1,0,"2023-01-24 10:26:46","Skills Quiz-19 Step-3 Incorrect",undefined
+7640,1,0,"2023-01-24 10:26:56","Skills Quiz-19 Step-4 Correct",noteSpecialty
+7641,1,0,"2023-01-24 10:26:56","Skills Quiz-19 Step-3 Incorrect",noteSpecialty
+7642,1,0,"2023-01-24 10:26:59","Skills Quiz-19 Step-3 Incorrect",Next
+7643,1,0,"2023-01-24 10:27:03","Skills Quiz-19 Step-6 Correct",noteName
+7644,1,0,"2023-01-24 10:27:03","Skills Quiz-19 Step-3 Incorrect",noteName
+7645,1,0,"2023-01-24 10:27:08","Skills Quiz 30 second Hint",30time
+7646,1,0,"2023-01-24 10:27:08","Skills Quiz-19 Step-3 Incorrect",Next
+7647,1,0,"2023-01-24 10:27:10","Skills Quiz-19 Step-3 Incorrect",notePhone
+7648,1,0,"2023-01-24 10:27:10","Skills Quiz-19 Step-8 Correct",notePhone
+7649,1,0,"2023-01-24 10:27:23","Skills Quiz-19 Step-3 Incorrect",Next
+7650,1,0,"2023-01-24 10:27:27","Skills Quiz-19 Step-3 Incorrect",noteAddress
+7651,1,0,"2023-01-24 10:27:27","Skills Quiz-19 Step-10 Correct",noteAddress
+7652,1,0,"2023-01-24 10:27:33","Skills Quiz-19 Step-3 Incorrect",Next
+7653,1,0,"2023-01-24 10:27:52","Skills Quiz-19 Step-12 Incorrect","Close "
+7654,1,0,"2023-01-24 10:27:52","Skills Quiz-19 Step-3 Incorrect","Close "
+7655,1,0,"2023-01-24 10:28:01","Skills Quiz-19 Step-1 Incorrect",HEALTH
+7656,1,0,"2023-01-24 10:28:03","Skills Quiz-19 Step-2 Correct","Medical Information"
+7657,1,0,"2023-01-24 10:28:07","Skills Quiz-19 Step-3 Incorrect",undefined
+7658,1,0,"2023-01-24 10:28:27","Skills Quiz-20 Step-1 Incorrect",HEALTH
+7659,1,0,"2023-01-24 10:28:29","Skills Quiz-20 Step-2 Correct","Medical Information"
+7660,1,0,"2023-01-24 10:28:32","Skills Quiz-20 Step-3 Incorrect",undefined
+7661,1,0,"2023-01-24 10:29:00","Skills Quiz 30 second Hint",30time
+7662,1,0,"2023-01-24 10:29:07","Skills Quiz-20 Step-1 Incorrect",HEALTH
+7663,1,0,"2023-01-24 10:29:15","Skills Quiz-20 Step-2 Correct","Medical Information"
+7664,1,0,"2023-01-24 10:29:19","Skills Quiz-20 Step-3 Incorrect",undefined
+7665,1,0,"2023-01-24 10:29:24","Skills Quiz-20 Step-4 Incorrect","Close  "
+7666,1,0,"2023-01-24 10:29:24","Skills Quiz-20 Step-3 Incorrect","Close  "
+7667,1,0,"2023-01-24 10:30:03","Skills Quiz 30 second Hint",30time
+7668,1,419,"2023-01-24 10:48:35",click,"skills quiz hint"
+7669,1,0,"2023-01-24 10:48:40","Skills Quiz 30 second Hint",30time
+7670,1,0,"2023-01-24 10:48:40","Skills Quiz-21 Step-1 Incorrect",HEALTH
+7671,1,419,"2023-01-24 10:48:44",click,"skills quiz hint"
+7672,1,0,"2023-01-24 10:48:46","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+7673,1,0,"2023-01-24 10:48:54","Skills Quiz-21 Step-3 Correct","Daily Medications"
+7674,1,419,"2023-01-24 10:48:59",click,"skills quiz hint"
+7675,1,0,"2023-01-24 10:49:04","Skills Quiz-21 Step-4 Correct",descriptionMorning
+7676,1,0,"2023-01-24 10:49:17","Skills Quiz 30 second Hint",30time
+7677,1,419,"2023-01-24 10:49:22",click,"skills quiz hint"
+7678,1,0,"2023-01-24 10:49:27","Skills Quiz-21 Step-6 Correct","8:00 AM"
+7679,1,0,"2023-01-24 10:49:29","Skills Quiz-21 Step-7 Correct",7
+7680,1,0,"2023-01-24 10:49:32","Skills Quiz-21 Step-8 Correct",00
+7681,1,0,"2023-01-24 10:49:34","Skills Quiz-21 Step-9 Correct",AM
+7682,1,0,"2023-01-24 10:49:36","Skills Quiz-21 Step-10 Correct",Save
+7683,1,419,"2023-01-24 10:49:40",click,"skills quiz hint"
+7684,1,0,"2023-01-24 10:49:43","Skills Quiz-21 Step-11 Incorrect",undefined
+7685,1,0,"2023-01-24 10:49:50","Skills Quiz-21 Step-11 Incorrect"," Save"
+7686,1,0,"2023-01-24 10:49:51","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-01-24 10:49:51",module_end,none

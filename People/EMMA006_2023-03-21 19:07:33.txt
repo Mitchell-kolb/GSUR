@@ -1,0 +1,36 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+30841,296,143,"2023-03-21 19:03:04",page-load,video
+30842,296,144,"2023-03-21 19:04:26",page-load,"goal setting: pick three strategies"
+30847,296,144,"2023-03-21 19:05:30",click,next-page
+30848,296,145,"2023-03-21 19:05:31",page-load,"goal setting: pick top strategy"
+30849,296,145,"2023-03-21 19:05:40",click,next-page
+30850,296,146,"2023-03-21 19:05:40",page-load,"goal setting: top strategy display"
+30851,296,146,"2023-03-21 19:05:43",click,next-page
+30852,296,147,"2023-03-21 19:05:44",page-load,"goal setting: example plan"
+30853,296,148,"2023-03-21 19:06:18",page-load,"goal setting: when"
+30854,296,148,"2023-03-21 19:06:23",click,previous-page
+30855,296,147,"2023-03-21 19:06:23",page-load,"goal setting: example plan"
+30856,296,147,"2023-03-21 19:06:25",click,previous-page
+30857,296,146,"2023-03-21 19:06:25",page-load,"goal setting: top strategy display"
+30858,296,146,"2023-03-21 19:06:26",click,previous-page
+30859,296,145,"2023-03-21 19:06:26",page-load,"goal setting: pick top strategy"
+30860,296,145,"2023-03-21 19:06:27",click,previous-page
+30861,296,144,"2023-03-21 19:06:27",page-load,"goal setting: pick three strategies"
+30862,296,144,"2023-03-21 19:06:28",click,previous-page
+30863,296,143,"2023-03-21 19:06:30",page-load,video
+30864,296,146,"2023-03-21 19:06:36",page-load,"goal setting: top strategy display"
+30865,296,147,"2023-03-21 19:06:38",page-load,"goal setting: example plan"
+30866,296,148,"2023-03-21 19:06:39",page-load,"goal setting: when"
+30867,296,147,"2023-03-21 19:06:41",page-load,"goal setting: example plan"
+30868,296,146,"2023-03-21 19:06:43",page-load,"goal setting: top strategy display"
+30869,296,145,"2023-03-21 19:06:46",page-load,"goal setting: pick top strategy"
+30870,296,144,"2023-03-21 19:06:47",page-load,"goal setting: pick three strategies"
+30871,296,143,"2023-03-21 19:06:49",page-load,video
+30872,296,0,"2023-03-21 19:07:01","Skills Quiz-9 Step-27 Incorrect","60 min"
+30873,296,0,"2023-03-21 19:07:03","Skills Quiz-9 Step-27 Incorrect",None
+30874,296,0,"2023-03-21 19:07:03","Skills Quiz-9 Step-27 Incorrect",None
+30875,296,0,"2023-03-21 19:07:05","Skills Quiz-9 Step-27 Correct",event-description
+30876,296,0,"2023-03-21 19:07:24","Skills Quiz-9 Step-29 Incorrect",Save
+30877,296,0,"2023-03-21 19:07:31","Skills Quiz-9 Step-29 Correct","60 min"
+30878,296,0,"2023-03-21 19:07:32","Skills Quiz-9 Step-30 Incorrect","60 min"
+0,0,0,"2023-03-21 19:07:33",module_end,none

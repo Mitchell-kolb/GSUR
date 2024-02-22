@@ -1,0 +1,48 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+63610,305,26,"2023-06-06 21:40:36",page-load,video
+63612,305,27,"2023-06-06 21:40:43",page-load,"web form: question"
+63614,305,27,"2023-06-06 21:40:45",click,"correct-option: True"
+63616,305,28,"2023-06-06 21:40:46",page-load,"web form: question"
+63617,305,28,"2023-06-06 21:40:47",click,"correct-option: True"
+63618,305,28,"2023-06-06 21:40:48",click,next-page
+63619,305,29,"2023-06-06 21:40:48",page-load,video
+63632,305,30,"2023-06-06 21:41:42",page-load,"web form: question"
+63634,305,30,"2023-06-06 21:41:46",click,"correct-option: All of the above"
+63635,305,31,"2023-06-06 21:41:47",page-load,video
+63649,305,32,"2023-06-06 21:45:46",page-load,"web form: what would you like to do next"
+63669,305,0,"2023-06-06 21:47:39","Skills Quiz 30 second Hint",30time
+76704,305,300,"2023-07-12 17:42:28",page-load,video
+76707,305,300,"2023-07-12 17:51:34",page-load,video
+77575,305,300,"2023-07-17 18:54:01",page-load,video
+78646,305,300,"2023-07-19 15:43:28",page-load,video
+78647,305,10,"2023-07-19 15:43:32",page-load,video
+78649,305,11,"2023-07-19 15:44:54",page-load,video
+78651,305,12,"2023-07-19 15:47:03",page-load,"web form: scheduling choices"
+78652,305,12,"2023-07-19 15:47:05",tracked,"Scheduling and keeping appointments"
+78653,305,12,"2023-07-19 15:47:06",tracked,"Managing medications"
+78654,305,12,"2023-07-19 15:47:07",tracked,"Managing finances"
+78655,305,12,"2023-07-19 15:47:07",click,next-page
+78657,305,13,"2023-07-19 15:47:09",page-load,video
+78669,305,14,"2023-07-19 15:48:50",page-load,"web form: what would you like to do next"
+78670,305,14,"2023-07-19 15:48:53",click,next-page
+78671,305,15,"2023-07-19 15:48:53",page-load,video
+78673,305,16,"2023-07-19 15:49:49",page-load,"web form: question"
+78674,305,16,"2023-07-19 15:49:53",click,"correct-option: Grey"
+78676,305,16,"2023-07-19 15:49:54",click,next-page
+78677,305,17,"2023-07-19 15:49:54",page-load,video
+78680,305,18,"2023-07-19 15:50:17",page-load,"web form: question"
+78681,305,18,"2023-07-19 15:50:20",click,"correct-option: 1:30 PM"
+78682,305,18,"2023-07-19 15:50:22",click,next-page
+78683,305,19,"2023-07-19 15:50:22",page-load,video
+78688,305,20,"2023-07-19 15:55:46",page-load,"web form: question"
+78689,305,20,"2023-07-19 15:55:50",click,"correct-option: Blue"
+78690,305,20,"2023-07-19 15:55:51",click,next-page
+78691,305,21,"2023-07-19 15:55:52",page-load,"web form: what would you like to do next"
+78711,305,0,"2023-07-19 15:58:54","Skills Quiz 30 second Hint",30time
+78728,305,0,"2023-07-19 16:01:15","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+78729,305,0,"2023-07-19 16:01:18","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+78730,305,0,"2023-07-19 16:01:20","Skills Quiz-1 Step-4 Correct",right-arrow
+78731,305,0,"2023-07-19 16:01:21","Skills Quiz-1 Step-5 Incorrect","JULY 2021"
+78732,305,0,"2023-07-19 16:01:22","Skills Quiz-1 Step-5 Correct",14
+78733,305,0,"2023-07-19 16:01:24","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-07-19 16:01:24",module_end,none

@@ -1,0 +1,34 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+78767,350,26,"2023-07-19 16:11:41",page-load,video
+78768,350,27,"2023-07-19 16:15:56",page-load,"web form: question"
+78769,350,27,"2023-07-19 16:16:04",click,"correct-option: True"
+78770,350,27,"2023-07-19 16:16:13",click,next-page
+78771,350,28,"2023-07-19 16:16:14",page-load,"web form: question"
+78772,350,28,"2023-07-19 16:16:20",click,"correct-option: True"
+78773,350,28,"2023-07-19 16:16:25",click,next-page
+78774,350,29,"2023-07-19 16:16:25",page-load,video
+78775,350,30,"2023-07-19 16:18:42",page-load,"web form: question"
+78776,350,30,"2023-07-19 16:18:53",click,"correct-option: All of the above"
+78777,350,30,"2023-07-19 16:18:57",click,next-page
+78778,350,31,"2023-07-19 16:18:59",page-load,video
+78779,350,32,"2023-07-19 16:23:04",page-load,"web form: what would you like to do next"
+78780,350,0,"2023-07-19 16:24:08","Skills Quiz-3 Step-1 Correct",TODAY
+78781,350,0,"2023-07-19 16:24:16","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+78782,350,0,"2023-07-19 16:24:38","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+78783,350,0,"2023-07-19 16:24:44","Skills Quiz-3 Step-4 Correct",right-arrow
+78784,350,0,"2023-07-19 16:24:47","Skills Quiz-3 Step-5 Correct",14
+78785,350,0,"2023-07-19 16:24:52","Skills Quiz-3 Step-6 Incorrect","Please choose a Date for the TaskJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+78786,350,0,"2023-07-19 16:24:52","Skills Quiz-3 Step-6 Correct",OK
+78787,350,0,"2023-07-19 16:25:03","Skills Quiz-3 Step-7 Correct","Tap Here"
+78788,350,0,"2023-07-19 16:25:37","Skills Quiz 30 second Hint",30time
+78789,350,0,"2023-07-19 16:25:54","Skills Quiz-3 Step-10 Correct","Tap Here"
+78790,350,33,"2023-07-19 16:26:18",click,"skills quiz hint"
+78791,350,0,"2023-07-19 16:26:31","Skills Quiz-3 Step-13 Correct",event-title
+78792,350,0,"2023-07-19 16:26:54","Skills Quiz-3 Step-15 Incorrect",undefined
+78793,350,0,"2023-07-19 16:26:58","Skills Quiz-3 Step-15 Incorrect",undefined
+78794,350,0,"2023-07-19 16:27:02","Skills Quiz-3 Step-15 Incorrect",undefined
+78795,350,0,"2023-07-19 16:27:08","Skills Quiz-3 Step-15 Correct",event-description
+78796,350,0,"2023-07-19 16:27:38","Skills Quiz 30 second Hint",30time
+78797,350,33,"2023-07-19 16:28:11",click,"skills quiz hint"
+78798,350,0,"2023-07-19 16:28:15","Skills Quiz-3 Step-17 Correct",Save
+0,0,0,"2023-07-19 16:28:15",module_end,none

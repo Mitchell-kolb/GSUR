@@ -1,0 +1,21 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+94852,360,0,"2023-09-04 18:08:31","Skills Quiz-8 Step-1 Correct",Edit
+94853,360,0,"2023-09-04 18:08:33","Skills Quiz-8 Step-2 Incorrect",undefined
+94854,360,0,"2023-09-04 18:08:43","Skills Quiz-8 Step-2 Incorrect",undefined
+94855,360,0,"2023-09-04 18:08:43","Skills Quiz-8 Step-2 Incorrect",undefined
+94856,360,0,"2023-09-04 18:08:44","Skills Quiz-8 Step-2 Incorrect",undefined
+94857,360,0,"2023-09-04 18:08:44","Skills Quiz-8 Step-2 Incorrect",undefined
+94858,360,0,"2023-09-04 18:08:48","Skills Quiz-8 Step-2 Correct",event-description
+94859,360,0,"2023-09-04 18:09:18","Skills Quiz 30 second Hint",30time
+94860,360,0,"2023-09-04 18:09:38","Skills Quiz-8 Step-4 Correct",Weekly
+94861,360,0,"2023-09-04 18:09:39","Skills Quiz-8 Step-5 Correct",Mon
+94862,360,0,"2023-09-04 18:09:43","Skills Quiz-8 Step-6 Correct",Wed
+94863,360,0,"2023-09-04 18:09:47","Skills Quiz-8 Step-7 Correct","Repeat Forever (tap to change)"
+94864,360,0,"2023-09-04 18:09:50","Skills Quiz-8 Step-8 Correct",end-right-arrow
+94865,360,0,"2023-09-04 18:09:54","Skills Quiz-8 Step-0 Correct",end-right-arrow
+94866,360,0,"2023-09-04 18:09:57","Skills Quiz-8 Step-9 Correct",31
+94867,360,0,"2023-09-04 18:09:59","Skills Quiz-8 Step-10 Correct",OK
+94868,360,0,"2023-09-04 18:10:03","Skills Quiz-8 Step-11 Correct",YES
+94869,360,0,"2023-09-04 18:10:04","Skills Quiz-8 Step-12 Correct",Save
+94870,360,0,"2023-09-04 18:10:08","Skills Quiz-8 Step-13 Correct",Save
+0,0,0,"2023-09-04 18:10:08",module_end,none

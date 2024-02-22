@@ -1,0 +1,42 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+101633,405,0,"2023-11-16 22:18:06","Skills Quiz-8 Step-1 Correct",Edit
+101634,405,127,"2023-11-16 22:18:19",click,"skills quiz hint"
+101635,405,0,"2023-11-16 22:18:33","Skills Quiz-8 Step-2 Correct",event-description
+101636,405,0,"2023-11-16 22:19:03","Skills Quiz 30 second Hint",30time
+101637,405,127,"2023-11-16 22:20:29",click,"skills quiz hint"
+101638,405,127,"2023-11-16 22:20:30",click,"skills quiz hint"
+101639,405,0,"2023-11-16 22:20:43","Skills Quiz-8 Step-4 Incorrect",undefined
+101640,405,0,"2023-11-16 22:20:51","Skills Quiz-8 Step-4 Incorrect",undefined
+101641,405,0,"2023-11-16 22:20:52","Skills Quiz-8 Step-4 Incorrect",undefined
+101642,405,0,"2023-11-16 22:20:56","Skills Quiz-8 Step-4 Incorrect",undefined
+101643,405,0,"2023-11-16 22:20:56","Skills Quiz-8 Step-4 Incorrect",undefined
+101644,405,0,"2023-11-16 22:20:57","Skills Quiz-8 Step-4 Incorrect",undefined
+101645,405,0,"2023-11-16 22:20:57","Skills Quiz-8 Step-4 Incorrect",undefined
+101646,405,0,"2023-11-16 22:20:57","Skills Quiz-8 Step-4 Incorrect",undefined
+101647,405,0,"2023-11-16 22:21:05","Skills Quiz-8 Step-4 Correct",Weekly
+101648,405,0,"2023-11-16 22:21:08","Skills Quiz-8 Step-5 Correct",Mon
+101649,405,0,"2023-11-16 22:21:10","Skills Quiz-8 Step-6 Correct",Wed
+101650,405,0,"2023-11-16 22:21:16","Skills Quiz-8 Step-7 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatRepeat Forever (tap to change)Hide Repeated Event from Calendar?NOYES CancelSave"
+101651,405,0,"2023-11-16 22:21:21","Skills Quiz-8 Step-7 Correct","Repeat Forever (tap to change)"
+101652,405,0,"2023-11-16 22:21:28","Skills Quiz-8 Step-8 Correct",end-right-arrow
+101653,405,0,"2023-11-16 22:21:29","Skills Quiz-8 Step-0 Correct",end-right-arrow
+101654,405,0,"2023-11-16 22:21:33","Skills Quiz-8 Step-9 Correct",31
+101655,405,0,"2023-11-16 22:21:35","Skills Quiz-8 Step-10 Correct",OK
+101656,405,0,"2023-11-16 22:21:38","Skills Quiz-8 Step-11 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatAugust 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+101657,405,0,"2023-11-16 22:21:46","Skills Quiz-8 Step-11 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatAugust 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+101658,405,0,"2023-11-16 22:21:47","Skills Quiz-8 Step-11 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatAugust 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+101659,405,0,"2023-11-16 22:21:48","Skills Quiz-8 Step-11 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatAugust 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+101660,405,0,"2023-11-16 22:21:54","Skills Quiz-8 Step-11 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatAugust 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+101661,405,0,"2023-11-16 22:21:54","Skills Quiz-8 Step-11 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatAugust 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+101662,405,0,"2023-11-16 22:21:55","Skills Quiz-8 Step-11 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatAugust 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+101663,405,0,"2023-11-16 22:22:03","Skills Quiz-8 Step-11 Correct",YES
+101664,405,0,"2023-11-16 22:22:05","Skills Quiz-8 Step-12 Correct",Save
+101665,405,0,"2023-11-16 22:22:09","Skills Quiz-8 Step-13 Incorrect",undefined
+101666,405,0,"2023-11-16 22:22:15","Skills Quiz-8 Step-13 Incorrect",undefined
+101667,405,0,"2023-11-16 22:22:16","Skills Quiz-8 Step-13 Incorrect",undefined
+101668,405,0,"2023-11-16 22:22:21","Skills Quiz-8 Step-13 Incorrect",undefined
+101669,405,0,"2023-11-16 22:22:21","Skills Quiz-8 Step-13 Incorrect",undefined
+101670,405,0,"2023-11-16 22:22:21","Skills Quiz-8 Step-13 Incorrect",undefined
+101671,405,0,"2023-11-16 22:22:21","Skills Quiz-8 Step-13 Incorrect",undefined
+101672,405,0,"2023-11-16 22:22:22","Skills Quiz-8 Step-13 Incorrect",undefined
+0,0,0,"2023-11-16 22:22:58",module_end,none

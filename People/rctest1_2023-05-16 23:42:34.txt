@@ -1,0 +1,9 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+53824,248,26,"2023-05-16 23:40:37",page-load,video
+53825,248,0,"2023-05-16 23:41:03","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+53826,248,0,"2023-05-16 23:41:36","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+53827,248,0,"2023-05-16 23:41:48","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+53828,248,0,"2023-05-16 23:42:18","Skills Quiz 30 second Hint",30time
+53829,248,0,"2023-05-16 23:42:30","Skills Quiz-1 Step-4 Correct",right-arrow
+53830,248,0,"2023-05-16 23:42:32","Skills Quiz-1 Step-5 Correct",14
+0,0,0,"2023-05-16 23:42:34",module_end,none

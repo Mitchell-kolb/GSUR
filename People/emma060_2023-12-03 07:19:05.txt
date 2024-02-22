@@ -1,0 +1,49 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+104300,407,121,"2023-12-03 07:02:54",page-load,video
+104301,407,122,"2023-12-03 07:07:19",page-load,"web form: question"
+104302,407,122,"2023-12-03 07:07:43",click,"incorrect-option: In your calendar"
+104303,407,122,"2023-12-03 07:08:04",click,"correct-option: Both the To-do List and Time Schedule"
+104304,407,122,"2023-12-03 07:08:04",click,"correct-option: Both the To-do List and Time Schedule"
+104305,407,122,"2023-12-03 07:08:10",click,next-page
+104306,407,123,"2023-12-03 07:08:11",page-load,video
+104307,407,124,"2023-12-03 07:10:04",page-load,"web form: what would you like to do next"
+104308,407,0,"2023-12-03 07:11:11","Skills Quiz-7 Step-1 Correct",Edit
+104309,407,0,"2023-12-03 07:11:41","Skills Quiz 30 second Hint",30time
+104310,407,0,"2023-12-03 07:12:04","Skills Quiz-7 Step-1 Incorrect",CALENDAR
+104311,407,124,"2023-12-03 07:12:18",click,next-page
+104312,407,0,"2023-12-03 07:12:23","Skills Quiz-7 Step-1 Incorrect",CALENDAR
+104313,407,0,"2023-12-03 07:12:34","Skills Quiz-7 Step-1 Correct",Edit
+104314,407,0,"2023-12-03 07:13:05","Skills Quiz 30 second Hint",30time
+104315,407,0,"2023-12-03 07:13:25","Skills Quiz-7 Step-2 Correct",event-description
+104316,407,0,"2023-12-03 07:14:11","Skills Quiz-7 Step-4 Incorrect",YES
+104317,407,0,"2023-12-03 07:14:16","Skills Quiz-7 Step-4 Incorrect",Save
+104318,407,0,"2023-12-03 07:14:19","Skills Quiz-7 Step-4 Incorrect",NO
+104319,407,0,"2023-12-03 07:14:23","Skills Quiz-7 Step-4 Incorrect",Save
+104320,407,0,"2023-12-03 07:14:33","Skills Quiz-7 Step-4 Incorrect","4:00 PM"
+104321,407,0,"2023-12-03 07:14:34","Skills Quiz-7 Step-4 Incorrect","4:00 PM"
+104322,407,0,"2023-12-03 07:14:35","Skills Quiz-7 Step-4 Incorrect","2:00 PM"
+104323,407,0,"2023-12-03 07:14:40","Skills Quiz-7 Step-4 Incorrect",Cancel
+104324,407,0,"2023-12-03 07:14:41","Skills Quiz-7 Step-4 Incorrect",Cancel
+104325,407,0,"2023-12-03 07:14:51","Skills Quiz-7 Step-1 Correct",Edit
+104326,407,0,"2023-12-03 07:15:18","Skills Quiz-7 Step-2 Incorrect",Weekly
+104327,407,0,"2023-12-03 07:15:24","Skills Quiz-7 Step-2 Incorrect",Description
+104328,407,0,"2023-12-03 07:15:25","Skills Quiz-7 Step-2 Correct",event-description
+104329,407,0,"2023-12-03 07:15:55","Skills Quiz 30 second Hint",30time
+104330,407,0,"2023-12-03 07:17:12","Skills Quiz-7 Step-4 Incorrect",undefined
+104331,407,0,"2023-12-03 07:17:17","Skills Quiz-7 Step-4 Correct",Weekly
+104332,407,0,"2023-12-03 07:17:26","Skills Quiz-7 Step-5 Incorrect","Repeat Forever (tap to change)"
+104333,407,0,"2023-12-03 07:17:29","Skills Quiz-7 Step-5 Incorrect","Repeat Forever (tap to change)"
+104334,407,0,"2023-12-03 07:17:30","Skills Quiz-7 Step-5 Correct",Tue
+104335,407,0,"2023-12-03 07:17:32","Skills Quiz-7 Step-6 Incorrect","Repeat Forever (tap to change)"
+104336,407,0,"2023-12-03 07:17:34","Skills Quiz-7 Step-6 Correct",Thu
+104337,407,0,"2023-12-03 07:17:36","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+104338,407,0,"2023-12-03 07:17:57","Skills Quiz-7 Step-8 Incorrect","Please choose a Date to Stop RepeatingJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+104339,407,0,"2023-12-03 07:17:59","Skills Quiz-7 Step-8 Correct",end-right-arrow
+104340,407,0,"2023-12-03 07:18:06","Skills Quiz-7 Step-9 Correct",31
+104341,407,0,"2023-12-03 07:18:13","Skills Quiz-7 Step-10 Correct",OK
+104342,407,0,"2023-12-03 07:18:39","Skills Quiz-7 Step-11 Correct",YES
+104343,407,0,"2023-12-03 07:18:44","Skills Quiz-7 Step-12 Correct",Save
+104344,407,0,"2023-12-03 07:18:56","Skills Quiz-7 Step-13 Incorrect","2:00 PM"
+104345,407,0,"2023-12-03 07:18:58","Skills Quiz-7 Step-13 Incorrect","4:00 PM"
+104346,407,0,"2023-12-03 07:19:04","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-12-03 07:19:05",module_end,none

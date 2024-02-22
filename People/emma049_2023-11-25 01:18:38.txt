@@ -1,0 +1,30 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+102055,359,109,"2023-11-25 01:07:04",page-load,video
+102056,359,110,"2023-11-25 01:11:41",page-load,"web form: question"
+102057,359,111,"2023-11-25 01:12:35",page-load,"web form: what would you like to do next"
+102058,359,111,"2023-11-25 01:12:38",click,next-page
+102059,359,112,"2023-11-25 01:12:39",page-load,video
+102060,359,113,"2023-11-25 01:13:31",page-load,"web form: question"
+102061,359,113,"2023-11-25 01:13:42",click,"incorrect-option: A. View"
+102062,359,113,"2023-11-25 01:13:52",click,"correct-option: D. Both A and C"
+102063,359,113,"2023-11-25 01:14:04",click,next-page
+102064,359,114,"2023-11-25 01:14:05",page-load,video
+102065,359,115,"2023-11-25 01:15:51",page-load,"web form: question"
+102066,359,115,"2023-11-25 01:16:06",click,"correct-option: 30 minutes before"
+102067,359,115,"2023-11-25 01:16:11",click,next-page
+102068,359,116,"2023-11-25 01:16:11",page-load,"web form: what would you like to do next"
+102069,359,116,"2023-11-25 01:16:33",click,take-a-break
+102070,359,116,"2023-11-25 01:16:38",click,take-a-break
+102071,359,116,"2023-11-25 01:16:51",click,take-a-break
+102072,359,116,"2023-11-25 01:17:05",click,next-page
+102073,359,0,"2023-11-25 01:17:21","Skills Quiz-5 Step-1 Incorrect","Add Entry/Event"
+102074,359,0,"2023-11-25 01:17:28","Skills Quiz-5 Step-1 Correct",CALENDAR
+102075,359,0,"2023-11-25 01:17:32","Skills Quiz-5 Step-2 Correct",right-arrow
+102076,359,0,"2023-11-25 01:17:35","Skills Quiz-5 Step-3 Correct",3
+102077,359,0,"2023-11-25 01:18:06","Skills Quiz 30 second Hint",30time
+102078,359,0,"2023-11-25 01:18:14","Skills Quiz-5 Step-4 Correct",Edit
+102079,359,0,"2023-11-25 01:18:23","Skills Quiz-5 Step-5 Correct",YES
+102080,359,0,"2023-11-25 01:18:28","Skills Quiz-5 Step-6 Correct","60 min"
+102081,359,0,"2023-11-25 01:18:34","Skills Quiz-5 Step-7 Incorrect",NO
+102082,359,0,"2023-11-25 01:18:38","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-11-25 01:18:38",module_end,none

@@ -1,0 +1,49 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+98967,360,512,"2023-10-02 19:52:09",page-load,video
+98968,360,513,"2023-10-02 19:53:41",page-load,"web form: question"
+98969,360,513,"2023-10-02 19:53:51",click,"correct-option: at the same time every time and limiting distractions."
+98970,360,513,"2023-10-02 19:53:58",click,next-page
+98971,360,514,"2023-10-02 19:53:58",page-load,video
+98972,360,515,"2023-10-02 19:55:51",page-load,"web form: question"
+98973,360,515,"2023-10-02 19:55:58",click,"correct-option: On the help page"
+98974,360,515,"2023-10-02 19:56:00",click,next-page
+98975,360,516,"2023-10-02 19:56:01",page-load,video
+98976,360,517,"2023-10-02 19:58:11",page-load,"web form: question"
+98977,360,517,"2023-10-02 19:58:15",click,"correct-option: 45 seconds"
+98978,360,517,"2023-10-02 19:58:17",click,next-page
+98979,360,518,"2023-10-02 19:58:18",page-load,video
+98980,360,519,"2023-10-02 19:59:58",page-load,"web form: question"
+98981,360,519,"2023-10-02 20:00:05",click,"correct-option: False"
+98982,360,520,"2023-10-02 20:00:06",page-load,"web form: what would you like to do next"
+98983,360,520,"2023-10-02 20:00:09",click,next-page
+98984,360,521,"2023-10-02 20:00:10",page-load,video
+98985,360,522,"2023-10-02 20:02:53",page-load,"web form: question"
+98986,360,522,"2023-10-02 20:02:56",click,"correct-option: 1"
+98987,360,522,"2023-10-02 20:02:59",click,next-page
+98988,360,523,"2023-10-02 20:03:00",page-load,video
+98989,360,524,"2023-10-02 20:05:10",page-load,"web form: what would you like to do next"
+98990,360,524,"2023-10-02 20:05:13",click,next-page
+98991,360,525,"2023-10-02 20:05:13",page-load,"skills quiz preview"
+98992,360,0,"2023-10-02 20:06:17","Skills Quiz-27 Step-1 Incorrect"," TODAY"
+98993,360,0,"2023-10-02 20:06:22","Skills Quiz-27 Step-1 Incorrect","Optimism Rating View"
+98994,360,0,"2023-10-02 20:06:47","Skills Quiz-27 Step-1 Incorrect",Edit
+98995,360,526,"2023-10-02 20:06:58",click,"skills quiz hint"
+98996,360,0,"2023-10-02 20:07:07","Skills Quiz-27 Step-3 Correct",YES
+98997,360,0,"2023-10-02 20:07:23","Skills Quiz-27 Step-4 Incorrect","Physical ExerciseCognitive ExerciseWell-being Exercise"
+98998,360,0,"2023-10-02 20:07:33","Skills Quiz-27 Step-4 Incorrect","Cognitive TestingHealth RatingEmotion Rating"
+98999,360,0,"2023-10-02 20:07:35","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+99000,360,0,"2023-10-02 20:07:40","Skills Quiz-27 Step-5 Incorrect",CancelSelect
+99001,360,0,"2023-10-02 20:07:41","Skills Quiz-27 Step-5 Correct",Optimism
+99002,360,0,"2023-10-02 20:07:48","Skills Quiz-27 Step-6 Correct","                  Select               "
+99003,360,526,"2023-10-02 20:07:54",click,"skills quiz hint"
+99004,360,0,"2023-10-02 20:07:57","Skills Quiz-27 Step-7 Correct",Save
+99005,360,0,"2023-10-02 20:08:01","Skills Quiz-27 Step-8 Incorrect",undefined
+99006,360,0,"2023-10-02 20:08:04","Skills Quiz-27 Step-8 Incorrect",4
+99007,360,0,"2023-10-02 20:08:04","Skills Quiz-27 Step-9 Correct",4
+99008,360,0,"2023-10-02 20:08:06","Skills Quiz-27 Step-8 Incorrect","CancelSave and View GraphSave"
+99009,360,0,"2023-10-02 20:08:06","Skills Quiz-27 Step-10 Incorrect","CancelSave and View GraphSave"
+99010,360,0,"2023-10-02 20:08:10","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+99011,360,0,"2023-10-02 20:08:10","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+99012,360,0,"2023-10-02 20:08:18","Skills Quiz-27 Step-11 Correct","View Progress"
+99013,360,0,"2023-10-02 20:08:28","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2023-10-02 20:08:29",module_end,none

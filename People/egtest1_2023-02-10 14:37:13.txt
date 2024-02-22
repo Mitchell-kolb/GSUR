@@ -1,0 +1,7 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+14639,256,0,"2023-02-10 14:35:22","Skills Quiz-8 Step-1 Incorrect","Add Entry/Event"
+14640,256,0,"2023-02-10 14:35:26","Skills Quiz-8 Step-1 Correct",Edit
+14641,256,0,"2023-02-10 14:35:28","Skills Quiz-8 Step-2 Correct",event-description
+14659,256,127,"2023-02-10 14:36:23",click,"skills quiz hint"
+14661,256,0,"2023-02-10 14:36:24","Skills Quiz 30 second Hint",30time
+0,0,0,"2023-02-10 14:37:13",module_end,none

@@ -1,0 +1,36 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+13126,252,121,"2023-02-07 15:45:39",page-load,video
+13127,252,122,"2023-02-07 15:46:12",page-load,"web form: question"
+13128,252,122,"2023-02-07 15:47:11",click,"incorrect-option: In your calendar"
+13129,252,122,"2023-02-07 15:47:12",click,"incorrect-option: In your notes"
+13130,252,122,"2023-02-07 15:47:12",click,"correct-option: Both the To-do List and Time Schedule"
+13131,252,122,"2023-02-07 15:47:13",click,next-page
+13132,252,123,"2023-02-07 15:47:14",page-load,video
+13133,252,124,"2023-02-07 15:48:15",page-load,"web form: what would you like to do next"
+13134,252,124,"2023-02-07 15:48:17",click,next-page
+13135,252,0,"2023-02-07 15:48:30","Skills Quiz-7 Step-1 Correct",Edit
+13136,252,0,"2023-02-07 15:48:31","Skills Quiz-7 Step-2 Correct",event-description
+13137,252,0,"2023-02-07 15:48:42","Skills Quiz-7 Step-4 Incorrect",Next
+13138,252,0,"2023-02-07 15:48:43","Skills Quiz-7 Step-4 Correct",Weekly
+13139,252,0,"2023-02-07 15:48:43","Skills Quiz-7 Step-5 Incorrect",Weekly
+13140,252,0,"2023-02-07 15:48:46","Skills Quiz-7 Step-6 Incorrect",Weekly
+13141,252,0,"2023-02-07 15:48:46","Skills Quiz-7 Step-5 Incorrect",Weekly
+13142,252,0,"2023-02-07 15:48:47","Skills Quiz-7 Step-6 Incorrect",Weekly
+13143,252,0,"2023-02-07 15:48:47","Skills Quiz-7 Step-5 Incorrect",Weekly
+13144,252,0,"2023-02-07 15:48:47","Skills Quiz-7 Step-7 Incorrect",Weekly
+13145,252,0,"2023-02-07 15:48:57","Skills Quiz-7 Step-7 Incorrect",Weekly
+13146,252,0,"2023-02-07 15:48:57","Skills Quiz-7 Step-8 Incorrect",Weekly
+13147,252,0,"2023-02-07 15:48:57","Skills Quiz-7 Step-5 Incorrect",Weekly
+13148,252,0,"2023-02-07 15:48:57","Skills Quiz-7 Step-6 Incorrect",Weekly
+13149,252,0,"2023-02-07 15:49:00","Skills Quiz-7 Step-8 Incorrect",Next
+13150,252,0,"2023-02-07 15:49:00","Skills Quiz-7 Step-9 Incorrect",Next
+13151,252,0,"2023-02-07 15:49:00","Skills Quiz-7 Step-7 Incorrect",Next
+13152,252,0,"2023-02-07 15:49:00","Skills Quiz-7 Step-5 Incorrect",Next
+13153,252,0,"2023-02-07 15:49:00","Skills Quiz-7 Step-6 Incorrect",Next
+13154,252,0,"2023-02-07 15:49:04","Skills Quiz-7 Step-9 Incorrect",Next
+13155,252,0,"2023-02-07 15:49:04","Skills Quiz-7 Step-5 Incorrect",Next
+13156,252,0,"2023-02-07 15:49:04","Skills Quiz-7 Step-8 Incorrect",Next
+13157,252,0,"2023-02-07 15:49:05","Skills Quiz-7 Step-10 Incorrect",Next
+13158,252,0,"2023-02-07 15:49:05","Skills Quiz-7 Step-7 Incorrect",Next
+13159,252,0,"2023-02-07 15:49:05","Skills Quiz-7 Step-6 Incorrect",Next
+0,0,0,"2023-02-07 15:49:30",module_end,none

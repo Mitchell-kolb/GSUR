@@ -1,0 +1,15 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+104683,407,0,"2023-12-04 03:57:37","Skills Quiz-6 Step-1 Correct",CALENDAR
+104684,407,0,"2023-12-04 03:57:45","Skills Quiz-6 Step-2 Correct",right-arrow
+104685,407,0,"2023-12-04 03:57:49","Skills Quiz-6 Step-2 Incorrect","JULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031"
+104686,407,0,"2023-12-04 03:57:50","Skills Quiz-6 Step-2 Correct",right-arrow
+104687,407,0,"2023-12-04 03:58:20","Skills Quiz 30 second Hint",30time
+104688,407,0,"2023-12-04 03:58:23","Skills Quiz-6 Step-3 Correct",3
+104689,407,0,"2023-12-04 03:58:51","Skills Quiz-6 Step-4 Incorrect","Entry/Event DetailsDate:Title:Breakfast with JohnDescription:CancelDeleteEdit"
+104690,407,0,"2023-12-04 03:58:54","Skills Quiz-6 Step-4 Correct",Edit
+104691,407,0,"2023-12-04 03:59:04","Skills Quiz-6 Step-5 Correct",YES
+104692,407,0,"2023-12-04 03:59:17","Skills Quiz-6 Step-6 Correct","60 min"
+104693,407,0,"2023-12-04 03:59:20","Skills Quiz-6 Step-7 Incorrect","NoneStart Time10 min15 min30 min60 min"
+104694,407,0,"2023-12-04 03:59:20","Skills Quiz-6 Step-7 Incorrect","NoneStart Time10 min15 min30 min60 min"
+104695,407,0,"2023-12-04 03:59:24","Skills Quiz-6 Step-7 Correct",Save
+0,0,0,"2023-12-04 03:59:25",module_end,none

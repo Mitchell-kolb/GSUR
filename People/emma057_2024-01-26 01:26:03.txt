@@ -1,0 +1,57 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+118494,406,512,"2024-01-26 01:03:55",page-load,video
+118495,406,513,"2024-01-26 01:05:45",page-load,"web form: question"
+118496,406,513,"2024-01-26 01:05:58",click,"correct-option: at the same time every time and limiting distractions."
+118497,406,513,"2024-01-26 01:06:03",click,next-page
+118498,406,514,"2024-01-26 01:06:03",page-load,video
+118499,406,515,"2024-01-26 01:08:19",page-load,"web form: question"
+118500,406,515,"2024-01-26 01:08:26",click,"correct-option: On the help page"
+118501,406,515,"2024-01-26 01:08:36",click,next-page
+118502,406,516,"2024-01-26 01:08:36",page-load,video
+118503,406,517,"2024-01-26 01:11:06",page-load,"web form: question"
+118504,406,517,"2024-01-26 01:11:14",click,"correct-option: 45 seconds"
+118505,406,517,"2024-01-26 01:11:18",click,next-page
+118506,406,518,"2024-01-26 01:11:19",page-load,video
+118507,406,519,"2024-01-26 01:13:23",page-load,"web form: question"
+118508,406,519,"2024-01-26 01:13:32",click,"correct-option: False"
+118509,406,519,"2024-01-26 01:13:39",click,next-page
+118510,406,520,"2024-01-26 01:13:40",page-load,"web form: what would you like to do next"
+118511,406,520,"2024-01-26 01:13:47",click,next-page
+118512,406,521,"2024-01-26 01:13:48",page-load,video
+118513,406,522,"2024-01-26 01:17:10",page-load,"web form: question"
+118514,406,522,"2024-01-26 01:17:17",click,"correct-option: 1"
+118515,406,522,"2024-01-26 01:17:21",click,next-page
+118516,406,523,"2024-01-26 01:17:21",page-load,video
+118517,406,524,"2024-01-26 01:20:04",page-load,"web form: what would you like to do next"
+118518,406,524,"2024-01-26 01:20:17",click,next-page
+118519,406,525,"2024-01-26 01:20:18",page-load,"skills quiz preview"
+118520,406,526,"2024-01-26 01:21:52",click,"skills quiz hint"
+118521,406,0,"2024-01-26 01:21:59","Skills Quiz 30 second Hint",30time
+118522,406,0,"2024-01-26 01:22:22","Skills Quiz-27 Step-1 Incorrect",Edit
+118523,406,0,"2024-01-26 01:22:52","Skills Quiz-27 Step-3 Incorrect",Save
+118524,406,0,"2024-01-26 01:23:05","Skills Quiz-27 Step-3 Correct",YES
+118525,406,0,"2024-01-26 01:23:17","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+118526,406,0,"2024-01-26 01:23:25","Skills Quiz-27 Step-5 Correct",Optimism
+118527,406,0,"2024-01-26 01:23:29","Skills Quiz-27 Step-6 Correct","                  Select               "
+118528,406,526,"2024-01-26 01:23:51",click,"skills quiz hint"
+118529,406,0,"2024-01-26 01:23:55","Skills Quiz-27 Step-7 Correct",Save
+118530,406,526,"2024-01-26 01:24:15",click,"skills quiz hint"
+118531,406,0,"2024-01-26 01:24:51","Skills Quiz 30 second Hint",30time
+118532,406,526,"2024-01-26 01:24:54",click,"skills quiz hint"
+118533,406,526,"2024-01-26 01:24:56",click,"skills quiz hint"
+118534,406,0,"2024-01-26 01:25:01","Skills Quiz-27 Step-8 Incorrect",Cancel
+118535,406,0,"2024-01-26 01:25:01","Skills Quiz-27 Step-9 Incorrect",Cancel
+118536,406,0,"2024-01-26 01:25:06","Skills Quiz-27 Step-8 Incorrect",undefined
+118537,406,0,"2024-01-26 01:25:06","Skills Quiz-27 Step-9 Incorrect",undefined
+118538,406,0,"2024-01-26 01:25:12","Skills Quiz-27 Step-8 Incorrect",4
+118539,406,0,"2024-01-26 01:25:12","Skills Quiz-27 Step-9 Correct",4
+118540,406,0,"2024-01-26 01:25:12","Skills Quiz-27 Step-10 Incorrect",4
+118541,406,0,"2024-01-26 01:25:15","Skills Quiz-27 Step-8 Incorrect","CancelSave and View GraphSave"
+118542,406,0,"2024-01-26 01:25:15","Skills Quiz-27 Step-10 Incorrect","CancelSave and View GraphSave"
+118543,406,0,"2024-01-26 01:25:16","Skills Quiz-27 Step-10 Incorrect","CancelSave and View GraphSave"
+118544,406,0,"2024-01-26 01:25:16","Skills Quiz-27 Step-8 Incorrect","CancelSave and View GraphSave"
+118545,406,0,"2024-01-26 01:25:19","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+118546,406,0,"2024-01-26 01:25:19","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+118547,406,0,"2024-01-26 01:25:41","Skills Quiz-27 Step-11 Correct","View Progress"
+118548,406,0,"2024-01-26 01:26:02","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2024-01-26 01:26:03",module_end,none

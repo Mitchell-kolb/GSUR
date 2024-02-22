@@ -1,0 +1,20 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+35048,221,235,"2023-03-30 12:32:32",page-load,video
+35054,221,236,"2023-03-30 12:35:00",page-load,"web form: question"
+35055,221,236,"2023-03-30 12:35:03",click,"correct-option: 1"
+35056,221,236,"2023-03-30 12:35:03",click,next-page
+35057,221,237,"2023-03-30 12:35:04",page-load,"web form: what would you like to do next"
+35058,221,237,"2023-03-30 12:35:05",click,next-page
+35059,221,238,"2023-03-30 12:35:06",page-load,"skills quiz preview"
+35060,221,238,"2023-03-30 12:35:09",click,next-page
+35061,221,0,"2023-03-30 12:35:14","Skills Quiz-17 Step-1 Correct",View
+35062,221,0,"2023-03-30 12:35:16","Skills Quiz-17 Step-2 Correct",SAVE
+35063,221,0,"2023-03-30 12:35:18","Skills Quiz-17 Step-3 Correct",Delete
+35064,221,0,"2023-03-30 12:35:21","Skills Quiz-17 Step-4 Correct",Confirm
+35065,221,0,"2023-03-30 12:35:23","Skills Quiz-17 Step-5 Correct"," Delete"
+35066,221,0,"2023-03-30 12:35:28","Skills Quiz-17 Step-6 Incorrect","Cookie RecipesEdit"
+35067,221,0,"2023-03-30 12:35:30","Skills Quiz-17 Step-6 Correct",View
+35068,221,0,"2023-03-30 12:35:34","Skills Quiz-17 Step-7 Correct","Move Note"
+35069,221,0,"2023-03-30 12:35:37","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+35070,221,0,"2023-03-30 12:35:39","Skills Quiz-17 Step-8 Incorrect",Move
+0,0,0,"2023-03-30 12:35:40",module_end,none

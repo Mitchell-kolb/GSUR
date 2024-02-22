@@ -1,0 +1,38 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+91926,354,407,"2023-08-26 06:36:06",page-load,"skills quiz preview"
+91927,354,407,"2023-08-26 06:36:34",click,next-page
+91928,354,408,"2023-08-26 06:36:37",click,"skills quiz hint"
+91929,354,0,"2023-08-26 06:36:39","Skills Quiz-20 Step-1 Incorrect",HEALTH
+91930,354,408,"2023-08-26 06:36:42",click,"skills quiz hint"
+91931,354,408,"2023-08-26 06:36:47",click,"skills quiz hint"
+91932,354,0,"2023-08-26 06:36:50","Skills Quiz-20 Step-3 Correct","Add New Note"
+91933,354,408,"2023-08-26 06:36:52",click,"skills quiz hint"
+91934,354,0,"2023-08-26 06:36:55","Skills Quiz-20 Step-4 Correct",noteSpecialty
+91935,354,408,"2023-08-26 06:36:57",click,"skills quiz hint"
+91936,354,0,"2023-08-26 06:37:25","Skills Quiz 30 second Hint",30time
+91937,354,408,"2023-08-26 06:37:34",click,"skills quiz hint"
+91938,354,0,"2023-08-26 06:37:36","Skills Quiz-20 Step-6 Correct",noteName
+91939,354,408,"2023-08-26 06:37:40",click,"skills quiz hint"
+91940,354,408,"2023-08-26 06:38:04",click,"skills quiz hint"
+91941,354,0,"2023-08-26 06:38:06","Skills Quiz-20 Step-8 Correct",notePhone
+91942,354,408,"2023-08-26 06:38:09",click,"skills quiz hint"
+91943,354,408,"2023-08-26 06:38:32",click,"skills quiz hint"
+91944,354,408,"2023-08-26 06:38:39",click,"skills quiz hint"
+91945,354,0,"2023-08-26 06:38:44","Skills Quiz-20 Step-10 Correct",noteAddress
+91946,354,408,"2023-08-26 06:38:48",click,"skills quiz hint"
+91947,354,408,"2023-08-26 06:39:13",click,"skills quiz hint"
+91948,354,0,"2023-08-26 06:39:16","Skills Quiz-20 Step-12 Correct",noteDetails
+91949,354,408,"2023-08-26 06:39:20",click,"skills quiz hint"
+91950,354,408,"2023-08-26 06:39:31",click,"skills quiz hint"
+91951,354,408,"2023-08-26 06:39:41",click,"skills quiz hint"
+91952,354,408,"2023-08-26 06:39:42",click,"skills quiz hint"
+91953,354,408,"2023-08-26 06:39:45",click,"skills quiz hint"
+91954,354,0,"2023-08-26 06:39:46","Skills Quiz 30 second Hint",30time
+91955,354,408,"2023-08-26 06:40:03",click,"skills quiz hint"
+91956,354,408,"2023-08-26 06:40:03",click,"skills quiz hint"
+91957,354,408,"2023-08-26 06:40:25",click,"skills quiz hint"
+91958,354,408,"2023-08-26 06:41:30",click,"skills quiz hint"
+91959,354,0,"2023-08-26 06:41:32","Skills Quiz-20 Step-14 Correct",SAVE
+91960,354,408,"2023-08-26 06:41:37",click,"skills quiz hint"
+91961,354,0,"2023-08-26 06:41:40","Skills Quiz-20 Step-14 Correct",Close
+0,0,0,"2023-08-26 06:41:40",module_end,none

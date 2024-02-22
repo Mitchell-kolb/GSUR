@@ -1,0 +1,38 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+19819,255,212,"2023-02-13 19:36:00",page-load,"skills quiz preview"
+19820,255,212,"2023-02-13 19:36:16",click,next-page
+19821,255,213,"2023-02-13 19:36:39",click,"skills quiz hint"
+19822,255,0,"2023-02-13 19:36:42","Skills Quiz-12 Step-1 Correct","Add New Folder"
+19823,255,0,"2023-02-13 19:36:44","Skills Quiz-12 Step-2 Correct",modal-folder-title
+19824,255,0,"2023-02-13 19:37:11","Skills Quiz-12 Step-3 Incorrect",Next
+19825,255,0,"2023-02-13 19:37:12","Skills Quiz-12 Step-3 Incorrect",SAVE
+19826,255,0,"2023-02-13 19:37:12","Skills Quiz-12 Step-4 Correct",SAVE
+19827,255,0,"2023-02-13 19:37:15","Skills Quiz-12 Step-3 Incorrect",Close
+19828,255,0,"2023-02-13 19:37:15","Skills Quiz-12 Step-5 Correct",Close
+19829,255,0,"2023-02-13 19:37:38","Skills Quiz-12 Step-6 Incorrect","Holiday Shopping for JimEdit"
+19830,255,0,"2023-02-13 19:37:38","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping for JimEdit"
+19831,255,0,"2023-02-13 19:37:40","Skills Quiz-12 Step-6 Correct",Edit
+19832,255,0,"2023-02-13 19:37:40","Skills Quiz-12 Step-3 Incorrect",Edit
+19833,255,0,"2023-02-13 19:37:43","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping for Jim"
+19834,255,0,"2023-02-13 19:37:43","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping for Jim"
+19835,255,0,"2023-02-13 19:37:43","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping for Jim"
+19836,255,0,"2023-02-13 19:37:43","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping for Jim"
+19837,255,0,"2023-02-13 19:37:44","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping for Jim"
+19838,255,0,"2023-02-13 19:37:44","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping for Jim"
+19839,255,0,"2023-02-13 19:37:44","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping for Jim"
+19840,255,0,"2023-02-13 19:37:44","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping for Jim"
+19841,255,0,"2023-02-13 19:37:45","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping for Jim"
+19842,255,0,"2023-02-13 19:37:45","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping for Jim"
+19843,255,0,"2023-02-13 19:37:46","Skills Quiz-12 Step-3 Incorrect","Holiday Shopping for Jim"
+19844,255,0,"2023-02-13 19:37:46","Skills Quiz-12 Step-7 Incorrect","Holiday Shopping for Jim"
+19845,255,0,"2023-02-13 19:37:50","Skills Quiz-12 Step-3 Incorrect",SAVE
+19846,255,0,"2023-02-13 19:37:50","Skills Quiz-12 Step-7 Correct",SAVE
+19847,255,0,"2023-02-13 19:37:52","Skills Quiz-12 Step-8 Correct",modal-folder-title
+19848,255,0,"2023-02-13 19:37:52","Skills Quiz-12 Step-3 Correct",modal-folder-title
+19849,255,0,"2023-02-13 19:37:58","Skills Quiz-12 Step-9 Incorrect",CloseSAVE
+19850,255,0,"2023-02-13 19:38:00","Skills Quiz-12 Step-9 Incorrect",CloseSAVE
+19851,255,0,"2023-02-13 19:38:03","Skills Quiz-12 Step-9 Incorrect",CloseSAVE
+19852,255,0,"2023-02-13 19:38:07","Skills Quiz-12 Step-9 Correct",modal-folder-title
+19853,255,0,"2023-02-13 19:38:23","Skills Quiz-12 Step-10 Correct",SAVE
+19854,255,0,"2023-02-13 19:38:25","Skills Quiz-12 Step-11 Correct",Close
+0,0,0,"2023-02-13 19:38:25",module_end,none

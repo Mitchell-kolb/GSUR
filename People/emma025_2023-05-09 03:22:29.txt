@@ -1,0 +1,38 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+51331,321,410,"2023-05-09 03:08:53",page-load,video
+51332,321,411,"2023-05-09 03:09:34",page-load,"web form: scheduling choices"
+51333,321,411,"2023-05-09 03:09:52",tracked,Weight
+51334,321,411,"2023-05-09 03:10:02",tracked,Mood
+51335,321,411,"2023-05-09 03:10:24",tracked,"Blood pressure"
+51336,321,411,"2023-05-09 03:10:31",tracked,"Well-being activities"
+51337,321,411,"2023-05-09 03:10:32",tracked,Fatigue
+51338,321,411,"2023-05-09 03:10:32",tracked,Fatigue
+51339,321,411,"2023-05-09 03:10:33",tracked,"Well-being activities"
+51340,321,411,"2023-05-09 03:10:35",tracked,"Blood pressure"
+51341,321,411,"2023-05-09 03:11:01",click,next-page
+51342,321,412,"2023-05-09 03:11:02",page-load,video
+51343,321,413,"2023-05-09 03:13:28",page-load,"web form: question"
+51344,321,413,"2023-05-09 03:13:36",click,"correct-option: 4"
+51345,321,413,"2023-05-09 03:13:40",click,next-page
+51346,321,414,"2023-05-09 03:13:41",page-load,video
+51347,321,415,"2023-05-09 03:14:21",page-load,"web form: question"
+51348,321,415,"2023-05-09 03:14:31",click,"correct-option: False"
+51349,321,415,"2023-05-09 03:14:34",click,next-page
+51350,321,416,"2023-05-09 03:14:35",page-load,video
+51351,321,417,"2023-05-09 03:19:29",page-load,"web form: what would you like to do next"
+51352,321,417,"2023-05-09 03:19:43",click,next-page
+51353,321,418,"2023-05-09 03:19:43",page-load,"skills quiz preview"
+51354,321,0,"2023-05-09 03:20:56","Skills Quiz-21 Step-1 Incorrect",HEALTH
+51355,321,0,"2023-05-09 03:20:57","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+51356,321,0,"2023-05-09 03:21:01","Skills Quiz-21 Step-3 Correct","Daily Medications"
+51357,321,0,"2023-05-09 03:21:13","Skills Quiz-21 Step-4 Incorrect",titleMorning
+51358,321,0,"2023-05-09 03:21:42","Skills Quiz-21 Step-4 Correct",descriptionMorning
+51359,321,0,"2023-05-09 03:22:08","Skills Quiz-21 Step-6 Correct","8:00 AM"
+51360,321,0,"2023-05-09 03:22:10","Skills Quiz-21 Step-7 Correct",7
+51361,321,0,"2023-05-09 03:22:11","Skills Quiz-21 Step-8 Correct",00
+51362,321,0,"2023-05-09 03:22:12","Skills Quiz-21 Step-9 Correct",AM
+51363,321,0,"2023-05-09 03:22:16","Skills Quiz-21 Step-10 Incorrect",CancelSave
+51364,321,0,"2023-05-09 03:22:20","Skills Quiz-21 Step-10 Correct",Save
+51365,321,0,"2023-05-09 03:22:27","Skills Quiz-21 Step-11 Correct",checkMorning
+51366,321,0,"2023-05-09 03:22:28","Skills Quiz-21 Step-12 Correct"," Save"
+0,0,0,"2023-05-09 03:22:29",module_end,none

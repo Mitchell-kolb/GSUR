@@ -1,0 +1,35 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+38508,298,216,"2023-04-07 11:53:37",page-load,"web form: question"
+38509,298,216,"2023-04-07 11:53:49",click,"correct-option: 1"
+38510,298,216,"2023-04-07 11:53:57",click,next-page
+38511,298,217,"2023-04-07 11:53:57",page-load,video
+38512,298,218,"2023-04-07 11:57:43",page-load,"web form: what would you like to do next"
+38513,298,218,"2023-04-07 11:57:54",click,take-a-break
+38514,298,219,"2023-04-07 13:00:15",page-load,"skills quiz preview"
+38515,298,0,"2023-04-07 13:01:29","Skills Quiz 30 second Hint",30time
+38516,298,0,"2023-04-07 13:01:36","Skills Quiz-13 Step-1 Incorrect",Goals
+38517,298,0,"2023-04-07 13:01:37","Skills Quiz-13 Step-1 Incorrect","Add New FolderGoalsLists"
+38518,298,0,"2023-04-07 13:01:40","Skills Quiz-13 Step-1 Incorrect","Add New FolderGoalsLists"
+38519,298,0,"2023-04-07 13:02:27","Skills Quiz-13 Step-1 Correct",Lists
+38520,298,0,"2023-04-07 13:02:39","Skills Quiz-13 Step-2 Incorrect",Lists
+38521,298,0,"2023-04-07 13:03:00","Skills Quiz-13 Step-2 Correct","Add New Note"
+38522,298,0,"2023-04-07 13:03:00","Skills Quiz-13 Step-3 Incorrect","Add New Note"
+38523,298,0,"2023-04-07 13:03:17","Skills Quiz-13 Step-3 Correct",modal-note-title
+38524,298,220,"2023-04-07 13:04:49",click,"skills quiz hint"
+38525,298,219,"2023-04-07 13:05:13",click,next-page
+38526,298,0,"2023-04-07 13:05:15","Skills Quiz-13 Step-1 Incorrect",Lists
+38527,298,0,"2023-04-07 13:05:19","Skills Quiz-13 Step-1 Incorrect","Add New Note"
+38528,298,0,"2023-04-07 13:05:19","Skills Quiz-13 Step-2 Correct","Add New Note"
+38529,298,0,"2023-04-07 13:05:21","Skills Quiz-13 Step-3 Correct",modal-note-title
+38530,298,0,"2023-04-07 13:05:21","Skills Quiz-13 Step-1 Incorrect",modal-note-title
+38531,298,0,"2023-04-07 13:05:48","Skills Quiz-13 Step-1 Incorrect",Next
+38532,298,0,"2023-04-07 13:05:56","Skills Quiz-13 Step-1 Incorrect",Content
+38533,298,0,"2023-04-07 13:05:56","Skills Quiz-13 Step-5 Incorrect",Content
+38534,298,0,"2023-04-07 13:06:11","Skills Quiz-13 Step-1 Incorrect",modal-note-content
+38535,298,0,"2023-04-07 13:06:11","Skills Quiz-13 Step-5 Correct",modal-note-content
+38536,298,0,"2023-04-07 13:08:07","Skills Quiz-13 Step-1 Incorrect",Next
+38537,298,0,"2023-04-07 13:08:12","Skills Quiz-13 Step-1 Incorrect"," SAVE"
+38538,298,0,"2023-04-07 13:08:12","Skills Quiz-13 Step-7 Correct"," SAVE"
+38539,298,0,"2023-04-07 13:08:17","Skills Quiz-13 Step-1 Incorrect",Close
+38540,298,0,"2023-04-07 13:08:17","Skills Quiz-13 Step-8 Correct",Close
+0,0,0,"2023-04-07 13:08:17",module_end,none

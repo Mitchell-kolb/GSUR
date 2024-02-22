@@ -1,0 +1,35 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+114022,414,215,"2024-01-11 18:41:04",page-load,video
+114028,414,215,"2024-01-11 19:17:11",page-load,video
+114029,414,216,"2024-01-11 19:24:48",page-load,"web form: question"
+114030,414,216,"2024-01-11 19:24:53",click,"correct-option: 1"
+114031,414,216,"2024-01-11 19:24:56",click,next-page
+114032,414,217,"2024-01-11 19:24:57",page-load,video
+114033,414,218,"2024-01-11 19:28:50",page-load,"web form: what would you like to do next"
+114034,414,218,"2024-01-11 19:28:54",click,next-page
+114035,414,219,"2024-01-11 19:28:54",page-load,"skills quiz preview"
+114036,414,0,"2024-01-11 19:29:50","Skills Quiz-13 Step-1 Correct",Lists
+114037,414,0,"2024-01-11 19:29:58","Skills Quiz-13 Step-2 Incorrect",undefined
+114038,414,0,"2024-01-11 19:30:05","Skills Quiz-13 Step-3 Correct",modal-note-title
+114039,414,0,"2024-01-11 19:30:05","Skills Quiz-13 Step-2 Incorrect",modal-note-title
+114040,414,0,"2024-01-11 19:30:37","Skills Quiz-13 Step-2 Incorrect",modal-note-content
+114041,414,0,"2024-01-11 19:30:39","Skills Quiz-13 Step-2 Incorrect",TitleContent
+114042,414,0,"2024-01-11 19:30:45","Skills Quiz-13 Step-2 Incorrect",Next
+114043,414,0,"2024-01-11 19:30:54","Skills Quiz-13 Step-2 Incorrect",modal-note-title
+114044,414,0,"2024-01-11 19:30:54","Skills Quiz-13 Step-5 Incorrect",modal-note-title
+114045,414,0,"2024-01-11 19:30:58","Skills Quiz-13 Step-5 Correct",modal-note-content
+114046,414,0,"2024-01-11 19:30:58","Skills Quiz-13 Step-2 Incorrect",modal-note-content
+114047,414,0,"2024-01-11 19:31:52","Skills Quiz-13 Step-2 Incorrect",Next
+114048,414,0,"2024-01-11 19:32:13","Skills Quiz-13 Step-2 Incorrect",modal-note-title
+114049,414,0,"2024-01-11 19:32:13","Skills Quiz-13 Step-7 Incorrect",modal-note-title
+114050,414,0,"2024-01-11 19:32:18","Skills Quiz-13 Step-7 Incorrect",modal-note-title
+114051,414,0,"2024-01-11 19:32:18","Skills Quiz-13 Step-2 Incorrect",modal-note-title
+114052,414,0,"2024-01-11 19:32:20","Skills Quiz-13 Step-2 Incorrect",modal-note-title
+114053,414,0,"2024-01-11 19:32:20","Skills Quiz-13 Step-7 Incorrect",modal-note-title
+114054,414,0,"2024-01-11 19:32:21","Skills Quiz-13 Step-7 Incorrect",modal-note-title
+114055,414,0,"2024-01-11 19:32:21","Skills Quiz-13 Step-2 Incorrect",modal-note-title
+114056,414,0,"2024-01-11 19:32:24","Skills Quiz-13 Step-2 Incorrect"," SAVE"
+114057,414,0,"2024-01-11 19:32:24","Skills Quiz-13 Step-7 Correct"," SAVE"
+114058,414,0,"2024-01-11 19:32:45","Skills Quiz-13 Step-8 Correct",Close
+114059,414,0,"2024-01-11 19:32:45","Skills Quiz-13 Step-2 Incorrect",Close
+0,0,0,"2024-01-11 19:32:46",module_end,none

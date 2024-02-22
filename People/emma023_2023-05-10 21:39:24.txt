@@ -1,0 +1,22 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+51880,319,235,"2023-05-10 21:32:45",page-load,video
+51881,319,236,"2023-05-10 21:37:41",page-load,"web form: question"
+51882,319,236,"2023-05-10 21:37:49",click,"correct-option: 1"
+51883,319,236,"2023-05-10 21:37:52",click,next-page
+51884,319,237,"2023-05-10 21:37:53",page-load,"web form: what would you like to do next"
+51885,319,237,"2023-05-10 21:37:56",click,next-page
+51886,319,238,"2023-05-10 21:37:56",page-load,"skills quiz preview"
+51887,319,0,"2023-05-10 21:38:51","Skills Quiz-17 Step-1 Correct",View
+51888,319,0,"2023-05-10 21:38:57","Skills Quiz-17 Step-2 Correct",SAVE
+51889,319,0,"2023-05-10 21:38:59","Skills Quiz-17 Step-3 Correct",Delete
+51890,319,0,"2023-05-10 21:39:04","Skills Quiz-17 Step-4 Correct",Confirm
+51891,319,0,"2023-05-10 21:39:06","Skills Quiz-17 Step-5 Incorrect",Confirm
+51892,319,0,"2023-05-10 21:39:08","Skills Quiz-17 Step-5 Correct",Delete
+51893,319,0,"2023-05-10 21:39:08","Skills Quiz-17 Step-6 Incorrect",Delete
+51894,319,0,"2023-05-10 21:39:12","Skills Quiz-17 Step-7 Incorrect",View
+51895,319,0,"2023-05-10 21:39:12","Skills Quiz-17 Step-6 Correct",View
+51896,319,0,"2023-05-10 21:39:14","Skills Quiz-17 Step-7 Correct","Move Note"
+51897,319,0,"2023-05-10 21:39:22","Skills Quiz-17 Step-8 Incorrect",folder-title-3
+51898,319,0,"2023-05-10 21:39:23","Skills Quiz-17 Step-8 Incorrect"," Move"
+51899,319,0,"2023-05-10 21:39:23","Skills Quiz-17 Step-9 Correct"," Move"
+0,0,0,"2023-05-10 21:39:24",module_end,none

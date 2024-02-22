@@ -1,0 +1,17 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+34617,302,421,"2023-03-29 14:38:34",click,next-page
+34618,302,0,"2023-03-29 14:38:38","Skills Quiz-22 Step-1 Incorrect",HEALTH
+34619,302,0,"2023-03-29 14:38:43","Skills Quiz-22 Step-2 Incorrect","Medical Information"
+34620,302,0,"2023-03-29 14:38:53","Skills Quiz-22 Step-2 Incorrect","Medical Information"
+34621,302,0,"2023-03-29 14:38:59","Skills Quiz-22 Step-2 Correct","Tracked Health Activities"
+34622,302,0,"2023-03-29 14:39:06","Skills Quiz-22 Step-3 Correct","Daily Medications"
+34623,302,0,"2023-03-29 14:39:19","Skills Quiz-22 Step-4 Correct",descriptionMorning
+34624,302,0,"2023-03-29 14:39:55","Skills Quiz-22 Step-6 Correct","8:00 AM"
+34625,302,0,"2023-03-29 14:40:00","Skills Quiz-22 Step-7 Correct",9
+34626,302,0,"2023-03-29 14:40:03","Skills Quiz-22 Step-8 Correct",00
+34627,302,0,"2023-03-29 14:40:05","Skills Quiz-22 Step-9 Correct",AM
+34628,302,0,"2023-03-29 14:40:07","Skills Quiz-22 Step-10 Correct",Save
+34629,302,0,"2023-03-29 14:40:27","Skills Quiz-22 Step-11 Incorrect",CloseSave
+34630,302,0,"2023-03-29 14:40:31","Skills Quiz-22 Step-11 Incorrect",undefined
+34631,302,0,"2023-03-29 14:40:35","Skills Quiz-22 Step-11 Incorrect"," Save"
+0,0,0,"2023-03-29 14:40:35",module_end,none

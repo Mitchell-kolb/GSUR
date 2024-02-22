@@ -1,0 +1,32 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+7202,221,225,"2023-01-23 14:18:32",page-load,video
+7203,221,226,"2023-01-23 14:21:29",page-load,"web form: question"
+7204,221,226,"2023-01-23 14:21:32",click,"correct-option: Magnifying Glass"
+7205,221,226,"2023-01-23 14:21:33",click,next-page
+7206,221,227,"2023-01-23 14:21:34",page-load,video
+7207,221,228,"2023-01-23 14:23:07",page-load,"web form: what would you like to do next"
+7208,221,228,"2023-01-23 14:23:10",click,next-page
+7209,221,229,"2023-01-23 14:23:11",page-load,"skills quiz preview"
+7210,221,229,"2023-01-23 14:23:22",click,next-page
+7211,221,0,"2023-01-23 14:23:24","Skills Quiz-15 Step-1 Correct",Relevant
+7212,221,0,"2023-01-23 14:23:26","Skills Quiz-15 Step-2 Correct","A - Z"
+7213,221,0,"2023-01-23 14:23:28","Skills Quiz-15 Step-3 Incorrect","Lawn Ideas"
+7214,221,0,"2023-01-23 14:23:29","Skills Quiz-15 Step-3 Incorrect",note-search
+7215,221,0,"2023-01-23 14:23:33","Skills Quiz-15 Step-3 Incorrect",note-search
+7216,221,0,"2023-01-23 14:23:33","Skills Quiz-15 Step-3 Incorrect",note-search
+7217,221,0,"2023-01-23 14:23:34","Skills Quiz-15 Step-3 Incorrect",note-search
+7218,221,0,"2023-01-23 14:23:34","Skills Quiz-15 Step-3 Incorrect",note-search
+7219,221,0,"2023-01-23 14:23:34","Skills Quiz-15 Step-3 Incorrect",note-search
+7220,221,0,"2023-01-23 14:23:35","Skills Quiz-15 Step-3 Incorrect",note-search
+7221,221,0,"2023-01-23 14:23:35","Skills Quiz-15 Step-3 Incorrect",note-search
+7222,221,0,"2023-01-23 14:23:35","Skills Quiz-15 Step-3 Incorrect",note-search
+7223,221,0,"2023-01-23 14:23:35","Skills Quiz-15 Step-3 Incorrect",note-search
+7224,221,0,"2023-01-23 14:23:36","Skills Quiz-15 Step-3 Incorrect",Search
+7225,221,0,"2023-01-23 14:23:40","Skills Quiz-15 Step-3 Incorrect",View
+7226,221,0,"2023-01-23 14:23:42","Skills Quiz-15 Step-3 Incorrect",Close
+7227,221,230,"2023-01-23 14:23:44",click,"skills quiz hint"
+7228,221,230,"2023-01-23 14:23:44",click,"skills quiz hint"
+7229,221,230,"2023-01-23 14:23:45",click,"skills quiz hint"
+7230,221,230,"2023-01-23 14:23:45",click,"skills quiz hint"
+7231,221,0,"2023-01-23 14:23:45","Skills Quiz-15 Step-3 Correct","Lawn IdeasEdit"
+0,0,0,"2023-01-23 14:23:56",module_end,none

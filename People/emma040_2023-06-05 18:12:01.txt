@@ -1,0 +1,163 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+60178,336,300,"2023-05-31 17:40:38",page-load,video
+60179,336,300,"2023-05-31 18:18:23",page-load,video
+60180,336,301,"2023-05-31 18:32:37",page-load,"web form: question"
+60181,336,302,"2023-05-31 18:33:17",page-load,"web form: question"
+60182,336,302,"2023-05-31 18:33:24",tracked,"Losing track of conversations, movies, and books"
+60183,336,302,"2023-05-31 18:33:28",tracked,"Finding it increasingly difficult to participate in group events and community activities"
+60184,336,302,"2023-05-31 18:33:37",click,next-page
+60185,336,303,"2023-05-31 18:33:37",page-load,"web form: question"
+60186,336,303,"2023-05-31 18:33:43",tracked,"Feeling increasingly overwhelmed by making decisions"
+60187,336,303,"2023-05-31 18:33:54",click,hint
+60188,336,303,"2023-05-31 18:33:55",click,hint
+60189,336,303,"2023-05-31 18:33:56",click,hint
+60190,336,303,"2023-05-31 18:33:58",click,hint
+60191,336,304,"2023-05-31 18:34:46",page-load,"web form: question"
+60192,336,304,"2023-05-31 18:34:50",tracked,"Having a harder time participating in conversations with others"
+60193,336,304,"2023-05-31 18:34:54",tracked,"Forgetting things more often"
+60194,336,304,"2023-05-31 18:34:58",tracked,"Repeating the same questions more often"
+60195,336,304,"2023-05-31 18:34:59",click,next-page
+60196,336,305,"2023-05-31 18:35:00",page-load,"web form: question"
+60197,336,305,"2023-05-31 18:35:13",click,hint
+60198,336,305,"2023-05-31 18:35:37",click,previous-page
+60199,336,304,"2023-05-31 18:35:37",page-load,"web form: question"
+60200,336,304,"2023-05-31 18:35:38",click,previous-page
+60201,336,303,"2023-05-31 18:35:39",page-load,"web form: question"
+60202,336,303,"2023-05-31 18:35:40",click,previous-page
+60203,336,302,"2023-05-31 18:35:40",page-load,"web form: question"
+60204,336,302,"2023-05-31 18:35:41",click,previous-page
+60205,336,301,"2023-05-31 18:35:42",page-load,"web form: question"
+60206,336,301,"2023-05-31 18:35:43",click,previous-page
+60207,336,300,"2023-05-31 18:35:43",page-load,video
+60208,336,301,"2023-05-31 18:36:08",page-load,"web form: question"
+60209,336,301,"2023-05-31 18:36:26",click,next-page
+60210,336,302,"2023-05-31 18:36:26",page-load,"web form: question"
+60211,336,302,"2023-05-31 18:36:35",tracked,"Losing track of conversations, movies, and books"
+60212,336,302,"2023-05-31 18:36:45",tracked,"Finding it increasingly difficult to participate in group events and community activities"
+60213,336,302,"2023-05-31 18:36:46",click,next-page
+60214,336,303,"2023-05-31 18:36:46",page-load,"web form: question"
+60215,336,303,"2023-05-31 18:36:53",tracked,"Feeling increasingly overwhelmed by making decisions"
+60216,336,303,"2023-05-31 18:37:08",click,next-page
+60217,336,304,"2023-05-31 18:37:08",page-load,"web form: question"
+60218,336,304,"2023-05-31 18:37:13",tracked,"Having a harder time participating in conversations with others"
+60219,336,304,"2023-05-31 18:37:19",tracked,"Forgetting things more often"
+60220,336,304,"2023-05-31 18:37:22",tracked,"Repeating the same questions more often"
+60221,336,304,"2023-05-31 18:37:23",click,next-page
+60222,336,305,"2023-05-31 18:37:24",page-load,"web form: question"
+60223,336,305,"2023-05-31 18:37:27",click,next-page
+60224,336,306,"2023-05-31 18:37:27",page-load,video
+60225,336,307,"2023-05-31 18:39:22",page-load,"tech comfort quiz, part one"
+60226,336,307,"2023-05-31 18:39:38",tracked,"Comfort with tech 5"
+60227,336,307,"2023-05-31 18:39:41",tracked,"Confidence in tech 5"
+60228,336,307,"2023-05-31 18:39:44",tracked,"Comfort with tech 6"
+60229,336,307,"2023-05-31 18:39:45",tracked,"Confidence in tech 6"
+60230,336,307,"2023-05-31 18:39:53",tracked,"Problem-solve tech 5"
+60231,336,307,"2023-05-31 18:39:54",click,next-page
+60232,336,308,"2023-05-31 18:39:54",page-load,"tech comfort quiz, part two"
+60233,336,308,"2023-05-31 18:40:03",tracked,"Operate tech 6"
+60234,336,308,"2023-05-31 18:40:04",tracked,"Use tech 6"
+60235,336,308,"2023-05-31 18:40:30",tracked,"Use touch-screen tablet 5"
+60236,336,308,"2023-05-31 18:40:31",click,next-page
+60237,336,309,"2023-05-31 18:40:32",page-load,video
+60238,336,310,"2023-05-31 18:42:50",page-load,"web form: question"
+60239,336,310,"2023-05-31 18:42:55",click,"correct-option: Landscape"
+60240,336,310,"2023-05-31 18:42:56",click,next-page
+60241,336,311,"2023-05-31 18:42:56",page-load,video
+60242,336,312,"2023-05-31 18:54:41",page-load,"web form: question"
+60243,336,312,"2023-05-31 18:54:50",click,previous-page
+60244,336,311,"2023-05-31 18:54:50",page-load,video
+60245,336,312,"2023-05-31 18:55:52",page-load,"web form: question"
+60246,336,312,"2023-05-31 18:56:03",click,"correct-option: False"
+60247,336,312,"2023-05-31 18:56:07",click,next-page
+60248,336,313,"2023-05-31 18:56:07",page-load,video
+60249,336,314,"2023-05-31 18:59:02",page-load,"goal setting: example plan"
+60250,336,315,"2023-05-31 19:00:24",page-load,"goal setting: example plan"
+60251,336,315,"2023-05-31 19:00:27",click,previous-page
+60252,336,314,"2023-05-31 19:00:27",page-load,"goal setting: example plan"
+60253,336,314,"2023-05-31 19:00:46",click,next-page
+60254,336,315,"2023-05-31 19:00:46",page-load,"goal setting: example plan"
+60255,336,316,"2023-05-31 19:01:35",page-load,"goal setting: example plan"
+60256,336,316,"2023-05-31 19:01:35",click,next-page
+60257,336,317,"2023-05-31 19:01:37",page-load,"goal setting: example plan"
+60258,336,317,"2023-05-31 19:01:40",click,previous-page
+60259,336,316,"2023-05-31 19:01:40",page-load,"goal setting: example plan"
+60260,336,316,"2023-05-31 19:02:07",click,next-page
+60261,336,317,"2023-05-31 19:02:09",page-load,"goal setting: example plan"
+60262,336,317,"2023-05-31 19:02:36",click,next-page
+60263,336,318,"2023-05-31 19:02:36",page-load,"goal setting: example plan"
+60264,336,318,"2023-05-31 19:03:02",click,next-page
+60265,336,319,"2023-05-31 19:03:02",page-load,"goal setting: example plan"
+60266,336,320,"2023-05-31 19:03:44",page-load,"goal setting: example plan"
+60267,336,320,"2023-05-31 19:03:54",click,next-page
+60268,336,321,"2023-05-31 19:03:54",page-load,"goal setting: example plan"
+60269,336,321,"2023-05-31 19:04:23",click,next-page
+60270,336,322,"2023-05-31 19:04:24",page-load,"goal setting: example plan"
+60271,336,322,"2023-05-31 19:04:29",click,next-page
+60272,336,323,"2023-05-31 19:04:30",page-load,"goal setting: preview"
+60273,336,323,"2023-05-31 19:04:44",click,next-page
+60274,336,324,"2023-05-31 19:04:44",page-load,"goal setting: pick one strategy"
+60275,336,324,"2023-05-31 19:05:17",click,next-page
+60276,336,325,"2023-05-31 19:05:19",page-load,"goal setting: top strategy display"
+60277,336,325,"2023-05-31 19:05:31",click,next-page
+60278,336,326,"2023-05-31 19:05:31",page-load,"goal setting: when"
+60279,336,326,"2023-05-31 19:06:17",click,next-page
+60280,336,327,"2023-05-31 19:06:18",page-load,"goal setting: where"
+60281,336,327,"2023-05-31 19:06:37",click,next-page
+60282,336,328,"2023-05-31 19:06:38",page-load,"goal setting: with whom"
+60283,336,328,"2023-05-31 19:07:18",click,next-page
+60284,336,329,"2023-05-31 19:07:19",page-load,"goal setting: how"
+60285,336,329,"2023-05-31 19:10:43",click,next-page
+60286,336,330,"2023-05-31 19:10:43",page-load,"goal setting: barriers and alternatives"
+60287,336,330,"2023-05-31 19:13:23",click,hint
+60288,336,330,"2023-05-31 19:13:43",click,hint
+60289,336,330,"2023-05-31 19:14:15",click,next-page
+60290,336,331,"2023-05-31 19:14:15",page-load,"goal setting: motivation"
+60291,336,331,"2023-05-31 19:14:25",click,next-page
+60292,336,332,"2023-05-31 19:14:25",page-load,"goal setting: confidence"
+60293,336,332,"2023-05-31 19:14:31",click,next-page
+60294,336,333,"2023-05-31 19:14:36",page-load,"goal setting: plan"
+60295,336,333,"2023-05-31 19:14:47",click,next-page
+60296,336,334,"2023-05-31 19:14:48",page-load,"end of lesson: 1"
+61900,336,10,"2023-06-05 17:54:35",page-load,video
+61906,336,11,"2023-06-05 17:56:24",page-load,video
+61916,336,12,"2023-06-05 17:58:36",page-load,"web form: scheduling choices"
+61918,336,12,"2023-06-05 17:58:42",tracked,"Scheduling and keeping appointments"
+61919,336,12,"2023-06-05 17:58:48",tracked,"Remembering important events"
+61920,336,12,"2023-06-05 17:58:54",tracked,"Managing medications"
+61921,336,12,"2023-06-05 17:59:02",tracked,"Remembering day to day things"
+61922,336,12,"2023-06-05 17:59:04",click,next-page
+61923,336,13,"2023-06-05 17:59:04",page-load,video
+61931,336,14,"2023-06-05 18:00:04",page-load,"web form: what would you like to do next"
+61932,336,14,"2023-06-05 18:00:13",click,previous-page
+61933,336,10,"2023-06-05 18:00:13",page-load,video
+61937,336,11,"2023-06-05 18:00:53",page-load,video
+61940,336,12,"2023-06-05 18:01:28",page-load,"web form: scheduling choices"
+61941,336,12,"2023-06-05 18:01:37",tracked,"Scheduling and keeping appointments"
+61945,336,12,"2023-06-05 18:01:41",tracked,"Remembering important events"
+61949,336,12,"2023-06-05 18:01:45",tracked,"Managing medications"
+61950,336,12,"2023-06-05 18:01:53",tracked,"Remembering day to day things"
+61951,336,12,"2023-06-05 18:01:58",click,next-page
+61952,336,13,"2023-06-05 18:01:59",page-load,video
+61953,336,14,"2023-06-05 18:02:54",page-load,"web form: what would you like to do next"
+61954,336,14,"2023-06-05 18:02:58",click,next-page
+61955,336,15,"2023-06-05 18:02:59",page-load,video
+61959,336,16,"2023-06-05 18:03:56",page-load,"web form: question"
+61960,336,16,"2023-06-05 18:03:59",click,"correct-option: Grey"
+61961,336,16,"2023-06-05 18:04:01",click,next-page
+61962,336,17,"2023-06-05 18:04:02",page-load,video
+61967,336,18,"2023-06-05 18:04:28",page-load,"web form: question"
+61970,336,18,"2023-06-05 18:04:37",click,"correct-option: 1:30 PM"
+61972,336,18,"2023-06-05 18:04:39",click,next-page
+61973,336,19,"2023-06-05 18:04:40",page-load,video
+61975,336,20,"2023-06-05 18:10:07",page-load,"web form: question"
+61979,336,20,"2023-06-05 18:10:18",click,"incorrect-option: Red"
+61980,336,20,"2023-06-05 18:10:27",click,next-page
+61981,336,21,"2023-06-05 18:10:27",page-load,"web form: what would you like to do next"
+61982,336,0,"2023-06-05 18:11:35","Skills Quiz-1 Step-1 Incorrect",CALENDAR
+61983,336,0,"2023-06-05 18:11:49","Skills Quiz-1 Step-1 Correct",TODAY
+61984,336,0,"2023-06-05 18:11:51","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+61986,336,0,"2023-06-05 18:11:54","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+61988,336,0,"2023-06-05 18:11:55","Skills Quiz-1 Step-4 Correct",right-arrow
+61992,336,0,"2023-06-05 18:11:59","Skills Quiz-1 Step-5 Correct",14
+61994,336,0,"2023-06-05 18:12:01","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-06-05 18:12:01",module_end,none

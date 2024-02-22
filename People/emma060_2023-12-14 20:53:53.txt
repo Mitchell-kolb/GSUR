@@ -1,0 +1,28 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+106417,407,0,"2023-12-14 20:50:44","Skills Quiz-12 Step-1 Correct","Add New Folder"
+106418,407,0,"2023-12-14 20:50:46","Skills Quiz-12 Step-2 Correct",modal-folder-title
+106419,407,0,"2023-12-14 20:51:16","Skills Quiz 30 second Hint",30time
+106420,407,0,"2023-12-14 20:51:41","Skills Quiz-12 Step-3 Incorrect",CloseSAVE
+106421,407,0,"2023-12-14 20:51:42","Skills Quiz-12 Step-3 Incorrect",Next
+106422,407,0,"2023-12-14 20:51:45","Skills Quiz-12 Step-3 Correct",modal-folder-title
+106423,407,0,"2023-12-14 20:51:45","Skills Quiz-12 Step-4 Incorrect",modal-folder-title
+106424,407,0,"2023-12-14 20:51:55","Skills Quiz-12 Step-4 Correct",SAVE
+106425,407,0,"2023-12-14 20:52:16","Skills Quiz-12 Step-5 Incorrect","Folder Saved"
+106426,407,0,"2023-12-14 20:52:21","Skills Quiz-12 Step-5 Correct",Close
+106427,407,0,"2023-12-14 20:52:24","Skills Quiz-12 Step-6 Incorrect","Add New FolderGoalsListsHoliday shoppingEdit"
+106428,407,0,"2023-12-14 20:52:49","Skills Quiz-12 Step-6 Correct",Edit
+106429,407,0,"2023-12-14 20:53:16","Skills Quiz-12 Step-7 Incorrect",CloseEDIT
+106430,407,0,"2023-12-14 20:53:18","Skills Quiz-12 Step-7 Correct",SAVE
+106431,407,0,"2023-12-14 20:53:29","Skills Quiz-12 Step-8 Correct",modal-folder-title
+106432,407,0,"2023-12-14 20:53:31","Skills Quiz-12 Step-9 Incorrect",Title:
+106433,407,0,"2023-12-14 20:53:31","Skills Quiz-12 Step-9 Incorrect",Next
+106434,407,0,"2023-12-14 20:53:40","Skills Quiz-12 Step-9 Correct",modal-folder-title
+106435,407,0,"2023-12-14 20:53:41","Skills Quiz-12 Step-10 Incorrect",modal-folder-title
+106436,407,0,"2023-12-14 20:53:42","Skills Quiz-12 Step-10 Incorrect",Title:
+106437,407,0,"2023-12-14 20:53:43","Skills Quiz-12 Step-10 Incorrect",modal-folder-title
+106438,407,0,"2023-12-14 20:53:43","Skills Quiz-12 Step-10 Incorrect",modal-folder-title
+106439,407,0,"2023-12-14 20:53:44","Skills Quiz-12 Step-10 Incorrect",modal-folder-title
+106440,407,0,"2023-12-14 20:53:47","Skills Quiz-12 Step-10 Correct"," SAVE"
+106441,407,0,"2023-12-14 20:53:49","Skills Quiz-12 Step-11 Incorrect","Holiday shopping"
+106442,407,0,"2023-12-14 20:53:53","Skills Quiz-12 Step-11 Correct",Close
+0,0,0,"2023-12-14 20:53:53",module_end,none

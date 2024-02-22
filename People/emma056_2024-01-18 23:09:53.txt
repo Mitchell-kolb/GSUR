@@ -1,0 +1,66 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+116688,410,129,"2024-01-18 22:51:51",page-load,video
+116689,410,130,"2024-01-18 22:52:46",page-load,"web form: question"
+116690,410,130,"2024-01-18 22:52:57",click,"incorrect-option: In both the Time Schedule and the To Do list"
+116691,410,130,"2024-01-18 22:53:00",click,"correct-option: In the To Do list only"
+116692,410,130,"2024-01-18 22:53:03",click,next-page
+116693,410,131,"2024-01-18 22:53:03",page-load,video
+116694,410,132,"2024-01-18 22:53:24",page-load,"web form: what would you like to do next"
+116695,410,132,"2024-01-18 22:53:26",click,next-page
+116696,410,133,"2024-01-18 22:53:26",page-load,video
+116697,410,134,"2024-01-18 22:53:56",page-load,"web form: question"
+116698,410,134,"2024-01-18 22:54:01",click,"correct-option: Check off the empty box next to ""walk Buster"""
+116699,410,134,"2024-01-18 22:54:03",click,next-page
+116700,410,135,"2024-01-18 22:54:04",page-load,video
+116701,410,136,"2024-01-18 22:54:29",page-load,"web form: what would you like to do next"
+116702,410,136,"2024-01-18 22:54:31",click,next-page
+116703,410,137,"2024-01-18 22:54:32",page-load,"skills quiz 10: preview"
+116704,410,0,"2024-01-18 22:57:34","Skills Quiz-9 Step-1 Incorrect",undefined
+116705,410,0,"2024-01-18 22:57:45","Skills Quiz-9 Step-1 Incorrect","Entry/Event DetailsDate:Title:LaundryDescription:CancelDeleteEdit"
+116706,410,0,"2024-01-18 22:57:50","Skills Quiz-9 Step-1 Correct",Edit
+116707,410,0,"2024-01-18 22:57:56","Skills Quiz-9 Step-2 Incorrect",undefined
+116708,410,0,"2024-01-18 22:58:05","Skills Quiz-9 Step-2 Correct",nos-time-check
+116709,410,0,"2024-01-18 22:58:14","Skills Quiz-9 Step-3 Incorrect","End Time"
+116710,410,0,"2024-01-18 22:58:18","Skills Quiz-9 Step-3 Correct",start-time
+116711,410,0,"2024-01-18 22:58:26","Skills Quiz-9 Step-6 Correct",end-time
+116712,410,0,"2024-01-18 22:59:02","Skills Quiz 30 second Hint",30time
+116713,410,0,"2024-01-18 22:59:30","Skills Quiz-9 Step-9 Correct",Save
+116714,410,0,"2024-01-18 22:59:56","Skills Quiz-9 Step-10 Correct",CALENDAR
+116715,410,0,"2024-01-18 23:00:02","Skills Quiz-9 Step-11 Incorrect",NOTES
+116716,410,0,"2024-01-18 23:00:15","Skills Quiz-9 Step-11 Correct",9
+116717,410,138,"2024-01-18 23:03:45",click,"skills quiz hint"
+116718,410,138,"2024-01-18 23:03:47",click,"skills quiz hint"
+116719,410,0,"2024-01-18 23:04:04","Skills Quiz-9 Step-11 Correct",9
+116720,410,0,"2024-01-18 23:04:24","Skills Quiz-9 Step-12 Correct",Edit
+116721,410,0,"2024-01-18 23:04:28","Skills Quiz-9 Step-13 Incorrect",undefined
+116722,410,0,"2024-01-18 23:04:30","Skills Quiz-9 Step-13 Incorrect",undefined
+116723,410,0,"2024-01-18 23:04:34","Skills Quiz-9 Step-13 Correct","June 9, 2021"
+116724,410,0,"2024-01-18 23:04:37","Skills Quiz-9 Step-14 Correct",10
+116725,410,0,"2024-01-18 23:04:39","Skills Quiz-9 Step-15 Correct",OK
+116726,410,0,"2024-01-18 23:04:41","Skills Quiz-9 Step-16 Incorrect",undefined
+116727,410,0,"2024-01-18 23:04:42","Skills Quiz-9 Step-16 Incorrect",undefined
+116728,410,0,"2024-01-18 23:04:45","Skills Quiz-9 Step-16 Correct",nos-time-check
+116729,410,0,"2024-01-18 23:04:46","Skills Quiz-9 Step-17 Correct",start-time
+116730,410,0,"2024-01-18 23:05:21","Skills Quiz-9 Step-20 Correct",end-time
+116731,410,0,"2024-01-18 23:05:35","Skills Quiz-9 Step-23 Correct",Save
+116732,410,0,"2024-01-18 23:06:10","Skills Quiz-9 Step-13 Correct","June 9, 2021"
+116733,410,0,"2024-01-18 23:06:12","Skills Quiz-9 Step-14 Correct",10
+116734,410,0,"2024-01-18 23:06:15","Skills Quiz-9 Step-15 Correct",OK
+116735,410,0,"2024-01-18 23:06:45","Skills Quiz 30 second Hint",30time
+116736,410,0,"2024-01-18 23:06:53","Skills Quiz-9 Step-16 Correct",nos-time-check
+116737,410,0,"2024-01-18 23:06:54","Skills Quiz-9 Step-17 Correct",start-time
+116738,410,0,"2024-01-18 23:07:42","Skills Quiz 30 second Hint",30time
+116739,410,0,"2024-01-18 23:08:14","Skills Quiz-9 Step-20 Correct",end-time
+116740,410,0,"2024-01-18 23:08:28","Skills Quiz-9 Step-23 Correct",Save
+116741,410,0,"2024-01-18 23:08:37","Skills Quiz-9 Step-24 Incorrect","Add Entry/Event"
+116742,410,0,"2024-01-18 23:08:42","Skills Quiz-9 Step-24 Correct",CALENDAR
+116743,410,0,"2024-01-18 23:08:45","Skills Quiz-9 Step-25 Correct",10
+116744,410,0,"2024-01-18 23:08:48","Skills Quiz-9 Step-26 Incorrect",undefined
+116745,410,0,"2024-01-18 23:08:49","Skills Quiz-9 Step-26 Incorrect","Bake Apple Pie"
+116746,410,0,"2024-01-18 23:09:01","Skills Quiz-9 Step-26 Incorrect","Entry/Event DetailsDate:Title:Bake Apple PieDescription:CancelDeleteEdit"
+116747,410,0,"2024-01-18 23:09:07","Skills Quiz-9 Step-26 Incorrect","Bake Apple Pie"
+116748,410,0,"2024-01-18 23:09:13","Skills Quiz-9 Step-26 Correct",Edit
+116749,410,0,"2024-01-18 23:09:17","Skills Quiz-9 Step-27 Correct",event-description
+116750,410,0,"2024-01-18 23:09:51","Skills Quiz-9 Step-29 Correct","60 min"
+116751,410,0,"2024-01-18 23:09:52","Skills Quiz-9 Step-30 Correct",Save
+0,0,0,"2024-01-18 23:09:53",module_end,none

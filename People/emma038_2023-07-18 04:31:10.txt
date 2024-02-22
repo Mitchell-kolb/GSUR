@@ -1,0 +1,34 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+77686,344,410,"2023-07-18 04:21:49",page-load,video
+77687,344,411,"2023-07-18 04:22:09",page-load,"web form: scheduling choices"
+77688,344,411,"2023-07-18 04:22:16",tracked,"Physical Exercise"
+77689,344,411,"2023-07-18 04:22:20",tracked,Medications
+77690,344,411,"2023-07-18 04:22:35",click,hint
+77691,344,411,"2023-07-18 04:22:39",click,next-page
+77692,344,412,"2023-07-18 04:22:40",page-load,video
+77693,344,413,"2023-07-18 04:23:56",page-load,"web form: question"
+77694,344,413,"2023-07-18 04:24:03",click,"correct-option: 4"
+77695,344,414,"2023-07-18 04:24:05",page-load,video
+77696,344,415,"2023-07-18 04:24:39",page-load,"web form: question"
+77697,344,415,"2023-07-18 04:24:50",click,"correct-option: False"
+77698,344,416,"2023-07-18 04:24:53",page-load,video
+77699,344,417,"2023-07-18 04:27:59",page-load,"web form: what would you like to do next"
+77700,344,418,"2023-07-18 04:28:02",page-load,"skills quiz preview"
+77701,344,0,"2023-07-18 04:28:45","Skills Quiz-21 Step-1 Incorrect",HEALTH
+77702,344,0,"2023-07-18 04:28:49","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+77703,344,0,"2023-07-18 04:29:01","Skills Quiz-21 Step-3 Correct","Daily Medications"
+77704,344,419,"2023-07-18 04:29:23",click,"skills quiz hint"
+77705,344,0,"2023-07-18 04:29:28","Skills Quiz-21 Step-4 Correct",descriptionMorning
+77706,344,0,"2023-07-18 04:29:52","Skills Quiz-21 Step-6 Correct","8:00 AM"
+77707,344,0,"2023-07-18 04:29:56","Skills Quiz-21 Step-7 Correct",7
+77708,344,419,"2023-07-18 04:30:00",click,"skills quiz hint"
+77709,344,0,"2023-07-18 04:30:03","Skills Quiz-21 Step-8 Correct",00
+77710,344,419,"2023-07-18 04:30:06",click,"skills quiz hint"
+77711,344,0,"2023-07-18 04:30:09","Skills Quiz-21 Step-9 Correct",AM
+77712,344,419,"2023-07-18 04:30:11",click,"skills quiz hint"
+77713,344,0,"2023-07-18 04:30:13","Skills Quiz-21 Step-10 Correct",Save
+77714,344,419,"2023-07-18 04:30:30",click,"skills quiz hint"
+77715,344,0,"2023-07-18 04:30:43","Skills Quiz 30 second Hint",30time
+77716,344,0,"2023-07-18 04:30:51","Skills Quiz-21 Step-11 Incorrect",CloseSave
+77717,344,0,"2023-07-18 04:30:58","Skills Quiz-21 Step-11 Correct",checkMorning
+0,0,0,"2023-07-18 04:31:10",module_end,none

@@ -1,0 +1,15 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+10469,221,241,"2023-01-31 13:51:05",page-load,"skills quiz preview"
+10470,221,241,"2023-01-31 13:51:32",click,next-page
+10471,221,0,"2023-01-31 13:51:37","Skills Quiz-18 Step-1 Correct",View
+10473,221,0,"2023-01-31 13:51:39","Skills Quiz-18 Step-2 Correct",SAVE
+10474,221,0,"2023-01-31 13:51:40","Skills Quiz-18 Step-3 Correct",Delete
+10475,221,0,"2023-01-31 13:51:42","Skills Quiz-18 Step-4 Correct",Confirm
+10476,221,0,"2023-01-31 13:51:43","Skills Quiz-18 Step-5 Correct",Delete
+10477,221,0,"2023-01-31 13:51:48","Skills Quiz-18 Step-6 Correct",View
+10481,221,0,"2023-01-31 13:51:50","Skills Quiz-18 Step-7 Correct","Move Note"
+10485,221,0,"2023-01-31 13:51:52","Skills Quiz-18 Step-8 Incorrect","Cookie Recipes"
+10486,221,0,"2023-01-31 13:51:53","Skills Quiz-18 Step-8 Incorrect",Move
+10487,221,0,"2023-01-31 13:51:54","Skills Quiz-18 Step-9 Correct",Move
+10488,221,0,"2023-01-31 13:51:59","Skills Quiz-18 Step-8 Incorrect",Move
+0,0,0,"2023-01-31 13:51:59",module_end,none

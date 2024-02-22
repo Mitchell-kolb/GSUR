@@ -1,0 +1,7 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+90430,305,143,"2023-08-21 23:29:44",page-load,video
+90434,305,0,"2023-08-21 23:30:08","Skills Quiz-9 Step-27 Correct",event-description
+90439,305,0,"2023-08-21 23:30:47","Skills Quiz 30 second Hint",30time
+90440,305,0,"2023-08-21 23:31:08","Skills Quiz-9 Step-29 Correct","60 min"
+90442,305,0,"2023-08-21 23:31:22","Skills Quiz-9 Step-30 Incorrect",Next
+0,0,0,"2023-08-21 23:31:23",module_end,none

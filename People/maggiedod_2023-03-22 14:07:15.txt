@@ -1,0 +1,25 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+31729,221,235,"2023-03-22 14:06:17",page-load,video
+31730,221,236,"2023-03-22 14:06:32",page-load,"web form: question"
+31731,221,236,"2023-03-22 14:06:44",click,"incorrect-option: Entire contents of folder"
+31732,221,236,"2023-03-22 14:06:44",click,"incorrect-option: 2"
+31733,221,236,"2023-03-22 14:06:45",click,"correct-option: 1"
+31734,221,236,"2023-03-22 14:06:46",click,next-page
+31735,221,237,"2023-03-22 14:06:46",page-load,"web form: what would you like to do next"
+31736,221,237,"2023-03-22 14:06:47",click,next-page
+31737,221,238,"2023-03-22 14:06:48",page-load,"skills quiz preview"
+31738,221,238,"2023-03-22 14:06:49",click,next-page
+31739,221,0,"2023-03-22 14:06:54","Skills Quiz-17 Step-1 Incorrect","Chocolate Chip CookiesViewPost Office TripView"
+31740,221,0,"2023-03-22 14:06:54","Skills Quiz-17 Step-1 Correct",View
+31741,221,0,"2023-03-22 14:06:57","Skills Quiz-17 Step-2 Correct",SAVE
+31742,221,0,"2023-03-22 14:06:58","Skills Quiz-17 Step-3 Correct",Delete
+31743,221,0,"2023-03-22 14:07:02","Skills Quiz-17 Step-4 Incorrect",Delete
+31744,221,0,"2023-03-22 14:07:03","Skills Quiz-17 Step-4 Correct",Confirm
+31745,221,0,"2023-03-22 14:07:04","Skills Quiz-17 Step-5 Correct"," Delete"
+31746,221,0,"2023-03-22 14:07:08","Skills Quiz-17 Step-6 Incorrect","Chocolate Chip CookiesView"
+31747,221,0,"2023-03-22 14:07:08","Skills Quiz-17 Step-6 Correct",View
+31748,221,0,"2023-03-22 14:07:09","Skills Quiz-17 Step-7 Correct","Move Note"
+31749,221,0,"2023-03-22 14:07:12","Skills Quiz-17 Step-8 Incorrect","Cookie Recipes"
+31750,221,0,"2023-03-22 14:07:14","Skills Quiz-17 Step-8 Incorrect"," Move"
+31751,221,0,"2023-03-22 14:07:14","Skills Quiz-17 Step-9 Correct"," Move"
+0,0,0,"2023-03-22 14:07:15",module_end,none

@@ -1,0 +1,59 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+85968,355,129,"2023-08-15 14:50:41",page-load,video
+85969,355,130,"2023-08-15 14:58:37",page-load,"web form: question"
+85970,355,130,"2023-08-15 14:58:56",click,"correct-option: In the To Do list only"
+85971,355,130,"2023-08-15 14:59:00",click,next-page
+85972,355,131,"2023-08-15 14:59:00",page-load,video
+85973,355,132,"2023-08-15 15:00:22",page-load,"web form: what would you like to do next"
+85974,355,132,"2023-08-15 15:00:26",click,next-page
+85975,355,133,"2023-08-15 15:00:30",page-load,video
+85976,355,134,"2023-08-15 15:02:48",page-load,"web form: question"
+85977,355,134,"2023-08-15 15:03:12",click,"correct-option: Check off the empty box next to ""walk Buster"""
+85978,355,134,"2023-08-15 15:03:15",click,next-page
+85979,355,135,"2023-08-15 15:03:15",page-load,video
+85980,355,136,"2023-08-15 15:04:51",page-load,"web form: what would you like to do next"
+85981,355,136,"2023-08-15 15:04:55",click,next-page
+85982,355,137,"2023-08-15 15:04:56",page-load,"skills quiz 10: preview"
+85983,355,137,"2023-08-15 15:05:16",click,next-page
+85984,355,0,"2023-08-15 15:05:48","Skills Quiz 30 second Hint",30time
+86223,355,0,"2023-08-16 17:03:03","Skills Quiz 30 second Hint",30time
+86224,355,0,"2023-08-16 17:05:36","Skills Quiz-9 Step-1 Incorrect",TODAY
+86225,355,0,"2023-08-16 17:05:36","Skills Quiz-9 Step-1 Incorrect","Add Entry/Event"
+86226,355,0,"2023-08-16 17:06:03","Skills Quiz-9 Step-1 Correct",Edit
+86227,355,0,"2023-08-16 17:06:13","Skills Quiz-9 Step-2 Incorrect",undefined
+86228,355,0,"2023-08-16 17:06:15","Skills Quiz-9 Step-2 Incorrect",undefined
+86229,355,0,"2023-08-16 17:06:16","Skills Quiz-9 Step-2 Correct",nos-time-check
+86230,355,0,"2023-08-16 17:06:17","Skills Quiz-9 Step-3 Correct",start-time
+86231,355,0,"2023-08-16 17:06:27","Skills Quiz-9 Step-6 Correct",end-time
+86232,355,0,"2023-08-16 17:07:02","Skills Quiz 30 second Hint",30time
+86233,355,0,"2023-08-16 17:07:06","Skills Quiz-9 Step-9 Correct",Save
+86234,355,138,"2023-08-16 17:07:31",click,"skills quiz hint"
+86235,355,0,"2023-08-16 17:07:34","Skills Quiz-9 Step-10 Correct",CALENDAR
+86236,355,0,"2023-08-16 17:07:38","Skills Quiz-9 Step-11 Correct",9
+86237,355,0,"2023-08-16 17:07:46","Skills Quiz-9 Step-12 Correct",Edit
+86238,355,0,"2023-08-16 17:07:58","Skills Quiz-9 Step-13 Correct","June 9, 2021"
+86239,355,0,"2023-08-16 17:08:02","Skills Quiz-9 Step-14 Correct",10
+86240,355,0,"2023-08-16 17:08:06","Skills Quiz-9 Step-15 Incorrect","JUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930"
+86241,355,0,"2023-08-16 17:08:08","Skills Quiz-9 Step-15 Incorrect","Please choose a Date for the TaskJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+86242,355,0,"2023-08-16 17:08:13","Skills Quiz-9 Step-15 Correct",OK
+86243,355,0,"2023-08-16 17:08:43","Skills Quiz 30 second Hint",30time
+86244,355,0,"2023-08-16 17:08:52","Skills Quiz-9 Step-16 Correct",nos-time-check
+86245,355,0,"2023-08-16 17:09:04","Skills Quiz-9 Step-17 Correct",start-time
+86246,355,0,"2023-08-16 17:09:57","Skills Quiz-9 Step-20 Correct",end-time
+86247,355,0,"2023-08-16 17:10:20","Skills Quiz-9 Step-23 Correct",Save
+86248,355,0,"2023-08-16 17:10:24","Skills Quiz-9 Step-24 Correct",CALENDAR
+86249,355,0,"2023-08-16 17:10:28","Skills Quiz-9 Step-25 Incorrect",9
+86250,355,0,"2023-08-16 17:10:30","Skills Quiz-9 Step-25 Incorrect",TODAY
+86251,355,0,"2023-08-16 17:10:36","Skills Quiz-9 Step-25 Correct",10
+86252,355,0,"2023-08-16 17:11:07","Skills Quiz 30 second Hint",30time
+86253,355,0,"2023-08-16 17:11:17","Skills Quiz-9 Step-26 Incorrect",Cancel
+86254,355,0,"2023-08-16 17:11:35","Skills Quiz-9 Step-26 Correct",Edit
+86255,355,0,"2023-08-16 17:12:05","Skills Quiz 30 second Hint",30time
+86256,355,0,"2023-08-16 17:15:46","Skills Quiz-9 Step-27 Incorrect","5:00 PM"
+86257,355,0,"2023-08-16 17:15:48","Skills Quiz-9 Step-27 Incorrect","5:00 PM"
+86258,355,0,"2023-08-16 17:15:57","Skills Quiz-9 Step-27 Incorrect",Description
+86259,355,0,"2023-08-16 17:15:58","Skills Quiz-9 Step-27 Correct",event-description
+86260,355,0,"2023-08-16 17:16:28","Skills Quiz 30 second Hint",30time
+86261,355,0,"2023-08-16 17:17:10","Skills Quiz-9 Step-29 Correct","60 min"
+86262,355,0,"2023-08-16 17:17:16","Skills Quiz-9 Step-30 Incorrect",Next
+0,0,0,"2023-08-16 17:17:16",module_end,none

@@ -1,0 +1,16 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+87809,355,0,"2023-08-18 03:20:48","Skills Quiz 30 second Hint",30time
+87810,355,232,"2023-08-18 03:21:13",click,next-page
+87811,355,0,"2023-08-18 03:21:25","Skills Quiz-16 Step-1 Correct",Relevant
+87812,355,0,"2023-08-18 03:21:26","Skills Quiz-16 Step-2 Correct","Alphabetical Order"
+87813,355,0,"2023-08-18 03:21:29","Skills Quiz-16 Step-3 Correct","Holiday GiftsEdit"
+87814,355,0,"2023-08-18 03:21:34","Skills Quiz-16 Step-4 Correct",note-search
+87815,355,0,"2023-08-18 03:22:04","Skills Quiz 30 second Hint",30time
+87816,355,232,"2023-08-18 03:22:20",click,next-page
+87817,355,0,"2023-08-18 03:22:26","Skills Quiz-16 Step-1 Correct",Relevant
+87818,355,0,"2023-08-18 03:22:28","Skills Quiz-16 Step-2 Correct","A - Z"
+87819,355,0,"2023-08-18 03:22:32","Skills Quiz-16 Step-3 Incorrect","Holiday Gifts"
+87820,355,0,"2023-08-18 03:22:38","Skills Quiz-16 Step-4 Correct",note-search
+87821,355,0,"2023-08-18 03:22:38","Skills Quiz-16 Step-3 Incorrect",note-search
+87822,355,0,"2023-08-18 03:22:50","Skills Quiz-16 Step-3 Incorrect",Next
+0,0,0,"2023-08-18 03:22:53",module_end,none

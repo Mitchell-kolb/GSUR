@@ -1,0 +1,29 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+86530,345,204,"2023-08-16 20:58:20",page-load,video
+86758,345,205,"2023-08-17 04:10:27",page-load,"web form: question"
+86759,345,205,"2023-08-17 04:10:29",click,next-page
+86760,345,205,"2023-08-17 04:10:34",click,"correct-option: Add New Folder"
+86761,345,205,"2023-08-17 04:10:35",click,next-page
+86762,345,206,"2023-08-17 04:10:36",page-load,video
+86763,345,207,"2023-08-17 04:11:19",page-load,"web form: question"
+86764,345,207,"2023-08-17 04:11:23",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+86765,345,208,"2023-08-17 04:11:29",page-load,"web form: what would you like to do next"
+86766,345,208,"2023-08-17 04:11:31",click,next-page
+86767,345,209,"2023-08-17 04:11:32",page-load,"skills quiz preview"
+86768,345,209,"2023-08-17 04:11:38",click,next-page
+86769,345,0,"2023-08-17 04:11:47","Skills Quiz-11 Step-1 Correct","Add New Folder"
+86770,345,0,"2023-08-17 04:11:51","Skills Quiz-11 Step-2 Correct",modal-folder-title
+86771,345,0,"2023-08-17 04:11:56","Skills Quiz-11 Step-3 Correct",modal-folder-title
+86772,345,0,"2023-08-17 04:12:13","Skills Quiz-11 Step-4 Correct",SAVE
+86773,345,0,"2023-08-17 04:12:17","Skills Quiz-11 Step-5 Incorrect",CloseEDIT
+86774,345,0,"2023-08-17 04:12:23","Skills Quiz-11 Step-5 Correct",Close
+86775,345,0,"2023-08-17 04:12:25","Skills Quiz-11 Step-6 Incorrect","Book list"
+86776,345,0,"2023-08-17 04:12:27","Skills Quiz-11 Step-6 Correct",Edit
+86777,345,0,"2023-08-17 04:12:33","Skills Quiz-11 Step-7 Correct",SAVE
+86778,345,0,"2023-08-17 04:12:34","Skills Quiz-11 Step-8 Correct",modal-folder-title
+86779,345,0,"2023-08-17 04:12:52","Skills Quiz-11 Step-9 Incorrect",Next
+86780,345,0,"2023-08-17 04:12:56","Skills Quiz-11 Step-9 Incorrect"," SAVE"
+86781,345,0,"2023-08-17 04:12:56","Skills Quiz-11 Step-10 Correct"," SAVE"
+86782,345,0,"2023-08-17 04:13:04","Skills Quiz-11 Step-9 Incorrect",Close
+86783,345,0,"2023-08-17 04:13:04","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-08-17 04:13:04",module_end,none

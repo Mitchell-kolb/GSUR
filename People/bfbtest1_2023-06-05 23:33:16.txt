@@ -1,0 +1,19 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+62676,327,241,"2023-06-05 23:32:35",page-load,"skills quiz preview"
+62677,327,241,"2023-06-05 23:32:40",click,next-page
+62678,327,0,"2023-06-05 23:32:43","Skills Quiz-18 Step-1 Incorrect","Ginger Snap CookiesViewTree FarmView"
+62679,327,0,"2023-06-05 23:32:45","Skills Quiz-18 Step-1 Correct",View
+62680,327,0,"2023-06-05 23:32:52","Skills Quiz-18 Step-2 Correct",SAVE
+62681,327,0,"2023-06-05 23:32:53","Skills Quiz-18 Step-3 Correct",Delete
+62682,327,0,"2023-06-05 23:32:55","Skills Quiz-18 Step-4 Correct",Confirm
+62683,327,0,"2023-06-05 23:32:56","Skills Quiz-18 Step-5 Correct",Delete
+62684,327,0,"2023-06-05 23:33:03","Skills Quiz-18 Step-6 Correct",View
+62685,327,0,"2023-06-05 23:33:05","Skills Quiz-18 Step-7 Correct","Move Note"
+62686,327,0,"2023-06-05 23:33:07","Skills Quiz-18 Step-8 Incorrect","To Folder:"
+62687,327,0,"2023-06-05 23:33:08","Skills Quiz-18 Step-8 Incorrect",Move
+62688,327,0,"2023-06-05 23:33:10","Skills Quiz-18 Step-8 Incorrect",Move
+62689,327,0,"2023-06-05 23:33:12","Skills Quiz-18 Step-8 Incorrect","Cookie Recipes"
+62690,327,0,"2023-06-05 23:33:13","Skills Quiz-18 Step-8 Incorrect",Move
+62691,327,0,"2023-06-05 23:33:13","Skills Quiz-18 Step-9 Correct",Move
+62692,327,0,"2023-06-05 23:33:15","Skills Quiz-18 Step-8 Incorrect",Move
+0,0,0,"2023-06-05 23:33:16",module_end,none

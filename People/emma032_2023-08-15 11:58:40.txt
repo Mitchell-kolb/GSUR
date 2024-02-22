@@ -1,0 +1,10 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+85829,349,0,"2023-08-15 11:58:23","Skills Quiz-6 Step-1 Correct",CALENDAR
+85830,349,0,"2023-08-15 11:58:24","Skills Quiz-6 Step-2 Correct",right-arrow
+85831,349,0,"2023-08-15 11:58:25","Skills Quiz-6 Step-2 Correct",right-arrow
+85832,349,0,"2023-08-15 11:58:28","Skills Quiz-6 Step-3 Correct",3
+85833,349,0,"2023-08-15 11:58:34","Skills Quiz-6 Step-4 Correct",Edit
+85834,349,0,"2023-08-15 11:58:37","Skills Quiz-6 Step-5 Correct",YES
+85835,349,0,"2023-08-15 11:58:39","Skills Quiz-6 Step-6 Correct","60 min"
+85836,349,0,"2023-08-15 11:58:40","Skills Quiz-6 Step-7 Correct",Save
+0,0,0,"2023-08-15 11:58:40",module_end,none

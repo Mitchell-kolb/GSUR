@@ -1,0 +1,53 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+11237,253,512,"2023-01-31 14:38:48",page-load,video
+11238,253,513,"2023-01-31 14:38:58",page-load,"web form: question"
+11239,253,513,"2023-01-31 14:39:04",click,"correct-option: at the same time every time and limiting distractions."
+11240,253,513,"2023-01-31 14:39:04",click,next-page
+11241,253,514,"2023-01-31 14:39:05",page-load,video
+11242,253,515,"2023-01-31 14:39:17",page-load,"web form: question"
+11243,253,515,"2023-01-31 14:39:27",click,"incorrect-option: Saved in your notes section."
+11244,253,515,"2023-01-31 14:39:28",click,"correct-option: On the help page"
+11245,253,515,"2023-01-31 14:39:28",click,"incorrect-option: The instructions are displayed when you begin the test."
+11246,253,515,"2023-01-31 14:39:29",click,next-page
+11247,253,516,"2023-01-31 14:39:29",page-load,video
+11248,253,517,"2023-01-31 14:39:38",page-load,"web form: question"
+11249,253,517,"2023-01-31 14:39:40",click,"incorrect-option: 2 minutes"
+11250,253,517,"2023-01-31 14:39:40",click,"incorrect-option: 20 minutes"
+11251,253,517,"2023-01-31 14:39:40",click,"incorrect-option: 30 minutes"
+11252,253,517,"2023-01-31 14:39:40",click,"correct-option: 45 seconds"
+11253,253,517,"2023-01-31 14:39:41",click,next-page
+11254,253,518,"2023-01-31 14:39:42",page-load,video
+11255,253,519,"2023-01-31 14:39:49",page-load,"web form: question"
+11256,253,519,"2023-01-31 14:39:50",click,"incorrect-option: True"
+11257,253,519,"2023-01-31 14:39:51",click,"correct-option: False"
+11258,253,519,"2023-01-31 14:39:52",click,next-page
+11259,253,520,"2023-01-31 14:39:52",page-load,"web form: what would you like to do next"
+11260,253,520,"2023-01-31 14:39:54",click,next-page
+11261,253,521,"2023-01-31 14:39:54",page-load,video
+11262,253,522,"2023-01-31 14:40:03",page-load,"web form: question"
+11263,253,522,"2023-01-31 14:40:04",click,"incorrect-option: 2"
+11264,253,522,"2023-01-31 14:40:04",click,"correct-option: 1"
+11265,253,522,"2023-01-31 14:40:05",click,"incorrect-option: 0"
+11266,253,522,"2023-01-31 14:40:05",click,"incorrect-option: Unlimited"
+11267,253,522,"2023-01-31 14:40:05",click,next-page
+11268,253,523,"2023-01-31 14:40:06",page-load,video
+11269,253,524,"2023-01-31 14:40:15",page-load,"web form: what would you like to do next"
+11270,253,524,"2023-01-31 14:40:16",click,next-page
+11271,253,525,"2023-01-31 14:40:17",page-load,"skills quiz preview"
+11272,253,525,"2023-01-31 14:40:19",click,next-page
+11273,253,0,"2023-01-31 14:40:30","Skills Quiz-27 Step-1 Incorrect",Edit
+11274,253,0,"2023-01-31 14:40:30","Skills Quiz-27 Step-2 Correct",Edit
+11275,253,0,"2023-01-31 14:40:37","Skills Quiz-27 Step-3 Incorrect",Save
+11276,253,0,"2023-01-31 14:40:38","Skills Quiz-27 Step-3 Correct",YES
+11277,253,0,"2023-01-31 14:40:40","Skills Quiz-27 Step-4 Correct","Emotion Rating"
+11278,253,0,"2023-01-31 14:40:41","Skills Quiz-27 Step-5 Correct",Optimism
+11279,253,0,"2023-01-31 14:40:42","Skills Quiz-27 Step-6 Correct","                  Select               "
+11280,253,0,"2023-01-31 14:40:43","Skills Quiz-27 Step-7 Correct",Save
+11281,253,0,"2023-01-31 14:40:48","Skills Quiz-27 Step-8 Incorrect","Optimism Rating "
+11282,253,0,"2023-01-31 14:40:50","Skills Quiz-27 Step-9 Correct",4
+11283,253,0,"2023-01-31 14:40:50","Skills Quiz-27 Step-8 Incorrect",4
+11284,253,0,"2023-01-31 14:40:52","Skills Quiz-27 Step-8 Incorrect","Save and View Graph"
+11285,253,0,"2023-01-31 14:40:52","Skills Quiz-27 Step-10 Correct","Save and View Graph"
+11286,253,0,"2023-01-31 14:40:55","Skills Quiz-27 Step-11 Correct","View Progress"
+11287,253,0,"2023-01-31 14:40:59","Skills Quiz-27 Step-12 Correct",Close
+0,0,0,"2023-01-31 14:41:00",module_end,none

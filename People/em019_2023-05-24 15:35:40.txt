@@ -1,0 +1,72 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+55891,325,434,"2023-05-24 15:06:04",page-load,video
+55892,325,435,"2023-05-24 15:06:10",page-load,"goal setting: preview"
+55893,325,436,"2023-05-24 15:07:25",page-load,"goal setting: example plan"
+55894,325,437,"2023-05-24 15:08:12",page-load,"goal setting: pick one strategy"
+55895,325,437,"2023-05-24 15:08:43",click,next-page
+55896,325,438,"2023-05-24 15:08:44",page-load,"goal setting: top strategy display"
+55897,325,438,"2023-05-24 15:09:00",click,next-page
+55898,325,439,"2023-05-24 15:09:00",page-load,"goal setting: when"
+55899,325,439,"2023-05-24 15:10:06",click,next-page
+55900,325,440,"2023-05-24 15:10:07",page-load,"goal setting: where"
+55901,325,440,"2023-05-24 15:10:20",click,next-page
+55902,325,441,"2023-05-24 15:10:20",page-load,"goal setting: with whom"
+55903,325,441,"2023-05-24 15:10:46",click,next-page
+55904,325,442,"2023-05-24 15:10:47",page-load,"goal setting: how"
+55905,325,442,"2023-05-24 15:12:21",click,next-page
+55906,325,443,"2023-05-24 15:12:22",page-load,"goal setting: barriers and alternatives"
+55907,325,443,"2023-05-24 15:13:05",click,next-page
+55908,325,444,"2023-05-24 15:13:06",page-load,"goal setting: motivation"
+55909,325,444,"2023-05-24 15:13:10",click,next-page
+55910,325,445,"2023-05-24 15:13:10",page-load,"goal setting: confidence"
+55911,325,445,"2023-05-24 15:13:16",click,next-page
+55912,325,446,"2023-05-24 15:13:16",page-load,"goal setting: plan"
+55913,325,446,"2023-05-24 15:13:19",click,next-page
+55914,325,447,"2023-05-24 15:13:20",page-load,"end of lesson: 5"
+55915,325,500,"2023-05-24 15:13:24",page-load,video
+55916,325,501,"2023-05-24 15:18:07",page-load,"web form: scheduling choices"
+55917,325,501,"2023-05-24 15:18:22",tracked,"reduce stress"
+55918,325,501,"2023-05-24 15:18:23",tracked,"better relationships"
+55919,325,501,"2023-05-24 15:18:26",tracked,"improve my quality of life"
+55920,325,501,"2023-05-24 15:18:32",tracked,"stay mobile and active"
+55921,325,501,"2023-05-24 15:18:35",tracked,"improve emotion regulation/mood"
+55922,325,501,"2023-05-24 15:18:37",click,next-page
+55923,325,502,"2023-05-24 15:18:39",page-load,video
+55924,325,503,"2023-05-24 15:28:11",page-load,"web form: scheduling choices"
+55925,325,503,"2023-05-24 15:28:24",tracked,"Helping your children/ grandchildren with homework"
+55926,325,503,"2023-05-24 15:28:28",tracked,"Watching a TED talk"
+55927,325,503,"2023-05-24 15:28:30",tracked,"Cooking a new recipe"
+55928,325,503,"2023-05-24 15:28:40",tracked,"Socialize with family and friends"
+55929,325,503,"2023-05-24 15:28:41",click,next-page
+55930,325,504,"2023-05-24 15:28:42",page-load,video
+55931,325,505,"2023-05-24 15:34:28",page-load,"web form: what would you like to do next"
+55932,325,505,"2023-05-24 15:34:30",click,next-page
+55933,325,506,"2023-05-24 15:34:31",page-load,"skills quiz preview"
+55934,325,506,"2023-05-24 15:34:45",click,next-page
+55935,325,0,"2023-05-24 15:34:54","Skills Quiz-25 Step-1 Incorrect",TODAYCALENDARHEALTHNOTES
+55936,325,0,"2023-05-24 15:34:58","Skills Quiz-25 Step-1 Correct",TODAY
+55937,325,0,"2023-05-24 15:35:08","Skills Quiz-25 Step-2 Incorrect",undefined
+55938,325,0,"2023-05-24 15:35:12","Skills Quiz-25 Step-3 Correct","Tap Here"
+55939,325,0,"2023-05-24 15:35:12","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+55940,325,0,"2023-05-24 15:35:13","Skills Quiz-25 Step-4 Correct",3
+55941,325,0,"2023-05-24 15:35:13","Skills Quiz-25 Step-2 Incorrect",3
+55942,325,0,"2023-05-24 15:35:14","Skills Quiz-25 Step-5 Correct",0
+55943,325,0,"2023-05-24 15:35:14","Skills Quiz-25 Step-2 Incorrect",0
+55944,325,0,"2023-05-24 15:35:18","Skills Quiz-25 Step-6 Correct","                              Save            "
+55945,325,0,"2023-05-24 15:35:18","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+55946,325,0,"2023-05-24 15:35:24","Skills Quiz-25 Step-2 Incorrect",Save
+55947,325,0,"2023-05-24 15:35:24","Skills Quiz-25 Step-7 Correct",Save
+55948,325,0,"2023-05-24 15:35:28","Skills Quiz-25 Step-2 Incorrect","Gratitude Journal"
+55949,325,0,"2023-05-24 15:35:28","Skills Quiz-25 Step-8 Incorrect","Gratitude Journal"
+55950,325,0,"2023-05-24 15:35:35","Skills Quiz-25 Step-2 Incorrect","Tap Here"
+55951,325,0,"2023-05-24 15:35:35","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+55952,325,0,"2023-05-24 15:35:35","Skills Quiz-25 Step-9 Correct","Tap Here"
+55953,325,0,"2023-05-24 15:35:36","Skills Quiz-25 Step-2 Incorrect",1
+55954,325,0,"2023-05-24 15:35:36","Skills Quiz-25 Step-10 Correct",1
+55955,325,0,"2023-05-24 15:35:36","Skills Quiz-25 Step-8 Incorrect",1
+55956,325,0,"2023-05-24 15:35:38","Skills Quiz-25 Step-2 Incorrect","                              Save            "
+55957,325,0,"2023-05-24 15:35:38","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+55958,325,0,"2023-05-24 15:35:38","Skills Quiz-25 Step-11 Correct","                              Save            "
+55959,325,0,"2023-05-24 15:35:40","Skills Quiz-25 Step-8 Incorrect",Save
+55960,325,0,"2023-05-24 15:35:40","Skills Quiz-25 Step-2 Incorrect",Save
+0,0,0,"2023-05-24 15:35:40",module_end,none

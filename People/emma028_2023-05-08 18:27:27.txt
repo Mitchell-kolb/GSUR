@@ -1,0 +1,31 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+50895,326,27,"2023-05-08 18:20:23",page-load,"web form: question"
+50896,326,27,"2023-05-08 18:20:30",click,"correct-option: True"
+50897,326,27,"2023-05-08 18:20:31",click,next-page
+50898,326,28,"2023-05-08 18:20:32",page-load,"web form: question"
+50899,326,28,"2023-05-08 18:20:39",click,"correct-option: True"
+50900,326,28,"2023-05-08 18:20:40",click,next-page
+50901,326,29,"2023-05-08 18:20:41",page-load,video
+50902,326,30,"2023-05-08 18:22:34",page-load,"web form: question"
+50903,326,30,"2023-05-08 18:22:40",click,"incorrect-option: Where the activity will take place (address or room number)"
+50904,326,30,"2023-05-08 18:22:40",click,"incorrect-option: Where the activity will take place (address or room number)"
+50905,326,30,"2023-05-08 18:22:42",click,"incorrect-option: A list of the items you need to bring to the event"
+50906,326,30,"2023-05-08 18:22:43",click,"correct-option: All of the above"
+50907,326,30,"2023-05-08 18:22:45",click,next-page
+50908,326,31,"2023-05-08 18:22:46",page-load,video
+50909,326,32,"2023-05-08 18:25:28",page-load,"web form: what would you like to do next"
+50910,326,0,"2023-05-08 18:26:19","Skills Quiz-3 Step-1 Correct",TODAY
+50911,326,0,"2023-05-08 18:26:23","Skills Quiz-3 Step-2 Correct","Add Entry/Event"
+50912,326,0,"2023-05-08 18:26:25","Skills Quiz-3 Step-3 Correct","June 10, 2021"
+50913,326,0,"2023-05-08 18:26:27","Skills Quiz-3 Step-4 Correct",right-arrow
+50914,326,0,"2023-05-08 18:26:28","Skills Quiz-3 Step-5 Correct",14
+50915,326,0,"2023-05-08 18:26:30","Skills Quiz-3 Step-6 Correct",OK
+50916,326,0,"2023-05-08 18:26:32","Skills Quiz-3 Step-7 Correct","Tap Here"
+50917,326,0,"2023-05-08 18:26:39","Skills Quiz-3 Step-10 Correct","Tap Here"
+50918,326,0,"2023-05-08 18:26:47","Skills Quiz-3 Step-13 Correct",event-title
+50919,326,0,"2023-05-08 18:26:51","Skills Quiz-3 Step-15 Incorrect",Save
+50920,326,0,"2023-05-08 18:26:57","Skills Quiz-3 Step-15 Correct",event-description
+50921,326,0,"2023-05-08 18:27:24","Skills Quiz-3 Step-17 Incorrect",undefined
+50922,326,0,"2023-05-08 18:27:25","Skills Quiz-3 Step-17 Incorrect",undefined
+50923,326,0,"2023-05-08 18:27:27","Skills Quiz-3 Step-17 Incorrect",Next
+0,0,0,"2023-05-08 18:27:27",module_end,none

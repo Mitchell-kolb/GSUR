@@ -1,0 +1,207 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+68482,344,0,"2023-06-17 16:38:28","Skills Quiz-8 Step-1 Correct",Edit
+68483,344,0,"2023-06-17 16:38:39","Skills Quiz-8 Step-1 Incorrect","Homeless Shelter Volunteer Shift1:00 PM - 3:00 PM"
+68484,344,0,"2023-06-17 16:38:50","Skills Quiz-8 Step-1 Correct",Edit
+68485,344,127,"2023-06-17 16:38:57",click,"skills quiz hint"
+68486,344,0,"2023-06-17 16:39:04","Skills Quiz-8 Step-2 Correct",event-description
+68487,344,0,"2023-06-17 16:39:34","Skills Quiz 30 second Hint",30time
+68488,344,0,"2023-06-19 06:02:51","Skills Quiz-8 Step-1 Incorrect","Homeless Shelter Volunteer Shift"
+68489,344,0,"2023-06-19 06:02:52","Skills Quiz-8 Step-1 Incorrect","Homeless Shelter Volunteer Shift"
+68490,344,0,"2023-06-19 06:02:56","Skills Quiz-8 Step-1 Correct",Edit
+68491,344,0,"2023-06-19 06:03:26","Skills Quiz 30 second Hint",30time
+68492,344,0,"2023-06-19 06:10:42","Skills Quiz-8 Step-2 Correct",event-description
+68493,344,124,"2023-06-19 06:10:51",page-load,"web form: what would you like to do next"
+68494,344,124,"2023-06-19 06:11:03",click,previous-page
+68495,344,123,"2023-06-19 06:11:04",page-load,video
+68496,344,123,"2023-06-19 06:16:56",page-load,video
+68497,344,124,"2023-06-19 06:19:02",page-load,"web form: what would you like to do next"
+68498,344,0,"2023-06-19 06:20:15","Skills Quiz-7 Step-1 Correct",Edit
+68499,344,0,"2023-06-19 06:20:35","Skills Quiz-7 Step-2 Correct",event-description
+68500,344,0,"2023-06-19 06:21:05","Skills Quiz 30 second Hint",30time
+68501,344,0,"2023-06-19 06:22:10","Skills Quiz-7 Step-4 Incorrect",Save
+68502,344,0,"2023-06-19 06:22:18","Skills Quiz-7 Step-4 Incorrect",Save
+68503,344,0,"2023-06-19 06:22:28","Skills Quiz-7 Step-4 Incorrect",Save
+68504,344,125,"2023-06-19 06:22:34",click,"skills quiz hint"
+68505,344,0,"2023-06-19 06:22:39","Skills Quiz-7 Step-4 Correct",Weekly
+68506,344,0,"2023-06-19 06:22:43","Skills Quiz-7 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatJuly 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+68507,344,0,"2023-06-19 06:22:48","Skills Quiz-7 Step-5 Correct",Tue
+68508,344,0,"2023-06-19 06:22:49","Skills Quiz-7 Step-6 Incorrect",Tue
+68509,344,0,"2023-06-19 06:22:51","Skills Quiz-7 Step-6 Incorrect",Tue
+68510,344,0,"2023-06-19 06:22:52","Skills Quiz-7 Step-6 Incorrect",Tue
+68511,344,0,"2023-06-19 06:22:57","Skills Quiz-7 Step-6 Incorrect",Tue
+68512,344,0,"2023-06-19 06:23:00","Skills Quiz-7 Step-6 Incorrect",Weekly
+68513,344,0,"2023-06-19 06:23:01","Skills Quiz-7 Step-6 Incorrect",Tue
+68514,344,0,"2023-06-19 06:23:02","Skills Quiz-7 Step-6 Correct",Thu
+68515,344,0,"2023-06-19 06:23:07","Skills Quiz-7 Step-7 Incorrect",Tue
+68516,344,0,"2023-06-19 06:23:11","Skills Quiz-7 Step-7 Incorrect",YES
+68517,344,0,"2023-06-19 06:23:12","Skills Quiz-7 Step-7 Incorrect",YES
+68518,344,0,"2023-06-19 06:23:13","Skills Quiz-7 Step-7 Incorrect",Thu
+68519,344,0,"2023-06-19 06:23:24","Skills Quiz-7 Step-7 Incorrect",YES
+68520,344,0,"2023-06-19 06:23:25","Skills Quiz-7 Step-7 Incorrect",YES
+68521,344,125,"2023-06-19 06:23:27",click,"skills quiz hint"
+68522,344,125,"2023-06-19 06:23:30",click,"skills quiz hint"
+68523,344,0,"2023-06-19 06:23:32","Skills Quiz-7 Step-7 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatJuly 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+68524,344,0,"2023-06-19 06:23:39","Skills Quiz-7 Step-7 Incorrect",Tue
+68525,344,0,"2023-06-19 06:26:33","Skills Quiz-7 Step-7 Correct","July 31, 2021"
+68526,344,0,"2023-06-19 06:26:36","Skills Quiz-7 Step-8 Incorrect","Please choose a Date to Stop RepeatingJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+68527,344,0,"2023-06-19 06:26:49","Skills Quiz-7 Step-8 Incorrect","Please choose a Date to Stop RepeatingJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+68528,344,125,"2023-06-19 06:26:50",click,"skills quiz hint"
+68529,344,125,"2023-06-19 06:26:51",click,"skills quiz hint"
+68530,344,0,"2023-06-19 06:27:47","Skills Quiz-7 Step-8 Incorrect","Please choose a Date to Stop RepeatingJULY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+68531,344,0,"2023-06-19 06:27:47","Skills Quiz-7 Step-8 Incorrect",31
+68532,344,0,"2023-06-19 06:27:49","Skills Quiz-7 Step-8 Correct",end-right-arrow
+68533,344,0,"2023-06-19 06:27:52","Skills Quiz-7 Step-9 Incorrect","AUGUST 2021"
+68534,344,0,"2023-06-19 06:27:54","Skills Quiz-7 Step-9 Incorrect","AUGUST 2021"
+68535,344,0,"2023-06-19 06:27:57","Skills Quiz-7 Step-9 Incorrect","AUGUST 2021"
+68536,344,0,"2023-06-19 06:27:58","Skills Quiz-7 Step-9 Incorrect","Please choose a Date to Stop RepeatingAUGUST 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+68537,344,0,"2023-06-19 06:27:59","Skills Quiz-7 Step-9 Incorrect","Please choose a Date to Stop RepeatingAUGUST 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+68538,344,0,"2023-06-19 06:28:50","Skills Quiz-7 Step-9 Incorrect","Please choose a Date to Stop RepeatingAUGUST 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+68539,344,0,"2023-06-19 06:28:51","Skills Quiz-7 Step-9 Incorrect","Please choose a Date to Stop RepeatingAUGUST 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+68540,344,0,"2023-06-19 06:30:10","Skills Quiz-7 Step-1 Correct",Edit
+68541,344,0,"2023-06-19 06:30:20","Skills Quiz-7 Step-2 Correct",event-description
+68542,344,0,"2023-06-19 06:30:50","Skills Quiz 30 second Hint",30time
+68543,344,0,"2023-06-19 06:32:06","Skills Quiz-7 Step-4 Incorrect",OK
+68544,344,0,"2023-06-19 06:32:16","Skills Quiz-7 Step-4 Incorrect","Please choose a Date to Stop RepeatingJUNE 2021SUNMONTUEWEDTHUFRISAT123456789101112131415161718192021222324252627282930CancelOK"
+68545,344,0,"2023-06-19 06:32:17","Skills Quiz-7 Step-4 Incorrect",OK
+68546,344,125,"2023-06-19 06:32:18",click,"skills quiz hint"
+68547,344,0,"2023-06-19 06:32:21","Skills Quiz-7 Step-4 Incorrect",end-left-arrow
+68548,344,0,"2023-06-19 06:32:22","Skills Quiz-7 Step-4 Incorrect","Please choose a Date to Stop RepeatingMAY 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+68549,344,0,"2023-06-19 06:32:28","Skills Quiz-7 Step-4 Incorrect",end-right-arrow
+68550,344,0,"2023-06-19 06:32:31","Skills Quiz-7 Step-4 Incorrect",end-right-arrow
+68551,344,0,"2023-06-19 06:32:32","Skills Quiz-7 Step-4 Incorrect",31
+68552,344,0,"2023-06-19 06:32:33","Skills Quiz-7 Step-4 Incorrect",OK
+68553,344,0,"2023-06-19 06:32:36","Skills Quiz-7 Step-4 Incorrect",YES
+68554,344,0,"2023-06-19 06:32:43","Skills Quiz-7 Step-4 Incorrect",Save
+68555,344,0,"2023-06-19 06:33:52","Skills Quiz-7 Step-4 Correct",Weekly
+68556,344,0,"2023-06-19 06:33:57","Skills Quiz-7 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatJuly 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+68557,344,0,"2023-06-19 06:34:27","Skills Quiz-7 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatJuly 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+68558,344,0,"2023-06-19 06:34:28","Skills Quiz-7 Step-5 Incorrect",YES
+68559,344,0,"2023-06-19 06:35:10","Skills Quiz-7 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatJuly 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+68560,344,0,"2023-06-19 06:35:12","Skills Quiz-7 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatJuly 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+68561,344,0,"2023-06-19 06:35:32","Skills Quiz-7 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatJuly 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+68562,344,0,"2023-06-19 06:36:02","Skills Quiz-7 Step-1 Incorrect",CALENDAR
+68563,344,0,"2023-06-19 06:36:09","Skills Quiz-7 Step-1 Incorrect","Date:Title:Blood Donation Volunteer ShiftDescription:"
+68564,344,0,"2023-06-19 06:36:12","Skills Quiz-7 Step-1 Correct",Edit
+68565,344,0,"2023-06-19 06:36:45","Skills Quiz-7 Step-1 Incorrect",NOTES
+68566,344,0,"2023-06-19 06:36:56","Skills Quiz-7 Step-1 Correct",Edit
+68567,344,0,"2023-06-19 06:37:01","Skills Quiz-7 Step-2 Incorrect",Cancel
+68568,344,125,"2023-06-19 06:37:06",click,"skills quiz hint"
+68569,344,0,"2023-06-19 06:38:53","Skills Quiz 30 second Hint",30time
+68570,344,200,"2023-06-19 06:39:01",page-load,video
+68571,344,201,"2023-06-19 06:41:42",page-load,"web form: question"
+68572,344,201,"2023-06-19 06:41:51",click,previous-page
+68573,344,200,"2023-06-19 06:41:52",page-load,video
+68574,344,200,"2023-06-19 06:43:20",page-load,video
+68575,344,200,"2023-06-19 06:43:42",page-load,video
+68576,344,400,"2023-06-19 06:43:50",page-load,video
+68577,344,401,"2023-06-19 06:47:51",page-load,"web form: question"
+68578,344,401,"2023-06-19 06:47:55",click,"correct-option: False"
+68579,344,401,"2023-06-19 06:47:59",click,hint
+68580,344,401,"2023-06-19 06:48:04",click,next-page
+68581,344,402,"2023-06-19 06:48:04",page-load,video
+68582,344,403,"2023-06-19 06:53:40",page-load,"web form: what would you like to do next"
+68583,344,403,"2023-06-19 06:53:49",click,next-page
+68584,344,404,"2023-06-19 06:53:49",page-load,"skills quiz preview"
+68585,344,405,"2023-06-19 06:54:54",click,"skills quiz hint"
+68586,344,0,"2023-06-19 06:54:57","Skills Quiz-19 Step-1 Incorrect",HEALTH
+68587,344,405,"2023-06-19 06:55:04",click,"skills quiz hint"
+68588,344,0,"2023-06-19 06:55:06","Skills Quiz-19 Step-2 Correct","Medical Information"
+68589,344,405,"2023-06-19 06:55:13",click,"skills quiz hint"
+68590,344,0,"2023-06-19 06:55:16","Skills Quiz-19 Step-3 Correct","Add New Note"
+68591,344,0,"2023-06-19 06:55:24","Skills Quiz-19 Step-4 Correct",noteSpecialty
+68592,344,0,"2023-06-19 06:55:54","Skills Quiz 30 second Hint",30time
+68593,344,0,"2023-06-19 06:56:15","Skills Quiz-19 Step-6 Correct",noteName
+68594,344,0,"2023-06-19 06:56:45","Skills Quiz 30 second Hint",30time
+68595,344,0,"2023-06-19 06:57:48","Skills Quiz-19 Step-8 Incorrect",Details
+68596,344,0,"2023-06-19 06:57:55","Skills Quiz-19 Step-8 Incorrect","Phone Number"
+68597,344,0,"2023-06-19 06:57:57","Skills Quiz-19 Step-8 Incorrect","Close  SAVE"
+68598,344,0,"2023-06-19 06:57:58","Skills Quiz-19 Step-8 Incorrect","Close  SAVE"
+68599,344,405,"2023-06-19 06:57:59",click,"skills quiz hint"
+68600,344,0,"2023-06-19 06:58:01","Skills Quiz-19 Step-8 Incorrect","Close  SAVE"
+68601,344,0,"2023-06-19 06:58:07","Skills Quiz-19 Step-8 Incorrect",Details
+68602,344,0,"2023-06-19 06:58:07","Skills Quiz-19 Step-8 Incorrect",Details
+68603,344,0,"2023-06-19 06:58:22","Skills Quiz-19 Step-8 Incorrect","Close  SAVE"
+68604,344,405,"2023-06-19 06:58:32",click,"skills quiz hint"
+68605,344,0,"2023-06-19 06:58:36","Skills Quiz-19 Step-2 Correct","Medical Information"
+68606,344,0,"2023-06-19 06:58:42","Skills Quiz-19 Step-3 Incorrect","Doctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+68607,344,0,"2023-06-19 06:58:43","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+68608,344,0,"2023-06-19 06:58:44","Skills Quiz-19 Step-3 Incorrect",folder-title-1
+68609,344,0,"2023-06-19 06:58:45","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+68610,344,0,"2023-06-19 06:58:48","Skills Quiz-19 Step-3 Correct","Add New Note"
+68611,344,0,"2023-06-19 06:58:51","Skills Quiz-19 Step-4 Correct",noteSpecialty
+68612,344,0,"2023-06-19 06:59:21","Skills Quiz 30 second Hint",30time
+68613,344,0,"2023-06-19 06:59:30","Skills Quiz-19 Step-6 Incorrect",Address
+68614,344,0,"2023-06-19 06:59:30","Skills Quiz-19 Step-6 Incorrect",Address
+68615,344,0,"2023-06-19 06:59:45","Skills Quiz-19 Step-6 Incorrect","Close  "
+68616,344,0,"2023-06-19 06:59:46","Skills Quiz-19 Step-6 Incorrect","Close  SAVE"
+68617,344,0,"2023-06-19 07:00:09","Skills Quiz-19 Step-2 Correct","Medical Information"
+68618,344,0,"2023-06-19 07:00:10","Skills Quiz-19 Step-3 Incorrect",TODAYCALENDARHEALTHNOTES
+68619,344,0,"2023-06-19 07:00:19","Skills Quiz-19 Step-3 Incorrect","Doctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+68620,344,0,"2023-06-19 07:00:21","Skills Quiz-19 Step-3 Incorrect","Doctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+68621,344,0,"2023-06-19 07:00:22","Skills Quiz-19 Step-3 Incorrect","Doctors InformationMedical HistoryMedical ConditionsMedication ListAppointment Details"
+68622,344,0,"2023-06-19 07:00:25","Skills Quiz-19 Step-3 Correct","Add New Note"
+68623,344,0,"2023-06-19 07:01:01","Skills Quiz 30 second Hint",30time
+68624,344,500,"2023-06-19 07:01:20",page-load,video
+68625,344,501,"2023-06-19 07:04:36",page-load,"web form: scheduling choices"
+68626,344,501,"2023-06-19 07:04:48",tracked,"improve emotion regulation/mood"
+68627,344,501,"2023-06-19 07:04:50",tracked,"reduce stress"
+68628,344,501,"2023-06-19 07:04:51",tracked,"better relationships"
+68629,344,501,"2023-06-19 07:04:53",tracked,"make me a better friend"
+68630,344,501,"2023-06-19 07:04:54",tracked,"improve memory"
+68631,344,501,"2023-06-19 07:04:56",tracked,"improve memory"
+68632,344,501,"2023-06-19 07:04:57",tracked,"improve memory"
+68633,344,501,"2023-06-19 07:04:58",tracked,"improve memory"
+68634,344,501,"2023-06-19 07:04:59",tracked,"stay mobile and active"
+68635,344,501,"2023-06-19 07:05:25",tracked,"make me a better friend"
+68636,344,501,"2023-06-19 07:05:26",tracked,"improve memory"
+68637,344,501,"2023-06-19 07:05:30",tracked,"make me a better friend"
+68638,344,501,"2023-06-19 07:05:33",tracked,"stay mobile and active"
+68639,344,501,"2023-06-19 07:05:33",tracked,"stay mobile and active"
+68640,344,501,"2023-06-19 07:05:36",tracked,"It has always been important to me to be healthy"
+68641,344,501,"2023-06-19 07:05:54",tracked,"It has always been important to me to be healthy"
+68642,344,501,"2023-06-19 07:05:55",tracked,"It has always been important to me to be healthy"
+68643,344,501,"2023-06-19 07:05:56",tracked,"It has always been important to me to be healthy"
+68644,344,501,"2023-06-19 07:06:00",tracked,"stay mobile and active"
+68645,344,501,"2023-06-19 07:06:00",tracked,"improve my quality of life"
+68646,344,501,"2023-06-19 07:06:01",click,next-page
+68647,344,502,"2023-06-19 07:06:04",page-load,video
+68648,344,503,"2023-06-19 07:15:33",page-load,"web form: scheduling choices"
+68649,344,503,"2023-06-19 07:15:43",tracked,"Engaging in artistic activity (e.g., painting; quilting)"
+68650,344,503,"2023-06-19 07:15:49",tracked,"Reading a book"
+68651,344,503,"2023-06-19 07:15:51",tracked,"Socialize with family and friends"
+68652,344,503,"2023-06-19 07:15:56",tracked,"Going to a museum"
+68653,344,503,"2023-06-19 07:15:59",tracked,"Watching a TED talk"
+68654,344,503,"2023-06-19 07:15:59",tracked,"Watching a TED talk"
+68655,344,503,"2023-06-19 07:16:00",tracked,"Watching a TED talk"
+68656,344,503,"2023-06-19 07:16:01",tracked,"Doing a crossword puzzle"
+68657,344,503,"2023-06-19 07:16:04",click,next-page
+68658,344,504,"2023-06-19 07:16:05",page-load,video
+68659,344,505,"2023-06-19 07:22:16",page-load,"web form: what would you like to do next"
+68660,344,505,"2023-06-19 07:22:19",click,next-page
+68661,344,506,"2023-06-19 07:22:19",page-load,"skills quiz preview"
+68662,344,0,"2023-06-19 07:23:35","Skills Quiz-25 Step-1 Incorrect",GoalsLists
+68663,344,0,"2023-06-19 07:23:36","Skills Quiz-25 Step-1 Incorrect",GoalsLists
+68664,344,0,"2023-06-19 07:23:36","Skills Quiz-25 Step-1 Incorrect",GoalsLists
+68665,344,0,"2023-06-19 07:23:38","Skills Quiz-25 Step-1 Incorrect","Add New FolderGoalsLists"
+68666,344,0,"2023-06-19 07:23:39","Skills Quiz-25 Step-1 Incorrect","Add New FolderGoalsLists"
+68667,344,0,"2023-06-19 07:23:43","Skills Quiz-25 Step-1 Correct",TODAY
+68668,344,0,"2023-06-19 07:24:12","Skills Quiz-25 Step-2 Correct","Walk to Library12:30 PM - 1:15 PM"
+68669,344,0,"2023-06-19 07:24:15","Skills Quiz-25 Step-3 Correct","Tap Here"
+68670,344,0,"2023-06-19 07:24:16","Skills Quiz-25 Step-4 Correct",3
+68671,344,0,"2023-06-19 07:24:17","Skills Quiz-25 Step-5 Correct",0
+68672,344,507,"2023-06-19 07:24:25",click,"skills quiz hint"
+68673,344,0,"2023-06-19 07:24:27","Skills Quiz-25 Step-6 Correct","                              Save            "
+68674,344,0,"2023-06-19 07:24:30","Skills Quiz-25 Step-7 Incorrect","CancelSave and View GraphSave"
+68675,344,0,"2023-06-19 07:24:33","Skills Quiz-25 Step-7 Correct",Save
+68676,344,0,"2023-06-19 07:24:40","Skills Quiz-25 Step-8 Incorrect",undefined
+68677,344,0,"2023-06-19 07:24:46","Skills Quiz-25 Step-9 Correct","Tap Here"
+68678,344,0,"2023-06-19 07:24:46","Skills Quiz-25 Step-8 Incorrect","Tap Here"
+68679,344,0,"2023-06-19 07:24:49","Skills Quiz-25 Step-10 Correct",1
+68680,344,0,"2023-06-19 07:24:49","Skills Quiz-25 Step-8 Incorrect",1
+68681,344,507,"2023-06-19 07:24:54",click,"skills quiz hint"
+68682,344,0,"2023-06-19 07:24:56","Skills Quiz-25 Step-8 Incorrect","                              Save            "
+68683,344,0,"2023-06-19 07:24:56","Skills Quiz-25 Step-11 Correct","                              Save            "
+68684,344,0,"2023-06-19 07:24:59","Skills Quiz-25 Step-8 Incorrect","CancelSave and View GraphSave"
+68685,344,0,"2023-06-19 07:24:59","Skills Quiz-25 Step-12 Incorrect","CancelSave and View GraphSave"
+68686,344,0,"2023-06-19 07:25:01","Skills Quiz-25 Step-8 Incorrect",Save
+0,0,0,"2023-06-19 07:25:01",module_end,none

@@ -1,0 +1,39 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+118878,410,407,"2024-01-29 05:34:42",page-load,"skills quiz preview"
+118879,410,407,"2024-01-29 05:35:10",click,next-page
+118880,410,0,"2024-01-29 05:35:21","Skills Quiz-20 Step-1 Incorrect",HEALTH
+118881,410,0,"2024-01-29 05:35:31","Skills Quiz-20 Step-2 Incorrect",TODAYCALENDARHEALTHNOTES
+118882,410,0,"2024-01-29 05:35:32","Skills Quiz-20 Step-2 Incorrect",TODAYCALENDARHEALTHNOTES
+118883,410,0,"2024-01-29 05:35:36","Skills Quiz-20 Step-2 Correct","Medical Information"
+118884,410,0,"2024-01-29 05:35:44","Skills Quiz-20 Step-3 Incorrect",note-list
+118885,410,0,"2024-01-29 05:35:50","Skills Quiz-20 Step-3 Correct","Add New Note"
+118886,410,0,"2024-01-29 05:35:53","Skills Quiz-20 Step-4 Correct",noteSpecialty
+118887,410,0,"2024-01-29 05:36:23","Skills Quiz 30 second Hint",30time
+118888,410,0,"2024-01-29 05:37:32","Skills Quiz-20 Step-6 Incorrect","Close  SAVE"
+118889,410,0,"2024-01-29 05:37:38","Skills Quiz-20 Step-6 Correct",noteName
+118890,410,408,"2024-01-29 05:37:49",click,"skills quiz hint"
+118891,410,0,"2024-01-29 05:37:55","Skills Quiz-20 Step-8 Incorrect","Close  SAVE"
+118892,410,0,"2024-01-29 05:37:58","Skills Quiz-20 Step-8 Incorrect","Close  SAVE"
+118893,410,0,"2024-01-29 05:37:59","Skills Quiz-20 Step-8 Incorrect","Close  SAVE"
+118894,410,0,"2024-01-29 05:38:03","Skills Quiz-20 Step-8 Incorrect","Close  "
+118895,410,0,"2024-01-29 05:38:09","Skills Quiz-20 Step-8 Incorrect","Close  SAVE"
+118896,410,0,"2024-01-29 05:38:11","Skills Quiz-20 Step-8 Incorrect","Close  "
+118897,410,0,"2024-01-29 05:38:13","Skills Quiz-20 Step-8 Incorrect","Close  "
+118898,410,0,"2024-01-29 05:38:14","Skills Quiz-20 Step-8 Incorrect","Close  SAVE"
+118899,410,0,"2024-01-29 05:38:15","Skills Quiz-20 Step-8 Correct",notePhone
+118900,410,0,"2024-01-29 05:38:24","Skills Quiz-20 Step-10 Incorrect","Close  "
+118901,410,0,"2024-01-29 05:38:24","Skills Quiz-20 Step-10 Incorrect","Close  "
+118902,410,0,"2024-01-29 05:38:30","Skills Quiz-20 Step-10 Incorrect","Close  SAVE"
+118903,410,0,"2024-01-29 05:38:31","Skills Quiz-20 Step-10 Incorrect","Close  "
+118904,410,0,"2024-01-29 05:38:32","Skills Quiz-20 Step-10 Incorrect","Close  "
+118905,410,408,"2024-01-29 05:38:34",click,"skills quiz hint"
+118906,410,0,"2024-01-29 05:38:35","Skills Quiz-20 Step-10 Incorrect","Close  SAVE"
+118907,410,0,"2024-01-29 05:38:36","Skills Quiz-20 Step-10 Incorrect","Close  "
+118908,410,0,"2024-01-29 05:38:41","Skills Quiz-20 Step-10 Correct",noteAddress
+118909,410,0,"2024-01-29 05:38:48","Skills Quiz-20 Step-12 Incorrect",Specialty
+118910,410,0,"2024-01-29 05:38:49","Skills Quiz-20 Step-12 Incorrect",Specialty
+118911,410,0,"2024-01-29 05:38:55","Skills Quiz-20 Step-12 Correct",noteDetails
+118912,410,0,"2024-01-29 05:39:03","Skills Quiz-20 Step-14 Incorrect",Specialty
+118913,410,0,"2024-01-29 05:39:06","Skills Quiz-20 Step-14 Correct",SAVE
+118914,410,0,"2024-01-29 05:39:09","Skills Quiz-20 Step-14 Correct",Close
+0,0,0,"2024-01-29 05:39:09",module_end,none

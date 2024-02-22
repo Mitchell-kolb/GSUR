@@ -1,0 +1,89 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+16957,239,37,"2023-02-11 14:21:27",page-load,video
+16958,239,38,"2023-02-11 14:22:01",page-load,"goal setting: importance"
+16959,239,38,"2023-02-11 14:22:16",click,next-page
+16960,239,39,"2023-02-11 14:22:17",page-load,video
+16961,239,40,"2023-02-11 14:23:00",page-load,"goal setting: pick three strategies"
+16962,239,40,"2023-02-11 14:24:00",click,next-page
+16963,239,41,"2023-02-11 14:24:01",page-load,"goal setting: pick top strategy"
+16964,239,41,"2023-02-11 14:24:38",click,next-page
+16965,239,42,"2023-02-11 14:24:39",page-load,"goal setting: top strategy display"
+16966,239,42,"2023-02-11 14:24:54",click,next-page
+16967,239,43,"2023-02-11 14:24:55",page-load,"goal setting: summary page one"
+16968,239,43,"2023-02-11 14:25:26",click,next-page
+16969,239,44,"2023-02-11 14:25:27",page-load,"goal setting: summary page two"
+16970,239,44,"2023-02-11 14:25:34",click,next-page
+16971,239,45,"2023-02-11 14:25:34",page-load,"goal setting: summary page two"
+16972,239,45,"2023-02-11 14:25:40",click,next-page
+16973,239,46,"2023-02-11 14:25:40",page-load,"goal setting: example plan"
+16974,239,46,"2023-02-11 14:26:52",click,next-page
+16975,239,47,"2023-02-11 14:26:52",page-load,"goal setting: when"
+16976,239,47,"2023-02-11 14:27:47",click,next-page
+16977,239,48,"2023-02-11 14:27:48",page-load,"goal setting: plan"
+16978,239,48,"2023-02-11 14:28:00",click,previous-page
+16979,239,47,"2023-02-11 14:28:01",page-load,"goal setting: when"
+16980,239,47,"2023-02-11 14:28:12",click,next-page
+16981,239,48,"2023-02-11 14:28:13",page-load,"goal setting: plan"
+16982,239,48,"2023-02-11 14:28:17",click,next-page
+16983,239,49,"2023-02-11 14:28:17",page-load,"goal setting: where"
+16984,239,49,"2023-02-11 14:29:07",click,next-page
+16985,239,50,"2023-02-11 14:29:08",page-load,"goal setting: plan"
+16986,239,50,"2023-02-11 14:29:13",click,next-page
+16987,239,51,"2023-02-11 14:29:13",page-load,"goal setting: with whom"
+16988,239,51,"2023-02-11 14:29:51",click,next-page
+16989,239,52,"2023-02-11 14:29:52",page-load,"goal setting: plan"
+16990,239,52,"2023-02-11 14:30:01",click,next-page
+16991,239,53,"2023-02-11 14:30:02",page-load,"goal setting: how"
+16992,239,53,"2023-02-11 14:30:34",click,hint
+16993,239,53,"2023-02-11 14:30:43",click,hint
+16994,239,53,"2023-02-11 14:33:25",click,next-page
+16995,239,54,"2023-02-11 14:33:26",page-load,"goal setting: plan"
+16996,239,54,"2023-02-11 14:33:43",click,next-page
+16997,239,55,"2023-02-11 14:33:44",page-load,"goal setting: barriers and alternatives"
+16998,239,55,"2023-02-11 14:34:29",click,next-page
+16999,239,56,"2023-02-11 14:34:30",page-load,"goal setting: motivation"
+17000,239,56,"2023-02-11 14:34:31",click,next-page
+17001,239,56,"2023-02-11 14:34:52",click,next-page
+17002,239,57,"2023-02-11 14:34:52",page-load,"goal setting: confidence"
+17003,239,57,"2023-02-11 14:35:13",click,next-page
+17004,239,58,"2023-02-11 14:35:13",page-load,"goal setting: plan"
+17005,239,58,"2023-02-11 14:35:31",click,next-page
+17006,239,59,"2023-02-11 14:35:32",page-load,"end of lesson: 2"
+17007,239,104,"2023-02-11 14:37:31",page-load,video
+17008,239,105,"2023-02-11 14:40:12",page-load,"web form: question"
+17009,239,105,"2023-02-11 14:40:32",click,"incorrect-option: Social Gatherings"
+17010,239,105,"2023-02-11 14:40:35",click,"correct-option: Birthdays"
+17011,239,105,"2023-02-11 14:40:37",click,"incorrect-option: Social Gatherings"
+17012,239,105,"2023-02-11 14:40:40",click,next-page
+17013,239,106,"2023-02-11 14:40:41",page-load,video
+17014,239,107,"2023-02-11 14:40:53",page-load,"web form: question"
+17015,239,107,"2023-02-11 14:41:00",click,"incorrect-option: Daily Medication"
+17016,239,107,"2023-02-11 14:41:03",click,next-page
+17017,239,108,"2023-02-11 14:41:04",page-load,"web form: what would you like to do next"
+17018,239,108,"2023-02-11 14:41:10",click,next-page
+17019,239,109,"2023-02-11 14:41:10",page-load,video
+17020,239,110,"2023-02-11 14:44:48",page-load,"web form: question"
+17021,239,110,"2023-02-11 14:45:01",click,next-page
+17022,239,111,"2023-02-11 14:45:02",page-load,"web form: what would you like to do next"
+17023,239,111,"2023-02-11 14:45:07",click,next-page
+17024,239,112,"2023-02-11 14:45:08",page-load,video
+17025,239,113,"2023-02-11 14:45:47",page-load,"web form: question"
+17026,239,113,"2023-02-11 14:45:56",click,"incorrect-option: A. View"
+17027,239,113,"2023-02-11 14:46:01",click,"correct-option: D. Both A and C"
+17028,239,113,"2023-02-11 14:46:08",click,next-page
+17029,239,114,"2023-02-11 14:46:09",page-load,video
+17030,239,115,"2023-02-11 14:47:26",page-load,"web form: question"
+17031,239,115,"2023-02-11 14:47:37",click,"correct-option: 30 minutes before"
+17032,239,115,"2023-02-11 14:47:41",click,next-page
+17033,239,116,"2023-02-11 14:47:42",page-load,"web form: what would you like to do next"
+17034,239,116,"2023-02-11 14:47:48",click,next-page
+17035,239,0,"2023-02-11 14:48:08","Skills Quiz-5 Step-1 Incorrect",TODAY
+17036,239,0,"2023-02-11 14:48:10","Skills Quiz-5 Step-1 Incorrect",TODAY
+17037,239,0,"2023-02-11 14:48:12","Skills Quiz-5 Step-1 Correct",CALENDAR
+17038,239,0,"2023-02-11 14:48:18","Skills Quiz-5 Step-2 Correct",right-arrow
+17039,239,0,"2023-02-11 14:48:20","Skills Quiz-5 Step-3 Correct",3
+17040,239,0,"2023-02-11 14:48:36","Skills Quiz-5 Step-4 Correct",Edit
+17041,239,0,"2023-02-11 14:48:40","Skills Quiz-5 Step-5 Correct",YES
+17042,239,0,"2023-02-11 14:48:43","Skills Quiz-5 Step-6 Correct","60 min"
+17043,239,0,"2023-02-11 14:48:47","Skills Quiz-5 Step-7 Correct",Save
+0,0,0,"2023-02-11 14:48:47",module_end,none

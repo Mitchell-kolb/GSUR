@@ -1,0 +1,43 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+82157,350,225,"2023-08-05 03:24:54",page-load,video
+82158,350,226,"2023-08-05 03:27:53",page-load,"web form: question"
+82159,350,226,"2023-08-05 03:28:00",click,"correct-option: Magnifying Glass"
+82160,350,226,"2023-08-05 03:28:04",click,next-page
+82161,350,227,"2023-08-05 03:28:05",page-load,video
+82162,350,228,"2023-08-05 03:30:27",page-load,"web form: what would you like to do next"
+82163,350,228,"2023-08-05 03:30:31",click,next-page
+82164,350,229,"2023-08-05 03:30:31",page-load,"skills quiz preview"
+82165,350,0,"2023-08-05 03:31:20","Skills Quiz-15 Step-1 Incorrect","Lawn IdeasEdit"
+82166,350,0,"2023-08-05 03:31:28","Skills Quiz-15 Step-1 Correct",Relevant
+82167,350,0,"2023-08-05 03:31:31","Skills Quiz-15 Step-2 Correct","A - Z"
+82168,350,0,"2023-08-05 03:31:40","Skills Quiz-15 Step-3 Incorrect",Edit
+82169,350,0,"2023-08-05 03:32:09","Skills Quiz-15 Step-3 Incorrect",SAVE
+82170,350,0,"2023-08-05 03:32:09","Skills Quiz-15 Step-4 Incorrect",SAVE
+82171,350,0,"2023-08-05 03:32:16","Skills Quiz-15 Step-3 Incorrect","Editing Folder"
+82172,350,0,"2023-08-05 03:32:16","Skills Quiz-15 Step-4 Incorrect","Editing Folder"
+82173,350,0,"2023-08-05 03:32:22","Skills Quiz-15 Step-1 Incorrect",Notes
+82174,350,0,"2023-08-05 03:32:32","Skills Quiz-15 Step-1 Incorrect",note-search
+82175,350,0,"2023-08-05 03:32:43","Skills Quiz-15 Step-1 Incorrect","Lawn IdeasEdit"
+82176,350,0,"2023-08-05 03:32:51","Skills Quiz-15 Step-1 Incorrect",Lists
+82177,350,0,"2023-08-05 03:32:54","Skills Quiz-15 Step-1 Incorrect","GoalsListsLawn IdeasEdit"
+82178,350,0,"2023-08-05 03:32:56","Skills Quiz-15 Step-1 Incorrect","Lawn Ideas"
+82179,350,0,"2023-08-05 03:32:58","Skills Quiz-15 Step-1 Incorrect",Clear
+82180,350,0,"2023-08-05 03:32:59","Skills Quiz-15 Step-1 Incorrect",note-search
+82181,350,0,"2023-08-05 03:33:08","Skills Quiz-15 Step-1 Incorrect",Notes
+82182,350,0,"2023-08-05 03:33:09","Skills Quiz-15 Step-1 Incorrect",Notes
+82183,350,0,"2023-08-05 03:33:15","Skills Quiz-15 Step-1 Incorrect","Add New Note"
+82184,350,0,"2023-08-05 03:33:17","Skills Quiz-15 Step-1 Incorrect",Clear
+82185,350,0,"2023-08-05 03:33:19","Skills Quiz-15 Step-1 Incorrect","Lawn IdeasEdit"
+82186,350,0,"2023-08-05 03:34:59","Skills Quiz-15 Step-1 Incorrect","Lawn Ideas"
+82187,350,0,"2023-08-05 03:35:03","Skills Quiz-15 Step-1 Correct",Relevant
+82188,350,0,"2023-08-05 03:35:05","Skills Quiz-15 Step-2 Correct","A - Z"
+82189,350,0,"2023-08-05 03:35:16","Skills Quiz-15 Step-3 Incorrect",folder-title-2
+82190,350,0,"2023-08-05 03:35:29","Skills Quiz-15 Step-4 Incorrect",Notes
+82191,350,0,"2023-08-05 03:35:29","Skills Quiz-15 Step-3 Incorrect",Notes
+82192,350,0,"2023-08-05 03:35:41","Skills Quiz-15 Step-4 Correct",note-search
+82193,350,0,"2023-08-05 03:35:41","Skills Quiz-15 Step-3 Incorrect",note-search
+82194,350,0,"2023-08-05 03:35:55","Skills Quiz-15 Step-3 Incorrect",Notes
+82195,350,0,"2023-08-05 03:36:04","Skills Quiz-15 Step-3 Incorrect",Clear
+82196,350,0,"2023-08-05 03:36:07","Skills Quiz-15 Step-3 Incorrect",note-search
+82197,350,0,"2023-08-05 03:36:20","Skills Quiz-15 Step-3 Incorrect",Next
+0,0,0,"2023-08-05 03:36:20",module_end,none

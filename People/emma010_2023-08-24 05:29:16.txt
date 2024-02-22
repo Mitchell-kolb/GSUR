@@ -1,0 +1,29 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+91016,352,421,"2023-08-24 05:24:39",page-load,"skills quiz preview"
+91017,352,421,"2023-08-24 05:24:47",click,next-page
+91018,352,0,"2023-08-24 05:24:52","Skills Quiz-22 Step-1 Incorrect","Add Entry/Event"
+91019,352,0,"2023-08-24 05:25:08","Skills Quiz-22 Step-1 Incorrect","Add Entry/Event"
+91020,352,0,"2023-08-24 05:25:29","Skills Quiz-22 Step-1 Correct",HEALTH
+91021,352,0,"2023-08-24 05:25:34","Skills Quiz-22 Step-2 Correct","Tracked Health Activities"
+91022,352,0,"2023-08-24 05:25:42","Skills Quiz-22 Step-3 Correct","Daily Medications"
+91023,352,0,"2023-08-24 05:25:49","Skills Quiz-22 Step-4 Incorrect",titleMorning
+91024,352,0,"2023-08-24 05:26:14","Skills Quiz-22 Step-4 Correct",descriptionMorning
+91025,352,0,"2023-08-24 05:26:42","Skills Quiz-22 Step-6 Incorrect",titleMorning
+91026,352,0,"2023-08-24 05:26:55","Skills Quiz-22 Step-6 Incorrect",titleMorning
+91027,352,0,"2023-08-24 05:27:04","Skills Quiz-22 Step-6 Incorrect",CloseSave
+91028,352,0,"2023-08-24 05:27:30","Skills Quiz-22 Step-6 Correct","8:00 AM"
+91029,352,0,"2023-08-24 05:27:34","Skills Quiz-22 Step-7 Incorrect",123456789101112
+91030,352,0,"2023-08-24 05:27:36","Skills Quiz-22 Step-7 Incorrect",000510152025303540455055
+91031,352,0,"2023-08-24 05:27:38","Skills Quiz-22 Step-7 Incorrect",AM
+91032,352,0,"2023-08-24 05:27:43","Skills Quiz-22 Step-7 Incorrect",Save
+91033,352,0,"2023-08-24 05:27:53","Skills Quiz-22 Step-7 Correct",9
+91034,352,0,"2023-08-24 05:27:58","Skills Quiz-22 Step-8 Incorrect",AM
+91035,352,0,"2023-08-24 05:28:03","Skills Quiz-22 Step-8 Correct",00
+91036,352,0,"2023-08-24 05:28:04","Skills Quiz-22 Step-9 Correct",AM
+91037,352,0,"2023-08-24 05:28:08","Skills Quiz-22 Step-10 Correct",Save
+91038,352,0,"2023-08-24 05:28:38","Skills Quiz 30 second Hint",30time
+91039,352,0,"2023-08-24 05:28:39","Skills Quiz-22 Step-11 Incorrect",titleMorning
+91040,352,0,"2023-08-24 05:28:45","Skills Quiz-22 Step-11 Incorrect",titleMorning
+91041,352,0,"2023-08-24 05:28:46","Skills Quiz-22 Step-11 Incorrect",titleMorning
+91042,352,0,"2023-08-24 05:29:00","Skills Quiz-22 Step-11 Incorrect",undefined
+0,0,0,"2023-08-24 05:29:16",module_end,none

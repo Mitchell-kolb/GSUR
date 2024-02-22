@@ -1,0 +1,61 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+75706,344,215,"2023-07-01 03:15:08",page-load,video
+76216,344,215,"2023-07-11 04:53:02",page-load,video
+76217,344,200,"2023-07-11 04:53:28",page-load,video
+76218,344,201,"2023-07-11 04:56:06",page-load,"web form: question"
+76219,344,201,"2023-07-11 04:56:19",click,"correct-option: D. All of the above"
+76220,344,201,"2023-07-11 04:56:26",click,next-page
+76221,344,202,"2023-07-11 04:56:26",page-load,video
+76222,344,203,"2023-07-11 04:57:05",page-load,"web form: scheduling choices"
+76223,344,203,"2023-07-11 04:57:17",tracked,"Phone messages form"
+76224,344,203,"2023-07-11 04:57:24",tracked,"Photos/pictures of important people"
+76225,344,203,"2023-07-11 04:57:28",tracked,"Project planning form"
+76226,344,203,"2023-07-11 04:57:34",tracked,"Address book"
+76227,344,203,"2023-07-11 04:57:35",tracked,"Travel checklist"
+76228,344,203,"2023-07-11 04:57:36",tracked,"Travel checklist"
+76229,344,203,"2023-07-11 04:57:42",tracked,"List of current books/movie list"
+76230,344,203,"2023-07-11 04:57:43",click,next-page
+76231,344,204,"2023-07-11 04:57:44",page-load,video
+76232,344,205,"2023-07-11 04:59:21",page-load,"web form: question"
+76233,344,205,"2023-07-11 04:59:27",click,"correct-option: Add New Folder"
+76234,344,205,"2023-07-11 04:59:30",click,next-page
+76235,344,206,"2023-07-11 04:59:31",page-load,video
+76236,344,207,"2023-07-11 05:00:15",page-load,"web form: question"
+76237,344,207,"2023-07-11 05:00:21",click,"correct-option: Sorts your folders by putting the most used folders at the top."
+76238,344,207,"2023-07-11 05:00:24",click,next-page
+76239,344,208,"2023-07-11 05:00:26",page-load,"web form: what would you like to do next"
+76240,344,208,"2023-07-11 05:00:29",click,next-page
+76241,344,209,"2023-07-11 05:00:29",page-load,"skills quiz preview"
+76242,344,0,"2023-07-11 05:01:30","Skills Quiz-11 Step-1 Correct","Add New Folder"
+76243,344,0,"2023-07-11 05:01:55","Skills Quiz-11 Step-2 Correct",modal-folder-title
+76244,344,0,"2023-07-11 05:02:12","Skills Quiz-11 Step-3 Incorrect",Next
+76245,344,0,"2023-07-11 05:02:16","Skills Quiz-11 Step-3 Incorrect",CloseSAVE
+76246,344,0,"2023-07-11 05:02:17","Skills Quiz-11 Step-4 Incorrect",CloseSAVE
+76247,344,0,"2023-07-11 05:02:21","Skills Quiz-11 Step-3 Incorrect",SAVE
+76248,344,0,"2023-07-11 05:02:23","Skills Quiz-11 Step-4 Correct",SAVE
+76249,344,0,"2023-07-11 05:02:29","Skills Quiz-11 Step-3 Incorrect",Close
+76250,344,0,"2023-07-11 05:02:29","Skills Quiz-11 Step-5 Correct",Close
+76251,344,0,"2023-07-11 05:02:33","Skills Quiz-11 Step-6 Correct",Edit
+76252,344,0,"2023-07-11 05:02:33","Skills Quiz-11 Step-3 Incorrect",Edit
+76253,344,0,"2023-07-11 05:02:38","Skills Quiz-11 Step-3 Incorrect","Book List"
+76254,344,0,"2023-07-11 05:02:38","Skills Quiz-11 Step-7 Incorrect","Book List"
+76255,344,0,"2023-07-11 05:02:39","Skills Quiz-11 Step-3 Incorrect","Book List"
+76256,344,0,"2023-07-11 05:02:39","Skills Quiz-11 Step-7 Incorrect","Book List"
+76257,344,0,"2023-07-11 05:02:39","Skills Quiz-11 Step-7 Incorrect","Book List"
+76258,344,0,"2023-07-11 05:02:39","Skills Quiz-11 Step-3 Incorrect","Book List"
+76259,344,0,"2023-07-11 05:02:40","Skills Quiz-11 Step-3 Incorrect","Book List"
+76260,344,0,"2023-07-11 05:02:40","Skills Quiz-11 Step-7 Incorrect","Book List"
+76261,344,0,"2023-07-11 05:02:44","Skills Quiz-11 Step-7 Correct",SAVE
+76262,344,0,"2023-07-11 05:02:44","Skills Quiz-11 Step-3 Incorrect",SAVE
+76263,344,0,"2023-07-11 05:02:47","Skills Quiz-11 Step-3 Correct",modal-folder-title
+76264,344,0,"2023-07-11 05:02:47","Skills Quiz-11 Step-8 Correct",modal-folder-title
+76265,344,0,"2023-07-11 05:02:53","Skills Quiz-11 Step-9 Incorrect",Next
+76266,344,0,"2023-07-11 05:03:02","Skills Quiz-11 Step-10 Correct"," SAVE"
+76267,344,0,"2023-07-11 05:03:02","Skills Quiz-11 Step-9 Incorrect"," SAVE"
+76268,344,0,"2023-07-11 05:03:06","Skills Quiz-11 Step-9 Incorrect",CloseEDIT
+76269,344,0,"2023-07-11 05:03:06","Skills Quiz-11 Step-11 Incorrect",CloseEDIT
+76270,344,0,"2023-07-11 05:03:09","Skills Quiz-11 Step-9 Incorrect",CloseEDIT
+76271,344,0,"2023-07-11 05:03:09","Skills Quiz-11 Step-11 Incorrect",CloseEDIT
+76272,344,0,"2023-07-11 05:03:12","Skills Quiz-11 Step-9 Incorrect",Close
+76273,344,0,"2023-07-11 05:03:12","Skills Quiz-11 Step-11 Correct",Close
+0,0,0,"2023-07-11 05:03:12",module_end,none

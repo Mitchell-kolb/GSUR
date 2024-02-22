@@ -1,0 +1,19 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+81242,349,215,"2023-08-01 12:57:55",page-load,video
+81243,349,216,"2023-08-01 13:03:00",page-load,"web form: question"
+81244,349,216,"2023-08-01 13:03:02",click,"correct-option: 1"
+81245,349,216,"2023-08-01 13:03:04",click,next-page
+81246,349,217,"2023-08-01 13:03:05",page-load,video
+81247,349,218,"2023-08-01 13:05:41",page-load,"web form: what would you like to do next"
+81248,349,218,"2023-08-01 13:05:45",click,next-page
+81249,349,219,"2023-08-01 13:05:46",page-load,"skills quiz preview"
+81250,349,0,"2023-08-01 13:06:51","Skills Quiz-13 Step-1 Correct",Lists
+81251,349,0,"2023-08-01 13:06:57","Skills Quiz-13 Step-2 Correct","Add New Note"
+81252,349,0,"2023-08-01 13:07:00","Skills Quiz-13 Step-3 Correct",modal-note-title
+81253,349,0,"2023-08-01 13:07:26","Skills Quiz-13 Step-5 Correct",modal-note-content
+81254,349,0,"2023-08-01 13:07:56","Skills Quiz 30 second Hint",30time
+81255,349,0,"2023-08-01 13:07:58","Skills Quiz-13 Step-7 Correct",SAVE
+81256,349,0,"2023-08-01 13:08:04","Skills Quiz-13 Step-8 Incorrect","Close   EDIT"
+81257,349,0,"2023-08-01 13:08:08","Skills Quiz-13 Step-8 Incorrect","8-1-23 Onion Bread Dozen eggs"
+81258,349,0,"2023-08-01 13:08:14","Skills Quiz-13 Step-8 Correct",Close
+0,0,0,"2023-08-01 13:08:14",module_end,none

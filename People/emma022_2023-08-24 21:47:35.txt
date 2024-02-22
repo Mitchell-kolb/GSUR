@@ -1,0 +1,95 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+91446,350,410,"2023-08-24 21:26:41",page-load,video
+91447,350,411,"2023-08-24 21:26:53",page-load,"web form: scheduling choices"
+91448,350,411,"2023-08-24 21:26:56",tracked,Weight
+91449,350,411,"2023-08-24 21:26:57",tracked,"Blood pressure"
+91450,350,411,"2023-08-24 21:26:58",tracked,"Well-being activities"
+91451,350,411,"2023-08-24 21:26:59",tracked,Fatigue
+91452,350,411,"2023-08-24 21:27:04",tracked,"Physical Exercise"
+91453,350,411,"2023-08-24 21:27:05",tracked,"Physical Exercise"
+91454,350,411,"2023-08-24 21:27:13",tracked,Medications
+91455,350,411,"2023-08-24 21:27:15",click,hint
+91456,350,411,"2023-08-24 21:27:23",tracked,Fatigue
+91457,350,411,"2023-08-24 21:27:24",tracked,"Well-being activities"
+91458,350,411,"2023-08-24 21:27:25",tracked,"Blood pressure"
+91459,350,411,"2023-08-24 21:27:26",tracked,Weight
+91460,350,411,"2023-08-24 21:27:29",tracked,"Blood pressure"
+91461,350,411,"2023-08-24 21:27:34",click,next-page
+91462,350,411,"2023-08-24 21:27:36",click,next-page
+91463,350,412,"2023-08-24 21:27:37",page-load,video
+91464,350,413,"2023-08-24 21:27:57",page-load,"web form: question"
+91465,350,413,"2023-08-24 21:28:06",click,previous-page
+91466,350,412,"2023-08-24 21:28:08",page-load,video
+91467,350,413,"2023-08-24 21:29:54",page-load,"web form: question"
+91468,350,413,"2023-08-24 21:29:57",click,"correct-option: 4"
+91469,350,413,"2023-08-24 21:29:58",click,next-page
+91470,350,414,"2023-08-24 21:29:59",page-load,video
+91471,350,415,"2023-08-24 21:30:32",page-load,"web form: question"
+91472,350,415,"2023-08-24 21:30:40",click,"correct-option: False"
+91473,350,415,"2023-08-24 21:30:44",click,next-page
+91474,350,416,"2023-08-24 21:30:44",page-load,video
+91475,350,417,"2023-08-24 21:34:15",page-load,"web form: what would you like to do next"
+91476,350,417,"2023-08-24 21:34:18",click,previous-page
+91477,350,412,"2023-08-24 21:34:19",page-load,video
+91478,350,413,"2023-08-24 21:35:56",page-load,"web form: question"
+91479,350,413,"2023-08-24 21:36:03",click,"correct-option: 4"
+91480,350,413,"2023-08-24 21:36:05",click,next-page
+91481,350,414,"2023-08-24 21:36:05",page-load,video
+91482,350,415,"2023-08-24 21:36:39",page-load,"web form: question"
+91483,350,415,"2023-08-24 21:36:43",click,"correct-option: False"
+91484,350,415,"2023-08-24 21:36:45",click,next-page
+91485,350,416,"2023-08-24 21:36:47",page-load,video
+91486,350,417,"2023-08-24 21:40:17",page-load,"web form: what would you like to do next"
+91487,350,417,"2023-08-24 21:40:21",click,next-page
+91488,350,418,"2023-08-24 21:40:23",page-load,"skills quiz preview"
+91489,350,418,"2023-08-24 21:40:34",click,next-page
+91490,350,0,"2023-08-24 21:40:38","Skills Quiz-21 Step-1 Incorrect",HEALTH
+91491,350,0,"2023-08-24 21:40:40","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+91492,350,0,"2023-08-24 21:40:42","Skills Quiz-21 Step-3 Correct","Daily Medications"
+91493,350,0,"2023-08-24 21:41:00","Skills Quiz-21 Step-4 Incorrect",CloseSave
+91494,350,419,"2023-08-24 21:41:08",click,"skills quiz hint"
+91495,350,0,"2023-08-24 21:41:10","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+91496,350,0,"2023-08-24 21:41:11","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+91497,350,0,"2023-08-24 21:41:28","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+91498,350,0,"2023-08-24 21:41:30","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+91499,350,0,"2023-08-24 21:41:31","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+91500,350,0,"2023-08-24 21:41:49","Skills Quiz-9 Step-27 Incorrect",Cancel
+91501,350,0,"2023-08-24 21:41:50","Skills Quiz-9 Step-27 Incorrect",Cancel
+91502,350,0,"2023-08-24 21:41:52","Skills Quiz-9 Step-27 Incorrect",Cancel
+91503,350,0,"2023-08-24 21:41:56","Skills Quiz-9 Step-27 Incorrect",Cancel
+91504,350,0,"2023-08-24 21:41:56","Skills Quiz-9 Step-27 Incorrect",Cancel
+91505,350,0,"2023-08-24 21:42:27","Skills Quiz-9 Step-26 Incorrect",HEALTH
+91506,350,0,"2023-08-24 21:42:31","Skills Quiz-9 Step-26 Incorrect",HEALTH
+91507,350,0,"2023-08-24 21:42:40","Skills Quiz-9 Step-26 Incorrect",undefined
+91508,350,0,"2023-08-24 21:42:41","Skills Quiz-9 Step-26 Incorrect","Add Entry/Event"
+91509,350,0,"2023-08-24 21:43:25","Skills Quiz-9 Step-25 Incorrect",CALENDAR
+91510,350,0,"2023-08-24 21:43:33","Skills Quiz-9 Step-25 Correct",10
+91511,350,0,"2023-08-24 21:43:37","Skills Quiz-9 Step-26 Incorrect","Add Entry/Event"
+91512,350,0,"2023-08-24 21:43:44","Skills Quiz-9 Step-26 Incorrect",NOTES
+91513,350,0,"2023-08-24 21:43:54","Skills Quiz-9 Step-26 Incorrect",undefined
+91514,350,0,"2023-08-24 21:43:55","Skills Quiz-9 Step-26 Incorrect",undefined
+91515,350,0,"2023-08-24 21:44:01","Skills Quiz-9 Step-26 Incorrect",NOTES
+91516,350,0,"2023-08-24 21:44:08","Skills Quiz-9 Step-26 Incorrect",undefined
+91517,350,0,"2023-08-24 21:44:21","Skills Quiz-9 Step-26 Incorrect",NOTES
+91518,350,0,"2023-08-24 21:44:22","Skills Quiz-9 Step-26 Incorrect",NOTES
+91519,350,0,"2023-08-24 21:44:26","Skills Quiz-9 Step-26 Incorrect",undefined
+91520,350,0,"2023-08-24 21:44:34","Skills Quiz-9 Step-26 Incorrect","Add Entry/Event"
+91521,350,0,"2023-08-24 21:44:40","Skills Quiz-9 Step-26 Incorrect","Add Entry/Event"
+91522,350,0,"2023-08-24 21:45:26","Skills Quiz-21 Step-1 Incorrect",HEALTH
+91523,350,0,"2023-08-24 21:45:28","Skills Quiz-21 Step-2 Correct","Tracked Health Activities"
+91524,350,0,"2023-08-24 21:45:30","Skills Quiz-21 Step-3 Correct","Daily Medications"
+91525,350,0,"2023-08-24 21:45:43","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+91526,350,0,"2023-08-24 21:45:54","Skills Quiz-21 Step-4 Incorrect","Time8:00 AM12:00 PM5:00 PM8:00 PMTitleDescriptionTurn On (green)Any changes made to the medication schedule will be active from today's date onwardsFor medications that are not daily, set up repeated event"
+91527,350,0,"2023-08-24 21:46:01","Skills Quiz-21 Step-4 Correct",descriptionMorning
+91528,350,0,"2023-08-24 21:46:31","Skills Quiz 30 second Hint",30time
+91529,350,0,"2023-08-24 21:46:33","Skills Quiz-21 Step-6 Incorrect",CloseSave
+91530,350,0,"2023-08-24 21:46:35","Skills Quiz-21 Step-6 Correct","8:00 AM"
+91531,350,0,"2023-08-24 21:46:42","Skills Quiz-21 Step-7 Correct",7
+91532,350,0,"2023-08-24 21:46:43","Skills Quiz-21 Step-8 Correct",00
+91533,350,0,"2023-08-24 21:46:44","Skills Quiz-21 Step-9 Correct",AM
+91534,350,0,"2023-08-24 21:46:47","Skills Quiz-21 Step-10 Correct",Save
+91535,350,419,"2023-08-24 21:46:53",click,"skills quiz hint"
+91536,350,0,"2023-08-24 21:47:17","Skills Quiz 30 second Hint",30time
+91537,350,0,"2023-08-24 21:47:23","Skills Quiz-21 Step-11 Incorrect",CloseSave
+91538,350,0,"2023-08-24 21:47:30","Skills Quiz-21 Step-11 Correct",checkMorning
+0,0,0,"2023-08-24 21:47:35",module_end,none

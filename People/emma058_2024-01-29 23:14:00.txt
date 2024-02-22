@@ -1,0 +1,32 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+119314,413,509,"2024-01-29 23:13:31",click,next-page
+119315,413,0,"2024-01-29 23:13:34","Skills Quiz-26 Step-1 Correct",TODAY
+119316,413,0,"2024-01-29 23:13:38","Skills Quiz-26 Step-2 Incorrect",undefined
+119317,413,0,"2024-01-29 23:13:41","Skills Quiz-26 Step-3 Correct","Tap Here"
+119318,413,0,"2024-01-29 23:13:41","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+119319,413,0,"2024-01-29 23:13:42","Skills Quiz-26 Step-2 Incorrect",1
+119320,413,0,"2024-01-29 23:13:42","Skills Quiz-26 Step-4 Correct",1
+119321,413,0,"2024-01-29 23:13:43","Skills Quiz-26 Step-5 Correct",3
+119322,413,0,"2024-01-29 23:13:43","Skills Quiz-26 Step-2 Incorrect",3
+119323,413,0,"2024-01-29 23:13:44","Skills Quiz-26 Step-2 Incorrect",0
+119324,413,0,"2024-01-29 23:13:44","Skills Quiz-26 Step-6 Correct",0
+119325,413,0,"2024-01-29 23:13:45","Skills Quiz-26 Step-7 Correct","                              Save            "
+119326,413,0,"2024-01-29 23:13:45","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+119327,413,0,"2024-01-29 23:13:46","Skills Quiz-26 Step-8 Correct","Tap Here"
+119328,413,0,"2024-01-29 23:13:46","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+119329,413,0,"2024-01-29 23:13:48","Skills Quiz-26 Step-2 Incorrect",8
+119330,413,0,"2024-01-29 23:13:48","Skills Quiz-26 Step-9 Correct",8
+119331,413,0,"2024-01-29 23:13:48","Skills Quiz-26 Step-10 Correct",0
+119332,413,0,"2024-01-29 23:13:48","Skills Quiz-26 Step-2 Incorrect",0
+119333,413,0,"2024-01-29 23:13:49","Skills Quiz-26 Step-11 Correct","                              Save            "
+119334,413,0,"2024-01-29 23:13:49","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+119335,413,0,"2024-01-29 23:13:51","Skills Quiz-26 Step-2 Incorrect",Save
+119336,413,0,"2024-01-29 23:13:51","Skills Quiz-26 Step-12 Correct",Save
+119337,413,0,"2024-01-29 23:13:58","Skills Quiz-26 Step-2 Incorrect",undefined
+119338,413,0,"2024-01-29 23:13:58","Skills Quiz-26 Step-13 Incorrect",undefined
+119339,413,0,"2024-01-29 23:13:59","Skills Quiz-26 Step-2 Incorrect",Yes
+119340,413,0,"2024-01-29 23:13:59","Skills Quiz-26 Step-13 Incorrect",Yes
+119341,413,0,"2024-01-29 23:13:59","Skills Quiz-26 Step-14 Correct",Yes
+119342,413,0,"2024-01-29 23:14:00","Skills Quiz-26 Step-13 Incorrect",Save
+119343,413,0,"2024-01-29 23:14:00","Skills Quiz-26 Step-2 Incorrect",Save
+0,0,0,"2024-01-29 23:14:00",module_end,none

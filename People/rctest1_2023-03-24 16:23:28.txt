@@ -1,0 +1,102 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+8846,248,215,"2023-01-25 16:48:04",page-load,video
+8847,248,212,"2023-01-25 16:48:09",page-load,"skills quiz preview"
+8848,248,0,"2023-01-25 16:49:36","Skills Quiz 30 second Hint",30time
+8849,248,209,"2023-01-25 16:49:54",page-load,"skills quiz preview"
+8850,248,215,"2023-01-25 16:51:05",page-load,video
+8851,248,208,"2023-01-25 16:51:38",page-load,"web form: what would you like to do next"
+8852,248,208,"2023-01-25 16:51:40",click,previous-page
+8853,248,200,"2023-01-25 16:51:40",page-load,video
+8854,248,201,"2023-01-25 16:51:53",page-load,"web form: question"
+8855,248,201,"2023-01-25 16:51:54",click,next-page
+8856,248,201,"2023-01-25 16:51:56",click,"correct-option: D. All of the above"
+8857,248,201,"2023-01-25 16:51:57",click,next-page
+8858,248,202,"2023-01-25 16:51:58",page-load,video
+8859,248,203,"2023-01-25 16:52:07",page-load,"web form: scheduling choices"
+8860,248,203,"2023-01-25 16:52:09",tracked,"List of current books/movie list"
+8861,248,203,"2023-01-25 16:52:10",click,next-page
+8862,248,204,"2023-01-25 16:52:11",page-load,video
+8863,248,215,"2023-01-25 16:53:40",page-load,video
+8864,248,204,"2023-01-25 16:54:59",page-load,video
+8865,248,215,"2023-01-25 16:55:00",page-load,video
+8866,248,216,"2023-01-25 16:59:06",page-load,"web form: question"
+8867,248,216,"2023-01-25 16:59:10",click,"correct-option: 1"
+8868,248,216,"2023-01-25 16:59:11",click,next-page
+8869,248,217,"2023-01-25 16:59:12",page-load,video
+8870,248,218,"2023-01-25 17:01:38",page-load,"web form: what would you like to do next"
+8871,248,218,"2023-01-25 17:01:45",click,next-page
+8872,248,219,"2023-01-25 17:01:45",page-load,"skills quiz preview"
+29134,248,300,"2023-03-20 11:13:45",page-load,video
+29138,248,301,"2023-03-20 11:14:02",page-load,"web form: question"
+29140,248,301,"2023-03-20 11:14:03",tracked,"Having a harder time with scheduling and keeping appointments"
+29141,248,301,"2023-03-20 11:14:04",click,next-page
+29142,248,302,"2023-03-20 11:14:04",page-load,"web form: question"
+29143,248,302,"2023-03-20 11:14:05",tracked,"Finding it increasingly difficult to participate in group events and community activities"
+29144,248,302,"2023-03-20 11:14:06",click,next-page
+29145,248,303,"2023-03-20 11:14:06",page-load,"web form: question"
+29146,248,304,"2023-03-20 11:14:07",page-load,"web form: question"
+29147,248,304,"2023-03-20 11:14:08",click,next-page
+29148,248,305,"2023-03-20 11:14:08",page-load,"web form: question"
+29149,248,305,"2023-03-20 11:14:09",click,next-page
+29150,248,306,"2023-03-20 11:14:09",page-load,video
+29152,248,307,"2023-03-20 11:14:23",page-load,"tech comfort quiz, part one"
+29153,248,307,"2023-03-20 11:14:25",click,next-page
+29154,248,307,"2023-03-20 11:14:27",tracked,"Comfort with tech 7"
+29155,248,307,"2023-03-20 11:14:28",tracked,"Confidence in tech 7"
+29156,248,307,"2023-03-20 11:14:29",tracked,"Problem-solve tech 7"
+29158,248,307,"2023-03-20 11:14:30",click,next-page
+29159,248,308,"2023-03-20 11:14:30",page-load,"tech comfort quiz, part two"
+29161,248,308,"2023-03-20 11:14:31",tracked,"Operate tech 7"
+29162,248,308,"2023-03-20 11:14:32",tracked,"Use tech 7"
+29163,248,308,"2023-03-20 11:14:33",tracked,"Use touch-screen tablet 7"
+29164,248,308,"2023-03-20 11:14:33",click,next-page
+29165,248,309,"2023-03-20 11:14:35",page-load,video
+29166,248,310,"2023-03-20 11:14:45",page-load,"web form: question"
+29167,248,310,"2023-03-20 11:14:46",click,"correct-option: Landscape"
+29168,248,310,"2023-03-20 11:14:47",click,next-page
+29169,248,311,"2023-03-20 11:14:48",page-load,video
+29170,248,312,"2023-03-20 11:15:22",page-load,"web form: question"
+29171,248,312,"2023-03-20 11:15:23",click,previous-page
+29172,248,311,"2023-03-20 11:15:24",page-load,video
+30313,248,300,"2023-03-21 14:31:06",page-load,video
+30656,248,300,"2023-03-21 18:03:02",page-load,video
+30657,248,321,"2023-03-21 18:03:20",page-load,"goal setting: example plan"
+30658,248,10,"2023-03-21 18:03:35",page-load,video
+30659,248,21,"2023-03-21 18:03:45",page-load,"web form: what would you like to do next"
+30660,248,21,"2023-03-21 18:03:47",click,previous-page
+30661,248,15,"2023-03-21 18:03:48",page-load,video
+30662,248,16,"2023-03-21 18:03:53",page-load,"web form: question"
+30663,248,16,"2023-03-21 18:03:55",click,"incorrect-option: Blue"
+30664,248,16,"2023-03-21 18:03:56",click,next-page
+30665,248,17,"2023-03-21 18:03:57",page-load,video
+30666,248,18,"2023-03-21 18:04:01",page-load,"web form: question"
+30667,248,18,"2023-03-21 18:04:02",click,"incorrect-option: 2:00 PM"
+30668,248,18,"2023-03-21 18:04:03",click,next-page
+30669,248,19,"2023-03-21 18:04:03",page-load,video
+30670,248,20,"2023-03-21 18:04:06",page-load,"web form: question"
+30671,248,20,"2023-03-21 18:04:07",click,"correct-option: Blue"
+30672,248,20,"2023-03-21 18:04:08",click,next-page
+30673,248,21,"2023-03-21 18:04:08",page-load,"web form: what would you like to do next"
+32726,248,21,"2023-03-23 15:41:36",page-load,"web form: what would you like to do next"
+32727,248,21,"2023-03-23 15:41:40",click,previous-page
+32728,248,15,"2023-03-23 15:41:40",page-load,video
+32729,248,16,"2023-03-23 15:41:45",page-load,"web form: question"
+33358,248,16,"2023-03-24 16:20:19",page-load,"web form: question"
+33359,248,16,"2023-03-24 16:20:21",click,"incorrect-option: Blue"
+33360,248,16,"2023-03-24 16:20:22",click,next-page
+33361,248,17,"2023-03-24 16:20:23",page-load,video
+33362,248,18,"2023-03-24 16:20:37",page-load,"web form: question"
+33363,248,18,"2023-03-24 16:20:39",click,"incorrect-option: 2:00 PM"
+33364,248,18,"2023-03-24 16:20:40",click,next-page
+33365,248,19,"2023-03-24 16:20:41",page-load,video
+33366,248,20,"2023-03-24 16:22:13",page-load,"web form: question"
+33367,248,20,"2023-03-24 16:22:14",click,"correct-option: Blue"
+33368,248,20,"2023-03-24 16:22:15",click,next-page
+33369,248,21,"2023-03-24 16:22:15",page-load,"web form: what would you like to do next"
+33370,248,0,"2023-03-24 16:23:01","Skills Quiz-1 Step-1 Correct",TODAY
+33371,248,0,"2023-03-24 16:23:16","Skills Quiz-1 Step-2 Correct","Add Entry/Event"
+33372,248,0,"2023-03-24 16:23:22","Skills Quiz-1 Step-3 Correct","June 10, 2021"
+33373,248,0,"2023-03-24 16:23:25","Skills Quiz-1 Step-4 Correct",right-arrow
+33374,248,0,"2023-03-24 16:23:26","Skills Quiz-1 Step-5 Correct",14
+33375,248,0,"2023-03-24 16:23:27","Skills Quiz-1 Step-6 Correct",OK
+0,0,0,"2023-03-24 16:23:28",module_end,none

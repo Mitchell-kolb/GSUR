@@ -1,0 +1,3 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+114380,406,0,"2024-01-13 01:34:46","Skills Quiz-10 Step-29 Correct","60 min"
+0,0,0,"2024-01-13 01:34:47",module_end,none

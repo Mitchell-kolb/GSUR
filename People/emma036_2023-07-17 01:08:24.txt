@@ -1,0 +1,40 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+77409,343,509,"2023-07-17 01:06:40",page-load,"skills quiz preview"
+77410,343,509,"2023-07-17 01:06:52",click,next-page
+77411,343,0,"2023-07-17 01:07:00","Skills Quiz-26 Step-1 Incorrect",GoalsLists
+77412,343,0,"2023-07-17 01:07:03","Skills Quiz-26 Step-1 Correct",TODAY
+77413,343,0,"2023-07-17 01:07:24","Skills Quiz-26 Step-2 Incorrect"," HEALTH"
+77414,343,0,"2023-07-17 01:07:25","Skills Quiz-26 Step-2 Incorrect"," HEALTH"
+77415,343,0,"2023-07-17 01:07:29","Skills Quiz-26 Step-2 Incorrect",undefined
+77416,343,0,"2023-07-17 01:07:40","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+77417,343,0,"2023-07-17 01:07:40","Skills Quiz-26 Step-3 Correct","Tap Here"
+77418,343,0,"2023-07-17 01:07:41","Skills Quiz-26 Step-4 Correct",1
+77419,343,0,"2023-07-17 01:07:41","Skills Quiz-26 Step-2 Incorrect",1
+77420,343,0,"2023-07-17 01:07:42","Skills Quiz-26 Step-2 Incorrect",3
+77421,343,0,"2023-07-17 01:07:42","Skills Quiz-26 Step-5 Correct",3
+77422,343,0,"2023-07-17 01:07:43","Skills Quiz-26 Step-6 Correct",0
+77423,343,0,"2023-07-17 01:07:43","Skills Quiz-26 Step-2 Incorrect",0
+77424,343,0,"2023-07-17 01:07:49","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+77425,343,0,"2023-07-17 01:07:49","Skills Quiz-26 Step-7 Correct","                              Save            "
+77426,343,0,"2023-07-17 01:07:51","Skills Quiz-26 Step-2 Incorrect","Tap Here"
+77427,343,0,"2023-07-17 01:07:51","Skills Quiz-26 Step-8 Correct","Tap Here"
+77428,343,0,"2023-07-17 01:07:53","Skills Quiz-26 Step-2 Incorrect",8
+77429,343,0,"2023-07-17 01:07:53","Skills Quiz-26 Step-9 Correct",8
+77430,343,0,"2023-07-17 01:07:54","Skills Quiz-26 Step-2 Incorrect",0
+77431,343,0,"2023-07-17 01:07:54","Skills Quiz-26 Step-10 Correct",0
+77432,343,0,"2023-07-17 01:07:55","Skills Quiz-26 Step-2 Incorrect","                              Save            "
+77433,343,0,"2023-07-17 01:07:55","Skills Quiz-26 Step-11 Correct","                              Save            "
+77434,343,0,"2023-07-17 01:08:02","Skills Quiz-26 Step-12 Correct",Save
+77435,343,0,"2023-07-17 01:08:02","Skills Quiz-26 Step-2 Incorrect",Save
+77436,343,0,"2023-07-17 01:08:11","Skills Quiz-26 Step-2 Incorrect","Morning Medications7:00 AM - 7:30 AM"
+77437,343,0,"2023-07-17 01:08:11","Skills Quiz-26 Step-13 Incorrect","Morning Medications7:00 AM - 7:30 AM"
+77438,343,0,"2023-07-17 01:08:14","Skills Quiz-26 Step-2 Incorrect",Yes
+77439,343,0,"2023-07-17 01:08:14","Skills Quiz-26 Step-14 Correct",Yes
+77440,343,0,"2023-07-17 01:08:14","Skills Quiz-26 Step-13 Incorrect",Yes
+77441,343,0,"2023-07-17 01:08:19","Skills Quiz-26 Step-13 Incorrect","CancelSave and View GraphSave"
+77442,343,0,"2023-07-17 01:08:19","Skills Quiz-26 Step-15 Incorrect","CancelSave and View GraphSave"
+77443,343,0,"2023-07-17 01:08:19","Skills Quiz-26 Step-2 Incorrect","CancelSave and View GraphSave"
+77444,343,0,"2023-07-17 01:08:23","Skills Quiz-26 Step-13 Incorrect",Save
+77445,343,0,"2023-07-17 01:08:23","Skills Quiz-26 Step-2 Incorrect",Save
+77446,343,0,"2023-07-17 01:08:23","Skills Quiz-26 Step-15 Correct",Save
+0,0,0,"2023-07-17 01:08:24",module_end,none

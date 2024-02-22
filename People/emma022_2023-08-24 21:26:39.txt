@@ -1,0 +1,63 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+90592,350,143,"2023-08-21 23:45:44",page-load,video
+90593,350,144,"2023-08-21 23:47:21",page-load,"goal setting: pick three strategies"
+90594,350,144,"2023-08-21 23:47:58",click,next-page
+90595,350,145,"2023-08-21 23:48:02",page-load,"goal setting: pick top strategy"
+90596,350,145,"2023-08-21 23:48:21",click,next-page
+90597,350,146,"2023-08-21 23:48:22",page-load,"goal setting: top strategy display"
+90598,350,146,"2023-08-21 23:48:36",click,next-page
+90599,350,147,"2023-08-21 23:48:37",page-load,"goal setting: example plan"
+90601,350,148,"2023-08-21 23:49:33",page-load,"goal setting: when"
+90604,350,148,"2023-08-21 23:50:06",click,next-page
+90607,350,148,"2023-08-21 23:50:49",click,next-page
+90608,350,149,"2023-08-21 23:50:52",page-load,"goal setting: plan"
+90609,350,149,"2023-08-21 23:51:04",click,next-page
+90610,350,150,"2023-08-21 23:51:04",page-load,"goal setting: where"
+90611,350,150,"2023-08-21 23:51:39",click,next-page
+90612,350,151,"2023-08-21 23:51:39",page-load,"goal setting: plan"
+90613,350,151,"2023-08-21 23:51:46",click,next-page
+90614,350,152,"2023-08-21 23:51:46",page-load,"goal setting: with whom"
+90619,350,152,"2023-08-21 23:52:30",click,next-page
+90620,350,153,"2023-08-21 23:52:31",page-load,"goal setting: plan"
+90621,350,153,"2023-08-21 23:52:33",click,next-page
+90622,350,154,"2023-08-21 23:52:34",page-load,"goal setting: how"
+90625,350,154,"2023-08-21 23:56:09",click,next-page
+90626,350,155,"2023-08-21 23:56:10",page-load,"goal setting: plan"
+90627,350,155,"2023-08-21 23:56:14",click,next-page
+90628,350,156,"2023-08-21 23:56:14",page-load,"goal setting: barriers and alternatives"
+90629,350,156,"2023-08-21 23:58:17",click,next-page
+90630,350,157,"2023-08-21 23:58:17",page-load,"goal setting: motivation"
+90631,350,157,"2023-08-21 23:58:24",click,next-page
+90632,350,158,"2023-08-21 23:58:25",page-load,"goal setting: confidence"
+90633,350,158,"2023-08-21 23:58:33",click,next-page
+90634,350,159,"2023-08-21 23:58:34",page-load,"goal setting: plan"
+90635,350,159,"2023-08-21 23:58:37",click,next-page
+90636,350,160,"2023-08-21 23:58:38",page-load,"end of lesson: 3"
+90637,350,400,"2023-08-22 00:00:19",page-load,video
+91420,350,400,"2023-08-24 21:22:07",page-load,video
+91421,350,401,"2023-08-24 21:22:24",page-load,"web form: question"
+91422,350,401,"2023-08-24 21:22:30",click,"correct-option: False"
+91423,350,401,"2023-08-24 21:22:33",click,next-page
+91424,350,402,"2023-08-24 21:22:34",page-load,video
+91425,350,403,"2023-08-24 21:23:04",page-load,"web form: what would you like to do next"
+91426,350,403,"2023-08-24 21:23:09",click,next-page
+91427,350,404,"2023-08-24 21:23:09",page-load,"skills quiz preview"
+91428,350,404,"2023-08-24 21:23:18",click,next-page
+91429,350,0,"2023-08-24 21:23:24","Skills Quiz-19 Step-1 Incorrect",HEALTH
+91430,350,0,"2023-08-24 21:23:29","Skills Quiz-19 Step-2 Correct","Medical Information"
+91431,350,0,"2023-08-24 21:23:40","Skills Quiz-19 Step-3 Incorrect","Doctors Information"
+91432,350,0,"2023-08-24 21:23:46","Skills Quiz-19 Step-3 Correct","Add New Note"
+91433,350,0,"2023-08-24 21:23:48","Skills Quiz-19 Step-4 Correct",noteSpecialty
+91434,350,0,"2023-08-24 21:24:18","Skills Quiz 30 second Hint",30time
+91435,350,0,"2023-08-24 21:24:20","Skills Quiz-19 Step-6 Correct",noteName
+91436,350,0,"2023-08-24 21:24:41","Skills Quiz-19 Step-8 Incorrect","Close  SAVE"
+91437,350,0,"2023-08-24 21:24:43","Skills Quiz-19 Step-8 Correct",notePhone
+91438,350,0,"2023-08-24 21:24:55","Skills Quiz-19 Step-10 Incorrect","Close  SAVE"
+91439,350,0,"2023-08-24 21:24:59","Skills Quiz-19 Step-10 Correct",noteAddress
+91440,350,0,"2023-08-24 21:25:26","Skills Quiz-19 Step-12 Incorrect","Close  SAVE"
+91441,350,0,"2023-08-24 21:25:45","Skills Quiz-19 Step-12 Correct",noteDetails
+91442,350,0,"2023-08-24 21:26:15","Skills Quiz 30 second Hint",30time
+91443,350,0,"2023-08-24 21:26:24","Skills Quiz-19 Step-14 Correct",SAVE
+91444,350,0,"2023-08-24 21:26:35","Skills Quiz-19 Step-14 Incorrect","Close  EDIT"
+91445,350,0,"2023-08-24 21:26:39","Skills Quiz-19 Step-14 Correct",Close
+0,0,0,"2023-08-24 21:26:39",module_end,none

@@ -1,0 +1,25 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+20051,239,121,"2023-02-13 21:33:50",page-load,video
+20052,239,122,"2023-02-13 21:34:44",page-load,"web form: question"
+20053,239,122,"2023-02-13 21:34:47",click,"incorrect-option: In your calendar"
+20054,239,122,"2023-02-13 21:34:48",click,next-page
+20055,239,123,"2023-02-13 21:34:49",page-load,video
+20056,239,124,"2023-02-13 21:34:55",page-load,"web form: what would you like to do next"
+20057,239,124,"2023-02-13 21:35:00",click,next-page
+20058,239,0,"2023-02-13 21:35:03","Skills Quiz-7 Step-1 Incorrect","Blood Donation Volunteer Shift2:00 PM - 4:00 PMView"
+20059,239,0,"2023-02-13 21:35:07","Skills Quiz-7 Step-1 Incorrect",CALENDAR
+20060,239,0,"2023-02-13 21:35:15","Skills Quiz-7 Step-1 Incorrect",Cancel
+20061,239,0,"2023-02-13 21:35:20","Skills Quiz-7 Step-1 Correct",Edit
+20062,239,0,"2023-02-13 21:35:27","Skills Quiz-7 Step-2 Correct",event-description
+20063,239,0,"2023-02-13 21:35:40","Skills Quiz-7 Step-4 Correct",Weekly
+20064,239,0,"2023-02-13 21:35:43","Skills Quiz-7 Step-5 Correct",Tue
+20065,239,0,"2023-02-13 21:35:44","Skills Quiz-7 Step-6 Correct",Thu
+20066,239,0,"2023-02-13 21:35:45","Skills Quiz-7 Step-7 Incorrect",YES
+20067,239,0,"2023-02-13 21:35:46","Skills Quiz-7 Step-7 Correct","Repeat Forever (tap to change)"
+20068,239,0,"2023-02-13 21:35:50","Skills Quiz-7 Step-8 Correct",end-right-arrow
+20069,239,0,"2023-02-13 21:35:52","Skills Quiz-7 Step-9 Correct",31
+20070,239,0,"2023-02-13 21:35:53","Skills Quiz-7 Step-10 Correct",OK
+20071,239,0,"2023-02-13 21:36:02","Skills Quiz-7 Step-11 Correct",YES
+20072,239,0,"2023-02-13 21:36:03","Skills Quiz-7 Step-12 Correct",Save
+20073,239,0,"2023-02-13 21:36:07","Skills Quiz-7 Step-13 Correct",Save
+0,0,0,"2023-02-13 21:36:08",module_end,none

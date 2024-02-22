@@ -1,0 +1,39 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+20981,245,0,"2023-02-14 13:55:13","Skills Quiz-8 Step-1 Correct",Edit
+20982,245,0,"2023-02-14 13:55:16","Skills Quiz-8 Step-2 Correct",event-description
+20985,245,0,"2023-02-14 13:55:43","Skills Quiz-8 Step-4 Incorrect",YES
+20986,245,0,"2023-02-14 13:55:44","Skills Quiz-8 Step-4 Incorrect",YES
+20987,245,0,"2023-02-14 13:55:45","Skills Quiz-8 Step-4 Incorrect",Wed
+20988,245,0,"2023-02-14 13:55:45","Skills Quiz-8 Step-4 Incorrect",Weekly
+20989,245,0,"2023-02-14 13:55:46","Skills Quiz-8 Step-4 Incorrect",Save
+20990,245,0,"2023-02-14 13:55:47","Skills Quiz-8 Step-4 Correct",Weekly
+20992,245,0,"2023-02-14 13:55:49","Skills Quiz-8 Step-5 Incorrect","Repeat Event OptionsRepeatDailyWeeklyMonthlyYearlyWeekdaysSunMonTueWedThuFriSatStop RepeatAugust 31, 2021Hide Repeated Event from Calendar?NOYES CancelSave"
+20993,245,0,"2023-02-14 13:55:50","Skills Quiz-8 Step-5 Correct",Mon
+20994,245,0,"2023-02-14 13:55:51","Skills Quiz-8 Step-6 Correct",Wed
+20995,245,0,"2023-02-14 13:55:51","Skills Quiz-8 Step-7 Correct","August 31, 2021"
+20996,245,0,"2023-02-14 13:55:52","Skills Quiz-8 Step-8 Incorrect",31
+20997,245,0,"2023-02-14 13:55:53","Skills Quiz-8 Step-8 Incorrect","Please choose a Date to Stop RepeatingAUGUST 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+20998,245,0,"2023-02-14 13:55:54","Skills Quiz-8 Step-8 Incorrect","AUGUST 2021"
+20999,245,0,"2023-02-14 13:55:55","Skills Quiz-8 Step-8 Correct",end-right-arrow
+21000,245,0,"2023-02-14 13:55:56","Skills Quiz-8 Step-0 Incorrect","SEPTEMBER 2021"
+21001,245,0,"2023-02-14 13:55:57","Skills Quiz-8 Step-0 Correct",end-right-arrow
+21002,245,0,"2023-02-14 13:55:58","Skills Quiz-8 Step-9 Incorrect",31
+21003,245,0,"2023-02-14 13:55:58","Skills Quiz-8 Step-9 Incorrect","Please choose a Date to Stop RepeatingOCTOBER 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+21004,245,0,"2023-02-14 13:55:59","Skills Quiz-8 Step-9 Incorrect","Please choose a Date to Stop RepeatingOCTOBER 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+21005,245,0,"2023-02-14 13:55:59","Skills Quiz-8 Step-9 Incorrect","Please choose a Date to Stop RepeatingOCTOBER 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+21006,245,0,"2023-02-14 13:56:00","Skills Quiz-8 Step-9 Incorrect","Please choose a Date to Stop RepeatingOCTOBER 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+21007,245,0,"2023-02-14 13:56:01","Skills Quiz-8 Step-9 Incorrect","Please choose a Date to Stop RepeatingOCTOBER 2021SUNMONTUEWEDTHUFRISAT12345678910111213141516171819202122232425262728293031CancelOK"
+21028,245,0,"2023-02-14 13:56:38","Skills Quiz-8 Step-1 Correct",Edit
+21030,245,0,"2023-02-14 13:56:42","Skills Quiz-8 Step-2 Correct",event-description
+21038,245,0,"2023-02-14 13:56:53","Skills Quiz-8 Step-4 Correct",Weekly
+21040,245,0,"2023-02-14 13:56:55","Skills Quiz-8 Step-5 Correct",Mon
+21044,245,0,"2023-02-14 13:56:58","Skills Quiz-8 Step-6 Correct",Wed
+21045,245,0,"2023-02-14 13:56:58","Skills Quiz-8 Step-7 Correct","Repeat Forever (tap to change)"
+21046,245,0,"2023-02-14 13:56:59","Skills Quiz-8 Step-8 Correct",end-right-arrow
+21047,245,0,"2023-02-14 13:57:00","Skills Quiz-8 Step-0 Correct",end-right-arrow
+21048,245,0,"2023-02-14 13:57:01","Skills Quiz-8 Step-9 Correct",31
+21049,245,0,"2023-02-14 13:57:01","Skills Quiz-8 Step-10 Correct",OK
+21050,245,0,"2023-02-14 13:57:02","Skills Quiz-8 Step-11 Correct",YES
+21051,245,0,"2023-02-14 13:57:03","Skills Quiz-8 Step-12 Correct",Save
+21052,245,0,"2023-02-14 13:57:04","Skills Quiz-8 Step-13 Correct",Save
+0,0,0,"2023-02-14 13:57:04",module_end,none

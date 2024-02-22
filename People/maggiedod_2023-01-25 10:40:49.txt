@@ -1,0 +1,14 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+8453,221,421,"2023-01-25 10:40:18",click,next-page
+8454,221,0,"2023-01-25 10:40:29","Skills Quiz-22 Step-1 Incorrect",HEALTH
+8455,221,0,"2023-01-25 10:40:30","Skills Quiz-22 Step-2 Correct","Tracked Health Activities"
+8456,221,0,"2023-01-25 10:40:31","Skills Quiz-22 Step-3 Correct","Daily Medications"
+8457,221,0,"2023-01-25 10:40:33","Skills Quiz-22 Step-4 Correct",descriptionMorning
+8458,221,0,"2023-01-25 10:40:44","Skills Quiz-22 Step-6 Correct","8:00 AM"
+8459,221,0,"2023-01-25 10:40:45","Skills Quiz-22 Step-7 Correct",9
+8460,221,0,"2023-01-25 10:40:46","Skills Quiz-22 Step-8 Correct",00
+8461,221,0,"2023-01-25 10:40:46","Skills Quiz-22 Step-9 Correct",AM
+8462,221,0,"2023-01-25 10:40:47","Skills Quiz-22 Step-10 Correct",Save
+8463,221,0,"2023-01-25 10:40:48","Skills Quiz-22 Step-11 Correct",checkMorning
+8464,221,0,"2023-01-25 10:40:49","Skills Quiz-22 Step-12 Correct"," Save"
+0,0,0,"2023-01-25 10:40:49",module_end,none

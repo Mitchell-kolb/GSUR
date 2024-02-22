@@ -1,0 +1,6 @@
+id,user_id,page_id,time_stamp,action,object_clicked
+17617,223,204,"2023-02-13 10:37:30",page-load,video
+17618,223,204,"2023-02-13 10:37:37",page-load,video
+17619,223,212,"2023-02-13 10:37:39",page-load,"skills quiz preview"
+17620,223,21,"2023-02-13 10:37:44",page-load,"web form: what would you like to do next"
+0,0,0,"2023-02-13 10:37:45",module_end,none

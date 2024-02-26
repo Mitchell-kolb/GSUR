@@ -45,6 +45,7 @@ def do_calc(path, output_name):
     
     color_regions = []
 
+
     try:
         #Begins with the analysis of the data file
         with open(path, 'r') as read_obj:
@@ -174,11 +175,15 @@ def do_calc(path, output_name):
         # Ensure the DataFrame is not empty and has the necessary column
         if not df.empty and 'action' in df.columns:
             # Get the 'action' value from the second-to-last row
+            #TRY OUT LAST 14 CHARACTERS or just replace any Skills Quiz with Skills Quiz-30
             action_value = df.iloc[-2]['action']
             # Split the 'action' string and take the first two words
             action_words = action_value.split()[:2]
             # Join the first two words to form the quiz name
             quiz_name = ' '.join(action_words)
+            #This is a hardcoded solution to the weird label that skills quiz 30 is. Every other quiz has the number with the hyphen but quiz 30 doesn't
+            if quiz_name == "Skills Quiz":
+                quiz_name = "Skills Quiz-30"
         else:
             quiz_name = "Quiz_name_NA"  # Default value if the conditions are not met
 
@@ -270,8 +275,17 @@ def setup():
 
 
     #update totals numbers to do stats at the end of execution
-    global full_number 
-    
+    #This resets the UI total numbers so if you run the downloader multiple times the number stays consistent
+    global actual_number, full_number
+    actual_number = 0
+    full_number = 0
+
+    # countENDER = 0
+    # for dataFilePath in txt_files:
+    #     if countENDER != 16:
+    #         do_calc(dataFilePath, outputFilePath)
+    #         full_number = (1 + full_number)
+    #         countENDER += 1
     for dataFilePath in txt_files:
         do_calc(dataFilePath, outputFilePath)
         full_number = (1 + full_number)

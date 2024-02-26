@@ -2,3 +2,6 @@
 .env
 myenv
 creds.py
+Results/FinalResults.csv
+People/*
+out.txt

@@ -25,6 +25,27 @@ The GSUR Data Automation Tool has two features. An automated downloader tool tha
 > Only Google Chrome is supported at the moment
 
 ## Installation & Setup
+
+#### Method 1
+<u>Using the GUI (Graphical User Interface) and Requests Library</u>
+1. Ensure you have Python3 installed and download the codebase to your local machine.
+
+2. Download External Python Libraries
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the GUI (Graphical User Interface)
+    ```bash
+    python3 gui_menu.py    
+    ```
+4. The GUI should appear and look like this
+![GSUR GUI](images/gui_base.png "GSUR GUI")
+
+5. If you need to download files begin with setting up your credentials with the edit login tab, it will not work otherwise.
+
+#### Method 2
+<u>Using the CLI (Command Line Interface) with Selenium</u>
 1. Ensure you have Python3 installed and download the codebase to your local machine.
 
 2. Download External Python Libraries

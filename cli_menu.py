@@ -4,7 +4,6 @@ from djc_barmaker import setup as djc_setup
 
 import os
 import platform
-#Verifying Integrity
 
 def clear_screen():
     # Clear the command line screen.

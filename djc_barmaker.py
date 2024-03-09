@@ -55,7 +55,14 @@ def do_calc(path, output_name):
             # Iterate over each row in the csv using reader object
             i = 0
             
+            amountOfTimesLooped = 0
+
             for row in csv_reader:
+
+                #debugging purposes
+                amountOfTimesLooped += 1
+
+
                 if len(row) == 0:
                     continue
                 if(i == 1):
@@ -156,6 +163,16 @@ def do_calc(path, output_name):
         # Split the file name by underscore and period to isolate the components
         name_parts = filename.split('_')
         if len(name_parts) > 1:
+            if not name_parts[1].endswith(".txt"):
+                #Sometimes the name of the file has an addition underscore which this adjusts the name and date variables accordingly
+
+                # Concatenate the first two elements and shift the third element
+                name_parts[0] = name_parts[0] + name_parts[1]
+                name_parts[1] = name_parts[2]
+
+                # Remove the now redundant last element
+                name_parts.pop()
+
             patient_name = name_parts[0]  # The first part is the name of the file
             # Further split the second part by the period to separate the date and time from the extension
             date_time_part = name_parts[1].split('.')
@@ -232,7 +249,7 @@ def do_calc(path, output_name):
         # Saves dataframe to .csv file
         df_data.to_csv(str(output_name)+'FinalResults.csv', mode=mode, index=False, header=header)
 
-        #update totals numbers to do stats at the end of execution
+        #update total numbers to do stats at the end of execution
         global actual_number 
         actual_number = (1 + actual_number)
             
@@ -274,18 +291,13 @@ def setup():
     outputFilePath= os.path.join(current_directory, "Results/")
 
 
-    #update totals numbers to do stats at the end of execution
+    #update total numbers to do stats at the end of execution
     #This resets the UI total numbers so if you run the downloader multiple times the number stays consistent
     global actual_number, full_number
     actual_number = 0
     full_number = 0
 
-    # countENDER = 0
-    # for dataFilePath in txt_files:
-    #     if countENDER != 16:
-    #         do_calc(dataFilePath, outputFilePath)
-    #         full_number = (1 + full_number)
-    #         countENDER += 1
+
     for dataFilePath in txt_files:
         do_calc(dataFilePath, outputFilePath)
         full_number = (1 + full_number)

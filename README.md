@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">GSUR Data Automation Tool</h1>
 Automate the Process of Downloading and Analyzing Patient Data 
-<img align="center" width="60%" src="images/wsu_logo.jpg">
+<img align="center" width="30%" src="images/wsu_logo.jpg">
 </div>
 
 ---
@@ -13,16 +13,17 @@ Automate the Process of Downloading and Analyzing Patient Data
 
 ---
 ## About
-The GSUR Data Automation Tool has two features. An automated downloader tool that runs off of selenium to open your browser and login into the patient portal website and downloads all necessary files, and the analysis tool that reads through all the data files and outputs the result into a single .csv file.
+The GSUR Data Automation Tool has two features. An automated downloader tool that runs off of the requests python library or selenium to open your browser and login into the EMMA patient portal website and downloads all necessary files, and the analysis tool that reads through all the data files and outputs the result into a single .csv file.
 
 
 ## Features
 - Python 3
 - Browser Automation to Download Data 
-- Automation to Analyze Data and Output Results to Singular CSV file. 
+- Automation to Analyze Data and Output Results to singular CSV file. 
 > [!NOTE]
 > Webdrivers are required to run automated browser software. 
 > Only Google Chrome is supported at the moment
+> * Please use the defualt Requests library implementation
 
 ## Installation & Setup
 
@@ -114,9 +115,8 @@ Webdrivers for Google Chrome
 
 ## To Run the GSUR Web Automation
 - In terminal or code editor navigate to the /GSUR folder. Ensure you have the webdrivers installed, requirements.txt downloaded, and credentials .env created.
-    - Use `python3 chrome-automation.py` to run the downloader code
-    - Use `python3 djcbarmaker.py` to run the analysis code
-
+    - Use `python3 gui_menu.py` or `python3 chrome-automation.py` to run the downloader code with whatever GUI you desire.
+    - Use `python3 djcbarmaker.py` to run the analysis code if you are using the chrome-automation method
 
 ## Learn More
 This software was built by Mitchell Kolb for use in the Psychology Department at WSU GSUR Program.

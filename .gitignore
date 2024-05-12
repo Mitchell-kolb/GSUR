@@ -3,5 +3,8 @@
 myenv
 creds.py
 Results/FinalResults.csv
+Results/FinalResults-copy.csv
 People/*
 out.txt
+People\ copy/*
+OtherFiles
